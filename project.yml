@@ -1,0 +1,19 @@
+name: VocabTok
+options:
+  bundleIdPrefix: com.vocabtok
+  deploymentTarget:
+    iOS: "16.0"
+targets:
+  VocabTok:
+    type: application
+    platform: iOS
+    sources:
+      - path: VocabTok
+    settings:
+      PRODUCT_BUNDLE_IDENTIFIER: com.vocabtok.app
+      INFOPLIST_GENERATION_MODE: Automatic
+      CURRENT_PROJECT_VERSION: 1
+      MARKETING_VERSION: "1.0.0"
+      GENERATE_INFOPLIST_FILE: YES
+      PRODUCT_NAME: VocabTok
+      ENABLE_BITCODE: NO
