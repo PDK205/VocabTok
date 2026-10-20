@@ -1,0 +1,5 @@
+VocabTok.xcodeproj/
+build/
+*.ipa
+DerivedData/
+.DS_Store
