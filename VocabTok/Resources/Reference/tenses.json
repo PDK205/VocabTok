@@ -1,0 +1,197 @@
+[
+  {
+    "id": "present-simple",
+    "group": "Hiện tại",
+    "name": "Present Simple",
+    "nameVi": "Hiện tại đơn",
+    "affirmative": "S + V(s/es)",
+    "negative": "S + do/does + not + V",
+    "question": "Do/Does + S + V?",
+    "usage": ["Thói quen, hành động lặp lại", "Sự thật hiển nhiên, chân lý", "Lịch trình, thời gian biểu cố định (tàu, xe, phim)"],
+    "signals": ["always", "usually", "often", "sometimes", "never", "every day", "on Mondays", "once a week"],
+    "examples": [
+      {"en": "She drinks coffee every morning.", "vi": "Cô ấy uống cà phê mỗi sáng."},
+      {"en": "The sun rises in the east.", "vi": "Mặt trời mọc ở hướng đông."},
+      {"en": "The train leaves at 7 p.m.", "vi": "Tàu khởi hành lúc 7 giờ tối."}
+    ],
+    "note": "He/She/It: động từ thêm -s/-es. Có does thì động từ về nguyên mẫu."
+  },
+  {
+    "id": "present-continuous",
+    "group": "Hiện tại",
+    "name": "Present Continuous",
+    "nameVi": "Hiện tại tiếp diễn",
+    "affirmative": "S + am/is/are + V-ing",
+    "negative": "S + am/is/are + not + V-ing",
+    "question": "Am/Is/Are + S + V-ing?",
+    "usage": ["Hành động đang xảy ra lúc nói", "Hành động tạm thời quanh thời điểm hiện tại", "Kế hoạch đã sắp xếp trong tương lai gần"],
+    "signals": ["now", "right now", "at the moment", "Look!", "Listen!", "these days", "this week"],
+    "examples": [
+      {"en": "I am studying English now.", "vi": "Bây giờ tôi đang học tiếng Anh."},
+      {"en": "She is staying with her aunt this week.", "vi": "Tuần này cô ấy đang ở nhà dì."},
+      {"en": "We are meeting the client tomorrow.", "vi": "Ngày mai chúng tôi sẽ gặp khách hàng."}
+    ],
+    "note": "Không dùng với động từ trạng thái: know, like, want, need, believe, understand."
+  },
+  {
+    "id": "present-perfect",
+    "group": "Hiện tại",
+    "name": "Present Perfect",
+    "nameVi": "Hiện tại hoàn thành",
+    "affirmative": "S + have/has + V3",
+    "negative": "S + have/has + not + V3",
+    "question": "Have/Has + S + V3?",
+    "usage": ["Trải nghiệm (đã từng / chưa từng), không nói thời điểm", "Hành động vừa mới xảy ra", "Hành động bắt đầu trong quá khứ kéo dài đến hiện tại", "Kết quả còn ảnh hưởng đến hiện tại"],
+    "signals": ["ever", "never", "just", "already", "yet", "so far", "recently", "for", "since", "how long"],
+    "examples": [
+      {"en": "I have been to Japan twice.", "vi": "Tôi đã đến Nhật hai lần."},
+      {"en": "She has just finished her homework.", "vi": "Cô ấy vừa làm xong bài tập."},
+      {"en": "We have lived here since 2018.", "vi": "Chúng tôi đã sống ở đây từ năm 2018."}
+    ],
+    "note": "Có thời điểm cụ thể trong quá khứ (yesterday, in 2020) thì dùng quá khứ đơn."
+  },
+  {
+    "id": "present-perfect-continuous",
+    "group": "Hiện tại",
+    "name": "Present Perfect Continuous",
+    "nameVi": "Hiện tại hoàn thành tiếp diễn",
+    "affirmative": "S + have/has + been + V-ing",
+    "negative": "S + have/has + not + been + V-ing",
+    "question": "Have/Has + S + been + V-ing?",
+    "usage": ["Nhấn mạnh quá trình kéo dài liên tục từ quá khứ đến hiện tại", "Giải thích dấu hiệu nhìn thấy ở hiện tại"],
+    "signals": ["for", "since", "all day", "all morning", "how long", "lately"],
+    "examples": [
+      {"en": "I have been waiting for two hours.", "vi": "Tôi đã chờ suốt hai tiếng."},
+      {"en": "You look tired. Have you been working late?", "vi": "Trông bạn mệt thế. Bạn làm việc muộn à?"}
+    ],
+    "note": "Nhấn mạnh QUÁ TRÌNH; hiện tại hoàn thành thường nhấn mạnh KẾT QUẢ."
+  },
+  {
+    "id": "past-simple",
+    "group": "Quá khứ",
+    "name": "Past Simple",
+    "nameVi": "Quá khứ đơn",
+    "affirmative": "S + V2/V-ed",
+    "negative": "S + did + not + V",
+    "question": "Did + S + V?",
+    "usage": ["Hành động đã xảy ra và kết thúc tại thời điểm xác định trong quá khứ", "Chuỗi hành động liên tiếp trong quá khứ (kể chuyện)", "Thói quen trong quá khứ"],
+    "signals": ["yesterday", "last night/week/year", "ago", "in 2010", "when I was young"],
+    "examples": [
+      {"en": "I visited Hue last summer.", "vi": "Tôi đã đến Huế mùa hè năm ngoái."},
+      {"en": "She woke up, had breakfast and left.", "vi": "Cô ấy thức dậy, ăn sáng rồi đi."},
+      {"en": "Did you call him yesterday?", "vi": "Hôm qua bạn có gọi cho anh ấy không?"}
+    ],
+    "note": "Động từ bất quy tắc: xem bảng Động từ bất quy tắc trong Tài liệu."
+  },
+  {
+    "id": "past-continuous",
+    "group": "Quá khứ",
+    "name": "Past Continuous",
+    "nameVi": "Quá khứ tiếp diễn",
+    "affirmative": "S + was/were + V-ing",
+    "negative": "S + was/were + not + V-ing",
+    "question": "Was/Were + S + V-ing?",
+    "usage": ["Hành động đang xảy ra tại một thời điểm trong quá khứ", "Hành động đang diễn ra thì bị hành động khác xen vào", "Hai hành động song song trong quá khứ"],
+    "signals": ["at 8 p.m. yesterday", "at this time last week", "when", "while"],
+    "examples": [
+      {"en": "At 9 p.m. yesterday, I was watching TV.", "vi": "Lúc 9 giờ tối qua, tôi đang xem TV."},
+      {"en": "I was cooking when the phone rang.", "vi": "Tôi đang nấu ăn thì điện thoại reo."},
+      {"en": "While he was reading, she was sleeping.", "vi": "Trong khi anh ấy đọc sách, cô ấy đang ngủ."}
+    ],
+    "note": "Hành động dài dùng quá khứ tiếp diễn, hành động ngắn xen vào dùng quá khứ đơn."
+  },
+  {
+    "id": "past-perfect",
+    "group": "Quá khứ",
+    "name": "Past Perfect",
+    "nameVi": "Quá khứ hoàn thành",
+    "affirmative": "S + had + V3",
+    "negative": "S + had + not + V3",
+    "question": "Had + S + V3?",
+    "usage": ["Hành động xảy ra TRƯỚC một hành động / thời điểm khác trong quá khứ", "Dùng trong câu điều kiện loại 3 và câu tường thuật"],
+    "signals": ["before", "after", "by the time", "already", "when", "until then"],
+    "examples": [
+      {"en": "When I arrived, the train had left.", "vi": "Khi tôi đến, tàu đã rời đi rồi."},
+      {"en": "She had finished the report before the meeting.", "vi": "Cô ấy đã hoàn thành báo cáo trước cuộc họp."}
+    ],
+    "note": "Hành động xảy ra trước dùng quá khứ hoàn thành, hành động sau dùng quá khứ đơn."
+  },
+  {
+    "id": "past-perfect-continuous",
+    "group": "Quá khứ",
+    "name": "Past Perfect Continuous",
+    "nameVi": "Quá khứ hoàn thành tiếp diễn",
+    "affirmative": "S + had + been + V-ing",
+    "negative": "S + had + not + been + V-ing",
+    "question": "Had + S + been + V-ing?",
+    "usage": ["Nhấn mạnh quá trình kéo dài trước một thời điểm trong quá khứ", "Giải thích nguyên nhân của một tình trạng trong quá khứ"],
+    "signals": ["for", "since", "before", "by the time", "how long"],
+    "examples": [
+      {"en": "He had been working for ten hours when he finally took a break.", "vi": "Anh ấy đã làm việc mười tiếng liền trước khi nghỉ."},
+      {"en": "The ground was wet because it had been raining.", "vi": "Mặt đất ướt vì trời đã mưa suốt."}
+    ]
+  },
+  {
+    "id": "future-simple",
+    "group": "Tương lai",
+    "name": "Future Simple",
+    "nameVi": "Tương lai đơn",
+    "affirmative": "S + will + V",
+    "negative": "S + will not (won't) + V",
+    "question": "Will + S + V?",
+    "usage": ["Quyết định ngay lúc nói", "Lời hứa, lời đề nghị, lời yêu cầu", "Dự đoán (thường với I think, probably)"],
+    "signals": ["tomorrow", "next week", "in the future", "I think", "probably", "perhaps"],
+    "examples": [
+      {"en": "I'll help you carry the bags.", "vi": "Tôi sẽ giúp bạn mang túi."},
+      {"en": "I promise I won't be late.", "vi": "Tôi hứa sẽ không đến muộn."},
+      {"en": "I think it will rain tomorrow.", "vi": "Tôi nghĩ ngày mai trời sẽ mưa."}
+    ],
+    "note": "Kế hoạch đã quyết định từ trước hoặc dự đoán có căn cứ: dùng be going to + V."
+  },
+  {
+    "id": "future-continuous",
+    "group": "Tương lai",
+    "name": "Future Continuous",
+    "nameVi": "Tương lai tiếp diễn",
+    "affirmative": "S + will be + V-ing",
+    "negative": "S + will not be + V-ing",
+    "question": "Will + S + be + V-ing?",
+    "usage": ["Hành động sẽ đang diễn ra tại một thời điểm trong tương lai", "Hỏi lịch sự về kế hoạch của người khác"],
+    "signals": ["at this time tomorrow", "at 8 p.m. next Monday", "this time next year"],
+    "examples": [
+      {"en": "This time tomorrow, I'll be flying to Paris.", "vi": "Giờ này ngày mai, tôi sẽ đang bay tới Paris."},
+      {"en": "Will you be using the car tonight?", "vi": "Tối nay bạn có dùng xe không?"}
+    ]
+  },
+  {
+    "id": "future-perfect",
+    "group": "Tương lai",
+    "name": "Future Perfect",
+    "nameVi": "Tương lai hoàn thành",
+    "affirmative": "S + will have + V3",
+    "negative": "S + will not have + V3",
+    "question": "Will + S + have + V3?",
+    "usage": ["Hành động sẽ hoàn tất trước một thời điểm trong tương lai"],
+    "signals": ["by + thời gian", "by the time", "by the end of", "before"],
+    "examples": [
+      {"en": "By 2030, I will have graduated.", "vi": "Đến năm 2030, tôi sẽ tốt nghiệp xong."},
+      {"en": "By the time you arrive, we will have finished dinner.", "vi": "Khi bạn đến, chúng tôi sẽ ăn tối xong rồi."}
+    ],
+    "note": "Sau by the time dùng hiện tại đơn, không dùng will."
+  },
+  {
+    "id": "future-perfect-continuous",
+    "group": "Tương lai",
+    "name": "Future Perfect Continuous",
+    "nameVi": "Tương lai hoàn thành tiếp diễn",
+    "affirmative": "S + will have been + V-ing",
+    "negative": "S + will not have been + V-ing",
+    "question": "Will + S + have been + V-ing?",
+    "usage": ["Nhấn mạnh khoảng thời gian một hành động kéo dài tính đến một thời điểm trong tương lai"],
+    "signals": ["for + khoảng thời gian + by + mốc", "by the end of"],
+    "examples": [
+      {"en": "By next June, I will have been working here for ten years.", "vi": "Đến tháng Sáu tới, tôi sẽ làm việc ở đây được mười năm."}
+    ],
+    "note": "Thì này ít dùng trong giao tiếp hằng ngày, chủ yếu xuất hiện trong văn viết."
+  }
+]

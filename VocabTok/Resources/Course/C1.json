@@ -1,0 +1,2874 @@
+{
+ "units": [
+  {
+   "id": "c1-u1",
+   "words": [
+    {
+     "word": "ambiguous",
+     "ipa": "/æmˈbɪɡ.ju.əs/",
+     "pos": "adj",
+     "vi": "mơ hồ, nước đôi",
+     "ex": "The instructions were ambiguous.",
+     "exVi": "Hướng dẫn rất mơ hồ.",
+     "tip": "ambi = hai phía → hiểu theo hai cách."
+    },
+    {
+     "word": "coherent",
+     "ipa": "/koʊˈhɪr.ənt/",
+     "pos": "adj",
+     "vi": "mạch lạc",
+     "ex": "Your essay must be clear and coherent.",
+     "exVi": "Bài luận của bạn phải rõ ràng và mạch lạc.",
+     "tip": "coherence = sự mạch lạc (tiêu chí chấm IELTS)."
+    },
+    {
+     "word": "articulate",
+     "ipa": "/ɑːrˈtɪk.jə.lət/",
+     "pos": "adj",
+     "vi": "diễn đạt lưu loát, rõ ràng",
+     "ex": "She is an articulate speaker.",
+     "exVi": "Cô ấy là người diễn đạt rất lưu loát.",
+     "tip": "Động từ đọc /-leɪt/ = diễn đạt."
+    },
+    {
+     "word": "eloquent",
+     "ipa": "/ˈel.ə.kwənt/",
+     "pos": "adj",
+     "vi": "hùng hồn, có tài hùng biện",
+     "ex": "He gave an eloquent speech.",
+     "exVi": "Anh ấy có một bài phát biểu hùng hồn.",
+     "tip": "Gốc \"loqu\" = nói."
+    },
+    {
+     "word": "concise",
+     "ipa": "/kənˈsaɪs/",
+     "pos": "adj",
+     "vi": "súc tích",
+     "ex": "Keep your answers short and concise.",
+     "exVi": "Hãy giữ câu trả lời ngắn gọn, súc tích."
+    },
+    {
+     "word": "nuance",
+     "ipa": "/ˈnuː.ɑːns/",
+     "pos": "noun",
+     "vi": "sắc thái",
+     "ex": "Translators must understand every nuance of meaning.",
+     "exVi": "Người dịch phải hiểu mọi sắc thái ý nghĩa."
+    },
+    {
+     "word": "convey",
+     "ipa": "/kənˈveɪ/",
+     "pos": "verb",
+     "vi": "truyền đạt",
+     "ex": "Music can convey emotions better than words.",
+     "exVi": "Âm nhạc có thể truyền đạt cảm xúc tốt hơn lời nói."
+    },
+    {
+     "word": "elaborate",
+     "ipa": "/iˈlæb.ə.reɪt/",
+     "pos": "verb",
+     "vi": "trình bày chi tiết",
+     "ex": "Could you elaborate on that point?",
+     "exVi": "Bạn có thể trình bày chi tiết hơn ý đó không?",
+     "tip": "Tính từ đọc /-rət/ = công phu."
+    },
+    {
+     "word": "implicit",
+     "ipa": "/ɪmˈplɪs.ɪt/",
+     "pos": "adj",
+     "vi": "ngầm, ẩn ý",
+     "ex": "There was an implicit criticism in his words.",
+     "exVi": "Trong lời nói của anh ta có hàm ý chỉ trích."
+    },
+    {
+     "word": "explicit",
+     "ipa": "/ɪkˈsplɪs.ɪt/",
+     "pos": "adj",
+     "vi": "rõ ràng, tường minh",
+     "ex": "The rules must be explicit.",
+     "exVi": "Các quy tắc phải rõ ràng.",
+     "tip": "Trái nghĩa: implicit."
+    },
+    {
+     "word": "rhetoric",
+     "ipa": "/ˈret̬.ɚ.ɪk/",
+     "pos": "noun",
+     "vi": "thuật hùng biện; lời lẽ hoa mỹ",
+     "ex": "His speech was full of empty rhetoric.",
+     "exVi": "Bài phát biểu của ông ta đầy những lời lẽ sáo rỗng."
+    },
+    {
+     "word": "paraphrase",
+     "ipa": "/ˈper.ə.freɪz/",
+     "pos": "verb",
+     "vi": "diễn đạt lại bằng từ khác",
+     "ex": "In IELTS, you should paraphrase the question.",
+     "exVi": "Trong IELTS, bạn nên diễn đạt lại câu hỏi."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "To put it another way, ...",
+     "vi": "Nói cách khác, ..."
+    },
+    {
+     "en": "It goes without saying that...",
+     "vi": "Không cần phải nói cũng biết rằng..."
+    },
+    {
+     "en": "That's beside the point.",
+     "vi": "Điều đó không liên quan đến vấn đề chính."
+    },
+    {
+     "en": "Let me rephrase that.",
+     "vi": "Để tôi nói lại cho rõ."
+    },
+    {
+     "en": "In a nutshell, ...",
+     "vi": "Tóm lại, ..."
+    }
+   ],
+   "grammar": {
+    "formulas": [
+     "Never / Rarely / Seldom + trợ động từ + S + V: Never have I seen such a beautiful place.",
+     "Not only + trợ động từ + S + V, but (S) also...: Not only is she smart, but she is also kind.",
+     "Hardly / Scarcely + had + S + V3 + when...: Hardly had I arrived when it started to rain.",
+     "No sooner + had + S + V3 + than...: No sooner had he left than the phone rang.",
+     "Only then / Only after + ... + trợ động từ + S + V · Under no circumstances + trợ động từ + S + V"
+    ],
+    "points": [
+     {
+      "title": "Cách đảo",
+      "body": "Giống câu hỏi: dùng trợ động từ của thì tương ứng (do / does / did, have / has / had, am / is / are, can, will...). I rarely eat meat → Rarely do I eat meat."
+     },
+     {
+      "title": "Hardly... when / No sooner... than",
+      "body": "Diễn tả hai hành động xảy ra liên tiếp gần như ngay lập tức, thường ở quá khứ hoàn thành: No sooner had we sat down than the lights went off."
+     },
+     {
+      "title": "Only + trạng ngữ",
+      "body": "Only when / Only after / Only by: Only after the exam did I realise my mistake. (Đảo ở mệnh đề CHÍNH.)"
+     },
+     {
+      "title": "Not until",
+      "body": "Not until + mốc / mệnh đề + trợ động từ + S + V: Not until I moved abroad did I appreciate Vietnamese food."
+     }
+    ],
+    "examples": [
+     {
+      "en": "Rarely do we see such eloquent speakers.",
+      "vi": "Hiếm khi chúng ta thấy những diễn giả hùng hồn như vậy."
+     },
+     {
+      "en": "Not only did he win the debate, but he also impressed the judges.",
+      "vi": "Anh ấy không chỉ thắng cuộc tranh luận mà còn gây ấn tượng với ban giám khảo."
+     },
+     {
+      "en": "Hardly had she started her speech when the microphone stopped working.",
+      "vi": "Cô ấy vừa mới bắt đầu bài phát biểu thì micro ngừng hoạt động."
+     },
+     {
+      "en": "Under no circumstances should you copy other people's work.",
+      "vi": "Trong bất kỳ trường hợp nào bạn cũng không được sao chép bài của người khác."
+     }
+    ],
+    "mistakes": [
+     {
+      "wrong": "Never I have seen such a mess.",
+      "right": "Never have I seen such a mess.",
+      "note": "Trợ động từ phải đứng trước chủ ngữ."
+     },
+     {
+      "wrong": "Not only she sings, but she also dances.",
+      "right": "Not only does she sing, but she also dances.",
+      "note": "Thêm trợ động từ does."
+     },
+     {
+      "wrong": "No sooner had I arrived when it rained.",
+      "right": "No sooner had I arrived than it rained.",
+      "note": "No sooner đi với than."
+     }
+    ],
+    "exercises": [
+     {
+      "q": "Never ___ such a convincing argument.",
+      "options": [
+       "I have heard",
+       "have I heard",
+       "I heard"
+      ],
+      "answer": "have I heard",
+      "explain": "Never đầu câu → đảo trợ động từ."
+     },
+     {
+      "q": "Not only ___ the exam, but she also got the highest score.",
+      "options": [
+       "she passed",
+       "did she pass",
+       "passed she"
+      ],
+      "answer": "did she pass",
+      "explain": "Not only + trợ động từ + S + V."
+     },
+     {
+      "q": "Hardly had we started the meeting ___ the fire alarm went off.",
+      "options": [
+       "than",
+       "when",
+       "then"
+      ],
+      "answer": "when",
+      "explain": "Hardly... when."
+     },
+     {
+      "q": "No sooner had he finished his speech ___ the audience applauded.",
+      "options": [
+       "when",
+       "than",
+       "that"
+      ],
+      "answer": "than",
+      "explain": "No sooner... than."
+     },
+     {
+      "q": "Rarely ___ students use such sophisticated vocabulary.",
+      "options": [
+       "do",
+       "are",
+       "have"
+      ],
+      "answer": "do",
+      "explain": "Hiện tại đơn → do."
+     },
+     {
+      "q": "Only after reading it twice ___ the main idea.",
+      "options": [
+       "I understood",
+       "did I understand",
+       "I did understand"
+      ],
+      "answer": "did I understand",
+      "explain": "Only after... → đảo ở mệnh đề chính."
+     },
+     {
+      "q": "Under no circumstances ___ leave the exam room early.",
+      "options": [
+       "you should",
+       "should you",
+       "you must"
+      ],
+      "answer": "should you",
+      "explain": "Under no circumstances + trợ động từ + S."
+     }
+    ],
+    "title": "Đảo ngữ (Inversion)",
+    "summary": "Đảo ngữ là đưa trợ động từ lên trước chủ ngữ sau một trạng từ phủ định hoặc hạn chế đứng đầu câu. Cấu trúc này tạo sự nhấn mạnh, trang trọng – rất được đánh giá cao trong IELTS Writing và Speaking band 7+."
+   },
+   "dialogue": {
+    "lines": [
+     {
+      "speaker": "A",
+      "name": "Ms. Clark",
+      "en": "Your ideas were excellent, but could you elaborate a bit more? Your answers were quite short.",
+      "vi": "Ý tưởng của em rất tốt, nhưng em có thể triển khai chi tiết hơn không? Câu trả lời của em khá ngắn."
+     },
+     {
+      "speaker": "B",
+      "name": "Bảo Anh",
+      "en": "I see. I was worried about making mistakes, so I kept everything concise.",
+      "vi": "Em hiểu ạ. Em sợ mắc lỗi nên giữ mọi thứ thật ngắn gọn."
+     },
+     {
+      "speaker": "A",
+      "name": "Ms. Clark",
+      "en": "Being concise is good in writing, but in speaking, examiners want to see how articulate you are.",
+      "vi": "Súc tích thì tốt trong bài viết, nhưng trong bài nói, giám khảo muốn thấy em diễn đạt lưu loát đến đâu."
+     },
+     {
+      "speaker": "B",
+      "name": "Bảo Anh",
+      "en": "Should I use more advanced grammar?",
+      "vi": "Em có nên dùng ngữ pháp nâng cao hơn không ạ?"
+     },
+     {
+      "speaker": "A",
+      "name": "Ms. Clark",
+      "en": "Yes, but naturally. For example, instead of \"I have never seen such a beautiful city\", try \"Never have I seen such a beautiful city\".",
+      "vi": "Có, nhưng phải tự nhiên. Ví dụ, thay vì \"I have never seen such a beautiful city\", hãy thử \"Never have I seen such a beautiful city\"."
+     },
+     {
+      "speaker": "B",
+      "name": "Bảo Anh",
+      "en": "That sounds much more impressive!",
+      "vi": "Nghe ấn tượng hơn hẳn ạ!"
+     },
+     {
+      "speaker": "A",
+      "name": "Ms. Clark",
+      "en": "Exactly. And remember to paraphrase the question instead of repeating it word for word.",
+      "vi": "Đúng vậy. Và nhớ diễn đạt lại câu hỏi thay vì lặp lại y nguyên từng chữ."
+     }
+    ],
+    "questions": [
+     {
+      "q": "What was the problem with the student's answers?",
+      "options": [
+       "They were too long",
+       "They were too short",
+       "They were off-topic"
+      ],
+      "answer": "They were too short"
+     },
+     {
+      "q": "What does the teacher advise about the question?",
+      "options": [
+       "repeat it exactly",
+       "paraphrase it",
+       "ignore it"
+      ],
+      "answer": "paraphrase it"
+     }
+    ],
+    "title": "Luyện IELTS Speaking",
+    "setting": "Giáo viên nhận xét bài nói của học viên."
+   },
+   "reading": {
+    "questions": [
+     {
+      "q": "What can unnecessary jargon do?",
+      "options": [
+       "make a text more convincing",
+       "hide a lack of understanding",
+       "make a text shorter"
+      ],
+      "answer": "hide a lack of understanding"
+     },
+     {
+      "q": "How is a text usually improved, according to the writer?",
+      "options": [
+       "by making it longer",
+       "by cutting what is not needed",
+       "by adding jargon"
+      ],
+      "answer": "by cutting what is not needed"
+     }
+    ],
+    "title": "The art of clear writing",
+    "text": "Many people believe that good academic writing must be full of long words and complicated sentences. In reality, the opposite is often true. The best writers are able to convey complex ideas in a clear, concise and coherent way. Not only does unnecessary jargon make a text harder to read, but it can also hide a lack of real understanding. That said, simplicity does not mean being simplistic. Skilled writers use precise vocabulary to express subtle nuances, and they vary their sentence structures to keep readers engaged. Rarely is a text improved by making it longer; more often, it is improved by cutting what is not needed.",
+    "vi": "Nhiều người tin rằng văn phong học thuật tốt phải đầy từ dài và câu phức tạp. Thực tế, điều ngược lại thường đúng hơn. Những người viết giỏi nhất có khả năng truyền đạt ý tưởng phức tạp một cách rõ ràng, súc tích và mạch lạc. Biệt ngữ không cần thiết không chỉ khiến văn bản khó đọc hơn mà còn có thể che giấu sự thiếu hiểu biết thực sự. Dù vậy, đơn giản không có nghĩa là hời hợt. Người viết có kỹ năng dùng từ vựng chính xác để diễn tả những sắc thái tinh tế, và thay đổi cấu trúc câu để giữ chân người đọc. Hiếm khi một văn bản trở nên tốt hơn nhờ viết dài ra; thường thì nó tốt hơn nhờ cắt bỏ những gì không cần thiết."
+   },
+   "title": "Ngôn ngữ học thuật",
+   "titleEn": "Academic Language",
+   "emoji": "🖋️",
+   "goal": "Diễn đạt trang trọng, mạch lạc và nhấn mạnh bằng đảo ngữ."
+  },
+  {
+   "id": "c1-u2",
+   "words": [
+    {
+     "word": "pragmatic",
+     "ipa": "/præɡˈmæt̬.ɪk/",
+     "pos": "adj",
+     "vi": "thực tế, thực dụng",
+     "ex": "We need a pragmatic solution, not a perfect one.",
+     "exVi": "Chúng ta cần một giải pháp thực tế, không phải hoàn hảo."
+    },
+    {
+     "word": "tenacious",
+     "ipa": "/təˈneɪ.ʃəs/",
+     "pos": "adj",
+     "vi": "ngoan cường, bền bỉ",
+     "ex": "She is tenacious and never gives up on her goals.",
+     "exVi": "Cô ấy bền bỉ và không bao giờ từ bỏ mục tiêu."
+    },
+    {
+     "word": "diligent",
+     "ipa": "/ˈdɪl.ə.dʒənt/",
+     "pos": "adj",
+     "vi": "siêng năng, cần mẫn",
+     "ex": "Diligent students review their notes every day.",
+     "exVi": "Học sinh siêng năng ôn bài mỗi ngày."
+    },
+    {
+     "word": "versatile",
+     "ipa": "/ˈvɝː.sə.t̬əl/",
+     "pos": "adj",
+     "vi": "đa năng, linh hoạt",
+     "ex": "He is a versatile actor who can play any role.",
+     "exVi": "Anh ấy là diễn viên đa năng, đóng được mọi vai."
+    },
+    {
+     "word": "meticulous",
+     "ipa": "/məˈtɪk.jə.ləs/",
+     "pos": "adj",
+     "vi": "tỉ mỉ, kỹ lưỡng",
+     "ex": "She is meticulous about every detail.",
+     "exVi": "Cô ấy tỉ mỉ đến từng chi tiết."
+    },
+    {
+     "word": "impulsive",
+     "ipa": "/ɪmˈpʌl.sɪv/",
+     "pos": "adj",
+     "vi": "bốc đồng",
+     "ex": "Don't make impulsive decisions about money.",
+     "exVi": "Đừng đưa ra quyết định bốc đồng về tiền bạc."
+    },
+    {
+     "word": "intuitive",
+     "ipa": "/ɪnˈtuː.ə.t̬ɪv/",
+     "pos": "adj",
+     "vi": "trực quan; có trực giác",
+     "ex": "This app has a very intuitive design.",
+     "exVi": "Ứng dụng này có thiết kế rất trực quan.",
+     "tip": "intuition = trực giác."
+    },
+    {
+     "word": "skeptical",
+     "ipa": "/ˈskep.tɪ.kəl/",
+     "pos": "adj",
+     "vi": "hoài nghi",
+     "ex": "Scientists are skeptical about the new claims.",
+     "exVi": "Các nhà khoa học hoài nghi về những tuyên bố mới.",
+     "tip": "Anh-Anh viết sceptical."
+    },
+    {
+     "word": "empathetic",
+     "ipa": "/ˌem.pəˈθet̬.ɪk/",
+     "pos": "adj",
+     "vi": "đồng cảm, thấu cảm",
+     "ex": "A good leader is empathetic towards the team.",
+     "exVi": "Một nhà lãnh đạo giỏi biết thấu cảm với đội ngũ.",
+     "tip": "empathy = sự thấu cảm."
+    },
+    {
+     "word": "arrogant",
+     "ipa": "/ˈer.ə.ɡənt/",
+     "pos": "adj",
+     "vi": "kiêu ngạo",
+     "ex": "His arrogant attitude annoyed everyone.",
+     "exVi": "Thái độ kiêu ngạo của anh ta khiến mọi người khó chịu."
+    },
+    {
+     "word": "humble",
+     "ipa": "/ˈhʌm.bəl/",
+     "pos": "adj",
+     "vi": "khiêm nhường",
+     "ex": "Despite his fame, he remains humble.",
+     "exVi": "Dù nổi tiếng, anh ấy vẫn khiêm nhường."
+    },
+    {
+     "word": "resilient",
+     "ipa": "/rɪˈzɪl.jənt/",
+     "pos": "adj",
+     "vi": "kiên cường, mau phục hồi",
+     "ex": "Children are often more resilient than adults think.",
+     "exVi": "Trẻ em thường kiên cường hơn người lớn nghĩ.",
+     "tip": "Như lò xo: nén xuống rồi lại bật lên."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "He's a jack of all trades.",
+     "vi": "Anh ấy biết đủ thứ nghề."
+    },
+    {
+     "en": "She keeps her feet on the ground.",
+     "vi": "Cô ấy luôn thực tế và khiêm tốn."
+    },
+    {
+     "en": "Actions speak louder than words.",
+     "vi": "Hành động có sức nặng hơn lời nói."
+    },
+    {
+     "en": "It's not what you know, it's who you know.",
+     "vi": "Quan trọng không phải bạn biết gì mà là bạn quen ai."
+    },
+    {
+     "en": "He has a chip on his shoulder.",
+     "vi": "Anh ta hay tự ái, dễ phật ý."
+    }
+   ],
+   "grammar": {
+    "formulas": [
+     "It is / was + phần nhấn mạnh + that / who + phần còn lại: It was her determination that impressed me.",
+     "What + S + V + is / was + phần nhấn mạnh: What I admire most is her honesty.",
+     "All (that) + S + V + is / was...: All I want is a little respect.",
+     "The reason (why) / The thing (that) + S + V + is...: The reason why I left is that I needed a change."
+    ],
+    "points": [
+     {
+      "title": "It-cleft",
+      "body": "Nhấn mạnh chủ ngữ, tân ngữ hoặc trạng ngữ: Tom broke the window yesterday → It was Tom who broke the window. / It was yesterday that Tom broke the window."
+     },
+     {
+      "title": "What-cleft",
+      "body": "Đưa thông tin mới, quan trọng xuống cuối câu: I need more time → What I need is more time. Nhấn mạnh hành động: What she did was (to) call the police."
+     },
+     {
+      "title": "All... is",
+      "body": "Nhấn mạnh sự đơn giản, duy nhất: All you need to do is (to) press this button."
+     },
+     {
+      "title": "Ứng dụng trong Speaking",
+      "body": "Giúp câu trả lời có điểm nhấn: What really motivates me is the chance to help others. / It's not money that makes people happy, it's relationships."
+     }
+    ],
+    "examples": [
+     {
+      "en": "It was his humble attitude that won everyone's respect.",
+      "vi": "Chính thái độ khiêm nhường của anh ấy đã chiếm được sự tôn trọng của mọi người."
+     },
+     {
+      "en": "What makes her a great leader is her empathy.",
+      "vi": "Điều khiến cô ấy trở thành nhà lãnh đạo giỏi là sự thấu cảm."
+     },
+     {
+      "en": "All I asked for was an honest answer.",
+      "vi": "Tất cả những gì tôi yêu cầu là một câu trả lời thành thật."
+     },
+     {
+      "en": "It wasn't until I failed that I learned to be resilient.",
+      "vi": "Mãi đến khi thất bại tôi mới học được cách kiên cường."
+     }
+    ],
+    "mistakes": [
+     {
+      "wrong": "It was Mai which helped me.",
+      "right": "It was Mai who helped me.",
+      "note": "Người dùng who (hoặc that)."
+     },
+     {
+      "wrong": "What I need it is rest.",
+      "right": "What I need is rest.",
+      "note": "Không thêm it."
+     },
+     {
+      "wrong": "It is the teachers who is responsible.",
+      "right": "It is the teachers who are responsible.",
+      "note": "Động từ chia theo danh từ được nhấn mạnh."
+     }
+    ],
+    "exercises": [
+     {
+      "q": "It was her patience ___ impressed the interviewers.",
+      "options": [
+       "that",
+       "what",
+       "which it"
+      ],
+      "answer": "that",
+      "explain": "It was + X + that..."
+     },
+     {
+      "q": "___ I admire most about him is his honesty.",
+      "options": [
+       "That",
+       "What",
+       "Which"
+      ],
+      "answer": "What",
+      "explain": "What-cleft."
+     },
+     {
+      "q": "It was in 2015 ___ she started her own company.",
+      "options": [
+       "that",
+       "when it",
+       "which"
+      ],
+      "answer": "that",
+      "explain": "Nhấn mạnh thời gian vẫn dùng that."
+     },
+     {
+      "q": "All you need to do ___ be yourself.",
+      "options": [
+       "is",
+       "are",
+       "was being"
+      ],
+      "answer": "is",
+      "explain": "All... is (to) V."
+     },
+     {
+      "q": "It ___ my parents who taught me to be humble.",
+      "options": [
+       "were",
+       "was",
+       "is being"
+      ],
+      "answer": "was",
+      "explain": "Luôn dùng It is / It was."
+     },
+     {
+      "q": "What she did ___ apologize to everyone.",
+      "options": [
+       "is",
+       "was",
+       "were"
+      ],
+      "answer": "was",
+      "explain": "What she did was (to) V."
+     },
+     {
+      "q": "The reason ___ I left the company is that I wanted a challenge.",
+      "options": [
+       "why",
+       "what",
+       "because"
+      ],
+      "answer": "why",
+      "explain": "The reason why..."
+     }
+    ],
+    "title": "Câu chẻ (Cleft Sentences)",
+    "summary": "Câu chẻ chia một câu thành hai phần để NHẤN MẠNH một thông tin cụ thể. Đây là công cụ mạnh giúp bài nói và viết sắc sảo, tự nhiên như người bản xứ."
+   },
+   "dialogue": {
+    "lines": [
+     {
+      "speaker": "A",
+      "name": "Daniel",
+      "en": "What do you think makes a great leader?",
+      "vi": "Theo bà, điều gì tạo nên một nhà lãnh đạo giỏi?"
+     },
+     {
+      "speaker": "B",
+      "name": "Ms. Lan",
+      "en": "What matters most, in my opinion, is the ability to listen. Many leaders are intelligent, but few are truly empathetic.",
+      "vi": "Theo tôi, điều quan trọng nhất là khả năng lắng nghe. Nhiều nhà lãnh đạo thông minh, nhưng ít người thực sự biết thấu cảm."
+     },
+     {
+      "speaker": "A",
+      "name": "Daniel",
+      "en": "Interesting. Was there a moment that shaped your leadership style?",
+      "vi": "Thú vị. Có khoảnh khắc nào định hình phong cách lãnh đạo của bà không?"
+     },
+     {
+      "speaker": "B",
+      "name": "Ms. Lan",
+      "en": "Yes. It was when my first company failed that I learned to be humble and resilient.",
+      "vi": "Có. Chính khi công ty đầu tiên của tôi thất bại, tôi mới học được cách khiêm nhường và kiên cường."
+     },
+     {
+      "speaker": "A",
+      "name": "Daniel",
+      "en": "What did you do differently the second time?",
+      "vi": "Lần thứ hai bà đã làm khác đi điều gì?"
+     },
+     {
+      "speaker": "B",
+      "name": "Ms. Lan",
+      "en": "What I did was surround myself with people who were smarter than me – and actually listen to them.",
+      "vi": "Điều tôi làm là bao quanh mình bằng những người giỏi hơn mình – và thực sự lắng nghe họ."
+     },
+     {
+      "speaker": "A",
+      "name": "Daniel",
+      "en": "All our listeners want to know is: do you ever make impulsive decisions?",
+      "vi": "Tất cả những gì thính giả muốn biết là: bà có bao giờ đưa ra quyết định bốc đồng không?"
+     },
+     {
+      "speaker": "B",
+      "name": "Ms. Lan",
+      "en": "Rarely! I'm quite pragmatic. I sleep on every big decision.",
+      "vi": "Hiếm lắm! Tôi khá thực tế. Mọi quyết định lớn tôi đều để qua một đêm suy nghĩ."
+     }
+    ],
+    "questions": [
+     {
+      "q": "What does Ms. Lan think matters most in a leader?",
+      "options": [
+       "intelligence",
+       "the ability to listen",
+       "making quick decisions"
+      ],
+      "answer": "the ability to listen"
+     },
+     {
+      "q": "When did she learn to be humble and resilient?",
+      "options": [
+       "when her first company failed",
+       "when she became famous",
+       "at university"
+      ],
+      "answer": "when her first company failed"
+     }
+    ],
+    "title": "Phẩm chất của nhà lãnh đạo",
+    "setting": "Một CEO trả lời phỏng vấn trên podcast."
+   },
+   "reading": {
+    "questions": [
+     {
+      "q": "According to Duckworth, what best predicts success?",
+      "options": [
+       "intelligence",
+       "grit",
+       "wealth"
+      ],
+      "answer": "grit"
+     },
+     {
+      "q": "What do critics argue?",
+      "options": [
+       "Grit doesn't exist",
+       "Wealth and opportunity matter more",
+       "Talent is everything"
+      ],
+      "answer": "Wealth and opportunity matter more"
+     }
+    ],
+    "title": "Grit: the secret to success?",
+    "text": "Why do some people achieve their goals while others with equal talent do not? According to psychologist Angela Duckworth, it is not intelligence that best predicts success, but \"grit\" – a combination of passion and perseverance over a long period of time. In her studies of students, soldiers and salespeople, what separated the most successful from the rest was their tenacity: they kept going after failure. Critics are skeptical, arguing that grit is simply another word for diligence and that factors like wealth and opportunity matter more. Nevertheless, the idea has encouraged many people to see effort, not just talent, as the key to achievement.",
+    "vi": "Vì sao một số người đạt được mục tiêu trong khi những người khác có tài năng ngang bằng lại không? Theo nhà tâm lý học Angela Duckworth, không phải trí thông minh mà là \"grit\" (sự bền bỉ) – sự kết hợp giữa đam mê và kiên trì trong thời gian dài – mới dự đoán thành công tốt nhất. Trong các nghiên cứu về học sinh, binh sĩ và nhân viên bán hàng, điều phân biệt những người thành công nhất với phần còn lại là sự ngoan cường: họ tiếp tục sau thất bại. Những người chỉ trích tỏ ra hoài nghi, cho rằng grit chỉ là một từ khác của sự cần cù và các yếu tố như tài sản hay cơ hội quan trọng hơn. Tuy vậy, ý tưởng này đã khuyến khích nhiều người coi nỗ lực, chứ không chỉ tài năng, là chìa khóa của thành tựu."
+   },
+   "title": "Tư duy & Phẩm chất",
+   "titleEn": "Mindset & Character",
+   "emoji": "💡",
+   "goal": "Mô tả phẩm chất tinh tế và nhấn mạnh ý bằng câu chẻ."
+  },
+  {
+   "id": "c1-u3",
+   "words": [
+    {
+     "word": "inequality",
+     "ipa": "/ˌɪn.ɪˈkwɑː.lə.t̬i/",
+     "pos": "noun",
+     "vi": "sự bất bình đẳng",
+     "ex": "Income inequality has increased in many countries.",
+     "exVi": "Bất bình đẳng thu nhập đã gia tăng ở nhiều quốc gia."
+    },
+    {
+     "word": "poverty",
+     "ipa": "/ˈpɑː.vɚ.t̬i/",
+     "pos": "noun",
+     "vi": "sự nghèo đói",
+     "ex": "Millions of people still live in poverty.",
+     "exVi": "Hàng triệu người vẫn sống trong cảnh nghèo đói.",
+     "tip": "poor → poverty."
+    },
+    {
+     "word": "discrimination",
+     "ipa": "/dɪˌskrɪm.əˈneɪ.ʃən/",
+     "pos": "noun",
+     "vi": "sự phân biệt đối xử",
+     "ex": "Discrimination based on gender is illegal.",
+     "exVi": "Phân biệt đối xử dựa trên giới tính là bất hợp pháp."
+    },
+    {
+     "word": "privilege",
+     "ipa": "/ˈprɪv.əl.ɪdʒ/",
+     "pos": "noun",
+     "vi": "đặc quyền",
+     "ex": "Education should be a right, not a privilege.",
+     "exVi": "Giáo dục nên là quyền, không phải đặc quyền."
+    },
+    {
+     "word": "marginalize",
+     "ipa": "/ˈmɑːr.dʒɪ.nəl.aɪz/",
+     "pos": "verb",
+     "vi": "gạt ra ngoài lề",
+     "ex": "Disabled people are often marginalized.",
+     "exVi": "Người khuyết tật thường bị gạt ra ngoài lề xã hội.",
+     "tip": "margin = lề."
+    },
+    {
+     "word": "welfare",
+     "ipa": "/ˈwel.fer/",
+     "pos": "noun",
+     "vi": "phúc lợi",
+     "ex": "The government spends billions on social welfare.",
+     "exVi": "Chính phủ chi hàng tỷ cho phúc lợi xã hội."
+    },
+    {
+     "word": "equity",
+     "ipa": "/ˈek.wə.t̬i/",
+     "pos": "noun",
+     "vi": "sự công bằng",
+     "ex": "Equity means giving people what they need to succeed.",
+     "exVi": "Công bằng là trao cho mỗi người những gì họ cần để thành công.",
+     "tip": "equality = như nhau; equity = theo nhu cầu."
+    },
+    {
+     "word": "prejudice",
+     "ipa": "/ˈpredʒ.ə.dɪs/",
+     "pos": "noun",
+     "vi": "định kiến",
+     "ex": "We must fight racial prejudice.",
+     "exVi": "Chúng ta phải chống lại định kiến chủng tộc.",
+     "tip": "pre (trước) + judge (phán xét)."
+    },
+    {
+     "word": "advocate",
+     "ipa": "/ˈæd.və.keɪt/",
+     "pos": "verb",
+     "vi": "ủng hộ, bênh vực",
+     "ex": "She advocates equal pay for women.",
+     "exVi": "Cô ấy ủng hộ trả lương ngang bằng cho phụ nữ.",
+     "tip": "Danh từ đọc /-kət/ = người ủng hộ."
+    },
+    {
+     "word": "empower",
+     "ipa": "/ɪmˈpaʊ.ɚ/",
+     "pos": "verb",
+     "vi": "trao quyền, tiếp sức",
+     "ex": "Education empowers women to make their own choices.",
+     "exVi": "Giáo dục trao quyền cho phụ nữ tự đưa ra lựa chọn.",
+     "tip": "em + power."
+    },
+    {
+     "word": "grassroots",
+     "ipa": "/ˌɡræsˈruːts/",
+     "pos": "adj",
+     "vi": "(thuộc) cơ sở, quần chúng",
+     "ex": "The campaign began as a grassroots movement.",
+     "exVi": "Chiến dịch bắt đầu như một phong trào quần chúng.",
+     "tip": "grass (cỏ) + roots (rễ)."
+    },
+    {
+     "word": "stigma",
+     "ipa": "/ˈstɪɡ.mə/",
+     "pos": "noun",
+     "vi": "sự kỳ thị",
+     "ex": "There is still a stigma around mental illness.",
+     "exVi": "Vẫn còn sự kỳ thị đối với bệnh tâm thần."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "Everyone deserves a fair chance.",
+     "vi": "Ai cũng xứng đáng có một cơ hội công bằng."
+    },
+    {
+     "en": "We need to level the playing field.",
+     "vi": "Chúng ta cần tạo sân chơi bình đẳng."
+    },
+    {
+     "en": "It's a vicious circle.",
+     "vi": "Đó là một vòng luẩn quẩn."
+    },
+    {
+     "en": "Teach a man to fish and you feed him for a lifetime.",
+     "vi": "Cho cần câu thay vì cho con cá."
+    },
+    {
+     "en": "Charity begins at home.",
+     "vi": "Lòng nhân ái bắt đầu từ chính gia đình."
+    }
+   ],
+   "grammar": {
+    "formulas": [
+     "S + suggest / recommend / insist / demand / propose + (that) + S + V nguyên mẫu",
+     "It is essential / vital / important / crucial + that + S + V nguyên mẫu",
+     "Phủ định: that + S + not + V (They demand that he not be released.)",
+     "Bị động: that + S + be + V3 (It is vital that the law be changed.)"
+    ],
+    "points": [
+     {
+      "title": "Động từ không chia",
+      "body": "Dù chủ ngữ là he / she, động từ vẫn nguyên mẫu: The committee recommends that she apply again (KHÔNG phải applies)."
+     },
+     {
+      "title": "Anh-Anh hay dùng should",
+      "body": "Người Anh thường thêm should: I suggest that he should apply. Cả hai cách đều đúng, dạng không có should trang trọng hơn."
+     },
+     {
+      "title": "Các tính từ thường gặp",
+      "body": "essential, vital, crucial, imperative, important, necessary, urgent: It is imperative that every child have access to education."
+     },
+     {
+      "title": "Cấu trúc thay thế an toàn",
+      "body": "Nếu không chắc, dùng for sb to V: It is essential for every child to have access to education."
+     }
+    ],
+    "examples": [
+     {
+      "en": "Activists demand that the government take action on inequality.",
+      "vi": "Các nhà hoạt động yêu cầu chính phủ hành động về vấn đề bất bình đẳng."
+     },
+     {
+      "en": "It is vital that every citizen be treated equally.",
+      "vi": "Điều thiết yếu là mọi công dân đều được đối xử bình đẳng."
+     },
+     {
+      "en": "The report recommends that welfare spending be increased.",
+      "vi": "Báo cáo khuyến nghị tăng chi tiêu phúc lợi."
+     },
+     {
+      "en": "I suggest that he not make any promises he can't keep.",
+      "vi": "Tôi đề nghị anh ấy đừng hứa những điều không thể giữ."
+     }
+    ],
+    "mistakes": [
+     {
+      "wrong": "They insisted that he pays the fine.",
+      "right": "They insisted that he pay the fine.",
+      "note": "Thức giả định dùng V nguyên mẫu."
+     },
+     {
+      "wrong": "It is essential that the law is changed.",
+      "right": "It is essential that the law be changed.",
+      "note": "Bị động giả định: be + V3."
+     },
+     {
+      "wrong": "She suggested me to apply.",
+      "right": "She suggested that I apply.",
+      "note": "suggest + that + S + V."
+     }
+    ],
+    "exercises": [
+     {
+      "q": "The committee recommends that she ___ for the scholarship.",
+      "options": [
+       "applies",
+       "apply",
+       "applied"
+      ],
+      "answer": "apply",
+      "explain": "Thức giả định: V nguyên mẫu."
+     },
+     {
+      "q": "It is essential that every child ___ access to clean water.",
+      "options": [
+       "has",
+       "have",
+       "had"
+      ],
+      "answer": "have",
+      "explain": "It is essential that + S + V nguyên mẫu."
+     },
+     {
+      "q": "Protesters demand that the law ___ immediately.",
+      "options": [
+       "is changed",
+       "be changed",
+       "changes"
+      ],
+      "answer": "be changed",
+      "explain": "Bị động giả định: be + V3."
+     },
+     {
+      "q": "I suggest that he ___ late again.",
+      "options": [
+       "not be",
+       "isn't",
+       "won't be"
+      ],
+      "answer": "not be",
+      "explain": "Phủ định giả định: not + V."
+     },
+     {
+      "q": "It is vital that the government ___ action now.",
+      "options": [
+       "take",
+       "takes",
+       "took"
+      ],
+      "answer": "take",
+      "explain": "V nguyên mẫu."
+     },
+     {
+      "q": "The doctor insisted that the patient ___ in bed.",
+      "options": [
+       "stays",
+       "stay",
+       "stayed"
+      ],
+      "answer": "stay",
+      "explain": "insist that + S + V nguyên mẫu."
+     },
+     {
+      "q": "It's important ___ everyone to have equal opportunities.",
+      "options": [
+       "that",
+       "for",
+       "to"
+      ],
+      "answer": "for",
+      "explain": "It's important for sb to V."
+     }
+    ],
+    "title": "Thức giả định (Subjunctive)",
+    "summary": "Thức giả định dùng động từ nguyên mẫu (không chia) sau các động từ / tính từ thể hiện yêu cầu, đề nghị, sự cấp thiết. Đây là dấu hiệu của văn phong trang trọng, học thuật."
+   },
+   "dialogue": {
+    "lines": [
+     {
+      "speaker": "A",
+      "name": "Dr. Hoa",
+      "en": "Children in remote areas still don't have the same opportunities as those in cities. It's vital that this gap be closed.",
+      "vi": "Trẻ em vùng sâu vùng xa vẫn chưa có cơ hội như trẻ em thành phố. Điều thiết yếu là khoảng cách này phải được thu hẹp."
+     },
+     {
+      "speaker": "B",
+      "name": "Mr. Evans",
+      "en": "I agree. But simply giving every school the same budget isn't enough. We need equity, not just equality.",
+      "vi": "Tôi đồng ý. Nhưng chỉ cấp cho mọi trường cùng một ngân sách thì chưa đủ. Chúng ta cần công bằng, không chỉ bình đẳng."
+     },
+     {
+      "speaker": "A",
+      "name": "Dr. Hoa",
+      "en": "Exactly. I'd recommend that schools in poor areas receive extra funding and better-trained teachers.",
+      "vi": "Chính xác. Tôi khuyến nghị các trường ở vùng nghèo được nhận thêm kinh phí và giáo viên được đào tạo tốt hơn."
+     },
+     {
+      "speaker": "B",
+      "name": "Mr. Evans",
+      "en": "And what about grassroots initiatives? Local communities often understand the problems best.",
+      "vi": "Còn các sáng kiến từ cơ sở thì sao? Cộng đồng địa phương thường hiểu rõ vấn đề nhất."
+     },
+     {
+      "speaker": "A",
+      "name": "Dr. Hoa",
+      "en": "Absolutely. I'd also insist that girls be given special support, since they're more likely to drop out.",
+      "vi": "Hoàn toàn đúng. Tôi cũng kiên quyết đề nghị các em gái được hỗ trợ đặc biệt, vì các em dễ bỏ học hơn."
+     },
+     {
+      "speaker": "B",
+      "name": "Mr. Evans",
+      "en": "Education is the most powerful tool we have to break the cycle of poverty.",
+      "vi": "Giáo dục là công cụ mạnh nhất chúng ta có để phá vỡ vòng luẩn quẩn của nghèo đói."
+     }
+    ],
+    "questions": [
+     {
+      "q": "What does Mr. Evans say is needed?",
+      "options": [
+       "the same budget for every school",
+       "equity, not just equality",
+       "more exams"
+      ],
+      "answer": "equity, not just equality"
+     },
+     {
+      "q": "Why should girls receive special support?",
+      "options": [
+       "They are better students",
+       "They are more likely to drop out",
+       "They need more books"
+      ],
+      "answer": "They are more likely to drop out"
+     }
+    ],
+    "title": "Hội thảo về bình đẳng giáo dục",
+    "setting": "Hai diễn giả trao đổi tại hội thảo."
+   },
+   "reading": {
+    "questions": [
+     {
+      "q": "What does equity recognise?",
+      "options": [
+       "Everyone needs the same resources",
+       "People start from different positions",
+       "Football is important"
+      ],
+      "answer": "People start from different positions"
+     },
+     {
+      "q": "In the illustration, what is equity?",
+      "options": [
+       "giving everyone the same box",
+       "giving the shortest person more boxes",
+       "removing the fence"
+      ],
+      "answer": "giving the shortest person more boxes"
+     }
+    ],
+    "title": "Equality or equity?",
+    "text": "The terms equality and equity are often used interchangeably, but they mean different things. Equality means giving everyone exactly the same resources. Equity, by contrast, recognises that people start from different positions and therefore need different levels of support to reach the same outcome. A famous illustration shows three people of different heights trying to watch a football match over a fence. Giving each of them the same box is equality; giving the shortest person more boxes is equity. Critics warn that equity policies can be difficult to design fairly. Nevertheless, many experts insist that governments address the root causes of disadvantage.",
+    "vi": "Hai thuật ngữ bình đẳng (equality) và công bằng (equity) thường được dùng thay thế nhau, nhưng chúng mang nghĩa khác nhau. Bình đẳng là trao cho mọi người nguồn lực giống hệt nhau. Ngược lại, công bằng thừa nhận rằng mỗi người xuất phát từ vị trí khác nhau và do đó cần mức hỗ trợ khác nhau để đạt cùng một kết quả. Một hình minh họa nổi tiếng cho thấy ba người có chiều cao khác nhau đang cố xem trận bóng qua hàng rào. Cho mỗi người một chiếc hộp giống nhau là bình đẳng; cho người thấp nhất nhiều hộp hơn là công bằng. Những người chỉ trích cảnh báo rằng chính sách công bằng có thể khó thiết kế một cách hợp lý. Tuy vậy, nhiều chuyên gia kiên quyết cho rằng chính phủ phải giải quyết tận gốc nguyên nhân của sự thiệt thòi."
+   },
+   "title": "Xã hội & Công bằng",
+   "titleEn": "Society & Equality",
+   "emoji": "🤲",
+   "goal": "Thảo luận vấn đề xã hội và đưa ra yêu cầu, khuyến nghị bằng thức giả định."
+  },
+  {
+   "id": "c1-u4",
+   "words": [
+    {
+     "word": "inflation",
+     "ipa": "/ɪnˈfleɪ.ʃən/",
+     "pos": "noun",
+     "vi": "lạm phát",
+     "ex": "Inflation has reduced people's purchasing power.",
+     "exVi": "Lạm phát đã làm giảm sức mua của người dân."
+    },
+    {
+     "word": "recession",
+     "ipa": "/rɪˈseʃ.ən/",
+     "pos": "noun",
+     "vi": "suy thoái kinh tế",
+     "ex": "Many companies went bankrupt during the recession.",
+     "exVi": "Nhiều công ty phá sản trong thời kỳ suy thoái."
+    },
+    {
+     "word": "fiscal",
+     "ipa": "/ˈfɪs.kəl/",
+     "pos": "adj",
+     "vi": "(thuộc) tài khóa, ngân sách nhà nước",
+     "ex": "The government announced new fiscal policies.",
+     "exVi": "Chính phủ công bố chính sách tài khóa mới."
+    },
+    {
+     "word": "monetary",
+     "ipa": "/ˈmɑː.nə.ter.i/",
+     "pos": "adj",
+     "vi": "(thuộc) tiền tệ",
+     "ex": "The central bank controls monetary policy.",
+     "exVi": "Ngân hàng trung ương kiểm soát chính sách tiền tệ."
+    },
+    {
+     "word": "stagnant",
+     "ipa": "/ˈstæɡ.nənt/",
+     "pos": "adj",
+     "vi": "trì trệ",
+     "ex": "Wages have remained stagnant for years.",
+     "exVi": "Tiền lương trì trệ suốt nhiều năm."
+    },
+    {
+     "word": "fluctuate",
+     "ipa": "/ˈflʌk.tʃu.eɪt/",
+     "pos": "verb",
+     "vi": "dao động, biến động",
+     "ex": "Oil prices fluctuate constantly.",
+     "exVi": "Giá dầu biến động liên tục."
+    },
+    {
+     "word": "globalization",
+     "ipa": "/ˌɡloʊ.bəl.əˈzeɪ.ʃən/",
+     "pos": "noun",
+     "vi": "toàn cầu hóa",
+     "ex": "Globalization has connected markets around the world.",
+     "exVi": "Toàn cầu hóa đã kết nối các thị trường trên khắp thế giới."
+    },
+    {
+     "word": "tariff",
+     "ipa": "/ˈter.ɪf/",
+     "pos": "noun",
+     "vi": "thuế quan",
+     "ex": "The new tariffs on imports have raised prices.",
+     "exVi": "Thuế quan mới đối với hàng nhập khẩu đã làm tăng giá."
+    },
+    {
+     "word": "subsidy",
+     "ipa": "/ˈsʌb.sə.di/",
+     "pos": "noun",
+     "vi": "trợ cấp",
+     "ex": "Farmers receive government subsidies.",
+     "exVi": "Nông dân nhận trợ cấp của chính phủ."
+    },
+    {
+     "word": "deficit",
+     "ipa": "/ˈdef.ə.sɪt/",
+     "pos": "noun",
+     "vi": "thâm hụt",
+     "ex": "The country has a large budget deficit.",
+     "exVi": "Đất nước có mức thâm hụt ngân sách lớn."
+    },
+    {
+     "word": "surplus",
+     "ipa": "/ˈsɝː.pləs/",
+     "pos": "noun",
+     "vi": "thặng dư",
+     "ex": "Vietnam has a large trade surplus with the US.",
+     "exVi": "Việt Nam có thặng dư thương mại lớn với Mỹ."
+    },
+    {
+     "word": "commodity",
+     "ipa": "/kəˈmɑː.də.t̬i/",
+     "pos": "noun",
+     "vi": "hàng hóa cơ bản",
+     "ex": "Coffee is one of Vietnam's main export commodities.",
+     "exVi": "Cà phê là một trong những mặt hàng xuất khẩu chính của Việt Nam."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "The economy is booming.",
+     "vi": "Nền kinh tế đang bùng nổ."
+    },
+    {
+     "en": "We need to tighten our belts.",
+     "vi": "Chúng ta cần thắt lưng buộc bụng."
+    },
+    {
+     "en": "Prices are going through the roof.",
+     "vi": "Giá cả tăng chóng mặt."
+    },
+    {
+     "en": "It's a buyer's market.",
+     "vi": "Đó là thị trường có lợi cho người mua."
+    },
+    {
+     "en": "Don't put all your eggs in one basket.",
+     "vi": "Đừng bỏ hết trứng vào một giỏ."
+    }
+   ],
+   "grammar": {
+    "formulas": [
+     "Động từ → danh từ: increase → an increase, decide → a decision, grow → growth, fail → failure",
+     "Tính từ → danh từ: important → importance, stable → stability, poor → poverty",
+     "There was a + adj + N + in + X (There was a sharp rise in inflation.)",
+     "The + N + of + X + V... (The introduction of tariffs led to higher prices.)"
+    ],
+    "points": [
+     {
+      "title": "Câu nói → câu viết học thuật",
+      "body": "Prices rose sharply, so people bought less. → The sharp rise in prices led to a fall in consumption."
+     },
+     {
+      "title": "Trạng từ biến thành tính từ",
+      "body": "Khi danh từ hóa, trạng từ trở thành tính từ: increased dramatically → a dramatic increase; fell slightly → a slight fall."
+     },
+     {
+      "title": "Dùng cho IELTS Task 1",
+      "body": "There was a significant increase in exports between 2010 and 2020. / Exports experienced a gradual decline."
+     },
+     {
+      "title": "Đừng lạm dụng",
+      "body": "Quá nhiều danh từ khiến câu nặng nề, khó đọc. Kết hợp hài hòa danh từ hóa với động từ mạnh để câu vẫn rõ ràng."
+     }
+    ],
+    "examples": [
+     {
+      "en": "The government's decision to raise taxes was unpopular.",
+      "vi": "Quyết định tăng thuế của chính phủ không được lòng dân."
+     },
+     {
+      "en": "There has been a dramatic increase in the cost of living.",
+      "vi": "Chi phí sinh hoạt đã tăng mạnh."
+     },
+     {
+      "en": "The failure of several banks caused a global recession.",
+      "vi": "Sự sụp đổ của một số ngân hàng đã gây ra suy thoái toàn cầu."
+     },
+     {
+      "en": "Economic growth depends on political stability.",
+      "vi": "Tăng trưởng kinh tế phụ thuộc vào sự ổn định chính trị."
+     }
+    ],
+    "mistakes": [
+     {
+      "wrong": "There was a dramatically increase in prices.",
+      "right": "There was a dramatic increase in prices.",
+      "note": "Bổ nghĩa cho danh từ dùng tính từ."
+     },
+     {
+      "wrong": "The grow of the economy was slow.",
+      "right": "The growth of the economy was slow.",
+      "note": "Danh từ của grow là growth."
+     },
+     {
+      "wrong": "An increase of prices happened.",
+      "right": "There was an increase in prices.",
+      "note": "increase in + N; dùng There was."
+     }
+    ],
+    "exercises": [
+     {
+      "q": "There was a sharp ___ in unemployment last year.",
+      "options": [
+       "rise",
+       "rose",
+       "rising"
+      ],
+      "answer": "rise",
+      "explain": "a sharp rise = sự tăng mạnh."
+     },
+     {
+      "q": "The government's ___ to cut spending surprised economists.",
+      "options": [
+       "decide",
+       "decision",
+       "decisive"
+      ],
+      "answer": "decision",
+      "explain": "Danh từ: decision."
+     },
+     {
+      "q": "Exports showed a ___ decline over the decade.",
+      "options": [
+       "gradually",
+       "gradual",
+       "gradualness"
+      ],
+      "answer": "gradual",
+      "explain": "Bổ nghĩa cho danh từ dùng tính từ."
+     },
+     {
+      "q": "Economic ___ requires political stability.",
+      "options": [
+       "grow",
+       "growth",
+       "grown"
+      ],
+      "answer": "growth",
+      "explain": "Danh từ: growth."
+     },
+     {
+      "q": "The ___ of new tariffs led to higher prices.",
+      "options": [
+       "introduce",
+       "introduction",
+       "introducing"
+      ],
+      "answer": "introduction",
+      "explain": "Danh từ: introduction."
+     },
+     {
+      "q": "There was a significant increase ___ the price of oil.",
+      "options": [
+       "of",
+       "in",
+       "on"
+      ],
+      "answer": "in",
+      "explain": "an increase in + N."
+     },
+     {
+      "q": "The ___ of the company was caused by poor management.",
+      "options": [
+       "fail",
+       "failure",
+       "failing"
+      ],
+      "answer": "failure",
+      "explain": "Danh từ: failure."
+     }
+    ],
+    "title": "Danh từ hóa (Nominalization) trong văn viết học thuật",
+    "summary": "Danh từ hóa là biến động từ / tính từ thành danh từ để câu văn khách quan, cô đọng và trang trọng hơn. Đây là đặc trưng quan trọng nhất của văn phong học thuật và IELTS Writing."
+   },
+   "dialogue": {
+    "lines": [
+     {
+      "speaker": "A",
+      "name": "Mr. Duy",
+      "en": "Look at your sentence: \"Prices went up a lot in 2022 because oil was expensive.\" It's correct, but it sounds too informal.",
+      "vi": "Nhìn câu của em này: \"Prices went up a lot in 2022 because oil was expensive.\" Câu đúng nhưng nghe quá thân mật."
+     },
+     {
+      "speaker": "B",
+      "name": "Yến",
+      "en": "How can I make it more academic?",
+      "vi": "Làm sao để câu nghe học thuật hơn ạ?"
+     },
+     {
+      "speaker": "A",
+      "name": "Mr. Duy",
+      "en": "Try nominalization. For example: \"There was a dramatic increase in prices in 2022 due to the rising cost of oil.\"",
+      "vi": "Thử danh từ hóa xem. Ví dụ: \"There was a dramatic increase in prices in 2022 due to the rising cost of oil.\""
+     },
+     {
+      "speaker": "B",
+      "name": "Yến",
+      "en": "Oh, that sounds much better! So \"went up a lot\" becomes \"a dramatic increase\"?",
+      "vi": "Ồ, nghe hay hơn hẳn! Vậy \"went up a lot\" trở thành \"a dramatic increase\" ạ?"
+     },
+     {
+      "speaker": "A",
+      "name": "Mr. Duy",
+      "en": "Exactly. And notice that the adverb becomes an adjective. \"Fell slightly\" becomes \"a slight fall\".",
+      "vi": "Chính xác. Và chú ý trạng từ biến thành tính từ. \"Fell slightly\" thành \"a slight fall\"."
+     },
+     {
+      "speaker": "B",
+      "name": "Yến",
+      "en": "Got it. I'll rewrite the whole paragraph using more nouns.",
+      "vi": "Em hiểu rồi. Em sẽ viết lại cả đoạn với nhiều danh từ hơn."
+     },
+     {
+      "speaker": "A",
+      "name": "Mr. Duy",
+      "en": "Good, but don't overdo it. Clarity is still the most important thing.",
+      "vi": "Tốt, nhưng đừng lạm dụng. Sự rõ ràng vẫn là quan trọng nhất."
+     }
+    ],
+    "questions": [
+     {
+      "q": "What was the problem with Yen's sentence?",
+      "options": [
+       "It was grammatically wrong",
+       "It was too informal",
+       "It was too long"
+      ],
+      "answer": "It was too informal"
+     },
+     {
+      "q": "What does \"fell slightly\" become?",
+      "options": [
+       "a slightly fall",
+       "a slight fall",
+       "a fall slight"
+      ],
+      "answer": "a slight fall"
+     }
+    ],
+    "title": "Viết IELTS Task 1",
+    "setting": "Giáo viên hướng dẫn học viên viết mô tả biểu đồ."
+   },
+   "reading": {
+    "questions": [
+     {
+      "q": "Why did central banks raise interest rates?",
+      "options": [
+       "to control inflation",
+       "to increase spending",
+       "to help exporters"
+      ],
+      "answer": "to control inflation"
+     },
+     {
+      "q": "What risk does monetary tightening carry?",
+      "options": [
+       "It can slow growth and trigger a recession",
+       "It reduces taxes",
+       "It increases subsidies"
+      ],
+      "answer": "It can slow growth and trigger a recession"
+     }
+    ],
+    "title": "The price of everything",
+    "text": "In recent years, the rapid rise in the cost of living has become a major concern for households worldwide. Economists attribute this increase to several factors, including disruptions to global supply chains and the sharp fluctuation of energy prices. In response, many central banks raised interest rates in an attempt to control inflation. However, such monetary tightening carries risks: higher borrowing costs can slow economic growth and, in extreme cases, trigger a recession. Meanwhile, governments face the difficult task of protecting vulnerable citizens through subsidies without increasing their budget deficits to unsustainable levels.",
+    "vi": "Trong những năm gần đây, sự gia tăng nhanh chóng của chi phí sinh hoạt đã trở thành mối lo ngại lớn của các hộ gia đình trên toàn thế giới. Các nhà kinh tế cho rằng sự gia tăng này do nhiều yếu tố, bao gồm sự gián đoạn chuỗi cung ứng toàn cầu và biến động mạnh của giá năng lượng. Để đối phó, nhiều ngân hàng trung ương đã tăng lãi suất nhằm kiểm soát lạm phát. Tuy nhiên, việc thắt chặt tiền tệ như vậy đi kèm rủi ro: chi phí vay cao hơn có thể làm chậm tăng trưởng kinh tế và, trong trường hợp nghiêm trọng, gây ra suy thoái. Trong khi đó, các chính phủ đối mặt với nhiệm vụ khó khăn là bảo vệ những công dân dễ tổn thương thông qua trợ cấp mà không đẩy thâm hụt ngân sách lên mức không bền vững."
+   },
+   "title": "Kinh tế toàn cầu",
+   "titleEn": "Global Economy",
+   "emoji": "💹",
+   "goal": "Phân tích xu hướng kinh tế và viết học thuật bằng danh từ hóa."
+  },
+  {
+   "id": "c1-u5",
+   "words": [
+    {
+     "word": "inevitable",
+     "ipa": "/ɪˈnev.ə.t̬ə.bəl/",
+     "pos": "adj",
+     "vi": "không thể tránh khỏi",
+     "ex": "Change is an inevitable part of life.",
+     "exVi": "Thay đổi là điều tất yếu của cuộc sống.",
+     "tip": "in (không) + evitable (có thể tránh)."
+    },
+    {
+     "word": "ephemeral",
+     "ipa": "/əˈfem.ɚ.əl/",
+     "pos": "adj",
+     "vi": "phù du, chóng tàn",
+     "ex": "Fame can be ephemeral.",
+     "exVi": "Danh vọng có thể rất phù du.",
+     "tip": "Như cầu vồng: xuất hiện rồi biến mất."
+    },
+    {
+     "word": "serendipity",
+     "ipa": "/ˌser.ənˈdɪp.ə.t̬i/",
+     "pos": "noun",
+     "vi": "sự tình cờ may mắn",
+     "ex": "Meeting my wife was pure serendipity.",
+     "exVi": "Gặp vợ tôi hoàn toàn là sự tình cờ may mắn."
+    },
+    {
+     "word": "persevere",
+     "ipa": "/ˌpɝː.səˈvɪr/",
+     "pos": "verb",
+     "vi": "kiên trì",
+     "ex": "If you persevere, you will succeed.",
+     "exVi": "Nếu bạn kiên trì, bạn sẽ thành công.",
+     "tip": "perseverance = sự kiên trì."
+    },
+    {
+     "word": "compassion",
+     "ipa": "/kəmˈpæʃ.ən/",
+     "pos": "noun",
+     "vi": "lòng trắc ẩn",
+     "ex": "Show compassion to those who are suffering.",
+     "exVi": "Hãy thể hiện lòng trắc ẩn với những người đang đau khổ."
+    },
+    {
+     "word": "integrity",
+     "ipa": "/ɪnˈteɡ.rə.t̬i/",
+     "pos": "noun",
+     "vi": "sự chính trực",
+     "ex": "A leader must act with integrity.",
+     "exVi": "Một nhà lãnh đạo phải hành động chính trực."
+    },
+    {
+     "word": "profound",
+     "ipa": "/prəˈfaʊnd/",
+     "pos": "adj",
+     "vi": "sâu sắc",
+     "ex": "The book had a profound effect on me.",
+     "exVi": "Cuốn sách có ảnh hưởng sâu sắc đến tôi."
+    },
+    {
+     "word": "contemplate",
+     "ipa": "/ˈkɑːn.t̬əm.pleɪt/",
+     "pos": "verb",
+     "vi": "suy ngẫm; cân nhắc",
+     "ex": "She sat by the lake, contemplating her future.",
+     "exVi": "Cô ấy ngồi bên hồ, suy ngẫm về tương lai."
+    },
+    {
+     "word": "mundane",
+     "ipa": "/mʌnˈdeɪn/",
+     "pos": "adj",
+     "vi": "tầm thường, thường nhật",
+     "ex": "Even mundane tasks can be meaningful.",
+     "exVi": "Ngay cả những việc thường nhật cũng có thể ý nghĩa."
+    },
+    {
+     "word": "transcend",
+     "ipa": "/trænˈsend/",
+     "pos": "verb",
+     "vi": "vượt lên, vượt qua",
+     "ex": "Great music transcends language and culture.",
+     "exVi": "Âm nhạc vĩ đại vượt lên mọi ngôn ngữ và văn hóa.",
+     "tip": "trans (vượt) + scend (leo)."
+    },
+    {
+     "word": "paradox",
+     "ipa": "/ˈper.ə.dɑːks/",
+     "pos": "noun",
+     "vi": "nghịch lý",
+     "ex": "It's a paradox that the more choices we have, the less happy we feel.",
+     "exVi": "Thật nghịch lý khi càng có nhiều lựa chọn, ta lại càng thấy kém hạnh phúc."
+    },
+    {
+     "word": "solitude",
+     "ipa": "/ˈsɑː.lə.tuːd/",
+     "pos": "noun",
+     "vi": "sự cô tịch, ở một mình",
+     "ex": "Some people enjoy solitude more than company.",
+     "exVi": "Một số người thích ở một mình hơn có người bên cạnh.",
+     "tip": "solitude (tích cực) ≠ loneliness (cô đơn)."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "Life is what you make it.",
+     "vi": "Cuộc sống là do bạn tạo nên."
+    },
+    {
+     "en": "Every cloud has a silver lining.",
+     "vi": "Trong cái rủi có cái may."
+    },
+    {
+     "en": "This too shall pass.",
+     "vi": "Rồi mọi chuyện cũng sẽ qua."
+    },
+    {
+     "en": "Live in the moment.",
+     "vi": "Hãy sống cho hiện tại."
+    },
+    {
+     "en": "What goes around comes around.",
+     "vi": "Gieo nhân nào gặt quả nấy."
+    }
+   ],
+   "grammar": {
+    "formulas": [
+     "It's (high / about) time + S + V2: It's time we changed our habits.",
+     "S + would rather + S2 + V2 (muốn người khác làm gì): I'd rather you didn't smoke here.",
+     "S + would rather + V nguyên mẫu (cùng chủ ngữ): I'd rather stay at home.",
+     "as if / as though + S + V2 (không có thật): He talks as if he knew everything.",
+     "would rather + S2 + had V3 (tiếc về quá khứ): I'd rather you had told me earlier."
+    ],
+    "points": [
+     {
+      "title": "It's time + quá khứ",
+      "body": "Diễn tả việc lẽ ra nên làm từ lâu: It's high time we took climate change seriously. Không có chủ ngữ riêng thì dùng It's time to V: It's time to go."
+     },
+     {
+      "title": "would rather: hai trường hợp",
+      "body": "Cùng chủ ngữ → V nguyên mẫu: I'd rather walk. Khác chủ ngữ → quá khứ đơn: I'd rather you walked."
+     },
+     {
+      "title": "as if / as though",
+      "body": "Có thể thật → hiện tại: It looks as if it's going to rain. Không có thật → quá khứ: She acts as if she were the boss (nhưng cô ấy không phải sếp)."
+     },
+     {
+      "title": "were cho mọi chủ ngữ",
+      "body": "Trong văn trang trọng: He behaves as if he were a king. / If only I were younger."
+     }
+    ],
+    "examples": [
+     {
+      "en": "It's time we stopped chasing ephemeral pleasures.",
+      "vi": "Đã đến lúc chúng ta ngừng chạy theo những thú vui phù du."
+     },
+     {
+      "en": "I'd rather you didn't tell anyone about this.",
+      "vi": "Tôi muốn bạn đừng kể với ai chuyện này."
+     },
+     {
+      "en": "He spends money as if there were no tomorrow.",
+      "vi": "Anh ta tiêu tiền như thể không có ngày mai."
+     },
+     {
+      "en": "I'd rather live a simple life than a stressful one.",
+      "vi": "Tôi thà sống cuộc đời giản dị còn hơn cuộc đời căng thẳng."
+     }
+    ],
+    "mistakes": [
+     {
+      "wrong": "It's time we change our lifestyle.",
+      "right": "It's time we changed our lifestyle.",
+      "note": "Sau It's time + S dùng quá khứ."
+     },
+     {
+      "wrong": "I'd rather you don't call me so late.",
+      "right": "I'd rather you didn't call me so late.",
+      "note": "Khác chủ ngữ → quá khứ."
+     },
+     {
+      "wrong": "I'd rather to stay home.",
+      "right": "I'd rather stay home.",
+      "note": "would rather + V nguyên mẫu, không có to."
+     }
+    ],
+    "exercises": [
+     {
+      "q": "It's high time we ___ action on climate change.",
+      "options": [
+       "take",
+       "took",
+       "will take"
+      ],
+      "answer": "took",
+      "explain": "It's high time + S + V2."
+     },
+     {
+      "q": "I'd rather you ___ smoke in the house.",
+      "options": [
+       "don't",
+       "didn't",
+       "won't"
+      ],
+      "answer": "didn't",
+      "explain": "would rather + S2 + V2."
+     },
+     {
+      "q": "He talks as if he ___ the answer to everything.",
+      "options": [
+       "knows",
+       "knew",
+       "has known"
+      ],
+      "answer": "knew",
+      "explain": "Không có thật → quá khứ."
+     },
+     {
+      "q": "I'd rather ___ alone than with the wrong people.",
+      "options": [
+       "to be",
+       "be",
+       "being"
+      ],
+      "answer": "be",
+      "explain": "Cùng chủ ngữ → V nguyên mẫu."
+     },
+     {
+      "q": "It's time ___ go home. It's late.",
+      "options": [
+       "to",
+       "that",
+       "for"
+      ],
+      "answer": "to",
+      "explain": "It's time to V."
+     },
+     {
+      "q": "She looked at me as though I ___ crazy.",
+      "options": [
+       "am",
+       "were",
+       "will be"
+      ],
+      "answer": "were",
+      "explain": "as though + were."
+     },
+     {
+      "q": "I'd rather you ___ me the truth yesterday.",
+      "options": [
+       "told",
+       "had told",
+       "tell"
+      ],
+      "answer": "had told",
+      "explain": "Tiếc về quá khứ → had + V3."
+     }
+    ],
+    "title": "Quá khứ giả định: It's time, would rather, as if",
+    "summary": "Ngoài câu điều kiện và wish, tiếng Anh còn dùng thì quá khứ để diễn tả điều không có thật hoặc mong muốn ở hiện tại sau một số cấu trúc đặc biệt: It's (high) time, would rather, as if / as though."
+   },
+   "dialogue": {
+    "lines": [
+     {
+      "speaker": "A",
+      "name": "Khánh",
+      "en": "You look so peaceful these days. What's changed?",
+      "vi": "Dạo này trông bạn bình yên thế. Có gì thay đổi vậy?"
+     },
+     {
+      "speaker": "B",
+      "name": "Olivia",
+      "en": "I quit my job in the city. I realised it was time I stopped living as if work were the only thing that mattered.",
+      "vi": "Mình nghỉ việc ở thành phố rồi. Mình nhận ra đã đến lúc ngừng sống như thể công việc là điều duy nhất quan trọng."
+     },
+     {
+      "speaker": "A",
+      "name": "Khánh",
+      "en": "Wow, that's a big decision. Don't you miss the money?",
+      "vi": "Chà, quyết định lớn đấy. Bạn không tiếc tiền à?"
+     },
+     {
+      "speaker": "B",
+      "name": "Olivia",
+      "en": "Sometimes. But I'd rather have less money and more time. Success felt so ephemeral.",
+      "vi": "Thỉnh thoảng. Nhưng mình thà có ít tiền và nhiều thời gian hơn. Thành công khi ấy cảm giác thật phù du."
+     },
+     {
+      "speaker": "A",
+      "name": "Khánh",
+      "en": "I envy you. I keep telling myself it's time I made a change, but I never do.",
+      "vi": "Mình ghen tị với bạn. Mình cứ tự nhủ đã đến lúc phải thay đổi, nhưng chẳng bao giờ làm."
+     },
+     {
+      "speaker": "B",
+      "name": "Olivia",
+      "en": "Change is scary, but it's inevitable. Start small. Even mundane things like walking can help you think clearly.",
+      "vi": "Thay đổi thì đáng sợ, nhưng nó là điều tất yếu. Bắt đầu từ việc nhỏ thôi. Ngay cả những việc thường nhật như đi bộ cũng giúp bạn suy nghĩ thông suốt."
+     }
+    ],
+    "questions": [
+     {
+      "q": "Why did Olivia quit her job?",
+      "options": [
+       "She was fired",
+       "She didn't want work to be the only thing that mattered",
+       "She moved abroad"
+      ],
+      "answer": "She didn't want work to be the only thing that mattered"
+     },
+     {
+      "q": "What would Olivia rather have?",
+      "options": [
+       "more money and less time",
+       "less money and more time",
+       "a bigger house"
+      ],
+      "answer": "less money and more time"
+     }
+    ],
+    "title": "Sống chậm",
+    "setting": "Hai người bạn lâu ngày gặp lại."
+   },
+   "reading": {
+    "questions": [
+     {
+      "q": "What happens when people have too many options?",
+      "options": [
+       "They feel happier",
+       "They feel anxious and less satisfied",
+       "They choose faster"
+      ],
+      "answer": "They feel anxious and less satisfied"
+     },
+     {
+      "q": "What is a \"satisficer\"?",
+      "options": [
+       "someone who always seeks the best",
+       "someone who chooses something good enough",
+       "someone who never chooses"
+      ],
+      "answer": "someone who chooses something good enough"
+     }
+    ],
+    "title": "The paradox of choice",
+    "text": "We often assume that more choice leads to greater happiness. Yet psychologist Barry Schwartz argues the opposite. In his book \"The Paradox of Choice\", he explains that when faced with too many options, people often feel anxious, struggle to decide and are less satisfied with their final choice. We behave as if the perfect option existed, and constantly wonder whether we could have chosen better. Schwartz suggests that it is time we learned to be \"satisficers\" – people who choose something good enough – rather than \"maximisers\" who always seek the best. Paradoxically, accepting imperfection may be the key to contentment.",
+    "vi": "Chúng ta thường cho rằng càng nhiều lựa chọn thì càng hạnh phúc. Thế nhưng nhà tâm lý học Barry Schwartz lại lập luận điều ngược lại. Trong cuốn sách \"Nghịch lý của sự lựa chọn\", ông giải thích rằng khi đối mặt với quá nhiều phương án, con người thường cảm thấy lo lắng, khó quyết định và kém hài lòng với lựa chọn cuối cùng. Chúng ta hành xử như thể phương án hoàn hảo tồn tại, và liên tục băn khoăn liệu mình có thể chọn tốt hơn không. Schwartz cho rằng đã đến lúc chúng ta học cách trở thành người \"chấp nhận đủ tốt\" thay vì người \"tối đa hóa\" luôn tìm kiếm thứ tốt nhất. Thật nghịch lý, chấp nhận sự không hoàn hảo có thể là chìa khóa của sự mãn nguyện."
+   },
+   "title": "Triết lý sống",
+   "titleEn": "Philosophy of Life",
+   "emoji": "🌌",
+   "goal": "Bàn về ý nghĩa cuộc sống và dùng cấu trúc quá khứ giả định."
+  },
+  {
+   "id": "c1-u6",
+   "words": [
+    {
+     "word": "ethical",
+     "ipa": "/ˈeθ.ɪ.kəl/",
+     "pos": "adj",
+     "vi": "(thuộc) đạo đức",
+     "ex": "Is it ethical to test products on animals?",
+     "exVi": "Thử nghiệm sản phẩm trên động vật có hợp đạo đức không?",
+     "tip": "ethics = đạo đức học."
+    },
+    {
+     "word": "controversy",
+     "ipa": "/ˈkɑːn.trə.vɝː.si/",
+     "pos": "noun",
+     "vi": "sự tranh cãi",
+     "ex": "The new law caused a lot of controversy.",
+     "exVi": "Luật mới gây ra nhiều tranh cãi.",
+     "tip": "controversial = gây tranh cãi."
+    },
+    {
+     "word": "genetic",
+     "ipa": "/dʒəˈnet̬.ɪk/",
+     "pos": "adj",
+     "vi": "(thuộc) di truyền, gen",
+     "ex": "Some diseases are caused by genetic factors.",
+     "exVi": "Một số bệnh do yếu tố di truyền gây ra."
+    },
+    {
+     "word": "clone",
+     "ipa": "/kloʊn/",
+     "pos": "verb",
+     "vi": "nhân bản vô tính",
+     "ex": "Dolly the sheep was the first mammal to be cloned.",
+     "exVi": "Cừu Dolly là động vật có vú đầu tiên được nhân bản vô tính."
+    },
+    {
+     "word": "manipulate",
+     "ipa": "/məˈnɪp.jə.leɪt/",
+     "pos": "verb",
+     "vi": "thao túng; can thiệp",
+     "ex": "Scientists can now manipulate genes.",
+     "exVi": "Các nhà khoa học giờ đây có thể can thiệp vào gen."
+    },
+    {
+     "word": "consent",
+     "ipa": "/kənˈsent/",
+     "pos": "noun",
+     "vi": "sự đồng ý, chấp thuận",
+     "ex": "Patients must give their consent before surgery.",
+     "exVi": "Bệnh nhân phải đồng ý trước khi phẫu thuật.",
+     "tip": "informed consent = sự đồng ý sau khi được thông tin đầy đủ."
+    },
+    {
+     "word": "dilemma",
+     "ipa": "/dɪˈlem.ə/",
+     "pos": "noun",
+     "vi": "tình thế khó xử",
+     "ex": "Doctors often face ethical dilemmas.",
+     "exVi": "Bác sĩ thường đối mặt với những tình thế khó xử về đạo đức.",
+     "tip": "di (hai): kẹt giữa hai lựa chọn."
+    },
+    {
+     "word": "unprecedented",
+     "ipa": "/ʌnˈpres.ə.den.t̬ɪd/",
+     "pos": "adj",
+     "vi": "chưa từng có",
+     "ex": "AI is developing at an unprecedented speed.",
+     "exVi": "AI đang phát triển với tốc độ chưa từng có."
+    },
+    {
+     "word": "implication",
+     "ipa": "/ˌɪm.pləˈkeɪ.ʃən/",
+     "pos": "noun",
+     "vi": "hệ quả, hàm ý",
+     "ex": "We must consider the implications of this technology.",
+     "exVi": "Chúng ta phải cân nhắc những hệ quả của công nghệ này."
+    },
+    {
+     "word": "regulate",
+     "ipa": "/ˈreɡ.jə.leɪt/",
+     "pos": "verb",
+     "vi": "điều tiết, quản lý bằng luật",
+     "ex": "Governments struggle to regulate new technologies.",
+     "exVi": "Các chính phủ chật vật trong việc quản lý công nghệ mới."
+    },
+    {
+     "word": "pioneer",
+     "ipa": "/ˌpaɪəˈnɪr/",
+     "pos": "noun",
+     "vi": "người tiên phong",
+     "ex": "Marie Curie was a pioneer in radioactivity research.",
+     "exVi": "Marie Curie là người tiên phong trong nghiên cứu phóng xạ."
+    },
+    {
+     "word": "scrutiny",
+     "ipa": "/ˈskruː.tən.i/",
+     "pos": "noun",
+     "vi": "sự giám sát kỹ lưỡng",
+     "ex": "The company's practices came under public scrutiny.",
+     "exVi": "Hoạt động của công ty bị công chúng giám sát chặt chẽ."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "It's a grey area.",
+     "vi": "Đó là vùng xám (khó phân định đúng sai)."
+    },
+    {
+     "en": "Where do we draw the line?",
+     "vi": "Chúng ta đặt giới hạn ở đâu?"
+    },
+    {
+     "en": "It opens a can of worms.",
+     "vi": "Nó mở ra một mớ rắc rối."
+    },
+    {
+     "en": "Just because we can, doesn't mean we should.",
+     "vi": "Có thể làm không có nghĩa là nên làm."
+    },
+    {
+     "en": "The end doesn't justify the means.",
+     "vi": "Mục đích không biện minh cho phương tiện."
+    }
+   ],
+   "grammar": {
+    "formulas": [
+     "Động từ khuyết thiếu: may, might, could (This may lead to...)",
+     "Động từ: seem, appear, tend, suggest, indicate (The results suggest that...)",
+     "Trạng từ: possibly, probably, arguably, relatively, largely (This is arguably the most important...)",
+     "Cụm: It is likely / possible that... · There is evidence to suggest that... · to some extent"
+    ],
+    "points": [
+     {
+      "title": "Tránh khẳng định tuyệt đối",
+      "body": "\"Social media causes depression\" (quá chắc chắn) → \"Excessive use of social media may contribute to depression.\""
+     },
+     {
+      "title": "seem / appear / tend",
+      "body": "Young people tend to be more open to new technologies. / The treatment appears to be effective."
+     },
+     {
+      "title": "Báo cáo kết quả nghiên cứu",
+      "body": "The data suggests / indicates / implies that... Dùng thay cho \"proves\" khi chưa thật chắc chắn."
+     },
+     {
+      "title": "Không rào đón quá mức",
+      "body": "\"It might possibly perhaps be...\" – quá nhiều từ rào đón khiến câu yếu và mơ hồ. Chọn một mức độ phù hợp."
+     }
+    ],
+    "examples": [
+     {
+      "en": "Genetic engineering could potentially eliminate many diseases.",
+      "vi": "Kỹ thuật di truyền có khả năng loại bỏ nhiều bệnh tật."
+     },
+     {
+      "en": "The evidence appears to support this hypothesis.",
+      "vi": "Bằng chứng có vẻ ủng hộ giả thuyết này."
+     },
+     {
+      "en": "It is likely that stricter regulations will be introduced.",
+      "vi": "Có khả năng các quy định chặt chẽ hơn sẽ được ban hành."
+     },
+     {
+      "en": "This is arguably the greatest ethical dilemma of our time.",
+      "vi": "Đây có thể nói là tình thế khó xử về đạo đức lớn nhất thời đại chúng ta."
+     }
+    ],
+    "mistakes": [
+     {
+      "wrong": "Cloning will definitely destroy society.",
+      "right": "Cloning could have serious consequences for society.",
+      "note": "Tránh khẳng định tuyệt đối không có căn cứ."
+     },
+     {
+      "wrong": "The study proves that coffee is healthy.",
+      "right": "The study suggests that coffee may be beneficial.",
+      "note": "Một nghiên cứu hiếm khi \"chứng minh\" tuyệt đối."
+     },
+     {
+      "wrong": "People tend being skeptical.",
+      "right": "People tend to be skeptical.",
+      "note": "tend + to V."
+     }
+    ],
+    "exercises": [
+     {
+      "q": "The results ___ that the new drug is effective.",
+      "options": [
+       "prove definitely",
+       "suggest",
+       "are proving"
+      ],
+      "answer": "suggest",
+      "explain": "Rào đón: suggest."
+     },
+     {
+      "q": "Young people ___ to adapt quickly to new technology.",
+      "options": [
+       "tend",
+       "seem being",
+       "are tend"
+      ],
+      "answer": "tend",
+      "explain": "tend + to V."
+     },
+     {
+      "q": "This technology ___ lead to unexpected problems.",
+      "options": [
+       "will certainly",
+       "could",
+       "must"
+      ],
+      "answer": "could",
+      "explain": "Rào đón khả năng: could."
+     },
+     {
+      "q": "It is ___ that the law will be changed next year.",
+      "options": [
+       "likely",
+       "probably",
+       "maybe"
+      ],
+      "answer": "likely",
+      "explain": "It is likely that..."
+     },
+     {
+      "q": "The treatment ___ to have few side effects.",
+      "options": [
+       "appears",
+       "looks like",
+       "is seeming"
+      ],
+      "answer": "appears",
+      "explain": "appear + to V."
+     },
+     {
+      "q": "This is ___ the most controversial issue in modern science.",
+      "options": [
+       "arguably",
+       "argue",
+       "arguable"
+      ],
+      "answer": "arguably",
+      "explain": "Trạng từ rào đón: arguably."
+     },
+     {
+      "q": "To some ___, the critics are right.",
+      "options": [
+       "extent",
+       "degree of",
+       "part"
+      ],
+      "answer": "extent",
+      "explain": "to some extent = ở một mức độ nào đó."
+     }
+    ],
+    "title": "Ngôn ngữ rào đón (Hedging)",
+    "summary": "Trong văn học thuật, người viết hiếm khi khẳng định tuyệt đối. Ngôn ngữ rào đón giúp thể hiện mức độ chắc chắn phù hợp, tránh khái quát hóa quá mức và thể hiện tư duy khoa học thận trọng – yếu tố quan trọng để đạt band cao."
+   },
+   "dialogue": {
+    "lines": [
+     {
+      "speaker": "A",
+      "name": "Phương",
+      "en": "Gene editing could potentially cure hundreds of genetic diseases. I think it's one of the greatest breakthroughs in history.",
+      "vi": "Chỉnh sửa gen có tiềm năng chữa hàng trăm bệnh di truyền. Tôi nghĩ đó là một trong những bước đột phá vĩ đại nhất lịch sử."
+     },
+     {
+      "speaker": "B",
+      "name": "Marcus",
+      "en": "I agree it's promising. However, the ethical implications are enormous. Where do we draw the line?",
+      "vi": "Tôi đồng ý nó đầy hứa hẹn. Tuy nhiên, hệ quả đạo đức là vô cùng lớn. Chúng ta đặt giới hạn ở đâu?"
+     },
+     {
+      "speaker": "A",
+      "name": "Phương",
+      "en": "You mean \"designer babies\"?",
+      "vi": "Ý anh là \"em bé thiết kế\"?"
+     },
+     {
+      "speaker": "B",
+      "name": "Marcus",
+      "en": "Exactly. If parents can choose their children's intelligence or appearance, it may lead to new forms of inequality.",
+      "vi": "Chính xác. Nếu cha mẹ có thể chọn trí thông minh hay ngoại hình cho con, điều đó có thể dẫn đến những dạng bất bình đẳng mới."
+     },
+     {
+      "speaker": "A",
+      "name": "Phương",
+      "en": "That's a fair concern. But it seems unlikely that governments would allow that without strict regulation.",
+      "vi": "Đó là mối lo hợp lý. Nhưng có vẻ khó có khả năng chính phủ cho phép điều đó mà không có quy định chặt chẽ."
+     },
+     {
+      "speaker": "B",
+      "name": "Marcus",
+      "en": "Perhaps. Just because we can do something doesn't mean we should.",
+      "vi": "Có lẽ vậy. Có thể làm không có nghĩa là nên làm."
+     }
+    ],
+    "questions": [
+     {
+      "q": "What does Phuong think gene editing could do?",
+      "options": [
+       "create designer babies",
+       "cure many genetic diseases",
+       "replace doctors"
+      ],
+      "answer": "cure many genetic diseases"
+     },
+     {
+      "q": "What is Marcus worried about?",
+      "options": [
+       "the cost of research",
+       "new forms of inequality",
+       "the speed of computers"
+      ],
+      "answer": "new forms of inequality"
+     }
+    ],
+    "title": "Tranh luận về chỉnh sửa gen",
+    "setting": "Hai nghiên cứu sinh trao đổi sau buổi seminar."
+   },
+   "reading": {
+    "questions": [
+     {
+      "q": "What could AI be used for without proper regulation?",
+      "options": [
+       "to manipulate public opinion",
+       "to cure all diseases",
+       "to create jobs"
+      ],
+      "answer": "to manipulate public opinion"
+     },
+     {
+      "q": "What do most researchers appear to agree on?",
+      "options": [
+       "AI should be banned",
+       "International cooperation is needed",
+       "Rules should be very strict"
+      ],
+      "answer": "International cooperation is needed"
+     }
+    ],
+    "title": "Who should control AI?",
+    "text": "Artificial intelligence is developing at an unprecedented pace, raising profound ethical questions. Some experts argue that AI could bring enormous benefits, from earlier disease detection to more efficient energy use. Others warn that, without proper regulation, it may be used to manipulate public opinion or to make important decisions without human oversight. One central dilemma is accountability: if an AI system makes a harmful mistake, it is not entirely clear who should be held responsible. Most researchers appear to agree that international cooperation is needed, although there is considerable disagreement about how strict such rules should be.",
+    "vi": "Trí tuệ nhân tạo đang phát triển với tốc độ chưa từng có, đặt ra những câu hỏi đạo đức sâu sắc. Một số chuyên gia lập luận rằng AI có thể mang lại lợi ích to lớn, từ phát hiện bệnh sớm hơn đến sử dụng năng lượng hiệu quả hơn. Những người khác cảnh báo rằng, nếu không có quy định phù hợp, nó có thể bị dùng để thao túng dư luận hoặc đưa ra quyết định quan trọng mà không có sự giám sát của con người. Một tình thế khó xử trọng tâm là trách nhiệm giải trình: nếu một hệ thống AI gây ra sai lầm có hại, không hoàn toàn rõ ai phải chịu trách nhiệm. Hầu hết các nhà nghiên cứu dường như đồng ý rằng cần có hợp tác quốc tế, dù còn nhiều bất đồng về mức độ nghiêm ngặt của các quy định như vậy."
+   },
+   "title": "Khoa học & Đạo đức",
+   "titleEn": "Science & Ethics",
+   "emoji": "🧬",
+   "goal": "Thảo luận tranh cãi đạo đức và viết thận trọng bằng ngôn ngữ rào đón."
+  },
+  {
+   "id": "c1-u7",
+   "words": [
+    {
+     "word": "metaphor",
+     "ipa": "/ˈmet̬.ə.fɔːr/",
+     "pos": "noun",
+     "vi": "phép ẩn dụ",
+     "ex": "\"Life is a journey\" is a common metaphor.",
+     "exVi": "\"Cuộc đời là một hành trình\" là một phép ẩn dụ phổ biến."
+    },
+    {
+     "word": "aesthetic",
+     "ipa": "/esˈθet̬.ɪk/",
+     "pos": "adj",
+     "vi": "(thuộc) thẩm mỹ",
+     "ex": "The building has great aesthetic value.",
+     "exVi": "Tòa nhà có giá trị thẩm mỹ lớn."
+    },
+    {
+     "word": "masterpiece",
+     "ipa": "/ˈmæs.tɚ.piːs/",
+     "pos": "noun",
+     "vi": "kiệt tác",
+     "ex": "The Tale of Kieu is a masterpiece of Vietnamese literature.",
+     "exVi": "Truyện Kiều là kiệt tác của văn học Việt Nam."
+    },
+    {
+     "word": "depict",
+     "ipa": "/dɪˈpɪkt/",
+     "pos": "verb",
+     "vi": "miêu tả, khắc họa",
+     "ex": "The painting depicts life in a fishing village.",
+     "exVi": "Bức tranh khắc họa cuộc sống ở một làng chài."
+    },
+    {
+     "word": "evoke",
+     "ipa": "/ɪˈvoʊk/",
+     "pos": "verb",
+     "vi": "gợi lên",
+     "ex": "The song evokes memories of my childhood.",
+     "exVi": "Bài hát gợi lên ký ức tuổi thơ của tôi."
+    },
+    {
+     "word": "genre",
+     "ipa": "/ˈʒɑːn.rə/",
+     "pos": "noun",
+     "vi": "thể loại",
+     "ex": "Science fiction is my favourite genre.",
+     "exVi": "Khoa học viễn tưởng là thể loại tôi yêu thích.",
+     "tip": "Gốc tiếng Pháp."
+    },
+    {
+     "word": "narrative",
+     "ipa": "/ˈner.ə.t̬ɪv/",
+     "pos": "noun",
+     "vi": "lối kể chuyện, câu chuyện",
+     "ex": "The film has a powerful narrative.",
+     "exVi": "Bộ phim có cách kể chuyện mạnh mẽ."
+    },
+    {
+     "word": "critique",
+     "ipa": "/krɪˈtiːk/",
+     "pos": "noun",
+     "vi": "bài phê bình",
+     "ex": "She wrote a detailed critique of the novel.",
+     "exVi": "Cô ấy viết một bài phê bình chi tiết về cuốn tiểu thuyết."
+    },
+    {
+     "word": "abstract",
+     "ipa": "/ˈæb.strækt/",
+     "pos": "adj",
+     "vi": "trừu tượng",
+     "ex": "I don't really understand abstract art.",
+     "exVi": "Tôi không thực sự hiểu nghệ thuật trừu tượng."
+    },
+    {
+     "word": "vivid",
+     "ipa": "/ˈvɪv.ɪd/",
+     "pos": "adj",
+     "vi": "sống động",
+     "ex": "The author gives a vivid description of the war.",
+     "exVi": "Tác giả miêu tả cuộc chiến một cách sống động."
+    },
+    {
+     "word": "symbolism",
+     "ipa": "/ˈsɪm.bəl.ɪ.zəm/",
+     "pos": "noun",
+     "vi": "tính biểu tượng",
+     "ex": "The novel is full of religious symbolism.",
+     "exVi": "Cuốn tiểu thuyết đầy tính biểu tượng tôn giáo."
+    },
+    {
+     "word": "protagonist",
+     "ipa": "/proʊˈtæɡ.ən.ɪst/",
+     "pos": "noun",
+     "vi": "nhân vật chính",
+     "ex": "The protagonist is a young girl searching for her mother.",
+     "exVi": "Nhân vật chính là một cô gái trẻ đi tìm mẹ."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "Beauty is in the eye of the beholder.",
+     "vi": "Vẻ đẹp nằm trong mắt người nhìn."
+    },
+    {
+     "en": "It left me speechless.",
+     "vi": "Nó khiến tôi không nói nên lời."
+    },
+    {
+     "en": "It really struck a chord with me.",
+     "vi": "Nó thực sự chạm đến trái tim tôi."
+    },
+    {
+     "en": "Art imitates life.",
+     "vi": "Nghệ thuật mô phỏng cuộc sống."
+    },
+    {
+     "en": "It's not my cup of tea.",
+     "vi": "Đó không phải gu của tôi."
+    }
+   ],
+   "grammar": {
+    "formulas": [
+     "Động từ + danh từ: make a decision, do research, pay attention, draw a conclusion, raise awareness",
+     "Tính từ + danh từ: heavy rain, strong coffee, a vivid description, a powerful narrative, a fierce debate",
+     "Trạng từ + tính từ: highly recommended, deeply moving, bitterly disappointed, widely acclaimed",
+     "Động từ + trạng từ: strongly believe, deeply regret, vaguely remember"
+    ],
+    "points": [
+     {
+      "title": "make hay do?",
+      "body": "make: tạo ra cái mới (make a decision, make progress, make an effort, make a mistake). do: thực hiện hoạt động / công việc (do research, do homework, do damage, do your best)."
+     },
+     {
+      "title": "Tính từ chỉ mức độ",
+      "body": "Người bản xứ nói heavy rain (không nói strong rain), strong wind, heavy traffic, high price, deep sleep."
+     },
+     {
+      "title": "Collocation trong nghệ thuật",
+      "body": "widely acclaimed (được hoan nghênh rộng rãi), critically acclaimed, deeply moving, a stunning performance, capture the essence of."
+     },
+     {
+      "title": "Học theo cụm",
+      "body": "Khi học từ mới, hãy ghi cả cụm đi kèm: evoke + memories / emotions; depict + a scene; convey + a message."
+     }
+    ],
+    "examples": [
+     {
+      "en": "The film received widely positive reviews.",
+      "vi": "Bộ phim nhận được đánh giá tích cực rộng rãi."
+     },
+     {
+      "en": "Her performance was deeply moving.",
+      "vi": "Màn trình diễn của cô ấy vô cùng cảm động."
+     },
+     {
+      "en": "The novel raises awareness of social inequality.",
+      "vi": "Cuốn tiểu thuyết nâng cao nhận thức về bất bình đẳng xã hội."
+     },
+     {
+      "en": "The painter captures the essence of rural life.",
+      "vi": "Họa sĩ nắm bắt được cái hồn của cuộc sống nông thôn."
+     }
+    ],
+    "mistakes": [
+     {
+      "wrong": "I did a mistake in my essay.",
+      "right": "I made a mistake in my essay.",
+      "note": "make a mistake."
+     },
+     {
+      "wrong": "There was strong rain last night.",
+      "right": "There was heavy rain last night.",
+      "note": "heavy rain."
+     },
+     {
+      "wrong": "The book is high recommended.",
+      "right": "The book is highly recommended.",
+      "note": "Trạng từ highly bổ nghĩa cho V3."
+     }
+    ],
+    "exercises": [
+     {
+      "q": "The critics ___ the conclusion that the film was a masterpiece.",
+      "options": [
+       "made",
+       "drew",
+       "did"
+      ],
+      "answer": "drew",
+      "explain": "draw a conclusion."
+     },
+     {
+      "q": "She ___ a lot of research before writing the novel.",
+      "options": [
+       "made",
+       "did",
+       "took"
+      ],
+      "answer": "did",
+      "explain": "do research."
+     },
+     {
+      "q": "The documentary aims to ___ awareness of climate change.",
+      "options": [
+       "rise",
+       "raise",
+       "grow"
+      ],
+      "answer": "raise",
+      "explain": "raise awareness."
+     },
+     {
+      "q": "His latest book has been ___ acclaimed by critics.",
+      "options": [
+       "widely",
+       "largely",
+       "hugely big"
+      ],
+      "answer": "widely",
+      "explain": "widely acclaimed."
+     },
+     {
+      "q": "The final scene was ___ moving.",
+      "options": [
+       "deeply",
+       "heavily",
+       "strongly"
+      ],
+      "answer": "deeply",
+      "explain": "deeply moving."
+     },
+     {
+      "q": "We had to drive slowly because of the ___ rain.",
+      "options": [
+       "strong",
+       "heavy",
+       "big"
+      ],
+      "answer": "heavy",
+      "explain": "heavy rain."
+     },
+     {
+      "q": "I ___ regret not visiting the exhibition.",
+      "options": [
+       "deeply",
+       "highly",
+       "heavily"
+      ],
+      "answer": "deeply",
+      "explain": "deeply regret."
+     }
+    ],
+    "title": "Kết hợp từ nâng cao (Collocations)",
+    "summary": "Collocation là những từ \"hay đi cùng nhau\" một cách tự nhiên theo thói quen của người bản xứ. Dùng đúng collocation là yếu tố then chốt giúp tiếng Anh nghe tự nhiên và đạt điểm cao ở tiêu chí Lexical Resource."
+   },
+   "dialogue": {
+    "lines": [
+     {
+      "speaker": "A",
+      "name": "Ngân",
+      "en": "So, what did you think of the film?",
+      "vi": "Bạn thấy bộ phim thế nào?"
+     },
+     {
+      "speaker": "B",
+      "name": "Tom",
+      "en": "Honestly, it left me speechless. The cinematography was stunning, and the narrative was incredibly powerful.",
+      "vi": "Thật lòng, nó khiến mình không nói nên lời. Phần quay phim tuyệt đẹp và lối kể chuyện vô cùng mạnh mẽ."
+     },
+     {
+      "speaker": "A",
+      "name": "Ngân",
+      "en": "I agree. The protagonist's journey really struck a chord with me. It evoked memories of my grandmother.",
+      "vi": "Mình đồng ý. Hành trình của nhân vật chính thực sự chạm đến mình. Nó gợi lại ký ức về bà mình."
+     },
+     {
+      "speaker": "B",
+      "name": "Tom",
+      "en": "Did you notice the symbolism of the river? It seemed to represent time passing.",
+      "vi": "Bạn có để ý tính biểu tượng của dòng sông không? Nó dường như tượng trưng cho thời gian trôi."
+     },
+     {
+      "speaker": "A",
+      "name": "Ngân",
+      "en": "Yes! Some critics found the ending too abstract, though.",
+      "vi": "Có! Tuy nhiên một số nhà phê bình thấy cái kết quá trừu tượng."
+     },
+     {
+      "speaker": "B",
+      "name": "Tom",
+      "en": "Art is subjective. Beauty is in the eye of the beholder. I'd highly recommend it to anyone.",
+      "vi": "Nghệ thuật mang tính chủ quan. Vẻ đẹp nằm trong mắt người nhìn. Mình rất khuyên mọi người nên xem."
+     }
+    ],
+    "questions": [
+     {
+      "q": "What did the protagonist's journey remind Ngan of?",
+      "options": [
+       "her grandmother",
+       "her childhood home",
+       "a river trip"
+      ],
+      "answer": "her grandmother"
+     },
+     {
+      "q": "What did some critics think about the ending?",
+      "options": [
+       "It was too abstract",
+       "It was too happy",
+       "It was too long"
+      ],
+      "answer": "It was too abstract"
+     }
+    ],
+    "title": "Bàn về một bộ phim",
+    "setting": "Hai người bạn vừa xem phim xong."
+   },
+   "reading": {
+    "questions": [
+     {
+      "q": "How may storytelling have helped our ancestors?",
+      "options": [
+       "by entertaining children",
+       "by passing on knowledge and strengthening bonds",
+       "by making them rich"
+      ],
+      "answer": "by passing on knowledge and strengthening bonds"
+     },
+     {
+      "q": "What does research say about readers of literary fiction?",
+      "options": [
+       "They tend to show greater empathy",
+       "They are more intelligent",
+       "They prefer films"
+      ],
+      "answer": "They tend to show greater empathy"
+     }
+    ],
+    "title": "Why do we need stories?",
+    "text": "Since the dawn of humanity, people have told stories – around fires, in paintings on cave walls, and now through films and social media. Scientists suggest that storytelling may have helped our ancestors survive by passing on vital knowledge and strengthening social bonds. When we read a vivid narrative, our brains react as if we were experiencing the events ourselves, which explains why fiction can evoke such powerful emotions. Moreover, research indicates that people who read literary fiction tend to show greater empathy. In a world increasingly dominated by data, stories remain one of the most effective ways to convey meaning.",
+    "vi": "Từ buổi bình minh của nhân loại, con người đã kể chuyện – quanh đống lửa, trong những bức vẽ trên vách hang động, và giờ đây qua phim ảnh và mạng xã hội. Các nhà khoa học cho rằng kể chuyện có thể đã giúp tổ tiên chúng ta sinh tồn bằng cách truyền lại kiến thức quan trọng và thắt chặt gắn kết xã hội. Khi đọc một câu chuyện sống động, não bộ phản ứng như thể chính chúng ta đang trải qua các sự kiện đó, điều này giải thích vì sao văn chương có thể gợi lên những cảm xúc mạnh mẽ đến vậy. Hơn nữa, nghiên cứu chỉ ra rằng những người đọc tiểu thuyết văn học thường thể hiện sự thấu cảm cao hơn. Trong một thế giới ngày càng bị dữ liệu chi phối, câu chuyện vẫn là một trong những cách hiệu quả nhất để truyền tải ý nghĩa."
+   },
+   "title": "Nghệ thuật & Văn học",
+   "titleEn": "Art & Literature",
+   "emoji": "🎭",
+   "goal": "Bình luận tác phẩm nghệ thuật với kết hợp từ (collocation) tự nhiên."
+  },
+  {
+   "id": "c1-u8",
+   "words": [
+    {
+     "word": "leverage",
+     "ipa": "/ˈlev.ɚ.ɪdʒ/",
+     "pos": "verb",
+     "vi": "tận dụng (lợi thế)",
+     "ex": "We should leverage our strong brand to enter new markets.",
+     "exVi": "Chúng ta nên tận dụng thương hiệu mạnh để thâm nhập thị trường mới.",
+     "tip": "Danh từ leverage = đòn bẩy, lợi thế."
+    },
+    {
+     "word": "consensus",
+     "ipa": "/kənˈsen.səs/",
+     "pos": "noun",
+     "vi": "sự đồng thuận",
+     "ex": "The team finally reached a consensus.",
+     "exVi": "Cuối cùng nhóm đã đạt được sự đồng thuận."
+    },
+    {
+     "word": "delegate",
+     "ipa": "/ˈdel.ə.ɡeɪt/",
+     "pos": "verb",
+     "vi": "ủy quyền, giao việc",
+     "ex": "Good managers know how to delegate tasks.",
+     "exVi": "Quản lý giỏi biết cách giao việc.",
+     "tip": "Danh từ đọc /-ɡət/ = đại biểu."
+    },
+    {
+     "word": "mediate",
+     "ipa": "/ˈmiː.di.eɪt/",
+     "pos": "verb",
+     "vi": "hòa giải, làm trung gian",
+     "ex": "A neutral party was asked to mediate the dispute.",
+     "exVi": "Một bên trung lập được mời hòa giải tranh chấp."
+    },
+    {
+     "word": "concession",
+     "ipa": "/kənˈseʃ.ən/",
+     "pos": "noun",
+     "vi": "sự nhượng bộ",
+     "ex": "Both sides had to make concessions.",
+     "exVi": "Cả hai bên đều phải nhượng bộ.",
+     "tip": "make a concession."
+    },
+    {
+     "word": "diplomatic",
+     "ipa": "/ˌdɪp.ləˈmæt̬.ɪk/",
+     "pos": "adj",
+     "vi": "khéo léo, ngoại giao",
+     "ex": "She gave a diplomatic answer to avoid conflict.",
+     "exVi": "Cô ấy trả lời khéo léo để tránh xung đột."
+    },
+    {
+     "word": "assertive",
+     "ipa": "/əˈsɝː.t̬ɪv/",
+     "pos": "adj",
+     "vi": "quả quyết, dám khẳng định",
+     "ex": "You need to be more assertive in meetings.",
+     "exVi": "Bạn cần quả quyết hơn trong các cuộc họp.",
+     "tip": "assertive (tích cực) ≠ aggressive (hung hăng)."
+    },
+    {
+     "word": "stakeholder",
+     "ipa": "/ˈsteɪkˌhoʊl.dɚ/",
+     "pos": "noun",
+     "vi": "bên liên quan",
+     "ex": "All stakeholders must be consulted.",
+     "exVi": "Tất cả các bên liên quan phải được tham vấn."
+    },
+    {
+     "word": "vision",
+     "ipa": "/ˈvɪʒ.ən/",
+     "pos": "noun",
+     "vi": "tầm nhìn",
+     "ex": "A leader needs a clear vision for the future.",
+     "exVi": "Nhà lãnh đạo cần có tầm nhìn rõ ràng cho tương lai."
+    },
+    {
+     "word": "accountable",
+     "ipa": "/əˈkaʊn.t̬ə.bəl/",
+     "pos": "adj",
+     "vi": "chịu trách nhiệm giải trình",
+     "ex": "Leaders must be held accountable for their decisions.",
+     "exVi": "Nhà lãnh đạo phải chịu trách nhiệm về các quyết định của mình."
+    },
+    {
+     "word": "persuasive",
+     "ipa": "/pɚˈsweɪ.sɪv/",
+     "pos": "adj",
+     "vi": "có sức thuyết phục",
+     "ex": "He made a persuasive argument for the new plan.",
+     "exVi": "Anh ấy đưa ra lập luận đầy thuyết phục cho kế hoạch mới."
+    },
+    {
+     "word": "initiative",
+     "ipa": "/ɪˈnɪʃ.ə.t̬ɪv/",
+     "pos": "noun",
+     "vi": "sáng kiến; tính chủ động",
+     "ex": "She took the initiative and solved the problem herself.",
+     "exVi": "Cô ấy chủ động tự giải quyết vấn đề.",
+     "tip": "take the initiative = chủ động."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "Let's meet halfway.",
+     "vi": "Chúng ta mỗi bên nhường một bước nhé."
+    },
+    {
+     "en": "That's a deal-breaker.",
+     "vi": "Đó là điều kiện không thể chấp nhận."
+    },
+    {
+     "en": "Let's put our cards on the table.",
+     "vi": "Hãy thẳng thắn với nhau."
+    },
+    {
+     "en": "I'm open to suggestions.",
+     "vi": "Tôi sẵn sàng lắng nghe đề xuất."
+    },
+    {
+     "en": "We have a lot of common ground.",
+     "vi": "Chúng ta có nhiều điểm chung."
+    }
+   ],
+   "grammar": {
+    "formulas": [
+     "Loại 1: Should + S + V, ... (Should you need help, please contact me.)",
+     "Loại 2: Were + S + to V / Were + S + ..., ... (Were we to accept, we would lose money.)",
+     "Loại 3: Had + S + (not) + V3, ... (Had I known, I would have acted differently.)",
+     "Phủ định: Should you not..., Were it not for..., Had we not..."
+    ],
+    "points": [
+     {
+      "title": "Should – lịch sự trong email",
+      "body": "Should you have any questions, please do not hesitate to contact me. (Nếu anh / chị có câu hỏi nào...)"
+     },
+     {
+      "title": "Were – giả định trang trọng",
+      "body": "Were I in your position, I would accept the offer. / Were they to lower the price, we would sign today."
+     },
+     {
+      "title": "Had – giả định quá khứ",
+      "body": "Had we started negotiations earlier, we could have reached a better deal."
+     },
+     {
+      "title": "Were it not for / Had it not been for",
+      "body": "= Nếu không có...: Were it not for her leadership, the project would fail. / Had it not been for his help, we would have lost the contract."
+     }
+    ],
+    "examples": [
+     {
+      "en": "Should the client agree, we will start the project next week.",
+      "vi": "Nếu khách hàng đồng ý, chúng tôi sẽ bắt đầu dự án tuần tới."
+     },
+     {
+      "en": "Were I the CEO, I would delegate more responsibility.",
+      "vi": "Nếu tôi là CEO, tôi sẽ giao nhiều trách nhiệm hơn."
+     },
+     {
+      "en": "Had they made a concession, the deal would have been signed.",
+      "vi": "Nếu họ nhượng bộ, thỏa thuận đã được ký."
+     },
+     {
+      "en": "Were it not for your support, we couldn't succeed.",
+      "vi": "Nếu không nhờ sự ủng hộ của bạn, chúng tôi không thể thành công."
+     }
+    ],
+    "mistakes": [
+     {
+      "wrong": "Should you will need help, call me.",
+      "right": "Should you need help, call me.",
+      "note": "Sau should dùng V nguyên mẫu."
+     },
+     {
+      "wrong": "Had I know, I would have come.",
+      "right": "Had I known, I would have come.",
+      "note": "Had + V3."
+     },
+     {
+      "wrong": "If had I known, I would have helped.",
+      "right": "Had I known, I would have helped.",
+      "note": "Đảo ngữ thì bỏ if."
+     }
+    ],
+    "exercises": [
+     {
+      "q": "___ you have any questions, please contact our team.",
+      "options": [
+       "Should",
+       "Would",
+       "Had"
+      ],
+      "answer": "Should",
+      "explain": "Loại 1 đảo ngữ: Should + S + V."
+     },
+     {
+      "q": "___ I in your position, I would accept the offer.",
+      "options": [
+       "Was",
+       "Were",
+       "Had"
+      ],
+      "answer": "Were",
+      "explain": "Loại 2 đảo ngữ: Were + S."
+     },
+     {
+      "q": "___ we known about the problem, we would have acted sooner.",
+      "options": [
+       "Should",
+       "Were",
+       "Had"
+      ],
+      "answer": "Had",
+      "explain": "Loại 3 đảo ngữ: Had + S + V3."
+     },
+     {
+      "q": "Should the price ___, we will reconsider.",
+      "options": [
+       "drops",
+       "drop",
+       "dropped"
+      ],
+      "answer": "drop",
+      "explain": "Should + S + V nguyên mẫu."
+     },
+     {
+      "q": "Were they ___ the deal, we would lose our biggest client.",
+      "options": [
+       "cancel",
+       "to cancel",
+       "cancelled"
+      ],
+      "answer": "to cancel",
+      "explain": "Were + S + to V."
+     },
+     {
+      "q": "Had it not ___ for her initiative, the project would have failed.",
+      "options": [
+       "been",
+       "be",
+       "being"
+      ],
+      "answer": "been",
+      "explain": "Had it not been for..."
+     },
+     {
+      "q": "___ it not for his diplomatic skills, the negotiations would collapse.",
+      "options": [
+       "Were",
+       "Had",
+       "Should"
+      ],
+      "answer": "Were",
+      "explain": "Were it not for... (hiện tại)."
+     }
+    ],
+    "title": "Đảo ngữ câu điều kiện (Should you..., Were I..., Had we...)",
+    "summary": "Trong văn phong trang trọng (email công việc, đàm phán, hợp đồng), câu điều kiện thường được đảo ngữ bằng cách bỏ if và đưa should / were / had lên đầu câu."
+   },
+   "dialogue": {
+    "lines": [
+     {
+      "speaker": "A",
+      "name": "Mr. Thắng",
+      "en": "We understand your concerns about the price. However, our quality is the best on the market.",
+      "vi": "Chúng tôi hiểu những băn khoăn của quý vị về giá. Tuy nhiên, chất lượng của chúng tôi là tốt nhất thị trường."
+     },
+     {
+      "speaker": "B",
+      "name": "Ms. Rivera",
+      "en": "I don't doubt that. But were we to accept this price, our profit margin would be too small.",
+      "vi": "Tôi không nghi ngờ điều đó. Nhưng nếu chúng tôi chấp nhận mức giá này, biên lợi nhuận của chúng tôi sẽ quá thấp."
+     },
+     {
+      "speaker": "A",
+      "name": "Mr. Thắng",
+      "en": "I see. Let's put our cards on the table. What price would work for you?",
+      "vi": "Tôi hiểu. Hãy thẳng thắn với nhau. Mức giá nào phù hợp với quý vị?"
+     },
+     {
+      "speaker": "B",
+      "name": "Ms. Rivera",
+      "en": "Ten percent lower. Should you agree, we'd be happy to sign a three-year contract.",
+      "vi": "Thấp hơn mười phần trăm. Nếu ông đồng ý, chúng tôi sẵn lòng ký hợp đồng ba năm."
+     },
+     {
+      "speaker": "A",
+      "name": "Mr. Thắng",
+      "en": "A three-year contract is attractive. Let's meet halfway: a five percent discount and free delivery.",
+      "vi": "Hợp đồng ba năm rất hấp dẫn. Chúng ta mỗi bên nhường một bước nhé: giảm năm phần trăm và miễn phí vận chuyển."
+     },
+     {
+      "speaker": "B",
+      "name": "Ms. Rivera",
+      "en": "That sounds like a fair compromise. I'll need to consult our stakeholders, but I'm optimistic.",
+      "vi": "Nghe như một sự thỏa hiệp hợp lý. Tôi cần tham vấn các bên liên quan, nhưng tôi lạc quan."
+     },
+     {
+      "speaker": "A",
+      "name": "Mr. Thắng",
+      "en": "Excellent. Should you need any further information, please don't hesitate to contact me.",
+      "vi": "Tuyệt vời. Nếu quý vị cần thêm thông tin, xin đừng ngần ngại liên hệ với tôi."
+     }
+    ],
+    "questions": [
+     {
+      "q": "What does Ms. Rivera offer if the supplier lowers the price?",
+      "options": [
+       "a one-year contract",
+       "a three-year contract",
+       "free delivery"
+      ],
+      "answer": "a three-year contract"
+     },
+     {
+      "q": "What compromise does Mr. Thang suggest?",
+      "options": [
+       "a ten percent discount",
+       "a five percent discount and free delivery",
+       "no discount"
+      ],
+      "answer": "a five percent discount and free delivery"
+     }
+    ],
+    "title": "Đàm phán hợp đồng",
+    "setting": "Nhà cung cấp và bên mua đàm phán hợp đồng."
+   },
+   "reading": {
+    "questions": [
+     {
+      "q": "How do people who \"lead without authority\" influence decisions?",
+      "options": [
+       "through power",
+       "through persuasive communication",
+       "through money"
+      ],
+      "answer": "through persuasive communication"
+     },
+     {
+      "q": "What would happen if companies rewarded this leadership more?",
+      "options": [
+       "They would become more innovative and resilient",
+       "They would need fewer managers",
+       "They would earn less"
+      ],
+      "answer": "They would become more innovative and resilient"
+     }
+    ],
+    "title": "Leading without authority",
+    "text": "Traditionally, leadership was associated with a title: managers gave orders and employees followed them. Today, however, many organisations rely on people who lead without formal authority. These individuals take the initiative, build consensus among colleagues and influence decisions through persuasive communication rather than power. Research suggests that such leaders tend to share several qualities: a clear vision, the ability to listen to different stakeholders, and the willingness to be held accountable for results. Were companies to recognise and reward this kind of leadership more often, experts argue, they would become more innovative and resilient.",
+    "vi": "Theo truyền thống, lãnh đạo gắn liền với chức danh: quản lý ra lệnh và nhân viên làm theo. Tuy nhiên ngày nay, nhiều tổ chức dựa vào những người lãnh đạo mà không có quyền lực chính thức. Những cá nhân này chủ động, xây dựng sự đồng thuận giữa các đồng nghiệp và tác động đến quyết định bằng giao tiếp thuyết phục thay vì quyền lực. Nghiên cứu cho thấy những người lãnh đạo như vậy thường có chung một số phẩm chất: tầm nhìn rõ ràng, khả năng lắng nghe các bên liên quan khác nhau và sẵn sàng chịu trách nhiệm về kết quả. Các chuyên gia cho rằng nếu các công ty ghi nhận và khen thưởng kiểu lãnh đạo này thường xuyên hơn, họ sẽ trở nên sáng tạo và kiên cường hơn."
+   },
+   "title": "Lãnh đạo & Đàm phán",
+   "titleEn": "Leadership & Negotiation",
+   "emoji": "🤝",
+   "goal": "Đàm phán, viết email trang trọng với câu điều kiện đảo ngữ."
+  }
+ ],
+ "id": "C1",
+ "name": "Cao cấp",
+ "nameEn": "Advanced",
+ "color": "8B5CF6",
+ "emoji": "🏆",
+ "hours": "700+ giờ",
+ "description": "Sử dụng tiếng Anh linh hoạt, chính xác trong học thuật và công việc; diễn đạt ý tưởng phức tạp với văn phong trang trọng, sắc thái tinh tế.",
+ "canDo": [
+  "Viết luận học thuật mạch lạc, chặt chẽ",
+  "Dùng cấu trúc nhấn mạnh: đảo ngữ, câu chẻ, giả định",
+  "Thảo luận các vấn đề xã hội, kinh tế, đạo đức chuyên sâu",
+  "Đàm phán, thuyết trình với văn phong trang trọng",
+  "Tương đương IELTS 7.0–8.0"
+ ]
+}

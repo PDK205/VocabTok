@@ -1,0 +1,351 @@
+@level B1
+name: Trung cấp
+nameEn: Intermediate
+color: F59E0B
+emoji: 🌳
+hours: 180–250 giờ
+description: Tự tin xử lý hầu hết tình huống khi đi du lịch, làm việc, học tập; trình bày ý kiến, kể trải nghiệm và giải thích lý do.
+cando: Kể lại trải nghiệm, sự việc với nhiều chi tiết
+cando: Trình bày ý kiến về môi trường, giáo dục, công việc
+cando: Hiểu ý chính của tin tức, bài báo đơn giản
+cando: Thuật lại lời người khác nói
+cando: Nói về giả định, ước muốn và điều kiện
+
+# UNIT b1-u1
+title: Trải nghiệm cuộc sống
+titleEn: Life Experiences
+emoji: 🌍
+goal: Kể về những trải nghiệm đáng nhớ và việc vừa mới làm.
+## words
+achieve | /əˈtʃiːv/ | verb | đạt được | She worked hard to achieve her dream. | Cô ấy làm việc chăm chỉ để đạt được ước mơ. | achievement = thành tựu.
+challenge | /ˈtʃæl.ɪndʒ/ | noun | thử thách | Learning a new language is a big challenge. | Học một ngôn ngữ mới là một thử thách lớn.
+opportunity | /ˌɑː.pɚˈtuː.nə.t̬i/ | noun | cơ hội | This job is a great opportunity for me. | Công việc này là một cơ hội tuyệt vời cho tôi. | take an opportunity = nắm lấy cơ hội.
+culture | /ˈkʌl.tʃɚ/ | noun | văn hóa | I love learning about Japanese culture. | Tôi thích tìm hiểu văn hóa Nhật Bản.
+adventure | /ədˈven.tʃɚ/ | noun | cuộc phiêu lưu | Travelling alone was a real adventure. | Du lịch một mình là một cuộc phiêu lưu thực sự.
+memorable | /ˈmem.ɚ.ə.bəl/ | adj | đáng nhớ | Our wedding day was the most memorable day of our lives. | Ngày cưới là ngày đáng nhớ nhất đời chúng tôi. | memory + able.
+regret | /rɪˈɡret/ | verb | hối tiếc | I regret not studying harder. | Tôi hối tiếc vì đã không học chăm hơn. | regret + V-ing.
+ambition | /æmˈbɪʃ.ən/ | noun | hoài bão, tham vọng | His ambition is to become a doctor. | Hoài bão của anh ấy là trở thành bác sĩ.
+volunteer | /ˌvɑː.lənˈtɪr/ | noun | tình nguyện viên | She works as a volunteer at the hospital. | Cô ấy làm tình nguyện viên ở bệnh viện. | Trọng âm cuối: vol-un-TEER.
+explore | /ɪkˈsplɔːr/ | verb | khám phá | We spent the day exploring the old town. | Chúng tôi dành cả ngày khám phá phố cổ. | explorer = nhà thám hiểm.
+confidence | /ˈkɑːn.fə.dəns/ | noun | sự tự tin | Speaking English every day gives me confidence. | Nói tiếng Anh mỗi ngày giúp tôi tự tin. | confident (adj) = tự tin.
+goal | /ɡoʊl/ | noun | mục tiêu | My goal is to pass IELTS this year. | Mục tiêu của tôi là thi đỗ IELTS năm nay. | Trong bóng đá: bàn thắng.
+## phrases
+It was a once-in-a-lifetime experience. | Đó là trải nghiệm có một không hai trong đời.
+I've always wanted to try it. | Tôi luôn muốn thử điều đó.
+It's on my bucket list. | Nó nằm trong danh sách những điều tôi muốn làm trong đời.
+Go for it! | Cứ làm đi! / Thử đi!
+I've never done anything like that before. | Tôi chưa bao giờ làm điều gì như thế.
+## grammar
+title: Hiện tại hoàn thành hay Quá khứ đơn? (just, already, yet)
+summary: Cả hai thì đều nói về quá khứ. Quá khứ đơn gắn với thời điểm đã kết thúc (yesterday, in 2019); hiện tại hoàn thành nối quá khứ với hiện tại: trải nghiệm, kết quả còn ảnh hưởng, hoặc việc vừa mới xảy ra.
+formula: Quá khứ đơn: S + V2 / V-ed + thời điểm xác định
+formula: Hiện tại hoàn thành: S + have / has + V3
+formula: just / already đứng giữa have và V3: I have just finished.
+formula: yet đứng cuối câu phủ định / câu hỏi: Have you finished yet?
+point: Khi nào dùng quá khứ đơn? | Khi hỏi hoặc nói rõ thời điểm: When did you go? / I went to Thailand last year. Kể lại chi tiết một câu chuyện cũng dùng quá khứ đơn.
+point: Khi nào dùng hiện tại hoàn thành? | Trải nghiệm không rõ thời điểm (I've been to Thailand), kết quả còn ở hiện tại (I've lost my key – giờ vẫn chưa có chìa), hoặc tin mới (The president has arrived).
+point: just – already – yet | just = vừa mới; already = đã rồi (sớm hơn mong đợi); yet = chưa (phủ định / câu hỏi). I haven't decided yet.
+point: Mẫu hội thoại tự nhiên | Mở đầu bằng hiện tại hoàn thành, kể chi tiết bằng quá khứ đơn: Have you ever tried skydiving? – Yes, I have. I tried it in Australia. It was amazing!
+example: I've already booked the tickets. | Tôi đã đặt vé rồi.
+example: She has just won a scholarship. | Cô ấy vừa giành được học bổng.
+example: Have you finished your project yet? | Bạn đã làm xong dự án chưa?
+example: I visited Japan in 2022. I've been there twice. | Tôi đến Nhật năm 2022. Tôi đã đến đó hai lần.
+mistake: I have seen him yesterday. | I saw him yesterday. | Có yesterday → quá khứ đơn.
+mistake: Did you ever climb a mountain? | Have you ever climbed a mountain? | Hỏi trải nghiệm → hiện tại hoàn thành.
+mistake: I didn't finish yet. | I haven't finished yet. | yet thường đi với hiện tại hoàn thành.
+ex: I ___ to Singapore three times. | have been ; went ; was | have been | Trải nghiệm, không nói thời điểm.
+ex: We ___ that film last weekend. | have watched ; watched ; watch | watched | last weekend → quá khứ đơn.
+ex: She has ___ arrived. She's in the lobby now. | yet ; just ; ever | just | just = vừa mới.
+ex: Have you done your homework ___? | already ; just ; yet | yet | yet đứng cuối câu hỏi.
+ex: When ___ you start learning English? | have ; did ; do | did | Câu hỏi When → quá khứ đơn.
+ex: He ___ his phone, so he can't call you. | lost ; has lost ; loses | has lost | Kết quả còn ở hiện tại.
+ex: I've ___ finished the report. Here it is. | already ; yet ; ever | already | already đứng giữa have và V3.
+## dialogue
+title: Những điều muốn thử
+setting: Hai người bạn nói về những trải nghiệm đáng nhớ.
+line: A | Nhi | Have you ever done anything really adventurous? | Bạn đã bao giờ làm điều gì thật sự mạo hiểm chưa?
+line: B | Oliver | Yes! I've tried bungee jumping. I did it in New Zealand two years ago. | Rồi! Mình đã thử nhảy bungee. Mình nhảy ở New Zealand hai năm trước.
+line: A | Nhi | Wow! How did you feel? | Chà! Bạn cảm thấy thế nào?
+line: B | Oliver | Terrified at first, but it was the most memorable moment of my life. What about you? | Lúc đầu sợ chết khiếp, nhưng đó là khoảnh khắc đáng nhớ nhất đời mình. Còn bạn?
+line: A | Nhi | I haven't done anything like that yet. But I've just signed up for a volunteer trip to Sapa. | Mình chưa làm điều gì như thế cả. Nhưng mình vừa đăng ký một chuyến tình nguyện lên Sa Pa.
+line: B | Oliver | That's a great opportunity to explore a new culture. When are you leaving? | Đó là cơ hội tuyệt vời để khám phá một nền văn hóa mới. Khi nào bạn đi?
+line: A | Nhi | Next month. I've already bought my ticket! | Tháng sau. Mình đã mua vé rồi!
+q: Where did Oliver go bungee jumping? | in Vietnam ; in New Zealand ; in Australia | in New Zealand
+q: What has Nhi just done? | bought a car ; signed up for a volunteer trip ; tried bungee jumping | signed up for a volunteer trip
+## reading
+title: Step out of your comfort zone
+text: Many people dream of an exciting life, but they never take the first step because they are afraid of failing. However, psychologists say that new experiences make us happier and more confident. When you face a challenge, such as speaking in public or travelling alone, your brain learns to deal with fear. Even if you fail, you will learn something valuable. Most people say they regret the things they didn't do, not the things they did. So, what have you always wanted to try? Maybe it's time to achieve that goal.
+vi: Nhiều người mơ ước một cuộc sống thú vị nhưng không bao giờ bước bước đầu tiên vì sợ thất bại. Tuy nhiên, các nhà tâm lý học nói rằng những trải nghiệm mới khiến chúng ta hạnh phúc và tự tin hơn. Khi bạn đối mặt với thử thách, như nói trước đám đông hay du lịch một mình, não bộ học cách đối phó với nỗi sợ. Kể cả khi thất bại, bạn vẫn học được điều quý giá. Hầu hết mọi người nói rằng họ hối tiếc những điều mình đã không làm, chứ không phải những điều đã làm. Vậy bạn luôn muốn thử điều gì? Có lẽ đã đến lúc đạt được mục tiêu đó.
+q: Why don't many people take the first step? | They are too busy ; They are afraid of failing ; They don't have money | They are afraid of failing
+q: What do most people regret? | things they did ; things they didn't do ; their jobs | things they didn't do
+
+# UNIT b1-u2
+title: Sự cố & Tai nạn
+titleEn: Incidents & Accidents
+emoji: 🚨
+goal: Kể lại một sự cố, mô tả bối cảnh và hành động xen vào.
+## words
+accident | /ˈæk.sə.dənt/ | noun | tai nạn | He had a car accident last week. | Anh ấy bị tai nạn xe hơi tuần trước. | by accident = tình cờ.
+witness | /ˈwɪt.nəs/ | noun | nhân chứng | The police are looking for witnesses. | Cảnh sát đang tìm nhân chứng.
+emergency | /ɪˈmɝː.dʒən.si/ | noun | trường hợp khẩn cấp | In an emergency, call 115. | Trong trường hợp khẩn cấp, hãy gọi 115.
+ambulance | /ˈæm.bjə.ləns/ | noun | xe cứu thương | The ambulance arrived in five minutes. | Xe cứu thương đến trong năm phút.
+police | /pəˈliːs/ | noun | cảnh sát | Someone called the police. | Có người đã gọi cảnh sát. | police luôn đi với động từ số nhiều: The police are...
+injured | /ˈɪn.dʒɚd/ | adj | bị thương | Two people were injured in the crash. | Hai người bị thương trong vụ va chạm.
+crash | /kræʃ/ | verb | đâm, va chạm | A motorbike crashed into a tree. | Một chiếc xe máy đâm vào cây.
+rescue | /ˈres.kjuː/ | verb | giải cứu | Firefighters rescued a cat from the roof. | Lính cứu hỏa đã giải cứu một con mèo trên mái nhà.
+thief | /θiːf/ | noun | kẻ trộm | The thief took my bag and ran away. | Tên trộm giật túi của tôi rồi chạy mất. | Số nhiều: thieves.
+steal | /stiːl/ | verb | ăn trộm | Someone stole my bike last night. | Tối qua có người lấy trộm xe đạp của tôi. | steal – stole – stolen.
+scream | /skriːm/ | verb | hét lên | She screamed when she saw the snake. | Cô ấy hét lên khi nhìn thấy con rắn.
+damage | /ˈdæm.ɪdʒ/ | noun | thiệt hại | The storm caused a lot of damage. | Cơn bão gây ra nhiều thiệt hại.
+## phrases
+Help! Call an ambulance! | Cứu với! Gọi xe cứu thương đi!
+Is anyone hurt? | Có ai bị thương không?
+What exactly happened? | Chính xác thì chuyện gì đã xảy ra?
+I was in the wrong place at the wrong time. | Tôi đã ở sai chỗ, sai thời điểm.
+Luckily, nobody was injured. | May mắn là không ai bị thương.
+## grammar
+title: Quá khứ tiếp diễn & Quá khứ đơn (when / while)
+summary: Quá khứ tiếp diễn diễn tả hành động ĐANG xảy ra tại một thời điểm trong quá khứ. Khi kết hợp với quá khứ đơn, nó tạo nên "bối cảnh" cho một hành động ngắn xen vào.
+formula: S + was / were + V-ing: I was walking home.
+formula: Hành động dài + when + hành động ngắn: I was cooking when the phone rang.
+formula: While + hành động dài, hành động ngắn: While I was driving, it started to rain.
+formula: Hai hành động song song: While I was reading, my brother was playing games.
+point: Bối cảnh và sự kiện | Hành động dài (bối cảnh) dùng quá khứ tiếp diễn; hành động ngắn chen ngang dùng quá khứ đơn: We were having dinner when the lights went out.
+point: Thời điểm cụ thể trong quá khứ | At 8 p.m. yesterday, I was watching TV. (Lúc 8 giờ tối qua, tôi đang xem TV.)
+point: when hay while? | while thường đi với hành động kéo dài (quá khứ tiếp diễn); when thường đi với hành động ngắn (quá khứ đơn).
+point: Mở đầu câu chuyện | Người kể chuyện hay dùng quá khứ tiếp diễn để tả khung cảnh: It was raining and people were hurrying home...
+example: I was crossing the street when a car hit me. | Tôi đang băng qua đường thì bị một chiếc xe tông.
+example: While she was jogging, she saw an accident. | Khi đang chạy bộ, cô ấy nhìn thấy một vụ tai nạn.
+example: What were you doing at 10 p.m. last night? | Lúc 10 giờ tối qua bạn đang làm gì?
+example: The thief was hiding behind the door. | Tên trộm đang trốn sau cánh cửa.
+mistake: I was walk home when it rained. | I was walking home when it started to rain. | Quá khứ tiếp diễn cần V-ing.
+mistake: When I was arriving, they left. | When I arrived, they were leaving. | Hành động ngắn dùng quá khứ đơn.
+mistake: They was sleeping. | They were sleeping. | They → were.
+ex: I ___ TV when the phone rang. | watched ; was watching ; am watching | was watching | Hành động đang diễn ra thì bị xen ngang.
+ex: While we ___ dinner, the lights went out. | had ; were having ; have | were having | While + hành động kéo dài.
+ex: She was driving when she ___ the accident. | saw ; was seeing ; sees | saw | Hành động ngắn xen vào → quá khứ đơn.
+ex: What ___ you doing at 9 p.m. yesterday? | were ; did ; was | were | Thời điểm cụ thể trong quá khứ → quá khứ tiếp diễn.
+ex: The children ___ in the garden when it started to rain. | played ; were playing ; was playing | were playing | The children số nhiều → were.
+ex: ___ I was walking home, I met an old friend. | While ; During ; When was | While | While + mệnh đề tiếp diễn.
+ex: The thief ___ my wallet while I was sleeping on the bus. | stole ; was stealing ; steals | stole | Hành động ngắn → quá khứ đơn.
+## dialogue
+title: Lời khai của nhân chứng
+setting: Một nhân chứng kể lại vụ tai nạn cho cảnh sát.
+line: A | Officer | Can you tell me what happened? | Anh có thể kể cho tôi chuyện gì đã xảy ra không?
+line: B | Khoa | Sure. I was waiting at the bus stop when I heard a loud noise. | Vâng. Tôi đang đợi ở trạm xe buýt thì nghe thấy một tiếng động lớn.
+line: A | Officer | What did you see? | Anh đã nhìn thấy gì?
+line: B | Khoa | A motorbike crashed into a taxi. The motorbike was going very fast and the light was red. | Một chiếc xe máy đâm vào taxi. Chiếc xe máy đang chạy rất nhanh và đèn đang đỏ.
+line: A | Officer | Was anyone injured? | Có ai bị thương không?
+line: B | Khoa | The motorbike driver hurt his leg. A woman called an ambulance while I was helping him. | Người lái xe máy bị đau chân. Một phụ nữ gọi xe cứu thương trong lúc tôi đang giúp anh ấy.
+line: A | Officer | Thank you. You're a very helpful witness. | Cảm ơn anh. Anh là một nhân chứng rất hữu ích.
+q: What was Khoa doing when he heard the noise? | driving a taxi ; waiting at the bus stop ; crossing the road | waiting at the bus stop
+q: Why was the motorbike driver at fault? | He was going fast through a red light ; He was on the phone ; He had no helmet | He was going fast through a red light
+## reading
+title: A lucky escape
+text: Last night, a family in District 3 had a lucky escape. At around 2 a.m., while everyone was sleeping, a fire started in the kitchen. Their dog, Lucky, was lying near the door when it smelled the smoke. It started barking loudly and woke up the father. He quickly got his wife and two children out of the house and called the fire service. Firefighters arrived ten minutes later and put out the fire. The kitchen was badly damaged, but nobody was injured. "Lucky saved our lives," the father said.
+vi: Đêm qua, một gia đình ở Quận 3 đã thoát nạn trong gang tấc. Khoảng 2 giờ sáng, khi mọi người đang ngủ, một đám cháy bùng lên trong bếp. Chú chó Lucky của họ đang nằm gần cửa thì ngửi thấy mùi khói. Nó sủa ầm lên và đánh thức người bố. Anh nhanh chóng đưa vợ và hai con ra khỏi nhà rồi gọi cứu hỏa. Lính cứu hỏa đến mười phút sau và dập tắt đám cháy. Căn bếp bị hư hại nặng nhưng không ai bị thương. "Lucky đã cứu mạng chúng tôi," người bố nói.
+q: What was the family doing when the fire started? | having dinner ; sleeping ; watching TV | sleeping
+q: Who woke up the father? | his wife ; the firefighters ; the dog | the dog
+
+# UNIT b1-u3
+title: Môi trường
+titleEn: The Environment
+emoji: 🌱
+goal: Nói về vấn đề môi trường, nguyên nhân – hậu quả và giải pháp.
+## words
+environment | /ɪnˈvaɪ.rən.mənt/ | noun | môi trường | We must protect the environment. | Chúng ta phải bảo vệ môi trường. | Đừng quên chữ n: enviro-n-ment.
+climate | /ˈklaɪ.mət/ | noun | khí hậu | Climate change affects everyone. | Biến đổi khí hậu ảnh hưởng đến tất cả mọi người. | climate = dài hạn; weather = hằng ngày.
+pollution | /pəˈluː.ʃən/ | noun | sự ô nhiễm | Air pollution is a big problem in big cities. | Ô nhiễm không khí là vấn đề lớn ở các thành phố lớn. | pollute = gây ô nhiễm.
+recycle | /ˌriːˈsaɪ.kəl/ | verb | tái chế | We recycle paper and plastic bottles. | Chúng tôi tái chế giấy và chai nhựa. | re (lại) + cycle (vòng).
+waste | /weɪst/ | noun | rác thải; sự lãng phí | Factories produce a lot of waste. | Các nhà máy thải ra nhiều chất thải. | a waste of time = phí thời gian.
+plastic | /ˈplæs.tɪk/ | noun | nhựa | Plastic takes hundreds of years to break down. | Nhựa mất hàng trăm năm để phân hủy.
+protect | /prəˈtekt/ | verb | bảo vệ | Trees protect the soil from floods. | Cây cối bảo vệ đất khỏi lũ lụt. | protect sth from sth.
+energy | /ˈen.ɚ.dʒi/ | noun | năng lượng | Solar energy is clean and cheap. | Năng lượng mặt trời sạch và rẻ.
+flood | /flʌd/ | noun | lũ lụt | The flood destroyed hundreds of homes. | Trận lũ phá hủy hàng trăm ngôi nhà. | Đọc là "flợt".
+reduce | /rɪˈduːs/ | verb | giảm | We should reduce the amount of plastic we use. | Chúng ta nên giảm lượng nhựa sử dụng. | Reduce – Reuse – Recycle.
+planet | /ˈplæn.ɪt/ | noun | hành tinh | There is no second planet for us. | Không có hành tinh thứ hai nào cho chúng ta.
+species | /ˈspiː.ʃiːz/ | noun | loài | Many species are in danger. | Nhiều loài đang gặp nguy hiểm. | Số ít và số nhiều giống nhau.
+## phrases
+It's a waste of energy. | Thật lãng phí năng lượng.
+Turn off the lights when you leave. | Tắt đèn khi ra ngoài.
+Every little bit helps. | Mỗi việc nhỏ đều có ích.
+We're running out of time. | Chúng ta đang cạn dần thời gian.
+Bring your own bag. | Hãy mang theo túi của bạn.
+## grammar
+title: Câu điều kiện loại 1 (First Conditional)
+summary: Câu điều kiện loại 1 nói về điều CÓ THỂ xảy ra ở hiện tại hoặc tương lai và kết quả của nó. Mệnh đề If dùng hiện tại đơn, mệnh đề chính dùng will.
+formula: If + S + V (hiện tại đơn), S + will + V
+formula: S + will + V + if + S + V (đảo vị trí thì bỏ dấu phẩy)
+formula: unless = if... not: Unless we act now, it will be too late.
+point: Không dùng will sau if | If it will rain (sai) → If it rains, we will stay home (đúng). Mệnh đề if luôn ở hiện tại đơn dù nói về tương lai.
+point: Thay will bằng từ khác | Mệnh đề chính có thể dùng can, may, might, should hoặc câu mệnh lệnh: If you see rubbish, pick it up!
+point: unless | unless = nếu không: You will be late unless you hurry. = If you don't hurry, you will be late.
+point: Điều kiện loại 0 | Sự thật hiển nhiên dùng hiện tại đơn ở cả hai vế: If you heat ice, it melts.
+example: If we recycle more, we will reduce waste. | Nếu chúng ta tái chế nhiều hơn, chúng ta sẽ giảm rác thải.
+example: If you leave the lights on, you'll waste energy. | Nếu bạn để đèn sáng, bạn sẽ lãng phí năng lượng.
+example: Many species will disappear unless we protect forests. | Nhiều loài sẽ biến mất nếu chúng ta không bảo vệ rừng.
+example: If it rains heavily, the streets will flood. | Nếu mưa to, đường phố sẽ ngập.
+mistake: If it will rain, we will cancel the trip. | If it rains, we will cancel the trip. | Không dùng will trong mệnh đề if.
+mistake: Unless you don't hurry, you'll miss the bus. | Unless you hurry, you'll miss the bus. | unless đã mang nghĩa phủ định.
+ex: If we ___ more trees, the air will be cleaner. | plant ; will plant ; planted | plant | Mệnh đề if dùng hiện tại đơn.
+ex: If you throw plastic into the sea, fish ___ it. | eat ; will eat ; ate | will eat | Mệnh đề chính dùng will.
+ex: ___ we act now, it will be too late. | If ; Unless ; When | Unless | Unless = nếu không.
+ex: She will be angry if you ___ late again. | are ; will be ; were | are | Mệnh đề if dùng hiện tại đơn.
+ex: If it ___ tomorrow, we won't go to the beach. | rains ; will rain ; rained | rains | Mệnh đề if dùng hiện tại đơn.
+ex: If you heat water to 100°C, it ___. | boils ; will boils ; boiled | boils | Sự thật hiển nhiên → điều kiện loại 0.
+ex: We'll save energy if we ___ off the lights. | turn ; will turn ; turning | turn | Mệnh đề if dùng hiện tại đơn.
+## dialogue
+title: Thử thách không nhựa
+setting: Hai bạn cùng phòng nói chuyện về việc giảm rác thải nhựa.
+line: A | Lan | I've decided to try a "no plastic" challenge this month. | Mình quyết định thử thử thách "không nhựa" trong tháng này.
+line: B | Daniel | That sounds hard! What will you do if you need a drink? | Nghe khó đấy! Nếu khát thì bạn sẽ làm gì?
+line: A | Lan | I'll bring my own bottle. If I go shopping, I'll take a cloth bag. | Mình sẽ mang bình nước riêng. Nếu đi mua sắm, mình sẽ mang túi vải.
+line: B | Daniel | What about takeaway food? | Còn đồ ăn mang đi thì sao?
+line: A | Lan | Unless the restaurant uses paper boxes, I'll eat there instead. | Trừ khi nhà hàng dùng hộp giấy, còn không mình sẽ ăn tại chỗ.
+line: B | Daniel | Impressive! If you succeed, I'll join you next month. | Ấn tượng thật! Nếu bạn làm được, tháng sau mình sẽ tham gia cùng.
+line: A | Lan | Deal! If everyone does a little, it will make a big difference. | Chốt nhé! Nếu mỗi người làm một chút, sẽ tạo ra khác biệt lớn.
+q: What will Lan take when she goes shopping? | a plastic bag ; a cloth bag ; a paper box | a cloth bag
+q: What will Daniel do if Lan succeeds? | buy her a gift ; join her next month ; stop using bottles | join her next month
+## reading
+title: The problem with plastic
+text: Every year, about eight million tonnes of plastic end up in our oceans. Sea turtles often think plastic bags are jellyfish and eat them. Tiny pieces of plastic, called microplastics, have been found in fish, salt and even drinking water. If we don't change our habits, there will be more plastic than fish in the sea by 2050. The good news is that small actions can help. If you refuse plastic straws, carry a reusable bottle and recycle properly, you will reduce your plastic waste dramatically.
+vi: Mỗi năm, khoảng tám triệu tấn nhựa đổ ra đại dương. Rùa biển thường nhầm túi nilon là sứa và ăn chúng. Những mảnh nhựa siêu nhỏ, gọi là vi nhựa, đã được tìm thấy trong cá, muối và cả nước uống. Nếu chúng ta không thay đổi thói quen, đến năm 2050 trong biển sẽ có nhiều nhựa hơn cá. Tin tốt là những hành động nhỏ có thể giúp ích. Nếu bạn từ chối ống hút nhựa, mang theo bình nước tái sử dụng và tái chế đúng cách, bạn sẽ giảm đáng kể rác thải nhựa của mình.
+q: Why do sea turtles eat plastic bags? | They are hungry ; They think they are jellyfish ; They like the color | They think they are jellyfish
+q: What could happen by 2050? | All fish will be gone ; There will be more plastic than fish in the sea ; Plastic will disappear | There will be more plastic than fish in the sea
+
+# UNIT b1-u4
+title: Giáo dục & Học tập
+titleEn: Education
+emoji: 🎓
+goal: Nói về việc học, thi cử, trường lớp và dùng câu bị động.
+## words
+knowledge | /ˈnɑː.lɪdʒ/ | noun | kiến thức | Reading books increases your knowledge. | Đọc sách làm tăng kiến thức. | Chữ k câm: đọc "no-lịch".
+degree | /dɪˈɡriː/ | noun | bằng cấp; độ | She has a degree in economics. | Cô ấy có bằng kinh tế.
+subject | /ˈsʌb.dʒekt/ | noun | môn học | Math is my favourite subject. | Toán là môn học tôi yêu thích.
+exam | /ɪɡˈzæm/ | noun | kỳ thi | I passed the exam with a high score. | Tôi đỗ kỳ thi với điểm cao. | take / pass / fail an exam.
+graduate | /ˈɡrædʒ.u.eɪt/ | verb | tốt nghiệp | He graduated from university in 2023. | Anh ấy tốt nghiệp đại học năm 2023. | graduate from + trường.
+scholarship | /ˈskɑː.lɚ.ʃɪp/ | noun | học bổng | She won a scholarship to study in Australia. | Cô ấy giành được học bổng du học Úc.
+lecture | /ˈlek.tʃɚ/ | noun | bài giảng | The lecture was given by a famous professor. | Bài giảng được trình bày bởi một giáo sư nổi tiếng. | lecturer = giảng viên.
+assignment | /əˈsaɪn.mənt/ | noun | bài tập lớn, nhiệm vụ | The assignment must be submitted by Friday. | Bài tập phải được nộp trước thứ Sáu.
+improve | /ɪmˈpruːv/ | verb | cải thiện | My English has improved a lot this year. | Tiếng Anh của tôi đã cải thiện rất nhiều năm nay.
+fail | /feɪl/ | verb | trượt, thất bại | He failed the driving test twice. | Anh ấy trượt bài thi lái xe hai lần. | failure = sự thất bại.
+university | /ˌjuː.nəˈvɝː.sə.t̬i/ | noun | trường đại học | Which university did you go to? | Bạn học trường đại học nào? | Bắt đầu bằng âm /j/ nên dùng a university.
+semester | /səˈmes.tɚ/ | noun | học kỳ | The new semester starts in September. | Học kỳ mới bắt đầu vào tháng Chín.
+## phrases
+What are you majoring in? | Bạn học chuyên ngành gì?
+I'm in my final year. | Tôi đang học năm cuối.
+I need to cram for the exam. | Tôi cần học dồn cho kỳ thi.
+Good luck with your exam! | Chúc bạn thi tốt!
+I passed with flying colours. | Tôi đã đỗ với kết quả xuất sắc.
+## grammar
+title: Câu bị động (hiện tại đơn & quá khứ đơn)
+summary: Câu bị động dùng khi ta quan tâm đến hành động hoặc đối tượng chịu tác động hơn là người thực hiện. Ví dụ: English is spoken all over the world (không quan trọng ai nói).
+formula: Hiện tại đơn: S + am / is / are + V3
+formula: Quá khứ đơn: S + was / were + V3
+formula: Nêu người thực hiện: ... + by + O (The lecture was given by Dr. Lee.)
+formula: Phủ định / câu hỏi: The exam isn't held in May. / Was the assignment submitted?
+point: Chuyển chủ động → bị động | 1) Lấy tân ngữ làm chủ ngữ. 2) Chia to be theo thì của câu gốc. 3) Động từ chính → V3. 4) Thêm by + người làm (nếu cần). Teachers mark the exams → The exams are marked by teachers.
+point: Khi nào bỏ by + O? | Khi người làm không quan trọng, không rõ, hoặc hiển nhiên: My bike was stolen (không biết ai lấy). Rice is grown in Vietnam.
+point: Bị động trong văn học thuật | Báo cáo, tin tức, IELTS Writing dùng bị động nhiều để câu văn khách quan: The data was collected from 500 students.
+example: English is taught in every school in Vietnam. | Tiếng Anh được dạy ở mọi trường học tại Việt Nam.
+example: The university was founded in 1906. | Trường đại học được thành lập năm 1906.
+example: The results were announced yesterday. | Kết quả đã được công bố hôm qua.
+example: Are the lectures recorded? | Các bài giảng có được ghi hình không?
+mistake: The exam was took by 500 students. | The exam was taken by 500 students. | Dùng V3 (taken).
+mistake: The homework is check every day. | The homework is checked every day. | Sau to be cần V3.
+mistake: This poem wrote by Nguyen Du. | This poem was written by Nguyen Du. | Thiếu to be.
+ex: English ___ in many countries. | speaks ; is spoken ; spoke | is spoken | Bị động hiện tại đơn: is + V3.
+ex: The exam papers ___ by the teacher yesterday. | were marked ; are marked ; marked | were marked | yesterday → bị động quá khứ.
+ex: This school ___ in 1990. | built ; was built ; is built | was built | in 1990 → bị động quá khứ.
+ex: The results are ___ every Friday. | announce ; announced ; announcing | announced | are + V3.
+ex: Scholarships ___ to the best students every year. | give ; are given ; were giving | are given | every year → bị động hiện tại.
+ex: My phone ___ during the lecture. | was stolen ; stole ; is stealing | was stolen | Không rõ ai lấy → bị động.
+ex: ___ the assignment submitted on time? | Did ; Was ; Is it | Was | Câu hỏi bị động quá khứ: Was + S + V3?
+## dialogue
+title: Hỏi về học bổng
+setting: Thảo hỏi văn phòng tuyển sinh về học bổng quốc tế.
+line: A | Thảo | Hi, I'd like some information about the international scholarship. | Xin chào, tôi muốn biết thông tin về học bổng quốc tế.
+line: B | Officer | Of course. The scholarship is given to twenty students every year. | Vâng. Học bổng được trao cho hai mươi sinh viên mỗi năm.
+line: A | Thảo | How are the students chosen? | Sinh viên được chọn như thế nào ạ?
+line: B | Officer | Applications are checked first, and then the best students are invited to an interview. | Hồ sơ được xét trước, sau đó những sinh viên tốt nhất được mời phỏng vấn.
+line: A | Thảo | Is an English certificate required? | Có yêu cầu chứng chỉ tiếng Anh không?
+line: B | Officer | Yes. An IELTS score of 6.5 or higher is needed. | Có. Cần điểm IELTS từ 6.5 trở lên.
+line: A | Thảo | When are the results announced? | Khi nào kết quả được công bố ạ?
+line: B | Officer | They're published on our website in June. | Kết quả được đăng trên trang web của chúng tôi vào tháng Sáu.
+q: How many students receive the scholarship every year? | ten ; twenty ; fifty | twenty
+q: What IELTS score is needed? | 5.5 ; 6.0 ; 6.5 or higher | 6.5 or higher
+## reading
+title: Learning in the digital age
+text: Education has changed a lot in the last twenty years. In the past, knowledge was found mainly in textbooks and libraries. Today, millions of lectures are uploaded to the internet, and many of them are offered for free. Online courses are taken by people of all ages, from teenagers to retired grandparents. However, studying online is not always easy. Students need self-discipline because no one checks if they are paying attention. Experts believe that the best way to learn is to combine online lessons with real discussions in the classroom.
+vi: Giáo dục đã thay đổi rất nhiều trong hai mươi năm qua. Trước đây, kiến thức chủ yếu được tìm thấy trong sách giáo khoa và thư viện. Ngày nay, hàng triệu bài giảng được đăng tải lên internet và nhiều bài trong số đó được cung cấp miễn phí. Các khóa học trực tuyến được người ở mọi lứa tuổi theo học, từ thanh thiếu niên đến những ông bà đã nghỉ hưu. Tuy nhiên, học trực tuyến không phải lúc nào cũng dễ. Người học cần tính tự giác vì không ai kiểm tra xem họ có chú ý hay không. Các chuyên gia tin rằng cách học tốt nhất là kết hợp bài học trực tuyến với thảo luận thực tế trên lớp.
+q: Where was knowledge mainly found in the past? | on the internet ; in textbooks and libraries ; on TV | in textbooks and libraries
+q: What do online students need? | a lot of money ; self-discipline ; a teacher at home | self-discipline
+q: What is the best way to learn, according to experts? | only online ; only in the classroom ; combining online lessons with classroom discussions | combining online lessons with classroom discussions
+
+# UNIT b1-u5
+title: Nơi làm việc
+titleEn: At the Workplace
+emoji: 🧑‍💼
+goal: Nói về dự án, hạn chót và việc đã làm liên tục đến hiện tại.
+## words
+deadline | /ˈded.laɪn/ | noun | hạn chót | The deadline for the project is Monday. | Hạn chót của dự án là thứ Hai. | meet a deadline = kịp hạn.
+promote | /prəˈmoʊt/ | verb | thăng chức; quảng bá | She was promoted to team leader. | Cô ấy được thăng chức trưởng nhóm. | promotion = sự thăng chức.
+responsible | /rɪˈspɑːn.sə.bəl/ | adj | chịu trách nhiệm | Who is responsible for this project? | Ai chịu trách nhiệm dự án này? | responsible for + N / V-ing.
+efficient | /ɪˈfɪʃ.ənt/ | adj | hiệu quả, năng suất | We need a more efficient way to work. | Chúng ta cần cách làm việc hiệu quả hơn. | efficient = nhanh, ít lãng phí; effective = đạt kết quả.
+resign | /rɪˈzaɪn/ | verb | từ chức, nghỉ việc | He resigned because of stress. | Anh ấy nghỉ việc vì căng thẳng. | Chữ g câm.
+hire | /haɪr/ | verb | thuê, tuyển dụng | The company is hiring new staff. | Công ty đang tuyển nhân viên mới.
+employee | /ɪmˈplɔɪ.iː/ | noun | nhân viên | The company has 200 employees. | Công ty có 200 nhân viên. | employer = người chủ.
+schedule | /ˈskedʒ.uːl/ | noun | lịch trình | My schedule is full this week. | Lịch của tôi kín cả tuần này. | on schedule = đúng tiến độ.
+negotiate | /nəˈɡoʊ.ʃi.eɪt/ | verb | đàm phán | She negotiated a higher salary. | Cô ấy đã đàm phán được mức lương cao hơn.
+teamwork | /ˈtiːm.wɝːk/ | noun | làm việc nhóm | Good teamwork is the key to success. | Làm việc nhóm tốt là chìa khóa thành công.
+qualification | /ˌkwɑː.lə.fəˈkeɪ.ʃən/ | noun | bằng cấp, trình độ | What qualifications do you need for this job? | Bạn cần bằng cấp gì cho công việc này?
+overtime | /ˈoʊ.vɚ.taɪm/ | noun | giờ làm thêm | I've been working overtime all week. | Cả tuần nay tôi làm thêm giờ. | over (vượt) + time.
+## phrases
+I'm swamped with work. | Tôi ngập đầu trong công việc.
+Let's call it a day. | Hôm nay dừng ở đây thôi.
+Can we reschedule the meeting? | Chúng ta dời lịch họp được không?
+I'll get back to you on that. | Tôi sẽ trả lời bạn về việc đó sau.
+Keep up the good work! | Cứ tiếp tục làm tốt như vậy nhé!
+## grammar
+title: Hiện tại hoàn thành tiếp diễn (for / since)
+summary: Thì hiện tại hoàn thành tiếp diễn nhấn mạnh một hành động BẮT ĐẦU trong quá khứ, KÉO DÀI liên tục đến hiện tại (và có thể còn tiếp tục). Thường đi với for và since.
+formula: S + have / has + been + V-ing: I have been working here for three years.
+formula: Phủ định: S + haven't / hasn't + been + V-ing
+formula: Câu hỏi: How long have / has + S + been + V-ing?
+formula: for + khoảng thời gian (for two hours) · since + mốc thời gian (since 2020, since Monday)
+point: for hay since? | for + khoảng thời gian: for ten minutes, for a long time. since + mốc bắt đầu: since 9 a.m., since I was a child.
+point: Nhấn mạnh quá trình | I've been writing the report all morning (nhấn mạnh quá trình, có thể chưa xong). So sánh: I've written the report (nhấn mạnh kết quả: đã xong).
+point: Giải thích dấu hiệu hiện tại | You look tired. – I've been working overtime. (Hành động kéo dài vừa kết thúc để lại dấu hiệu ở hiện tại.)
+point: Động từ trạng thái | Với know, like, have (sở hữu)... dùng hiện tại hoàn thành thường: I've known her for ten years (không nói I've been knowing).
+example: She has been working at this company since 2019. | Cô ấy đã làm việc ở công ty này từ năm 2019.
+example: How long have you been waiting? | Bạn đã chờ bao lâu rồi?
+example: We've been negotiating with them for weeks. | Chúng tôi đã đàm phán với họ nhiều tuần nay.
+example: I'm exhausted because I've been working overtime. | Tôi kiệt sức vì đã làm thêm giờ.
+mistake: I am working here since 2020. | I have been working here since 2020. | Kéo dài từ quá khứ đến nay → hiện tại hoàn thành tiếp diễn.
+mistake: I've been working here since three years. | I've been working here for three years. | Khoảng thời gian dùng for.
+mistake: I've been knowing him for years. | I've known him for years. | know là động từ trạng thái.
+ex: I have been learning English ___ five years. | for ; since ; from | for | five years là khoảng thời gian.
+ex: She has been working here ___ 2021. | for ; since ; in | since | 2021 là mốc thời gian.
+ex: How long ___ you been waiting for the bus? | have ; are ; did | have | How long have you been + V-ing?
+ex: They ___ been arguing all morning. | has ; have ; are | have | They → have.
+ex: He's tired because he has been ___ overtime. | work ; worked ; working | working | have been + V-ing.
+ex: I ___ my manager for ten years. | have been knowing ; have known ; know | have known | know là động từ trạng thái.
+ex: It ___ raining since this morning. | has been ; have been ; is been | has been | It → has been.
+## dialogue
+title: Áp lực công việc
+setting: Hai đồng nghiệp nói chuyện ở văn phòng.
+line: A | Ryan | You look exhausted. Are you OK? | Trông bạn kiệt sức thế. Bạn ổn chứ?
+line: B | Trang | Not really. I've been working on this report since six this morning. | Không ổn lắm. Mình làm bản báo cáo này từ sáu giờ sáng.
+line: A | Ryan | Wow. When is the deadline? | Chà. Hạn chót là khi nào?
+line: B | Trang | Tomorrow at nine. And I've been working overtime all week. | Chín giờ sáng mai. Mà cả tuần nay mình đã làm thêm giờ rồi.
+line: A | Ryan | You shouldn't do everything alone. Good teamwork is more efficient. | Bạn không nên làm mọi thứ một mình. Làm việc nhóm tốt hiệu quả hơn.
+line: B | Trang | You're right. Could you check the numbers for me? | Bạn nói đúng. Bạn kiểm tra giúp mình phần số liệu được không?
+line: A | Ryan | Sure. And after that, let's call it a day! | Được chứ. Và sau đó thì nghỉ thôi!
+q: Since when has Trang been working on the report? | since 6 a.m. ; since yesterday ; since 9 a.m. | since 6 a.m.
+q: What does Ryan offer to do? | write the report ; check the numbers ; talk to the manager | check the numbers
+## reading
+title: The four-day work week
+text: Several companies around the world have been testing a four-day work week. Employees work 32 hours instead of 40, but they receive the same salary. The results have been surprising. Most companies say their employees have become more efficient and less stressed. Fewer people have resigned, and it has been easier to hire new staff. However, the system does not work for every job. Hospitals and shops, for example, need people every day. Still, many experts believe that shorter working weeks will become more common in the future.
+vi: Nhiều công ty trên thế giới đã và đang thử nghiệm tuần làm việc bốn ngày. Nhân viên làm 32 giờ thay vì 40 giờ nhưng vẫn nhận mức lương như cũ. Kết quả thật bất ngờ. Hầu hết các công ty cho biết nhân viên của họ làm việc hiệu quả hơn và ít căng thẳng hơn. Ít người nghỉ việc hơn và việc tuyển nhân viên mới cũng dễ hơn. Tuy nhiên, hệ thống này không phù hợp với mọi công việc. Ví dụ, bệnh viện và cửa hàng cần người làm mỗi ngày. Dù vậy, nhiều chuyên gia tin rằng tuần làm việc ngắn hơn sẽ trở nên phổ biến trong tương lai.
+q: How many hours do employees work in a four-day week? | 32 ; 40 ; 24 | 32
+q: Why doesn't the system work for hospitals? | They need people every day ; Doctors don't like it ; It is too expensive | They need people every day

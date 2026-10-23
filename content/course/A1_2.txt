@@ -1,0 +1,335 @@
+@level A1
+
+# UNIT a1-u6
+title: Đồ ăn & Đồ uống
+titleEn: Food & Drink
+emoji: 🍜
+goal: Nói về món ăn, đồ uống yêu thích và gọi món đơn giản.
+## words
+bread | /bred/ | noun | bánh mì | I eat bread with eggs for breakfast. | Tôi ăn bánh mì với trứng cho bữa sáng. | Không đếm được: a piece of bread.
+rice | /raɪs/ | noun | gạo; cơm | Vietnamese people eat rice every day. | Người Việt ăn cơm mỗi ngày.
+meat | /miːt/ | noun | thịt | I don't eat much meat. | Tôi không ăn nhiều thịt. | Phát âm giống meet (gặp).
+chicken | /ˈtʃɪk.ɪn/ | noun | gà; thịt gà | Chicken soup is good when you are sick. | Súp gà rất tốt khi bạn bị ốm.
+fish | /fɪʃ/ | noun | cá | My grandfather catches fish in the river. | Ông tôi bắt cá trên sông. | Số nhiều thường vẫn là fish.
+egg | /eɡ/ | noun | quả trứng | She boils two eggs every morning. | Cô ấy luộc hai quả trứng mỗi sáng.
+vegetable | /ˈvedʒ.tə.bəl/ | noun | rau củ | Eat more vegetables to stay healthy. | Ăn nhiều rau hơn để khỏe mạnh. | Đọc 3 âm tiết: VEJ-tơ-bồl.
+fruit | /fruːt/ | noun | trái cây | Mango is my favourite fruit. | Xoài là loại trái cây tôi thích nhất. | Chữ i câm: đọc "phrút".
+water | /ˈwɑː.t̬ɚ/ | noun | nước | Can I have a glass of water? | Cho tôi xin một cốc nước được không?
+milk | /mɪlk/ | noun | sữa | Children need to drink milk. | Trẻ em cần uống sữa.
+hungry | /ˈhʌŋ.ɡri/ | adj | đói | I'm hungry. Let's eat! | Mình đói rồi. Ăn thôi! | Khát nước là thirsty.
+sweet | /swiːt/ | adj | ngọt | This cake is too sweet for me. | Cái bánh này quá ngọt đối với tôi. | Danh từ sweets = kẹo (Anh-Anh).
+## phrases
+What would you like to eat? | Bạn muốn ăn gì?
+I'd like a bowl of pho, please. | Cho tôi một bát phở.
+I'm thirsty. Can I have some water? | Tôi khát. Cho tôi xin chút nước nhé?
+My favourite food is fried rice. | Món ăn yêu thích của tôi là cơm chiên.
+Enjoy your meal! | Chúc ngon miệng!
+How much rice do you need? | Bạn cần bao nhiêu gạo?
+## grammar
+title: Danh từ đếm được & không đếm được
+summary: Danh từ đếm được có số ít và số nhiều (an egg, two eggs). Danh từ không đếm được không có số nhiều và không đi với a / an (water, rice, bread, milk). Muốn đếm, ta dùng đơn vị: a glass of water.
+formula: Đếm được: a / an + N số ít; số đếm + N số nhiều (three apples)
+formula: Không đếm được: some / much / a little + N (some water)
+formula: How many + N số nhiều? · How much + N không đếm được?
+formula: Đơn vị: a glass of water, a bowl of rice, a piece of bread, a kilo of meat
+point: Nhận biết danh từ không đếm được | Thường là chất lỏng (water, milk, coffee), dạng hạt / bột (rice, sugar, salt), khái niệm trừu tượng (money, information, advice) và một số từ như bread, homework, furniture.
+point: How many hay How much? | How many + danh từ số nhiều: How many eggs? How much + danh từ không đếm được: How much milk? How much còn dùng để hỏi giá: How much is it?
+point: many – much – a lot of | many đi với đếm được, much với không đếm được (thường dùng trong câu phủ định / câu hỏi). a lot of dùng được cho cả hai: a lot of eggs, a lot of water.
+example: There are six eggs in the fridge. | Có sáu quả trứng trong tủ lạnh.
+example: How much water do you drink a day? | Mỗi ngày bạn uống bao nhiêu nước?
+example: I'd like a bowl of rice, please. | Cho tôi một bát cơm.
+example: We don't have much bread. | Chúng ta không còn nhiều bánh mì.
+mistake: I want two breads. | I want two pieces of bread. | bread không đếm được.
+mistake: How many water do you drink? | How much water do you drink? | water không đếm được.
+ex: How ___ apples do you want? | much ; many ; a lot | many | apples là danh từ đếm được số nhiều.
+ex: How ___ milk is there? | much ; many ; few | much | milk không đếm được.
+ex: Can I have ___ glass of water? | a ; an ; some | a | a glass of water.
+ex: There isn't ___ rice left. | many ; much ; a | much | rice không đếm được, câu phủ định dùng much.
+ex: She eats ___ vegetables every day. | a lot of ; much ; a | a lot of | a lot of dùng cho cả hai loại danh từ.
+ex: I'd like ___ egg, please. | a ; an ; some | an | egg bắt đầu bằng nguyên âm.
+ex: Would you like ___ bread? | a ; some ; many | some | Lời mời dùng some với danh từ không đếm được.
+## dialogue
+title: Ăn trưa ở căng-tin
+setting: Hai bạn sinh viên chọn món ở căng-tin.
+line: A | Jack | I'm so hungry! What do you want for lunch? | Mình đói quá! Trưa nay bạn muốn ăn gì?
+line: B | Vy | I'd like chicken and rice. What about you? | Mình muốn ăn cơm gà. Còn bạn?
+line: A | Jack | I don't eat meat, so I'll have fish and vegetables. | Mình không ăn thịt nên sẽ ăn cá với rau.
+line: B | Vy | Good choice. Do you want something to drink? | Lựa chọn hay đấy. Bạn có muốn uống gì không?
+line: A | Jack | Just some water, please. How about you? | Chỉ một chút nước thôi. Còn bạn?
+line: B | Vy | A glass of orange juice. It's sweet and fresh. | Một cốc nước cam. Ngọt và tươi mát.
+q: What does Vy want to eat? | fish and vegetables ; chicken and rice ; bread and eggs | chicken and rice
+q: Why doesn't Jack order chicken? | He doesn't eat meat ; He isn't hungry ; It is too expensive | He doesn't eat meat
+## reading
+title: Vietnamese breakfast
+text: In Vietnam, breakfast is very important. Many people eat outside before work. The most famous breakfast is pho, a noodle soup with beef or chicken. Another popular choice is banh mi, a crispy bread with meat, eggs and vegetables. Some people prefer sticky rice because it is cheap and keeps them full for a long time. With breakfast, Vietnamese people often drink iced milk coffee or green tea.
+vi: Ở Việt Nam, bữa sáng rất quan trọng. Nhiều người ăn ở ngoài trước khi đi làm. Món sáng nổi tiếng nhất là phở, món súp sợi với thịt bò hoặc gà. Một lựa chọn phổ biến khác là bánh mì, loại bánh giòn kẹp thịt, trứng và rau. Một số người thích xôi vì rẻ và giúp no lâu. Khi ăn sáng, người Việt thường uống cà phê sữa đá hoặc trà xanh.
+q: What is pho? | a kind of bread ; a noodle soup ; a sweet cake | a noodle soup
+q: Why do some people like sticky rice? | It is cheap and filling ; It is sweet ; It has fish | It is cheap and filling
+q: What do people often drink with breakfast? | orange juice ; iced milk coffee or green tea ; milk | iced milk coffee or green tea
+
+# UNIT a1-u7
+title: Mua sắm & Quần áo
+titleEn: Shopping & Clothes
+emoji: 🛍️
+goal: Hỏi giá, chọn quần áo, nói kích cỡ và màu sắc.
+## words
+shirt | /ʃɝːt/ | noun | áo sơ mi | He wears a white shirt to work. | Anh ấy mặc áo sơ mi trắng đi làm. | T-shirt = áo phông.
+dress | /dres/ | noun | váy liền | She looks beautiful in that red dress. | Cô ấy trông thật đẹp trong chiếc váy đỏ đó. | Động từ dress = mặc quần áo.
+shoes | /ʃuːz/ | noun | đôi giày | These shoes are very comfortable. | Đôi giày này rất thoải mái. | a pair of shoes = một đôi giày.
+jacket | /ˈdʒæk.ɪt/ | noun | áo khoác | Take a jacket. It's cold outside. | Mang theo áo khoác đi. Ngoài trời lạnh đấy.
+price | /praɪs/ | noun | giá cả | The price is too high. | Giá quá cao.
+cheap | /tʃiːp/ | adj | rẻ | Things at this market are cheap. | Đồ ở chợ này rẻ. | Trái nghĩa: expensive.
+expensive | /ɪkˈspen.sɪv/ | adj | đắt | The watch is very expensive. | Chiếc đồng hồ rất đắt.
+size | /saɪz/ | noun | cỡ, kích thước | What size do you wear? | Bạn mặc cỡ nào? | S (small), M (medium), L (large).
+buy | /baɪ/ | verb | mua | I want to buy a new phone. | Tôi muốn mua điện thoại mới. | Quá khứ: bought.
+pay | /peɪ/ | verb | trả tiền | Can I pay by card? | Tôi trả bằng thẻ được không? | Quá khứ: paid.
+wear | /wer/ | verb | mặc, đội, đeo | I wear glasses. | Tôi đeo kính. | wear dùng cho quần áo, giày, kính, đồng hồ...
+color | /ˈkʌl.ɚ/ | noun | màu sắc | What color is your bag? | Túi của bạn màu gì? | Anh-Anh viết colour.
+## phrases
+How much is this shirt? | Chiếc áo này bao nhiêu tiền?
+Can I try it on? | Tôi mặc thử được không?
+Do you have it in a bigger size? | Có cỡ lớn hơn không?
+It's too expensive. Can you give me a discount? | Đắt quá. Bạn giảm giá được không?
+I'll take it. | Tôi lấy cái này.
+Just looking, thanks. | Tôi chỉ xem thôi, cảm ơn.
+## grammar
+title: This / That / These / Those
+summary: Đây là các từ chỉ định giúp nói "cái này / cái kia". Chọn theo hai yếu tố: số ít hay số nhiều, ở gần hay ở xa người nói.
+formula: This + N số ít (gần): this shirt
+formula: That + N số ít (xa): that dress
+formula: These + N số nhiều (gần): these shoes
+formula: Those + N số nhiều (xa): those jackets
+point: Gần hay xa | this / these cho thứ ở gần người nói (có thể chạm vào); that / those cho thứ ở xa.
+point: Hỏi giá | How much is this / that + N số ít? How much are these / those + N số nhiều? Trả lời: It's 200,000 dong. / They're 15 dollars.
+point: Đồ đi theo đôi luôn số nhiều | shoes, jeans, trousers, glasses, scissors luôn số nhiều: these jeans, those glasses.
+example: This jacket is very warm. | Chiếc áo khoác này rất ấm.
+example: How much are those shoes? | Đôi giày kia bao nhiêu tiền?
+example: These apples are cheap. | Những quả táo này rẻ.
+example: Is that your car? | Kia có phải xe của bạn không?
+mistake: How much is these shoes? | How much are these shoes? | these shoes số nhiều → are.
+mistake: This jeans are nice. | These jeans are nice. | jeans luôn số nhiều.
+ex: ___ dress here is beautiful. | This ; These ; Those | This | dress số ít, ở gần.
+ex: How much ___ those shoes? | is ; are ; am | are | those shoes số nhiều.
+ex: Look at ___ birds in the sky! | this ; that ; those | those | birds số nhiều, ở xa.
+ex: ___ jeans are too long for me. | This ; These ; That | These | jeans luôn số nhiều.
+ex: Is ___ your bag over there? | this ; that ; these | that | over there → xa, số ít.
+ex: How much ___ this jacket? | is ; are ; be | is | this jacket số ít.
+## dialogue
+title: Ở cửa hàng quần áo
+setting: Chi mua áo khoác ở một cửa hàng.
+line: A | Assistant | Hello! Can I help you? | Xin chào! Tôi có thể giúp gì cho chị?
+line: B | Chi | Yes, please. How much is this jacket? | Vâng. Chiếc áo khoác này bao nhiêu tiền?
+line: A | Assistant | It's forty dollars. | Bốn mươi đô-la ạ.
+line: B | Chi | Can I try it on? | Tôi mặc thử được không?
+line: A | Assistant | Of course. What size do you wear? | Tất nhiên rồi. Chị mặc cỡ nào ạ?
+line: B | Chi | Medium. Hmm, it's a bit small. Do you have it in large? | Cỡ vừa. Hmm, hơi chật. Có cỡ lớn không?
+line: A | Assistant | Yes, here you are. We also have it in blue and black. | Có ạ, của chị đây. Chúng tôi cũng có màu xanh và màu đen.
+line: B | Chi | I love the blue one. I'll take it. Can I pay by card? | Tôi thích cái màu xanh. Tôi lấy nó. Tôi trả bằng thẻ được không?
+q: How much is the jacket? | fourteen dollars ; forty dollars ; four dollars | forty dollars
+q: Which color does Chi choose? | black ; red ; blue | blue
+## reading
+title: Shopping at a night market
+text: Night markets are very popular in Asia. You can buy almost everything there: clothes, shoes, bags, food and souvenirs. The prices are usually cheap, but sellers often start with a high price. So, it is a good idea to bargain. Smile, ask "How much is it?" and then offer a lower price. Don't forget to bring cash because many small shops don't take cards. And of course, try the street food!
+vi: Chợ đêm rất phổ biến ở châu Á. Bạn có thể mua gần như mọi thứ ở đó: quần áo, giày dép, túi xách, đồ ăn và quà lưu niệm. Giá thường rẻ, nhưng người bán hay hét giá cao lúc đầu. Vì vậy mặc cả là một ý hay. Hãy mỉm cười, hỏi "Bao nhiêu tiền?" rồi trả giá thấp hơn. Đừng quên mang tiền mặt vì nhiều cửa hàng nhỏ không nhận thẻ. Và tất nhiên, hãy thử đồ ăn đường phố!
+q: Why is it a good idea to bargain? | Sellers often start with a high price ; Everything is free ; Shops are closed | Sellers often start with a high price
+q: Why should you bring cash? | It is safer ; Many small shops don't take cards ; Cards are expensive | Many small shops don't take cards
+
+# UNIT a1-u8
+title: Sở thích & Khả năng
+titleEn: Hobbies & Abilities
+emoji: 🎸
+goal: Nói về sở thích và những việc mình có thể / không thể làm.
+## words
+hobby | /ˈhɑː.bi/ | noun | sở thích | My hobby is taking photos. | Sở thích của tôi là chụp ảnh. | Số nhiều: hobbies.
+music | /ˈmjuː.zɪk/ | noun | âm nhạc | I listen to music every day. | Tôi nghe nhạc mỗi ngày.
+movie | /ˈmuː.vi/ | noun | bộ phim | Let's watch a movie tonight. | Tối nay xem phim nhé. | Anh-Anh hay dùng film.
+sport | /spɔːrt/ | noun | thể thao | Football is a popular sport. | Bóng đá là môn thể thao phổ biến.
+swim | /swɪm/ | verb | bơi | Can you swim? | Bạn biết bơi không? | swimming: nhân đôi m.
+dance | /dæns/ | verb | nhảy múa | She can dance very well. | Cô ấy nhảy rất giỏi.
+sing | /sɪŋ/ | verb | hát | He sings in a band. | Anh ấy hát trong một ban nhạc. | singer = ca sĩ.
+draw | /drɑː/ | verb | vẽ | My son loves to draw animals. | Con trai tôi thích vẽ động vật. | draw = vẽ bằng bút; paint = vẽ màu.
+read | /riːd/ | verb | đọc | I read a book before bed. | Tôi đọc sách trước khi ngủ. | Quá khứ read đọc là /red/.
+cook | /kʊk/ | verb | nấu ăn | My dad can cook very well. | Bố tôi nấu ăn rất giỏi. | Danh từ cook = đầu bếp; cooker = cái bếp.
+guitar | /ɡɪˈtɑːr/ | noun | đàn ghi-ta | He plays the guitar every evening. | Anh ấy chơi ghi-ta mỗi tối. | play + the + nhạc cụ.
+favourite | /ˈfeɪ.vər.ɪt/ | adj | yêu thích nhất | What's your favourite sport? | Môn thể thao yêu thích của bạn là gì? | Anh-Mỹ viết favorite.
+## phrases
+What do you do in your free time? | Bạn làm gì khi rảnh?
+I'm really into music. | Mình rất mê âm nhạc.
+I can't swim at all. | Mình hoàn toàn không biết bơi.
+Do you want to play badminton with us? | Bạn muốn chơi cầu lông với bọn mình không?
+I love watching movies. | Mình thích xem phim.
+## grammar
+title: Can / Can't & Like + V-ing
+summary: Can dùng để nói về khả năng ("có thể, biết làm gì"). Sau can luôn là động từ nguyên mẫu. Để nói về sở thích, dùng like / love / enjoy / hate + V-ing.
+formula: S + can / can't + V nguyên mẫu: I can swim.
+formula: Câu hỏi: Can + S + V? → Yes, I can. / No, I can't.
+formula: S + like / love / enjoy / hate + V-ing: She loves dancing.
+point: Can không chia theo chủ ngữ | Dùng can cho mọi chủ ngữ: He can sing (không nói He cans sing hay He can sings).
+point: Phát âm can / can't | Câu khẳng định đọc nhẹ /kən/; can't đọc rõ và dài /kænt/ (Mỹ) hoặc /kɑːnt/ (Anh). Nghe kỹ âm t để phân biệt.
+point: Like + V-ing | Sau like, love, enjoy, hate, don't mind dùng V-ing: I enjoy reading. Riêng would like + to V: I'd like to dance (= tôi muốn nhảy).
+point: Động từ đi với môn thể thao | play + môn có bóng (play football), go + V-ing (go swimming), do + võ / yoga (do karate).
+example: I can play the guitar, but I can't sing. | Tôi biết chơi ghi-ta nhưng không biết hát.
+example: Can your brother swim? Yes, he can. | Anh trai bạn biết bơi không? Có.
+example: My mother loves cooking. | Mẹ tôi rất thích nấu ăn.
+example: They enjoy playing football at the weekend. | Họ thích chơi bóng đá vào cuối tuần.
+mistake: She can sings well. | She can sing well. | Sau can dùng V nguyên mẫu.
+mistake: I enjoy to read. | I enjoy reading. | Sau enjoy dùng V-ing.
+ex: My sister can ___ very well. | dance ; dances ; dancing | dance | Sau can là V nguyên mẫu.
+ex: ___ you play the piano? | Do ; Can ; Are | Can | Hỏi về khả năng dùng Can.
+ex: I love ___ photos. | take ; taking ; takes | taking | Sau love dùng V-ing.
+ex: He ___ swim. He is afraid of water. | can ; can't ; cans | can't | Sợ nước → không biết bơi.
+ex: We enjoy ___ to music. | listen ; listening ; to listen | listening | Sau enjoy dùng V-ing.
+ex: Let's go ___ this afternoon! | swim ; swimming ; to swim | swimming | go + V-ing cho hoạt động thể thao.
+ex: She plays ___ guitar in a band. | a ; the ; (không mạo từ) | the | play + the + nhạc cụ.
+## dialogue
+title: Câu lạc bộ âm nhạc
+setting: Hai sinh viên nói về việc tham gia câu lạc bộ.
+line: A | Đức | Hey Lisa, what do you do in your free time? | Này Lisa, bạn làm gì khi rảnh?
+line: B | Lisa | I love dancing and listening to music. And you? | Mình thích nhảy và nghe nhạc. Còn bạn?
+line: A | Đức | I play the guitar. I can't sing, but I can play a lot of songs. | Mình chơi ghi-ta. Mình không biết hát, nhưng chơi được nhiều bài lắm.
+line: B | Lisa | That's cool! I can sing a little. Why don't we join the music club together? | Hay quá! Mình hát được chút chút. Sao chúng ta không cùng vào câu lạc bộ âm nhạc nhỉ?
+line: A | Đức | Great idea! When does it meet? | Ý hay đấy! Câu lạc bộ sinh hoạt khi nào?
+line: B | Lisa | Every Wednesday at five. | Mỗi thứ Tư lúc năm giờ.
+q: What can Duc do? | sing ; play the guitar ; dance | play the guitar
+q: When does the music club meet? | every Monday ; every Wednesday ; every Friday | every Wednesday
+## reading
+title: Find your hobby
+text: A hobby is something you do for fun in your free time. Some people like active hobbies, such as swimming, dancing or playing sports. These hobbies keep your body strong. Other people enjoy quiet hobbies like reading, drawing or cooking. They help you relax after a long day. You don't need to be good at your hobby. The most important thing is that you enjoy it. What about you? What do you love doing?
+vi: Sở thích là việc bạn làm cho vui trong thời gian rảnh. Một số người thích sở thích năng động như bơi, nhảy hay chơi thể thao. Những sở thích này giúp cơ thể khỏe mạnh. Người khác lại thích sở thích yên tĩnh như đọc sách, vẽ hay nấu ăn. Chúng giúp bạn thư giãn sau một ngày dài. Bạn không cần phải giỏi sở thích của mình. Điều quan trọng nhất là bạn thích nó. Còn bạn thì sao? Bạn thích làm gì?
+q: Which hobby is a quiet hobby? | swimming ; reading ; playing sports | reading
+q: What do active hobbies do for you? | They help you sleep ; They keep your body strong ; They make you rich | They keep your body strong
+q: What is the most important thing about a hobby? | You are very good at it ; You enjoy it ; It is expensive | You enjoy it
+
+# UNIT a1-u9
+title: Thành phố & Chỉ đường
+titleEn: Places & Directions
+emoji: 🗺️
+goal: Gọi tên địa điểm trong thành phố, hỏi đường và chỉ đường.
+## words
+street | /striːt/ | noun | đường phố | There are many shops on this street. | Có nhiều cửa hàng trên con phố này.
+bank | /bæŋk/ | noun | ngân hàng | The bank opens at eight. | Ngân hàng mở cửa lúc tám giờ. | river bank = bờ sông.
+hospital | /ˈhɑː.spɪ.t̬əl/ | noun | bệnh viện | My aunt works at the hospital. | Dì tôi làm việc ở bệnh viện.
+school | /skuːl/ | noun | trường học | My school is near my house. | Trường tôi ở gần nhà. | ch đọc là /k/.
+market | /ˈmɑːr.kɪt/ | noun | chợ | We buy fresh fruit at the market. | Chúng tôi mua trái cây tươi ở chợ. | supermarket = siêu thị.
+park | /pɑːrk/ | noun | công viên | Children are playing in the park. | Trẻ em đang chơi trong công viên. | Động từ park = đỗ xe.
+station | /ˈsteɪ.ʃən/ | noun | nhà ga, trạm | The train station is on the left. | Ga tàu ở bên trái. | bus station, gas station.
+left | /left/ | noun | bên trái | Turn left at the corner. | Rẽ trái ở góc đường.
+right | /raɪt/ | noun | bên phải | The bank is on your right. | Ngân hàng ở bên phải bạn. | right còn nghĩa là "đúng".
+straight | /streɪt/ | adv | thẳng | Go straight for two blocks. | Đi thẳng qua hai dãy nhà. | Chữ gh câm.
+near | /nɪr/ | prep | gần | Is there a pharmacy near here? | Có hiệu thuốc nào gần đây không? | Trái nghĩa: far from.
+corner | /ˈkɔːr.nɚ/ | noun | góc (đường, phòng) | The café is on the corner. | Quán cà phê ở góc đường.
+## phrases
+Excuse me, how can I get to the station? | Xin lỗi, làm sao để đến nhà ga?
+Go straight and turn left. | Đi thẳng rồi rẽ trái.
+It's next to the bank. | Nó ở cạnh ngân hàng.
+Is it far from here? | Nó có xa đây không?
+It's about five minutes on foot. | Đi bộ khoảng năm phút.
+You can't miss it. | Bạn sẽ thấy ngay thôi.
+## grammar
+title: Giới từ nơi chốn & câu mệnh lệnh
+summary: Giới từ nơi chốn cho biết vật ở đâu (in, on, under, next to, between, opposite...). Câu mệnh lệnh bắt đầu bằng động từ nguyên mẫu để chỉ đường hoặc yêu cầu: Turn left. Don't cross here.
+formula: in (trong) · on (trên, sát bề mặt) · under (dưới)
+formula: next to (cạnh) · between A and B (giữa) · opposite (đối diện) · behind (sau) · in front of (trước)
+formula: Mệnh lệnh: V nguyên mẫu...! (Go straight.) · Phủ định: Don't + V (Don't turn right.)
+point: in hay on? | in = bên trong không gian (in the box, in the room, in Hanoi); on = trên bề mặt (on the table) hoặc trên tuyến đường (on Le Loi Street).
+point: Địa chỉ | at + số nhà (at 25 Tran Phu Street); on + tên đường (on Tran Phu Street); in + thành phố / quốc gia (in Hue).
+point: Chỉ đường lịch sự | Thêm please hoặc dùng "You can..." cho mềm mại: Please go straight. / You can take bus number 9.
+example: The cinema is opposite the park. | Rạp chiếu phim ở đối diện công viên.
+example: The bank is between the post office and the café. | Ngân hàng ở giữa bưu điện và quán cà phê.
+example: Go straight, then turn right at the corner. | Đi thẳng, rồi rẽ phải ở góc đường.
+example: Don't park in front of the gate. | Đừng đỗ xe trước cổng.
+mistake: The book is in the table. | The book is on the table. | Trên bề mặt dùng on.
+mistake: Not turn left! | Don't turn left! | Mệnh lệnh phủ định dùng Don't + V.
+ex: The cat is ___ the bed. It's hiding! | on ; under ; between | under | Trốn → ở dưới gầm giường.
+ex: The bank is ___ the café and the hotel. | between ; next ; opposite | between | between A and B.
+ex: I live ___ Nguyen Hue Street. | in ; on ; at | on | Tên đường dùng on.
+ex: ___ left at the traffic lights. | Turning ; Turn ; Turns | Turn | Mệnh lệnh dùng V nguyên mẫu.
+ex: ___ cross the street here. It's dangerous. | No ; Not ; Don't | Don't | Mệnh lệnh phủ định: Don't + V.
+ex: The pharmacy is ___ to the supermarket. | near ; next ; opposite | next | next to = cạnh.
+ex: My parents live ___ Da Lat. | in ; on ; at | in | Thành phố dùng in.
+## dialogue
+title: Hỏi đường đến ga tàu
+setting: Một du khách hỏi đường trên phố.
+line: A | Anna | Excuse me, can you help me? I'm looking for the train station. | Xin lỗi, bạn giúp tôi được không? Tôi đang tìm ga tàu.
+line: B | Long | Sure. Go straight along this street for about two hundred meters. | Được chứ. Bạn đi thẳng theo con phố này khoảng hai trăm mét.
+line: A | Anna | Straight, OK. And then? | Đi thẳng, được rồi. Sau đó thì sao?
+line: B | Long | Turn left at the big market. The station is opposite the park. | Rẽ trái ở chợ lớn. Ga tàu nằm đối diện công viên.
+line: A | Anna | Is it far from here? | Có xa đây không?
+line: B | Long | No, it's about ten minutes on foot. | Không, đi bộ khoảng mười phút thôi.
+line: A | Anna | Thank you so much! | Cảm ơn bạn rất nhiều!
+line: B | Long | You're welcome. Have a nice trip! | Không có gì. Chúc bạn chuyến đi vui vẻ!
+q: Where should Anna turn left? | at the bank ; at the big market ; at the park | at the big market
+q: How long does it take to walk to the station? | five minutes ; ten minutes ; twenty minutes | ten minutes
+## reading
+title: Welcome to my neighbourhood
+text: I live in a small but lively neighbourhood. My apartment is on Hoa Binh Street, next to a bakery, so it always smells good in the morning. Opposite my building, there is a big park where people go jogging. The market is at the end of the street, and there is a bank on the corner. The bus station is a bit far, about fifteen minutes on foot, but I usually ride my bike. I love my neighbourhood because everything I need is near.
+vi: Tôi sống ở một khu phố nhỏ nhưng nhộn nhịp. Căn hộ của tôi ở đường Hòa Bình, cạnh một tiệm bánh, nên buổi sáng lúc nào cũng thơm. Đối diện tòa nhà của tôi có một công viên lớn nơi mọi người chạy bộ. Chợ ở cuối phố, còn ngân hàng ở góc đường. Bến xe buýt hơi xa, đi bộ khoảng mười lăm phút, nhưng tôi thường đạp xe. Tôi yêu khu phố của mình vì mọi thứ tôi cần đều ở gần.
+q: What is next to the writer's apartment? | a park ; a bakery ; a bank | a bakery
+q: How does the writer usually go to the bus station? | on foot ; by bike ; by taxi | by bike
+q: Where is the bank? | on the corner ; opposite the park ; next to the bakery | on the corner
+
+# UNIT a1-u10
+title: Thời tiết & Lúc này
+titleEn: Weather & Right Now
+emoji: 🌦️
+goal: Nói về thời tiết, các mùa và việc đang diễn ra lúc này.
+## words
+weather | /ˈweð.ɚ/ | noun | thời tiết | The weather is lovely today. | Thời tiết hôm nay thật dễ chịu. | Đừng nhầm với whether (liệu).
+sunny | /ˈsʌn.i/ | adj | nắng | It's sunny, so let's go to the beach. | Trời nắng, đi biển thôi. | sun + n + y.
+rainy | /ˈreɪ.ni/ | adj | có mưa | I don't like rainy days. | Tôi không thích những ngày mưa.
+cloudy | /ˈklaʊ.di/ | adj | nhiều mây | It's cloudy, but it's not raining. | Trời nhiều mây nhưng không mưa.
+windy | /ˈwɪn.di/ | adj | có gió | It's too windy to fly a kite. | Gió quá to để thả diều.
+hot | /hɑːt/ | adj | nóng | Saigon is hot all year. | Sài Gòn nóng quanh năm.
+cold | /koʊld/ | adj | lạnh | It's cold in Hanoi in January. | Tháng Một ở Hà Nội lạnh. | catch a cold = bị cảm lạnh.
+warm | /wɔːrm/ | adj | ấm áp | Spring is warm and pleasant. | Mùa xuân ấm áp và dễ chịu.
+season | /ˈsiː.zən/ | noun | mùa | Which season do you like best? | Bạn thích mùa nào nhất? | spring, summer, autumn (fall), winter.
+summer | /ˈsʌm.ɚ/ | noun | mùa hè | We go to the beach every summer. | Mùa hè nào chúng tôi cũng đi biển.
+winter | /ˈwɪn.t̬ɚ/ | noun | mùa đông | Sometimes it snows in Sapa in winter. | Thỉnh thoảng Sa Pa có tuyết vào mùa đông.
+umbrella | /ʌmˈbrel.ə/ | noun | cái ô | Take an umbrella. It's going to rain. | Mang theo ô đi. Trời sắp mưa đấy.
+## phrases
+What's the weather like today? | Hôm nay thời tiết thế nào?
+It's raining cats and dogs! | Mưa như trút nước!
+It's getting colder. | Trời đang lạnh dần.
+What are you doing right now? | Bây giờ bạn đang làm gì?
+I'm waiting for the bus. | Tôi đang chờ xe buýt.
+## grammar
+title: Thì hiện tại tiếp diễn (Present Continuous)
+summary: Thì hiện tại tiếp diễn diễn tả hành động đang xảy ra ngay lúc nói hoặc quanh thời điểm hiện tại. Công thức có hai phần không thể thiếu: to be + V-ing.
+formula: S + am / is / are + V-ing: I am reading.
+formula: Phủ định: S + am / is / are + not + V-ing
+formula: Câu hỏi: Am / Is / Are + S + V-ing?
+formula: Dấu hiệu: now, right now, at the moment, Look!, Listen!
+point: Quy tắc thêm -ing | Bỏ e câm: make → making. Nhân đôi phụ âm cuối với từ một âm tiết dạng phụ âm–nguyên âm–phụ âm: run → running, swim → swimming. ie → ying: lie → lying.
+point: So sánh với hiện tại đơn | Hiện tại đơn = thói quen (I usually walk to work). Hiện tại tiếp diễn = đang diễn ra (Today I'm taking a taxi because it's raining).
+point: Động từ trạng thái | Động từ chỉ cảm xúc, suy nghĩ, sở hữu thường không dùng tiếp diễn: like, love, want, know, understand, need, have (sở hữu). Nói I want (không nói I'm wanting).
+example: Look! It's snowing! | Nhìn kìa! Tuyết đang rơi!
+example: She is talking on the phone right now. | Bây giờ cô ấy đang nói chuyện điện thoại.
+example: We aren't watching TV. We're reading. | Chúng tôi không xem TV. Chúng tôi đang đọc sách.
+example: Are you listening to me? | Bạn có đang nghe tôi nói không?
+mistake: I reading a book now. | I am reading a book now. | Không được thiếu to be.
+mistake: I am knowing the answer. | I know the answer. | know là động từ trạng thái.
+ex: Listen! The baby ___. | cries ; is crying ; cry | is crying | Listen! → đang xảy ra.
+ex: It ___ at the moment, so take an umbrella. | rains ; is raining ; rain | is raining | at the moment → tiếp diễn.
+ex: They ___ football now. | are playing ; play ; is playing | are playing | They → are + V-ing.
+ex: What ___ you doing? | are ; do ; is | are | Câu hỏi tiếp diễn với you → are.
+ex: My dad ___ the car right now. | wash ; is washing ; washes | is washing | right now → tiếp diễn.
+ex: I ___ a cup of coffee. | am wanting ; want ; wanting | want | want là động từ trạng thái.
+ex: We are ___ in the sea. | swiming ; swimming ; swim | swimming | swim → swimming (nhân đôi m).
+## dialogue
+title: Cuộc gọi cuối tuần
+setting: Hai người bạn ở hai thành phố gọi điện cho nhau.
+line: A | Minh | Hi Sophie! What are you doing? | Chào Sophie! Bạn đang làm gì đấy?
+line: B | Sophie | I'm sitting in a café and drinking hot chocolate. It's snowing in London! | Mình đang ngồi trong quán cà phê uống sô-cô-la nóng. London đang có tuyết!
+line: A | Minh | Snow? Wow! Here in Ho Chi Minh City, it's sunny and very hot. | Tuyết á? Chà! Ở thành phố Hồ Chí Minh trời nắng và rất nóng.
+line: B | Sophie | Lucky you! What are you doing now? | Sướng thế! Còn bạn đang làm gì?
+line: A | Minh | I'm swimming at the pool with my brother. | Mình đang bơi ở hồ bơi với anh trai.
+line: B | Sophie | I'm jealous! I want some sunshine! | Ghen tị quá! Mình muốn có chút nắng!
+q: What's the weather like in London? | sunny ; snowing ; rainy | snowing
+q: What is Minh doing? | drinking hot chocolate ; swimming ; sleeping | swimming
+## reading
+title: Seasons in Vietnam
+text: Vietnam is a long country, so the weather is different from north to south. In the north, there are four seasons. Summer is hot and rainy, while winter is cold and cloudy. Autumn is the most beautiful season in Hanoi because it is cool and the sky is clear. In the south, there are only two seasons: the dry season and the rainy season. During the rainy season, it often rains heavily in the afternoon, so people always carry an umbrella or a raincoat.
+vi: Việt Nam là một đất nước dài nên thời tiết khác nhau từ Bắc vào Nam. Ở miền Bắc có bốn mùa. Mùa hè nóng và mưa nhiều, trong khi mùa đông lạnh và nhiều mây. Mùa thu là mùa đẹp nhất ở Hà Nội vì trời mát và bầu trời trong xanh. Ở miền Nam chỉ có hai mùa: mùa khô và mùa mưa. Trong mùa mưa, trời thường mưa to vào buổi chiều nên mọi người luôn mang theo ô hoặc áo mưa.
+q: How many seasons are there in the south? | two ; three ; four | two
+q: Why is autumn beautiful in Hanoi? | It is hot ; It is cool and the sky is clear ; It snows | It is cool and the sky is clear
+q: When does it often rain in the rainy season? | in the morning ; in the afternoon ; at midnight | in the afternoon

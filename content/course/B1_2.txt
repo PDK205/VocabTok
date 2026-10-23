@@ -1,0 +1,341 @@
+@level B1
+
+# UNIT b1-u6
+title: Lối sống lành mạnh
+titleEn: Healthy Lifestyle
+emoji: 🥗
+goal: Nói về thói quen, chế độ ăn uống và cách sống cân bằng.
+## words
+habit | /ˈhæb.ɪt/ | noun | thói quen | Biting your nails is a bad habit. | Cắn móng tay là một thói quen xấu. | break a habit = bỏ thói quen.
+diet | /ˈdaɪ.ət/ | noun | chế độ ăn | A balanced diet keeps you healthy. | Chế độ ăn cân bằng giúp bạn khỏe mạnh. | be on a diet = đang ăn kiêng.
+nutrition | /nuːˈtrɪʃ.ən/ | noun | dinh dưỡng | Good nutrition is important for children. | Dinh dưỡng tốt rất quan trọng với trẻ em.
+stress | /stres/ | noun | căng thẳng | Exercise helps reduce stress. | Tập thể dục giúp giảm căng thẳng. | stressful = gây căng thẳng.
+balance | /ˈbæl.əns/ | noun | sự cân bằng | It's hard to find a balance between work and life. | Thật khó tìm được sự cân bằng giữa công việc và cuộc sống. | work-life balance.
+routine | /ruːˈtiːn/ | noun | thói quen hằng ngày | Exercise is part of my morning routine. | Tập thể dục là một phần thói quen buổi sáng của tôi.
+avoid | /əˈvɔɪd/ | verb | tránh | Try to avoid eating late at night. | Cố gắng tránh ăn khuya. | avoid + V-ing.
+quit | /kwɪt/ | verb | từ bỏ | My father quit smoking last year. | Bố tôi bỏ thuốc lá năm ngoái. | quit + V-ing; quit – quit – quit.
+energetic | /ˌen.ɚˈdʒet̬.ɪk/ | adj | tràn đầy năng lượng | I feel more energetic after jogging. | Tôi thấy tràn đầy năng lượng hơn sau khi chạy bộ.
+lifestyle | /ˈlaɪf.staɪl/ | noun | lối sống | She has a very healthy lifestyle. | Cô ấy có lối sống rất lành mạnh.
+workout | /ˈwɝːk.aʊt/ | noun | buổi tập luyện | I do a 20-minute workout every morning. | Tôi tập luyện 20 phút mỗi sáng. | work out (động từ) = tập thể dục.
+calorie | /ˈkæl.ɚ.i/ | noun | ca-lo | This drink has a lot of calories. | Đồ uống này có nhiều ca-lo.
+## phrases
+I'm trying to cut down on sugar. | Tôi đang cố giảm đường.
+You are what you eat. | Ăn gì thì bạn sẽ như thế ấy.
+I need to get more sleep. | Tôi cần ngủ nhiều hơn.
+Everything in moderation. | Cái gì cũng nên điều độ.
+I'm in good shape. | Tôi đang có thể trạng tốt.
+## grammar
+title: Danh động từ (V-ing) & Động từ nguyên mẫu (to V)
+summary: Khi hai động từ đi liền nhau, động từ thứ hai có thể ở dạng V-ing hoặc to V tùy vào động từ đứng trước. Đây là phần cần học thuộc theo nhóm.
+formula: Động từ + V-ing: enjoy, avoid, quit, finish, mind, suggest, keep, practise, consider, can't stand
+formula: Động từ + to V: want, decide, plan, hope, promise, agree, refuse, learn, need, afford
+formula: Sau giới từ luôn là V-ing: interested in learning, good at cooking, before eating
+formula: V-ing làm chủ ngữ: Swimming is good for you.
+point: Nhóm V-ing | Thường diễn tả sở thích, thói quen, hoạt động đang có: I enjoy cooking. I've quit drinking soda. Would you mind opening the window?
+point: Nhóm to V | Thường hướng tới tương lai, mục đích, kế hoạch: I want to lose weight. She decided to join a gym.
+point: Động từ đổi nghĩa | stop + V-ing = dừng hẳn việc gì (stop smoking); stop + to V = dừng lại để làm việc khác (stop to rest). remember / forget + V-ing = nhớ / quên việc đã làm; + to V = nhớ / quên việc phải làm.
+point: like, love, hate, start, begin | Dùng được cả hai mà nghĩa gần như không đổi: I like running / I like to run.
+example: I enjoy cooking healthy meals. | Tôi thích nấu những bữa ăn lành mạnh.
+example: She decided to quit sugar for a month. | Cô ấy quyết định bỏ đường trong một tháng.
+example: Avoid eating fast food too often. | Tránh ăn đồ ăn nhanh quá thường xuyên.
+example: I'm interested in learning about nutrition. | Tôi quan tâm đến việc tìm hiểu về dinh dưỡng.
+mistake: I enjoy to swim. | I enjoy swimming. | enjoy + V-ing.
+mistake: She wants losing weight. | She wants to lose weight. | want + to V.
+mistake: I'm good at cook. | I'm good at cooking. | Sau giới từ dùng V-ing.
+ex: I've decided ___ to the gym three times a week. | go ; going ; to go | to go | decide + to V.
+ex: She avoids ___ coffee after 3 p.m. | drink ; drinking ; to drink | drinking | avoid + V-ing.
+ex: My doctor suggested ___ more vegetables. | eat ; eating ; to eat | eating | suggest + V-ing.
+ex: They plan ___ a marathon next year. | run ; running ; to run | to run | plan + to V.
+ex: He's interested in ___ healthy food. | cook ; cooking ; to cook | cooking | Sau giới từ in dùng V-ing.
+ex: ___ every day is good for your health. | Walk ; Walking ; To walking | Walking | V-ing làm chủ ngữ.
+ex: Remember ___ the lights before you leave. | turning off ; to turn off ; turn off | to turn off | Nhớ việc phải làm → to V.
+## dialogue
+title: Thay đổi lối sống
+setting: Hai người bạn nói về kế hoạch sống lành mạnh.
+line: A | Hoàng | I've decided to change my lifestyle. I can't stand feeling tired all the time. | Mình quyết định thay đổi lối sống. Mình không chịu nổi cảm giác lúc nào cũng mệt mỏi.
+line: B | Grace | Good for you! What are you planning to do? | Tốt quá! Bạn định làm gì?
+line: A | Hoàng | First, I want to quit drinking soda. I also need to stop eating so late at night. | Đầu tiên, mình muốn bỏ nước ngọt. Mình cũng cần ngừng ăn khuya.
+line: B | Grace | Have you thought about doing some exercise? | Bạn đã nghĩ đến việc tập thể dục chưa?
+line: A | Hoàng | Yes, but I hate running. | Rồi, nhưng mình ghét chạy bộ.
+line: B | Grace | Then try swimming or dancing. The key is finding something you enjoy doing. | Vậy thử bơi hoặc nhảy xem. Bí quyết là tìm thứ bạn thích làm.
+line: A | Hoàng | Good idea. Would you mind joining me at the pool this weekend? | Ý hay đấy. Cuối tuần này bạn đi bơi cùng mình được không?
+q: What does Hoang want to quit? | coffee ; soda ; fast food | soda
+q: What is "the key" according to Grace? | running every day ; finding something you enjoy doing ; eating less | finding something you enjoy doing
+## reading
+title: Small habits, big changes
+text: Many people try to change their lives overnight. They decide to wake up at 5 a.m., quit sugar and go to the gym every day, all at the same time. A few weeks later, most of them give up. According to the book "Atomic Habits", it is better to start small. Instead of planning to run ten kilometres, try putting on your running shoes every morning. Instead of avoiding all junk food, try adding one piece of fruit to your lunch. When small actions become part of your routine, bigger changes become much easier.
+vi: Nhiều người cố gắng thay đổi cuộc sống chỉ sau một đêm. Họ quyết định dậy lúc 5 giờ sáng, bỏ đường và đến phòng tập mỗi ngày, tất cả cùng một lúc. Vài tuần sau, hầu hết họ bỏ cuộc. Theo cuốn sách "Atomic Habits" (Thay đổi tí hon), tốt hơn là bắt đầu từ việc nhỏ. Thay vì lên kế hoạch chạy mười cây số, hãy thử xỏ giày chạy mỗi sáng. Thay vì tránh mọi đồ ăn vặt, hãy thử thêm một miếng trái cây vào bữa trưa. Khi những hành động nhỏ trở thành một phần thói quen, những thay đổi lớn hơn sẽ dễ dàng hơn nhiều.
+q: What happens to most people who change everything at once? | They succeed ; They give up after a few weeks ; They get rich | They give up after a few weeks
+q: What does the book recommend? | starting small ; running ten kilometres ; waking up at 5 a.m. | starting small
+
+# UNIT b1-u7
+title: Tin tức & Truyền thông
+titleEn: News & Media
+emoji: 📰
+goal: Thảo luận tin tức, phân biệt tin giả và thuật lại lời người khác.
+## words
+news | /nuːz/ | noun | tin tức | Have you heard the news? | Bạn đã nghe tin chưa? | news không đếm được: The news IS good.
+article | /ˈɑːr.t̬ɪ.kəl/ | noun | bài báo | I read an interesting article about AI. | Tôi đọc một bài báo thú vị về AI.
+journalist | /ˈdʒɝː.nə.lɪst/ | noun | nhà báo | The journalist interviewed the minister. | Nhà báo phỏng vấn bộ trưởng. | journal (tạp chí) + ist.
+headline | /ˈhed.laɪn/ | noun | tiêu đề báo | The headline was shocking. | Tiêu đề bài báo gây sốc.
+announce | /əˈnaʊns/ | verb | thông báo | The company announced a new product. | Công ty công bố sản phẩm mới. | announcement = thông báo.
+audience | /ˈɑː.di.əns/ | noun | khán giả | The show has a huge audience. | Chương trình có lượng khán giả khổng lồ.
+broadcast | /ˈbrɑːd.kæst/ | verb | phát sóng | The match will be broadcast live. | Trận đấu sẽ được phát sóng trực tiếp.
+rumor | /ˈruː.mɚ/ | noun | tin đồn | Don't believe every rumor you hear. | Đừng tin mọi tin đồn bạn nghe. | Anh-Anh: rumour.
+fake | /feɪk/ | adj | giả | Fake news spreads quickly online. | Tin giả lan truyền nhanh trên mạng.
+source | /sɔːrs/ | noun | nguồn | Always check the source of the information. | Luôn kiểm tra nguồn của thông tin.
+publish | /ˈpʌb.lɪʃ/ | verb | xuất bản, đăng | The article was published yesterday. | Bài báo được đăng hôm qua.
+opinion | /əˈpɪn.jən/ | noun | ý kiến | In my opinion, the news is exaggerated. | Theo ý kiến của tôi, tin này bị phóng đại. | in my opinion = theo tôi.
+## phrases
+Did you hear about the new law? | Bạn có nghe về luật mới chưa?
+According to the news, ... | Theo tin tức, ...
+That can't be true! | Không thể nào là thật!
+Where did you read that? | Bạn đọc điều đó ở đâu vậy?
+Let's not jump to conclusions. | Đừng vội kết luận.
+## grammar
+title: Câu tường thuật (Reported Speech)
+summary: Câu tường thuật dùng để kể lại lời người khác nói. Khi động từ tường thuật ở quá khứ (said, told), ta thường lùi thì của câu gốc và đổi đại từ, trạng từ cho phù hợp.
+formula: S + said (that) + S + V (lùi thì)
+formula: S + told + O + (that) + S + V (lùi thì)
+formula: Câu hỏi: S + asked + (O) + if / whether / Wh- + S + V
+formula: Mệnh lệnh: S + told / asked + O + (not) to V
+point: Lùi thì | hiện tại đơn → quá khứ đơn; hiện tại tiếp diễn → quá khứ tiếp diễn; hiện tại hoàn thành / quá khứ đơn → quá khứ hoàn thành; will → would; can → could; must → had to.
+point: Đổi trạng từ | now → then; today → that day; tomorrow → the next day; yesterday → the day before; here → there; this → that; ago → before.
+point: say hay tell? | say + (that): She said (that) she was tired. tell + người nghe: She told me (that) she was tired. Không nói "She said me".
+point: Câu hỏi tường thuật không đảo ngữ | "Where do you live?" → He asked me where I lived (không nói where did I live).
+example: "I am a journalist." → She said she was a journalist. | "Tôi là nhà báo." → Cô ấy nói cô ấy là nhà báo.
+example: "We will publish it tomorrow." → They said they would publish it the next day. | Họ nói họ sẽ đăng nó vào ngày hôm sau.
+example: "Is the news true?" → He asked if the news was true. | Anh ấy hỏi liệu tin đó có thật không.
+example: "Don't share fake news." → The teacher told us not to share fake news. | Cô giáo bảo chúng tôi đừng chia sẻ tin giả.
+mistake: She said me that she was busy. | She told me that she was busy. | tell + người nghe.
+mistake: He asked where did I live. | He asked where I lived. | Câu hỏi tường thuật không đảo ngữ.
+mistake: She said she will come. | She said she would come. | will → would khi tường thuật ở quá khứ.
+ex: "I'm tired." → She said she ___ tired. | is ; was ; were | was | Lùi thì: am → was.
+ex: "I will call you." → He said he ___ call me. | will ; would ; can | would | will → would.
+ex: "Where do you work?" → She asked me where I ___. | work ; worked ; did work | worked | Lùi thì và không đảo ngữ.
+ex: "Don't be late." → The boss told us ___ late. | not be ; not to be ; don't be | not to be | Mệnh lệnh phủ định: told + O + not to V.
+ex: He ___ me that the news was fake. | said ; told ; asked | told | tell + người nghe.
+ex: "I can swim." → She said she ___ swim. | can ; could ; would | could | can → could.
+ex: "Are you a journalist?" → He asked me ___ I was a journalist. | that ; if ; what | if | Câu hỏi Yes/No → if / whether.
+## dialogue
+title: Tin đồn ở công ty
+setting: Hai đồng nghiệp bàn tán trong giờ nghỉ trưa.
+line: A | Vy | Did you hear the news? Linda said the company was going to close our office! | Bạn nghe tin chưa? Linda nói công ty sắp đóng cửa văn phòng mình!
+line: B | Tom | What? Where did she hear that? | Cái gì? Cô ấy nghe ở đâu vậy?
+line: A | Vy | She said she had read an article online. | Cô ấy nói cô ấy đã đọc một bài báo trên mạng.
+line: B | Tom | Let's not jump to conclusions. Was it a reliable source? | Đừng vội kết luận. Đó có phải nguồn đáng tin không?
+line: A | Vy | I don't know. I asked her which website it was, but she couldn't remember. | Mình không biết. Mình hỏi cô ấy trang web nào, nhưng cô ấy không nhớ.
+line: B | Tom | Then it's probably just a rumor. The manager told us yesterday that business was good. | Vậy chắc chỉ là tin đồn thôi. Hôm qua quản lý bảo chúng ta là kinh doanh đang tốt.
+line: A | Vy | You're right. I'll wait for an official announcement. | Bạn nói đúng. Mình sẽ chờ thông báo chính thức.
+q: Where did Linda say she had read the news? | in a newspaper ; in an article online ; in an email | in an article online
+q: What did the manager tell them yesterday? | The office would close ; Business was good ; They would get a bonus | Business was good
+## reading
+title: How to spot fake news
+text: Fake news is false information that looks like real news. It spreads fast on social media because shocking headlines get more clicks. So how can you protect yourself? First, check the source. Is the website well known? Second, read beyond the headline. Sometimes the article says something completely different. Third, check the date. Old stories are often shared as if they were new. Finally, ask yourself how the story makes you feel. If it makes you very angry or scared, be careful. That might be exactly what its writer wants.
+vi: Tin giả là thông tin sai lệch trông giống tin thật. Nó lan truyền nhanh trên mạng xã hội vì những tiêu đề gây sốc thu hút nhiều lượt nhấp hơn. Vậy làm sao để bảo vệ bản thân? Thứ nhất, kiểm tra nguồn tin. Trang web đó có nổi tiếng không? Thứ hai, đọc kỹ hơn phần tiêu đề. Đôi khi nội dung bài viết nói điều hoàn toàn khác. Thứ ba, kiểm tra ngày đăng. Những câu chuyện cũ thường được chia sẻ như thể chúng mới xảy ra. Cuối cùng, hãy tự hỏi câu chuyện khiến bạn cảm thấy thế nào. Nếu nó khiến bạn rất tức giận hoặc sợ hãi, hãy cẩn thận. Đó có thể chính là điều người viết muốn.
+q: Why does fake news spread fast? | It is always true ; Shocking headlines get more clicks ; It is free | Shocking headlines get more clicks
+q: Why should you check the date? | Old stories are shared as if they were new ; Websites change every day ; News is only true on Mondays | Old stories are shared as if they were new
+
+# UNIT b1-u8
+title: Tính cách con người
+titleEn: Personality
+emoji: 🧠
+goal: Mô tả tính cách và dùng mệnh đề quan hệ để nói rõ về ai / cái gì.
+## words
+generous | /ˈdʒen.ɚ.əs/ | adj | hào phóng, rộng lượng | My uncle is very generous with his time. | Chú tôi rất rộng rãi thời gian cho mọi người.
+honest | /ˈɑː.nɪst/ | adj | trung thực | Please be honest with me. | Hãy thành thật với tôi. | h câm nên nói an honest man.
+patient | /ˈpeɪ.ʃənt/ | adj | kiên nhẫn | A good teacher is always patient. | Một giáo viên giỏi luôn kiên nhẫn. | Danh từ patient = bệnh nhân.
+stubborn | /ˈstʌb.ɚn/ | adj | bướng bỉnh | My brother is too stubborn to say sorry. | Anh tôi quá bướng để nói lời xin lỗi. | stubborn as a mule = cứng đầu như con la.
+confident | /ˈkɑːn.fə.dənt/ | adj | tự tin | She is confident when she speaks in public. | Cô ấy tự tin khi nói trước đám đông.
+curious | /ˈkjʊr.i.əs/ | adj | tò mò | Children are naturally curious. | Trẻ con vốn hay tò mò. | curiosity = sự tò mò.
+reliable | /rɪˈlaɪ.ə.bəl/ | adj | đáng tin cậy | He's a reliable person who always keeps his promises. | Anh ấy là người đáng tin cậy, luôn giữ lời hứa. | rely (dựa vào) + able.
+selfish | /ˈsel.fɪʃ/ | adj | ích kỷ | Don't be selfish. Share with your sister. | Đừng ích kỷ. Chia sẻ với em đi. | self (bản thân) + ish.
+ambitious | /æmˈbɪʃ.əs/ | adj | có hoài bão, tham vọng | She is ambitious and wants to run her own company. | Cô ấy đầy tham vọng và muốn điều hành công ty riêng.
+modest | /ˈmɑː.dɪst/ | adj | khiêm tốn | He is very modest about his success. | Anh ấy rất khiêm tốn về thành công của mình.
+sensitive | /ˈsen.sə.t̬ɪv/ | adj | nhạy cảm | She is sensitive and cries easily. | Cô ấy nhạy cảm và dễ khóc.
+outgoing | /ˈaʊtˌɡoʊ.ɪŋ/ | adj | hướng ngoại, cởi mở | My sister is outgoing and loves parties. | Chị tôi hướng ngoại và thích tiệc tùng. | Trái nghĩa: shy, introverted.
+## phrases
+He has a heart of gold. | Anh ấy có trái tim vàng (rất tốt bụng).
+She's the life of the party. | Cô ấy là linh hồn của bữa tiệc.
+Don't judge a book by its cover. | Đừng trông mặt mà bắt hình dong.
+We get along really well. | Chúng tôi rất hợp nhau.
+He's a bit of a perfectionist. | Anh ấy hơi cầu toàn.
+## grammar
+title: Mệnh đề quan hệ (who, which, that, whose, where)
+summary: Mệnh đề quan hệ giúp mô tả thêm về một danh từ mà không cần tách thành câu mới. I have a friend. She speaks four languages. → I have a friend who speaks four languages.
+formula: who: thay cho người (chủ ngữ / tân ngữ)
+formula: which: thay cho vật, con vật
+formula: that: thay cho cả người và vật (trong mệnh đề xác định)
+formula: whose + N: chỉ sở hữu (của người / vật đó)
+formula: where: thay cho nơi chốn · when: thay cho thời gian
+point: Mệnh đề xác định | Cần thiết để biết đang nói về ai / cái gì, không có dấu phẩy: The man who lives next door is a doctor.
+point: Mệnh đề không xác định | Thêm thông tin phụ, có dấu phẩy, KHÔNG dùng that: My mother, who is 60, still works every day.
+point: Lược bỏ đại từ quan hệ | Khi who / which / that làm tân ngữ có thể bỏ: The book (that) I bought is great. Không bỏ khi nó là chủ ngữ: The man who called you...
+point: whose | Thay cho his / her / its / their: I met a girl. Her father is a pilot. → I met a girl whose father is a pilot.
+example: A reliable person is someone who keeps promises. | Người đáng tin cậy là người giữ lời hứa.
+example: This is the book which changed my life. | Đây là cuốn sách đã thay đổi cuộc đời tôi.
+example: I have a friend whose brother is a famous singer. | Tôi có một người bạn có anh trai là ca sĩ nổi tiếng.
+example: That's the café where we first met. | Đó là quán cà phê nơi chúng tôi gặp nhau lần đầu.
+mistake: The man which helped me was kind. | The man who helped me was kind. | Người dùng who.
+mistake: My father, that is a teacher, loves books. | My father, who is a teacher, loves books. | Mệnh đề có dấu phẩy không dùng that.
+mistake: This is the house where I live in. | This is the house where I live. | where đã bao gồm nghĩa giới từ.
+ex: She's the woman ___ won the prize. | who ; which ; whose | who | Người làm chủ ngữ → who.
+ex: This is the phone ___ I bought yesterday. | who ; which ; where | which | Vật → which.
+ex: I know a boy ___ father is a pilot. | who ; whose ; which | whose | Sở hữu → whose.
+ex: That's the restaurant ___ we had our first date. | which ; where ; who | where | Nơi chốn → where.
+ex: My best friend, ___ is very outgoing, loves parties. | who ; that ; which | who | Mệnh đề có dấu phẩy, chỉ người → who.
+ex: The movie ___ we watched last night was boring. | (bỏ trống được) ; whose ; where | (bỏ trống được) | Đại từ quan hệ làm tân ngữ có thể lược bỏ.
+ex: A selfish person is someone ___ only thinks about himself. | which ; who ; whom | who | Người làm chủ ngữ → who.
+## dialogue
+title: Tìm bạn cùng phòng
+setting: Mai nhờ Jake giới thiệu bạn ở ghép.
+line: A | Mai | I'm looking for a roommate. Do you know anyone who might be interested? | Mình đang tìm bạn cùng phòng. Bạn có biết ai có thể quan tâm không?
+line: B | Jake | Maybe my cousin, Ben. He's the guy who helped us move last year. | Có thể là em họ mình, Ben. Cậu ấy là người đã giúp chúng ta chuyển nhà năm ngoái.
+line: A | Mai | Oh, I remember him! What's he like? | À, mình nhớ cậu ấy rồi! Cậu ấy là người thế nào?
+line: B | Jake | He's honest, reliable and very tidy. He's someone who always pays on time. | Cậu ấy trung thực, đáng tin cậy và rất ngăn nắp. Cậu ấy là người luôn trả tiền đúng hạn.
+line: A | Mai | That sounds perfect. Is he outgoing? I don't want someone who has parties every night. | Nghe tuyệt đấy. Cậu ấy có hướng ngoại không? Mình không muốn người tổ chức tiệc mỗi tối.
+line: B | Jake | Don't worry. He's quite shy, and the only thing which he loves is reading. | Đừng lo. Cậu ấy khá nhút nhát, và thứ duy nhất cậu ấy mê là đọc sách.
+line: A | Mai | Great! Can you give me his number? | Tuyệt! Bạn cho mình số của cậu ấy được không?
+q: Who is Ben? | Jake's brother ; Jake's cousin ; Mai's ex-roommate | Jake's cousin
+q: What kind of roommate doesn't Mai want? | someone who reads a lot ; someone who has parties every night ; someone who is shy | someone who has parties every night
+## reading
+title: Introverts and extroverts
+text: Psychologists often divide people into two groups: introverts and extroverts. Extroverts are people who get energy from being with others. They are usually outgoing and enjoy parties. Introverts, on the other hand, are people whose energy comes from spending time alone. This does not mean they are shy or unfriendly. Many introverts are confident speakers who simply need quiet time to recharge. In fact, most people are somewhere in the middle. Understanding your personality can help you choose a job and a lifestyle that make you happy.
+vi: Các nhà tâm lý học thường chia con người thành hai nhóm: người hướng nội và người hướng ngoại. Người hướng ngoại là những người nạp năng lượng khi ở cùng người khác. Họ thường cởi mở và thích tiệc tùng. Ngược lại, người hướng nội là những người có năng lượng đến từ việc dành thời gian một mình. Điều này không có nghĩa họ nhút nhát hay không thân thiện. Nhiều người hướng nội là những diễn giả tự tin, chỉ đơn giản cần thời gian yên tĩnh để nạp lại năng lượng. Thực tế, hầu hết mọi người nằm ở khoảng giữa. Hiểu tính cách của mình có thể giúp bạn chọn công việc và lối sống khiến bạn hạnh phúc.
+q: Where do introverts get their energy from? | parties ; spending time alone ; their job | spending time alone
+q: Where are most people, according to the text? | They are introverts ; They are extroverts ; somewhere in the middle | somewhere in the middle
+
+# UNIT b1-u9
+title: Ước mơ & Giả định
+titleEn: Dreams & Wishes
+emoji: 💭
+goal: Nói về tình huống giả định, ước muốn và đưa ra lời khuyên "nếu tôi là bạn".
+## words
+imagine | /ɪˈmædʒ.ɪn/ | verb | tưởng tượng | Imagine you could fly. | Hãy tưởng tượng bạn có thể bay. | imagination = trí tưởng tượng.
+fortune | /ˈfɔːr.tʃən/ | noun | gia tài; vận may | He made a fortune in real estate. | Ông ấy kiếm được cả gia tài nhờ bất động sản. | make a fortune = trở nên giàu có.
+lottery | /ˈlɑː.t̬ɚ.i/ | noun | xổ số | If I won the lottery, I would travel the world. | Nếu trúng xổ số, tôi sẽ đi du lịch vòng quanh thế giới.
+famous | /ˈfeɪ.məs/ | adj | nổi tiếng | She wants to be a famous singer. | Cô ấy muốn trở thành ca sĩ nổi tiếng. | fame = danh tiếng.
+ideal | /aɪˈdiː.əl/ | adj | lý tưởng | This is the ideal place for a holiday. | Đây là nơi lý tưởng cho kỳ nghỉ.
+freedom | /ˈfriː.dəm/ | noun | sự tự do | Money gives you the freedom to choose. | Tiền cho bạn sự tự do lựa chọn. | free + dom.
+retire | /rɪˈtaɪr/ | verb | nghỉ hưu | My father will retire next year. | Bố tôi sẽ nghỉ hưu vào năm sau. | retirement = sự nghỉ hưu.
+donate | /ˈdoʊ.neɪt/ | verb | quyên góp | She donated money to the children's hospital. | Cô ấy quyên góp tiền cho bệnh viện nhi. | donation = sự quyên góp.
+luxury | /ˈlʌk.ʃɚ.i/ | noun | sự xa xỉ | They live a life of luxury. | Họ sống một cuộc sống xa hoa. | luxurious = sang trọng.
+wish | /wɪʃ/ | verb | ước | I wish I could speak French. | Tôi ước mình nói được tiếng Pháp.
+millionaire | /ˌmɪl.jəˈner/ | noun | triệu phú | He became a millionaire at 30. | Anh ấy trở thành triệu phú năm 30 tuổi.
+mansion | /ˈmæn.ʃən/ | noun | biệt thự lớn | The singer lives in a huge mansion. | Ca sĩ đó sống trong một biệt thự khổng lồ.
+## phrases
+If only I had more time! | Giá mà tôi có nhiều thời gian hơn!
+That's just wishful thinking. | Đó chỉ là mơ tưởng thôi.
+Money can't buy happiness. | Tiền không mua được hạnh phúc.
+What would you do in my shoes? | Nếu ở vào vị trí của tôi, bạn sẽ làm gì?
+Dream big! | Hãy mơ lớn!
+## grammar
+title: Câu điều kiện loại 2 & câu ước (wish)
+summary: Câu điều kiện loại 2 nói về tình huống KHÔNG CÓ THẬT hoặc khó xảy ra ở hiện tại / tương lai. Câu ước với wish diễn tả mong muốn điều trái với hiện tại.
+formula: If + S + V2 / V-ed (quá khứ đơn), S + would + V
+formula: Với to be: If I were you, I would... (dùng were cho mọi chủ ngữ)
+formula: S + wish + S + V2 / V-ed (ước điều trái hiện tại): I wish I had a car.
+formula: S + wish + S + could + V: I wish I could fly.
+point: Loại 1 hay loại 2? | Loại 1: có thể xảy ra (If I have time, I'll call you). Loại 2: không có thật / khó xảy ra (If I had wings, I would fly). Thì quá khứ ở đây KHÔNG nói về quá khứ mà thể hiện sự "xa rời thực tế".
+point: If I were you | Cách khuyên rất phổ biến: If I were you, I would apply for that job. (Nếu tôi là bạn, tôi sẽ...)
+point: wish & if only | I wish / If only + quá khứ đơn: I wish I lived near the sea (thực tế không sống gần biển). If only mang sắc thái mạnh hơn.
+point: would / could / might | Mệnh đề chính có thể dùng could (có thể) hoặc might (có lẽ): If I had more money, I could buy a house.
+example: If I won the lottery, I would donate half of it. | Nếu trúng xổ số, tôi sẽ quyên góp một nửa.
+example: If I were you, I wouldn't quit your job. | Nếu tôi là bạn, tôi sẽ không bỏ việc.
+example: I wish I had more free time. | Tôi ước mình có nhiều thời gian rảnh hơn.
+example: What would you do if you could live anywhere? | Bạn sẽ làm gì nếu có thể sống ở bất cứ đâu?
+mistake: If I would have money, I would buy a car. | If I had money, I would buy a car. | Không dùng would trong mệnh đề if.
+mistake: If I was you, I'd go. | If I were you, I'd go. | Trong câu khuyên chuẩn mực dùng were.
+mistake: I wish I can drive. | I wish I could drive. | Sau wish lùi thì: can → could.
+ex: If I ___ rich, I would buy a mansion. | am ; were ; will be | were | Điều kiện loại 2 với to be → were.
+ex: If she had more time, she ___ learn the piano. | will ; would ; can | would | Mệnh đề chính dùng would.
+ex: I wish I ___ taller. | am ; were ; will be | were | Ước trái hiện tại → were.
+ex: If I ___ you, I would accept the offer. | was being ; were ; am | were | If I were you...
+ex: What would you do if you ___ a million dollars? | have ; had ; will have | had | Mệnh đề if dùng quá khứ đơn.
+ex: I wish I ___ speak Japanese. | can ; could ; will | could | can → could sau wish.
+ex: If he didn't work so much, he ___ be so tired. | won't ; wouldn't ; doesn't | wouldn't | Mệnh đề chính dùng would.
+## dialogue
+title: Nếu trúng xổ số
+setting: Hai người bạn trò chuyện sau khi mua vé số.
+line: A | Phúc | If you won the lottery, what would you do first? | Nếu trúng xổ số, việc đầu tiên bạn sẽ làm là gì?
+line: B | Alice | I'd quit my job and travel around the world for a year! | Mình sẽ bỏ việc và đi vòng quanh thế giới một năm!
+line: A | Phúc | Really? I wouldn't quit. I'd buy a house for my parents. | Thật à? Mình sẽ không bỏ việc. Mình sẽ mua nhà cho bố mẹ.
+line: B | Alice | That's sweet. Would you buy a luxury car? | Tình cảm quá. Bạn có mua xe sang không?
+line: A | Phúc | No, I'd donate some money to charity. Honestly, I wish I had more free time, not more money. | Không, mình sẽ quyên góp một ít tiền cho từ thiện. Thật lòng, mình ước có nhiều thời gian rảnh hơn chứ không phải nhiều tiền hơn.
+line: B | Alice | If only we could buy time! | Giá mà chúng ta mua được thời gian!
+q: What would Alice do first? | buy a house ; quit her job and travel ; donate money | quit her job and travel
+q: What does Phuc wish for? | more money ; more free time ; a luxury car | more free time
+## reading
+title: Does money make us happy?
+text: Many people believe that if they were rich, all their problems would disappear. However, research shows that this is not completely true. Money does make people happier when it helps them pay for basic needs like food, housing and healthcare. But after a certain point, extra money adds very little happiness. Interestingly, studies show that people who spend money on experiences, such as travel, or on other people, feel happier than those who buy expensive things. So, if you had a million dollars, how would you spend it?
+vi: Nhiều người tin rằng nếu họ giàu có, mọi vấn đề sẽ biến mất. Tuy nhiên, nghiên cứu cho thấy điều này không hoàn toàn đúng. Tiền thực sự khiến con người hạnh phúc hơn khi nó giúp họ chi trả các nhu cầu cơ bản như thức ăn, nhà ở và chăm sóc sức khỏe. Nhưng sau một mức nhất định, tiền thêm vào mang lại rất ít hạnh phúc. Thú vị là, các nghiên cứu cho thấy những người tiêu tiền cho trải nghiệm, như du lịch, hoặc cho người khác, cảm thấy hạnh phúc hơn những người mua đồ đắt tiền. Vậy nếu bạn có một triệu đô-la, bạn sẽ tiêu nó như thế nào?
+q: When does money make people happier? | when it pays for basic needs ; when they buy luxury cars ; always | when it pays for basic needs
+q: Who feels happier, according to studies? | people who buy expensive things ; people who spend on experiences or others ; people who save everything | people who spend on experiences or others
+
+# UNIT b1-u10
+title: Ký ức tuổi thơ
+titleEn: Childhood Memories
+emoji: 🧸
+goal: Kể về thói quen và cuộc sống trong quá khứ đã thay đổi.
+## words
+childhood | /ˈtʃaɪld.hʊd/ | noun | tuổi thơ | I had a happy childhood in the countryside. | Tôi có một tuổi thơ hạnh phúc ở nông thôn. | child + hood.
+memory | /ˈmem.ɚ.i/ | noun | ký ức; trí nhớ | That song brings back good memories. | Bài hát đó gợi lại những ký ức đẹp.
+neighbourhood | /ˈneɪ.bɚ.hʊd/ | noun | khu phố | I grew up in a quiet neighbourhood. | Tôi lớn lên ở một khu phố yên tĩnh. | Anh-Mỹ: neighborhood.
+playground | /ˈpleɪ.ɡraʊnd/ | noun | sân chơi | We used to play in the playground after school. | Chúng tôi từng chơi ở sân chơi sau giờ học.
+toy | /tɔɪ/ | noun | đồ chơi | My favourite toy was a wooden horse. | Đồ chơi yêu thích của tôi là một con ngựa gỗ.
+generation | /ˌdʒen.əˈreɪ.ʃən/ | noun | thế hệ | Three generations live in this house. | Ba thế hệ sống trong ngôi nhà này.
+tradition | /trəˈdɪʃ.ən/ | noun | truyền thống | Making banh chung is a Tet tradition. | Gói bánh chưng là truyền thống ngày Tết.
+festival | /ˈfes.tə.vəl/ | noun | lễ hội | Children love the Mid-Autumn Festival. | Trẻ em rất thích Tết Trung thu.
+raise | /reɪz/ | verb | nuôi nấng; nâng lên | My grandparents raised me. | Ông bà đã nuôi nấng tôi. | raise children = nuôi con.
+ancestor | /ˈæn.ses.tɚ/ | noun | tổ tiên | We worship our ancestors on special days. | Chúng tôi thờ cúng tổ tiên vào những ngày đặc biệt.
+nostalgic | /nɑːˈstæl.dʒɪk/ | adj | hoài niệm | Old photos make me feel nostalgic. | Những bức ảnh cũ khiến tôi thấy hoài niệm.
+naughty | /ˈnɑː.t̬i/ | adj | nghịch ngợm | I was a naughty boy when I was young. | Hồi nhỏ tôi là một cậu bé nghịch ngợm. | gh câm.
+## phrases
+When I was a kid, I loved flying kites. | Hồi còn nhỏ, tôi rất thích thả diều.
+Those were the days! | Thời đó thật tuyệt!
+It brings back memories. | Nó gợi lại những kỷ niệm.
+Time flies! | Thời gian trôi nhanh quá!
+I grew up in a small town. | Tôi lớn lên ở một thị trấn nhỏ.
+## grammar
+title: Used to & would (thói quen trong quá khứ)
+summary: Used to + V diễn tả thói quen hoặc trạng thái trong quá khứ mà nay không còn nữa. Would + V cũng diễn tả thói quen lặp lại trong quá khứ (thường khi kể chuyện), nhưng không dùng cho trạng thái.
+formula: S + used to + V: I used to live in Hue.
+formula: Phủ định: S + didn't use to + V
+formula: Câu hỏi: Did + S + use to + V?
+formula: S + would + V (hành động lặp lại): Every summer, we would go to the beach.
+point: Used to = trước đây có, bây giờ không | I used to have long hair (giờ tóc ngắn). She used to be shy (giờ không còn nhút nhát).
+point: would chỉ dùng cho hành động | Every evening, my grandmother would tell us stories. (đúng) – I would live in Hue. (sai, live là trạng thái → used to live).
+point: Đừng nhầm với be used to + V-ing | be used to + V-ing = quen với việc gì: I'm used to getting up early. Khác hoàn toàn với used to + V.
+point: Chính tả trong phủ định / câu hỏi | Sau did / didn't viết use to (không có d): Did you use to play football? I didn't use to like vegetables.
+example: I used to play hide-and-seek with my friends. | Tôi từng chơi trốn tìm với bạn bè.
+example: There used to be a cinema here. | Ở đây từng có một rạp chiếu phim.
+example: Every Tet, we would visit our grandparents. | Mỗi dịp Tết, chúng tôi lại về thăm ông bà.
+example: Did you use to be naughty? | Hồi xưa bạn có nghịch không?
+mistake: I use to live in Hanoi. | I used to live in Hanoi. | Câu khẳng định viết used to.
+mistake: Did you used to play the piano? | Did you use to play the piano? | Sau did viết use to.
+mistake: I'm used to get up early. | I'm used to getting up early. | be used to + V-ing.
+ex: I ___ to have a dog when I was a child. | use ; used ; using | used | Câu khẳng định: used to.
+ex: We didn't ___ to have a TV. | used ; use ; using | use | Sau didn't: use to.
+ex: Did you ___ to live in the countryside? | used ; use ; using | use | Sau did: use to.
+ex: Every summer, my grandfather ___ take us fishing. | would ; used ; was | would | Hành động lặp lại khi kể chuyện → would.
+ex: There ___ to be a playground here. | use ; used ; would | used | There used to be...
+ex: She ___ to be shy, but now she's very outgoing. | used ; would ; was | used | Trạng thái (be shy) không dùng would.
+ex: I'm used to ___ in a big city now. | live ; living ; lived | living | be used to + V-ing.
+## dialogue
+title: Ngày xưa ấy
+setting: Hai bà cháu xem lại album ảnh cũ.
+line: A | Bin | Grandma, is this you? You look so young! | Bà ơi, đây là bà ạ? Trông bà trẻ quá!
+line: B | Grandma | Yes, that was me at sixteen. We used to live in a small village near the river. | Ừ, đó là bà năm mười sáu tuổi. Ngày xưa nhà mình sống ở một ngôi làng nhỏ gần sông.
+line: A | Bin | What did you use to do for fun? There was no internet then! | Hồi đó bà thường chơi gì ạ? Lúc đó làm gì có internet!
+line: B | Grandma | We would swim in the river every afternoon and fly kites in the fields. | Chiều nào bọn bà cũng tắm sông và thả diều ngoài đồng.
+line: A | Bin | That sounds amazing. Did you use to have any toys? | Nghe thích quá. Bà có đồ chơi không ạ?
+line: B | Grandma | Not many. My father would make toys from bamboo for us. | Không nhiều đâu. Cụ thường làm đồ chơi bằng tre cho bọn bà.
+line: A | Bin | I wish I could go back in time and play with you! | Ước gì cháu có thể quay ngược thời gian để chơi cùng bà!
+q: Where did Grandma use to live? | in the city ; in a village near the river ; by the sea | in a village near the river
+q: Who made toys for Grandma? | her mother ; her father ; her brother | her father
+## reading
+title: Childhood then and now
+text: Childhood has changed a lot over the last few generations. In the past, children used to spend most of their free time outdoors. They would climb trees, ride bicycles and play traditional games with kids from the neighbourhood until dinner time. Today, many children spend hours in front of screens. Technology helps them learn faster, but some experts worry that they don't move enough and have fewer real friendships. Many parents now try to find a balance, for example by having "no screen" weekends. Perhaps the best childhood combines the old and the new.
+vi: Tuổi thơ đã thay đổi rất nhiều qua vài thế hệ gần đây. Trước kia, trẻ em thường dành phần lớn thời gian rảnh ở ngoài trời. Chúng trèo cây, đạp xe và chơi trò chơi dân gian với lũ trẻ trong xóm cho đến giờ ăn tối. Ngày nay, nhiều trẻ em dành hàng giờ trước màn hình. Công nghệ giúp các em học nhanh hơn, nhưng một số chuyên gia lo rằng các em vận động không đủ và có ít tình bạn thực sự hơn. Nhiều phụ huynh hiện cố gắng tìm sự cân bằng, chẳng hạn như những dịp cuối tuần "không màn hình". Có lẽ tuổi thơ tốt nhất là sự kết hợp giữa cái cũ và cái mới.
+q: How did children use to spend their free time? | in front of screens ; outdoors ; at school | outdoors
+q: What do some experts worry about? | Children don't move enough ; Children learn too slowly ; Children play too much outside | Children don't move enough

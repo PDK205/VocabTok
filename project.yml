@@ -13,8 +13,8 @@ targets:
       base:
         PRODUCT_BUNDLE_IDENTIFIER: com.vocabtok.app
         PRODUCT_NAME: VocabTok
-        MARKETING_VERSION: "2.0.0"
-        CURRENT_PROJECT_VERSION: 2
+        MARKETING_VERSION: "3.0.0"
+        CURRENT_PROJECT_VERSION: 3
         SWIFT_VERSION: "5.0"
         TARGETED_DEVICE_FAMILY: "1"
         GENERATE_INFOPLIST_FILE: YES
@@ -25,4 +25,6 @@ targets:
         INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone: UIInterfaceOrientationPortrait
         INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents: YES
         INFOPLIST_KEY_LSApplicationCategoryType: public.app-category.education
+        INFOPLIST_KEY_NSMicrophoneUsageDescription: "VocabTok cần micro để nghe bạn phát âm và chấm điểm bài luyện nói."
+        INFOPLIST_KEY_NSSpeechRecognitionUsageDescription: "VocabTok dùng nhận dạng giọng nói để so sánh phát âm của bạn với giọng mẫu."
         ENABLE_BITCODE: NO

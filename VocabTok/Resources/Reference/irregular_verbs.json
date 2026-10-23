@@ -1,0 +1,704 @@
+[
+ {
+  "base": "be",
+  "past": "was/were",
+  "pp": "been",
+  "vi": "thì, là, ở"
+ },
+ {
+  "base": "become",
+  "past": "became",
+  "pp": "become",
+  "vi": "trở thành"
+ },
+ {
+  "base": "begin",
+  "past": "began",
+  "pp": "begun",
+  "vi": "bắt đầu"
+ },
+ {
+  "base": "break",
+  "past": "broke",
+  "pp": "broken",
+  "vi": "làm vỡ"
+ },
+ {
+  "base": "bring",
+  "past": "brought",
+  "pp": "brought",
+  "vi": "mang đến"
+ },
+ {
+  "base": "build",
+  "past": "built",
+  "pp": "built",
+  "vi": "xây dựng"
+ },
+ {
+  "base": "buy",
+  "past": "bought",
+  "pp": "bought",
+  "vi": "mua"
+ },
+ {
+  "base": "catch",
+  "past": "caught",
+  "pp": "caught",
+  "vi": "bắt, chụp"
+ },
+ {
+  "base": "choose",
+  "past": "chose",
+  "pp": "chosen",
+  "vi": "chọn"
+ },
+ {
+  "base": "come",
+  "past": "came",
+  "pp": "come",
+  "vi": "đến"
+ },
+ {
+  "base": "cost",
+  "past": "cost",
+  "pp": "cost",
+  "vi": "có giá"
+ },
+ {
+  "base": "cut",
+  "past": "cut",
+  "pp": "cut",
+  "vi": "cắt"
+ },
+ {
+  "base": "do",
+  "past": "did",
+  "pp": "done",
+  "vi": "làm"
+ },
+ {
+  "base": "draw",
+  "past": "drew",
+  "pp": "drawn",
+  "vi": "vẽ"
+ },
+ {
+  "base": "dream",
+  "past": "dreamt/dreamed",
+  "pp": "dreamt/dreamed",
+  "vi": "mơ"
+ },
+ {
+  "base": "drink",
+  "past": "drank",
+  "pp": "drunk",
+  "vi": "uống"
+ },
+ {
+  "base": "drive",
+  "past": "drove",
+  "pp": "driven",
+  "vi": "lái xe"
+ },
+ {
+  "base": "eat",
+  "past": "ate",
+  "pp": "eaten",
+  "vi": "ăn"
+ },
+ {
+  "base": "fall",
+  "past": "fell",
+  "pp": "fallen",
+  "vi": "ngã, rơi"
+ },
+ {
+  "base": "feel",
+  "past": "felt",
+  "pp": "felt",
+  "vi": "cảm thấy"
+ },
+ {
+  "base": "fight",
+  "past": "fought",
+  "pp": "fought",
+  "vi": "chiến đấu"
+ },
+ {
+  "base": "find",
+  "past": "found",
+  "pp": "found",
+  "vi": "tìm thấy"
+ },
+ {
+  "base": "fly",
+  "past": "flew",
+  "pp": "flown",
+  "vi": "bay"
+ },
+ {
+  "base": "forget",
+  "past": "forgot",
+  "pp": "forgotten",
+  "vi": "quên"
+ },
+ {
+  "base": "forgive",
+  "past": "forgave",
+  "pp": "forgiven",
+  "vi": "tha thứ"
+ },
+ {
+  "base": "freeze",
+  "past": "froze",
+  "pp": "frozen",
+  "vi": "đóng băng"
+ },
+ {
+  "base": "get",
+  "past": "got",
+  "pp": "got/gotten",
+  "vi": "có được, trở nên"
+ },
+ {
+  "base": "give",
+  "past": "gave",
+  "pp": "given",
+  "vi": "cho, tặng"
+ },
+ {
+  "base": "go",
+  "past": "went",
+  "pp": "gone",
+  "vi": "đi"
+ },
+ {
+  "base": "grow",
+  "past": "grew",
+  "pp": "grown",
+  "vi": "lớn lên, trồng"
+ },
+ {
+  "base": "hang",
+  "past": "hung",
+  "pp": "hung",
+  "vi": "treo"
+ },
+ {
+  "base": "have",
+  "past": "had",
+  "pp": "had",
+  "vi": "có"
+ },
+ {
+  "base": "hear",
+  "past": "heard",
+  "pp": "heard",
+  "vi": "nghe"
+ },
+ {
+  "base": "hide",
+  "past": "hid",
+  "pp": "hidden",
+  "vi": "trốn, giấu"
+ },
+ {
+  "base": "hit",
+  "past": "hit",
+  "pp": "hit",
+  "vi": "đánh, đụng"
+ },
+ {
+  "base": "hold",
+  "past": "held",
+  "pp": "held",
+  "vi": "cầm, tổ chức"
+ },
+ {
+  "base": "hurt",
+  "past": "hurt",
+  "pp": "hurt",
+  "vi": "làm đau"
+ },
+ {
+  "base": "keep",
+  "past": "kept",
+  "pp": "kept",
+  "vi": "giữ"
+ },
+ {
+  "base": "know",
+  "past": "knew",
+  "pp": "known",
+  "vi": "biết"
+ },
+ {
+  "base": "lay",
+  "past": "laid",
+  "pp": "laid",
+  "vi": "đặt, để"
+ },
+ {
+  "base": "lead",
+  "past": "led",
+  "pp": "led",
+  "vi": "dẫn dắt"
+ },
+ {
+  "base": "learn",
+  "past": "learnt/learned",
+  "pp": "learnt/learned",
+  "vi": "học"
+ },
+ {
+  "base": "leave",
+  "past": "left",
+  "pp": "left",
+  "vi": "rời đi"
+ },
+ {
+  "base": "lend",
+  "past": "lent",
+  "pp": "lent",
+  "vi": "cho mượn"
+ },
+ {
+  "base": "let",
+  "past": "let",
+  "pp": "let",
+  "vi": "để cho"
+ },
+ {
+  "base": "lie",
+  "past": "lay",
+  "pp": "lain",
+  "vi": "nằm"
+ },
+ {
+  "base": "lose",
+  "past": "lost",
+  "pp": "lost",
+  "vi": "làm mất, thua"
+ },
+ {
+  "base": "make",
+  "past": "made",
+  "pp": "made",
+  "vi": "làm, chế tạo"
+ },
+ {
+  "base": "mean",
+  "past": "meant",
+  "pp": "meant",
+  "vi": "có nghĩa là"
+ },
+ {
+  "base": "meet",
+  "past": "met",
+  "pp": "met",
+  "vi": "gặp"
+ },
+ {
+  "base": "pay",
+  "past": "paid",
+  "pp": "paid",
+  "vi": "trả tiền"
+ },
+ {
+  "base": "put",
+  "past": "put",
+  "pp": "put",
+  "vi": "đặt, để"
+ },
+ {
+  "base": "read",
+  "past": "read",
+  "pp": "read",
+  "vi": "đọc"
+ },
+ {
+  "base": "ride",
+  "past": "rode",
+  "pp": "ridden",
+  "vi": "cưỡi, đạp xe"
+ },
+ {
+  "base": "ring",
+  "past": "rang",
+  "pp": "rung",
+  "vi": "reo, gọi điện"
+ },
+ {
+  "base": "rise",
+  "past": "rose",
+  "pp": "risen",
+  "vi": "mọc, tăng"
+ },
+ {
+  "base": "run",
+  "past": "ran",
+  "pp": "run",
+  "vi": "chạy"
+ },
+ {
+  "base": "say",
+  "past": "said",
+  "pp": "said",
+  "vi": "nói"
+ },
+ {
+  "base": "see",
+  "past": "saw",
+  "pp": "seen",
+  "vi": "nhìn thấy"
+ },
+ {
+  "base": "sell",
+  "past": "sold",
+  "pp": "sold",
+  "vi": "bán"
+ },
+ {
+  "base": "send",
+  "past": "sent",
+  "pp": "sent",
+  "vi": "gửi"
+ },
+ {
+  "base": "set",
+  "past": "set",
+  "pp": "set",
+  "vi": "đặt, thiết lập"
+ },
+ {
+  "base": "shake",
+  "past": "shook",
+  "pp": "shaken",
+  "vi": "lắc"
+ },
+ {
+  "base": "shine",
+  "past": "shone",
+  "pp": "shone",
+  "vi": "chiếu sáng"
+ },
+ {
+  "base": "shoot",
+  "past": "shot",
+  "pp": "shot",
+  "vi": "bắn"
+ },
+ {
+  "base": "show",
+  "past": "showed",
+  "pp": "shown",
+  "vi": "cho xem"
+ },
+ {
+  "base": "shut",
+  "past": "shut",
+  "pp": "shut",
+  "vi": "đóng"
+ },
+ {
+  "base": "sing",
+  "past": "sang",
+  "pp": "sung",
+  "vi": "hát"
+ },
+ {
+  "base": "sink",
+  "past": "sank",
+  "pp": "sunk",
+  "vi": "chìm"
+ },
+ {
+  "base": "sit",
+  "past": "sat",
+  "pp": "sat",
+  "vi": "ngồi"
+ },
+ {
+  "base": "sleep",
+  "past": "slept",
+  "pp": "slept",
+  "vi": "ngủ"
+ },
+ {
+  "base": "speak",
+  "past": "spoke",
+  "pp": "spoken",
+  "vi": "nói"
+ },
+ {
+  "base": "spend",
+  "past": "spent",
+  "pp": "spent",
+  "vi": "tiêu, dành"
+ },
+ {
+  "base": "spread",
+  "past": "spread",
+  "pp": "spread",
+  "vi": "lan truyền"
+ },
+ {
+  "base": "stand",
+  "past": "stood",
+  "pp": "stood",
+  "vi": "đứng"
+ },
+ {
+  "base": "steal",
+  "past": "stole",
+  "pp": "stolen",
+  "vi": "ăn trộm"
+ },
+ {
+  "base": "stick",
+  "past": "stuck",
+  "pp": "stuck",
+  "vi": "dính, dán"
+ },
+ {
+  "base": "sting",
+  "past": "stung",
+  "pp": "stung",
+  "vi": "chích, đốt"
+ },
+ {
+  "base": "strike",
+  "past": "struck",
+  "pp": "struck",
+  "vi": "đánh, tấn công"
+ },
+ {
+  "base": "swim",
+  "past": "swam",
+  "pp": "swum",
+  "vi": "bơi"
+ },
+ {
+  "base": "take",
+  "past": "took",
+  "pp": "taken",
+  "vi": "cầm, lấy"
+ },
+ {
+  "base": "teach",
+  "past": "taught",
+  "pp": "taught",
+  "vi": "dạy"
+ },
+ {
+  "base": "tear",
+  "past": "tore",
+  "pp": "torn",
+  "vi": "xé"
+ },
+ {
+  "base": "tell",
+  "past": "told",
+  "pp": "told",
+  "vi": "kể, bảo"
+ },
+ {
+  "base": "think",
+  "past": "thought",
+  "pp": "thought",
+  "vi": "nghĩ"
+ },
+ {
+  "base": "throw",
+  "past": "threw",
+  "pp": "thrown",
+  "vi": "ném"
+ },
+ {
+  "base": "understand",
+  "past": "understood",
+  "pp": "understood",
+  "vi": "hiểu"
+ },
+ {
+  "base": "wake",
+  "past": "woke",
+  "pp": "woken",
+  "vi": "thức dậy"
+ },
+ {
+  "base": "wear",
+  "past": "wore",
+  "pp": "worn",
+  "vi": "mặc"
+ },
+ {
+  "base": "win",
+  "past": "won",
+  "pp": "won",
+  "vi": "thắng"
+ },
+ {
+  "base": "write",
+  "past": "wrote",
+  "pp": "written",
+  "vi": "viết"
+ },
+ {
+  "base": "arise",
+  "past": "arose",
+  "pp": "arisen",
+  "vi": "nảy sinh"
+ },
+ {
+  "base": "bear",
+  "past": "bore",
+  "pp": "borne",
+  "vi": "chịu đựng"
+ },
+ {
+  "base": "beat",
+  "past": "beat",
+  "pp": "beaten",
+  "vi": "đánh bại"
+ },
+ {
+  "base": "bend",
+  "past": "bent",
+  "pp": "bent",
+  "vi": "uốn cong"
+ },
+ {
+  "base": "bet",
+  "past": "bet",
+  "pp": "bet",
+  "vi": "cá cược"
+ },
+ {
+  "base": "bite",
+  "past": "bit",
+  "pp": "bitten",
+  "vi": "cắn"
+ },
+ {
+  "base": "bleed",
+  "past": "bled",
+  "pp": "bled",
+  "vi": "chảy máu"
+ },
+ {
+  "base": "blow",
+  "past": "blew",
+  "pp": "blown",
+  "vi": "thổi"
+ },
+ {
+  "base": "burn",
+  "past": "burnt/burned",
+  "pp": "burnt/burned",
+  "vi": "đốt cháy"
+ },
+ {
+  "base": "deal",
+  "past": "dealt",
+  "pp": "dealt",
+  "vi": "giải quyết"
+ },
+ {
+  "base": "dig",
+  "past": "dug",
+  "pp": "dug",
+  "vi": "đào"
+ },
+ {
+  "base": "feed",
+  "past": "fed",
+  "pp": "fed",
+  "vi": "cho ăn"
+ },
+ {
+  "base": "flee",
+  "past": "fled",
+  "pp": "fled",
+  "vi": "chạy trốn"
+ },
+ {
+  "base": "forbid",
+  "past": "forbade",
+  "pp": "forbidden",
+  "vi": "cấm"
+ },
+ {
+  "base": "mistake",
+  "past": "mistook",
+  "pp": "mistaken",
+  "vi": "nhầm lẫn"
+ },
+ {
+  "base": "overcome",
+  "past": "overcame",
+  "pp": "overcome",
+  "vi": "vượt qua"
+ },
+ {
+  "base": "quit",
+  "past": "quit",
+  "pp": "quit",
+  "vi": "từ bỏ"
+ },
+ {
+  "base": "seek",
+  "past": "sought",
+  "pp": "sought",
+  "vi": "tìm kiếm"
+ },
+ {
+  "base": "shrink",
+  "past": "shrank",
+  "pp": "shrunk",
+  "vi": "co lại"
+ },
+ {
+  "base": "smell",
+  "past": "smelt/smelled",
+  "pp": "smelt/smelled",
+  "vi": "ngửi"
+ },
+ {
+  "base": "spell",
+  "past": "spelt/spelled",
+  "pp": "spelt/spelled",
+  "vi": "đánh vần"
+ },
+ {
+  "base": "split",
+  "past": "split",
+  "pp": "split",
+  "vi": "chia tách"
+ },
+ {
+  "base": "swear",
+  "past": "swore",
+  "pp": "sworn",
+  "vi": "thề"
+ },
+ {
+  "base": "undertake",
+  "past": "undertook",
+  "pp": "undertaken",
+  "vi": "đảm nhận"
+ },
+ {
+  "base": "upset",
+  "past": "upset",
+  "pp": "upset",
+  "vi": "làm buồn lòng"
+ },
+ {
+  "base": "withdraw",
+  "past": "withdrew",
+  "pp": "withdrawn",
+  "vi": "rút lui, rút tiền"
+ }
+]

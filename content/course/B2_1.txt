@@ -1,0 +1,349 @@
+@level B2
+name: Trung cao cấp
+nameEn: Upper-Intermediate
+color: EF4444
+emoji: 🌲
+hours: 350–500 giờ
+description: Giao tiếp trôi chảy và tự nhiên với người bản xứ; thảo luận chủ đề trừu tượng, lập luận, phản biện và hiểu bài báo, phim ảnh phức tạp.
+cando: Tranh luận, bảo vệ quan điểm với lập luận rõ ràng
+cando: Hiểu bài báo, podcast về chủ đề quen thuộc lẫn trừu tượng
+cando: Suy đoán, giả định về quá khứ và tương lai
+cando: Viết đoạn văn mạch lạc với từ nối đa dạng
+cando: Tương đương IELTS 5.5–6.5
+
+# UNIT b2-u1
+title: Công nghệ & Tương lai
+titleEn: Technology & the Future
+emoji: 🤖
+goal: Dự đoán tương lai với thì tương lai tiếp diễn và tương lai hoàn thành.
+## words
+artificial | /ˌɑːr.t̬əˈfɪʃ.əl/ | adj | nhân tạo | Artificial intelligence is changing the world. | Trí tuệ nhân tạo đang thay đổi thế giới. | AI = Artificial Intelligence.
+automation | /ˌɑː.t̬əˈmeɪ.ʃən/ | noun | sự tự động hóa | Automation has reduced the need for factory workers. | Tự động hóa đã giảm nhu cầu công nhân nhà máy.
+innovation | /ˌɪn.əˈveɪ.ʃən/ | noun | sự đổi mới, sáng kiến | The company is famous for its innovation. | Công ty nổi tiếng nhờ sự đổi mới. | innovative = đổi mới, sáng tạo.
+device | /dɪˈvaɪs/ | noun | thiết bị | Please switch off all electronic devices. | Vui lòng tắt mọi thiết bị điện tử. | device (danh từ) – devise (động từ: nghĩ ra).
+privacy | /ˈpraɪ.və.si/ | noun | quyền riêng tư | Social media can be a threat to privacy. | Mạng xã hội có thể đe dọa quyền riêng tư.
+virtual | /ˈvɝː.tʃu.əl/ | adj | ảo | We had a virtual meeting on Zoom. | Chúng tôi họp trực tuyến trên Zoom. | virtual reality (VR) = thực tế ảo.
+digital | /ˈdɪdʒ.ə.t̬əl/ | adj | kỹ thuật số | We live in a digital age. | Chúng ta sống trong thời đại số.
+revolutionize | /ˌrev.əˈluː.ʃən.aɪz/ | verb | cách mạng hóa | Smartphones revolutionized the way we communicate. | Điện thoại thông minh đã cách mạng hóa cách chúng ta giao tiếp.
+breakthrough | /ˈbreɪk.θruː/ | noun | bước đột phá | Scientists have made a breakthrough in cancer research. | Các nhà khoa học đã có bước đột phá trong nghiên cứu ung thư. | break + through (xuyên qua).
+obsolete | /ˌɑːb.səlˈiːt/ | adj | lỗi thời | Many old jobs will become obsolete. | Nhiều công việc cũ sẽ trở nên lỗi thời.
+algorithm | /ˈæl.ɡə.rɪ.ðəm/ | noun | thuật toán | The algorithm recommends videos you might like. | Thuật toán gợi ý video bạn có thể thích.
+gadget | /ˈɡædʒ.ɪt/ | noun | đồ công nghệ nhỏ | He loves buying the latest gadgets. | Anh ấy thích mua những món đồ công nghệ mới nhất.
+## phrases
+It's just a matter of time. | Chỉ là vấn đề thời gian thôi.
+Technology is a double-edged sword. | Công nghệ là con dao hai lưỡi.
+We need to keep up with the times. | Chúng ta cần theo kịp thời đại.
+It's cutting-edge technology. | Đó là công nghệ tiên tiến nhất.
+I'm not very tech-savvy. | Tôi không rành công nghệ lắm.
+## grammar
+title: Tương lai tiếp diễn & Tương lai hoàn thành
+summary: Tương lai tiếp diễn (will be + V-ing) diễn tả hành động đang diễn ra tại một thời điểm trong tương lai. Tương lai hoàn thành (will have + V3) diễn tả hành động sẽ hoàn tất trước một thời điểm trong tương lai.
+formula: Tương lai tiếp diễn: S + will be + V-ing (This time tomorrow, I'll be flying to Tokyo.)
+formula: Tương lai hoàn thành: S + will have + V3 (By 2030, robots will have replaced many jobs.)
+formula: Dấu hiệu: this time next week, at 8 p.m. tomorrow · by + mốc thời gian, by the time + S + V (hiện tại đơn)
+point: Đang diễn ra tại thời điểm tương lai | At 9 a.m. tomorrow, I'll be presenting our new app. (Đúng 9 giờ sáng mai, tôi đang thuyết trình.)
+point: Hoàn tất trước một mốc | By the end of this year, we will have launched three products. by = trước / không muộn hơn.
+point: Hỏi lịch sự về kế hoạch | Will you be using the car tonight? (hỏi nhẹ nhàng về kế hoạch của người khác, không mang ý nhờ vả ép buộc).
+point: By the time + hiện tại đơn | By the time you arrive, I will have finished the report. Không dùng will sau by the time.
+example: This time next year, I'll be working in Singapore. | Giờ này năm sau, tôi sẽ đang làm việc ở Singapore.
+example: By 2040, most cars will have become electric. | Đến năm 2040, hầu hết ô tô sẽ đã chuyển sang chạy điện.
+example: Don't call at eight – I'll be having a meeting. | Đừng gọi lúc tám giờ – lúc đó tôi đang họp.
+example: By the time you get home, I will have cooked dinner. | Khi bạn về đến nhà, tôi sẽ nấu xong bữa tối.
+mistake: By 2030, AI will replace many jobs. | By 2030, AI will have replaced many jobs. | by + mốc tương lai → tương lai hoàn thành.
+mistake: By the time you will arrive, I'll have left. | By the time you arrive, I'll have left. | Sau by the time dùng hiện tại đơn.
+mistake: This time tomorrow I will lie on the beach. | This time tomorrow I will be lying on the beach. | Đang diễn ra tại thời điểm tương lai → tiếp diễn.
+ex: This time tomorrow, I ___ to London. | will fly ; will be flying ; will have flown | will be flying | This time tomorrow → tương lai tiếp diễn.
+ex: By 2030, scientists ___ a cure for this disease. | will find ; will be finding ; will have found | will have found | By 2030 → tương lai hoàn thành.
+ex: By the time you ___, the meeting will have started. | arrive ; will arrive ; arrived | arrive | Sau by the time dùng hiện tại đơn.
+ex: At 10 p.m. tonight, she ___ her favourite show. | will be watching ; will have watched ; watches | will be watching | Thời điểm cụ thể trong tương lai → tiếp diễn.
+ex: ___ you be using your laptop this evening? | Will ; Are ; Have | Will | Hỏi lịch sự: Will you be + V-ing?
+ex: By next month, I ___ here for ten years. | will work ; will have worked ; will be work | will have worked | By next month → tương lai hoàn thành.
+ex: By the end of the century, robots ___ most factory jobs. | will have taken over ; will be take over ; are taking over | will have taken over | By the end of... → tương lai hoàn thành.
+## dialogue
+title: Cuộc sống năm 2040
+setting: Hai đồng nghiệp ngành công nghệ dự đoán tương lai.
+line: A | Minh | Do you think we'll still be driving cars in 2040? | Bạn nghĩ năm 2040 chúng ta còn tự lái ô tô không?
+line: B | Sarah | I doubt it. By then, self-driving cars will have become normal. We'll be reading or sleeping while the car drives. | Mình nghi lắm. Đến lúc đó, xe tự lái sẽ trở nên bình thường rồi. Chúng ta sẽ đang đọc sách hoặc ngủ trong khi xe tự chạy.
+line: A | Minh | That sounds great, but what about privacy? These devices collect so much data. | Nghe tuyệt đấy, nhưng còn quyền riêng tư thì sao? Những thiết bị này thu thập quá nhiều dữ liệu.
+line: B | Sarah | That's the big question. Governments will have to create new laws. | Đó là câu hỏi lớn. Chính phủ sẽ phải tạo ra luật mới.
+line: A | Minh | And jobs? I read that automation will have replaced 30% of jobs by 2035. | Còn việc làm? Mình đọc thấy đến năm 2035 tự động hóa sẽ thay thế 30% việc làm.
+line: B | Sarah | Some jobs will disappear, but new ones will appear. Twenty years ago, nobody was working as an app developer! | Một số việc sẽ biến mất nhưng việc mới sẽ xuất hiện. Hai mươi năm trước, chẳng ai làm nghề lập trình ứng dụng cả!
+q: What does Sarah think people will be doing in self-driving cars? | driving ; reading or sleeping ; working on laptops only | reading or sleeping
+q: What does Minh worry about? | privacy ; the price of cars ; traffic | privacy
+## reading
+title: The rise of artificial intelligence
+text: Artificial intelligence is no longer science fiction. Every day, algorithms decide which videos we watch, which products we see and even which news we read. Supporters say AI will have transformed medicine within a decade, helping doctors find diseases earlier than ever before. However, critics warn that many jobs will become obsolete, and that powerful companies will be collecting more personal data than ever. Most experts agree on one thing: the technology itself is neither good nor bad. What matters is how we decide to use it, and who makes the rules.
+vi: Trí tuệ nhân tạo không còn là khoa học viễn tưởng. Mỗi ngày, các thuật toán quyết định chúng ta xem video nào, thấy sản phẩm nào và thậm chí đọc tin tức nào. Những người ủng hộ cho rằng AI sẽ làm thay đổi ngành y trong vòng một thập kỷ, giúp bác sĩ phát hiện bệnh sớm hơn bao giờ hết. Tuy nhiên, những người chỉ trích cảnh báo rằng nhiều công việc sẽ trở nên lỗi thời, và các công ty quyền lực sẽ thu thập nhiều dữ liệu cá nhân hơn bao giờ hết. Hầu hết các chuyên gia đồng ý một điều: bản thân công nghệ không tốt cũng không xấu. Điều quan trọng là chúng ta quyết định sử dụng nó như thế nào, và ai là người đặt ra luật lệ.
+q: According to supporters, how will AI change medicine? | It will replace doctors ; It will help doctors find diseases earlier ; It will make medicine cheaper | It will help doctors find diseases earlier
+q: What do most experts agree on? | AI is dangerous ; The technology is neither good nor bad ; AI will solve all problems | The technology is neither good nor bad
+
+# UNIT b2-u2
+title: Các mối quan hệ
+titleEn: Relationships
+emoji: 💞
+goal: Nói về xung đột, sự tiếc nuối và giả định về quá khứ.
+## words
+relationship | /rɪˈleɪ.ʃən.ʃɪp/ | noun | mối quan hệ | They have a very close relationship. | Họ có mối quan hệ rất thân thiết.
+trust | /trʌst/ | noun | lòng tin | Trust is the foundation of any friendship. | Lòng tin là nền tảng của mọi tình bạn.
+conflict | /ˈkɑːn.flɪkt/ | noun | xung đột | They had a conflict about money. | Họ xảy ra xung đột về tiền bạc.
+compromise | /ˈkɑːm.prə.maɪz/ | verb | thỏa hiệp | Couples need to learn how to compromise. | Các cặp đôi cần học cách thỏa hiệp.
+loyal | /ˈlɔɪ.əl/ | adj | trung thành | Dogs are loyal animals. | Chó là loài vật trung thành. | loyalty = lòng trung thành.
+betray | /bɪˈtreɪ/ | verb | phản bội | He felt betrayed by his best friend. | Anh ấy cảm thấy bị bạn thân phản bội.
+reconcile | /ˈrek.ən.saɪl/ | verb | hòa giải, làm lành | After years of silence, the brothers finally reconciled. | Sau nhiều năm im lặng, hai anh em cuối cùng đã làm lành.
+apologize | /əˈpɑː.lə.dʒaɪz/ | verb | xin lỗi | You should apologize to her. | Bạn nên xin lỗi cô ấy. | apologize to sb for sth.
+misunderstanding | /ˌmɪs.ʌn.dɚˈstæn.dɪŋ/ | noun | sự hiểu lầm | It was just a misunderstanding. | Đó chỉ là một sự hiểu lầm.
+supportive | /səˈpɔːr.t̬ɪv/ | adj | luôn ủng hộ, giúp đỡ | My parents are very supportive. | Bố mẹ tôi luôn ủng hộ tôi.
+acquaintance | /əˈkweɪn.təns/ | noun | người quen | He's not a friend, just an acquaintance. | Anh ta không phải bạn, chỉ là người quen.
+jealous | /ˈdʒel.əs/ | adj | ghen tị, ghen | She gets jealous when he talks to other girls. | Cô ấy ghen khi anh nói chuyện với cô gái khác.
+## phrases
+We're on the same page. | Chúng ta cùng quan điểm.
+Let's agree to disagree. | Chúng ta cứ giữ quan điểm riêng vậy.
+I owe you an apology. | Tôi nợ bạn một lời xin lỗi.
+It takes two to tango. | Một bàn tay không vỗ nên kêu.
+We drifted apart. | Chúng tôi dần xa cách nhau.
+## grammar
+title: Câu điều kiện loại 3 & điều kiện hỗn hợp
+summary: Câu điều kiện loại 3 nói về điều KHÔNG xảy ra trong quá khứ và kết quả tưởng tượng của nó – thường để diễn tả sự tiếc nuối. Câu điều kiện hỗn hợp kết nối giả định trong quá khứ với kết quả ở hiện tại (hoặc ngược lại).
+formula: Loại 3: If + S + had + V3, S + would have + V3
+formula: Hỗn hợp (quá khứ → hiện tại): If + S + had + V3, S + would + V (now)
+formula: Hỗn hợp (hiện tại → quá khứ): If + S + V2, S + would have + V3
+formula: Tiếc nuối: S + wish + S + had + V3 (I wish I had told the truth.)
+point: Loại 3 = quá khứ không có thật | If I had known about the party, I would have come. (Thực tế: tôi không biết nên đã không đến.)
+point: Hỗn hợp: quá khứ ảnh hưởng hiện tại | If she hadn't moved abroad, she would be married to him now. (Quá khứ: đã chuyển đi → hiện tại: không cưới.)
+point: Hỗn hợp: hiện tại giải thích quá khứ | If he weren't so stubborn, he would have apologized yesterday. (Hiện tại: bướng → quá khứ: đã không xin lỗi.)
+point: could have / might have | Thay would have bằng could have (đã có thể) hoặc might have (có lẽ đã): If we had talked, we could have avoided the conflict.
+example: If you had told me the truth, I would have forgiven you. | Nếu bạn nói thật với tôi, tôi đã tha thứ cho bạn rồi.
+example: If they hadn't argued, they would still be together. | Nếu họ không cãi nhau, giờ họ vẫn còn bên nhau.
+example: I wish I hadn't said those words. | Tôi ước mình đã không nói những lời đó.
+example: If she weren't so shy, she would have asked him out. | Nếu cô ấy không quá nhút nhát, cô ấy đã rủ anh ấy đi chơi rồi.
+mistake: If I would have known, I would have helped. | If I had known, I would have helped. | Mệnh đề if dùng had + V3.
+mistake: If I had studied, I would pass the exam last year. | If I had studied, I would have passed the exam last year. | Kết quả trong quá khứ → would have + V3.
+mistake: I wish I didn't say that yesterday. | I wish I hadn't said that yesterday. | Tiếc về quá khứ → had + V3.
+ex: If I ___ about the meeting, I would have come. | knew ; had known ; would know | had known | Loại 3: If + had + V3.
+ex: If she had apologized, he ___ her. | would forgive ; would have forgiven ; forgave | would have forgiven | Loại 3: would have + V3.
+ex: If we hadn't missed the flight, we ___ in Paris now. | would be ; would have been ; are | would be | Hỗn hợp: kết quả ở hiện tại (now).
+ex: I wish I ___ him the truth. | told ; had told ; would tell | had told | Tiếc nuối quá khứ → had + V3.
+ex: If he ___ so jealous, they wouldn't have broken up. | isn't ; weren't ; hadn't | weren't | Hỗn hợp: tính cách hiện tại → kết quả quá khứ.
+ex: If you had listened to me, you ___ that mistake. | wouldn't make ; wouldn't have made ; didn't make | wouldn't have made | Loại 3.
+ex: They ___ have reconciled if they had talked earlier. | could ; can ; will | could | could have + V3 = đã có thể.
+## dialogue
+title: Giá như...
+setting: Hai người bạn nói về một tình bạn đã rạn nứt.
+line: A | Linh | Do you still talk to Mai? | Bạn còn nói chuyện với Mai không?
+line: B | Jason | No. We had a big misunderstanding last year and haven't spoken since. | Không. Năm ngoái bọn mình hiểu lầm nặng và không nói chuyện từ đó.
+line: A | Linh | That's sad. What happened? | Buồn thật. Đã xảy ra chuyện gì vậy?
+line: B | Jason | She thought I had told her secret to other people. If she had asked me directly, I would have explained. | Cô ấy nghĩ mình đã kể bí mật của cô ấy cho người khác. Nếu cô ấy hỏi thẳng mình, mình đã giải thích rồi.
+line: A | Linh | And why didn't you contact her? | Vậy sao bạn không liên lạc với cô ấy?
+line: B | Jason | I was too proud. If I weren't so stubborn, I would have called her months ago. | Mình quá tự ái. Nếu mình không bướng như vậy, mình đã gọi cho cô ấy từ mấy tháng trước rồi.
+line: A | Linh | It's not too late. Maybe you two could reconcile. | Vẫn chưa muộn đâu. Có lẽ hai bạn có thể làm lành.
+line: B | Jason | You're right. I wish I had done it sooner. | Bạn nói đúng. Mình ước mình đã làm điều đó sớm hơn.
+q: Why did Mai stop talking to Jason? | He forgot her birthday ; She thought he had told her secret ; He moved abroad | She thought he had told her secret
+q: Why didn't Jason call Mai? | He was too proud ; He was too busy ; He lost her number | He was too proud
+## reading
+title: The science of forgiveness
+text: Holding on to anger can be exhausting. Psychologists have found that people who forgive tend to have lower stress levels and healthier relationships. Forgiving does not mean forgetting or pretending that nothing happened. It means choosing to let go of the desire for revenge. Interestingly, many people later realise that if they had communicated more openly, the conflict would never have started. Researchers suggest a simple first step: try to see the situation from the other person's perspective. Most misunderstandings are not caused by bad intentions, but by poor communication.
+vi: Ôm giữ cơn giận có thể khiến ta kiệt sức. Các nhà tâm lý học phát hiện rằng những người biết tha thứ thường có mức độ căng thẳng thấp hơn và các mối quan hệ lành mạnh hơn. Tha thứ không có nghĩa là quên đi hay giả vờ như chưa có chuyện gì. Nó có nghĩa là chọn buông bỏ mong muốn trả thù. Thú vị là, nhiều người sau này nhận ra rằng nếu họ giao tiếp cởi mở hơn, xung đột đã không bao giờ bắt đầu. Các nhà nghiên cứu gợi ý một bước đầu tiên đơn giản: hãy thử nhìn tình huống từ góc nhìn của người kia. Phần lớn hiểu lầm không phải do ý xấu mà do giao tiếp kém.
+q: What does forgiving mean, according to the text? | forgetting everything ; letting go of the desire for revenge ; pretending nothing happened | letting go of the desire for revenge
+q: What causes most misunderstandings? | bad intentions ; poor communication ; jealousy | poor communication
+
+# UNIT b2-u3
+title: Kinh doanh
+titleEn: Business
+emoji: 📈
+goal: Thảo luận chiến lược kinh doanh và đưa tin khách quan bằng bị động nâng cao.
+## words
+profit | /ˈprɑː.fɪt/ | noun | lợi nhuận | The company made a huge profit last year. | Công ty thu lợi nhuận khổng lồ năm ngoái. | Trái nghĩa: loss.
+revenue | /ˈrev.ə.nuː/ | noun | doanh thu | Online sales now account for half of our revenue. | Doanh số trực tuyến hiện chiếm một nửa doanh thu.
+investment | /ɪnˈvest.mənt/ | noun | sự đầu tư | Education is the best investment. | Giáo dục là khoản đầu tư tốt nhất. | invest in sth = đầu tư vào.
+competitor | /kəmˈpet̬.ə.t̬ɚ/ | noun | đối thủ cạnh tranh | Our main competitor has lowered its prices. | Đối thủ chính của chúng tôi đã hạ giá.
+strategy | /ˈstræt̬.ə.dʒi/ | noun | chiến lược | We need a new marketing strategy. | Chúng ta cần một chiến lược tiếp thị mới.
+launch | /lɑːntʃ/ | verb | ra mắt, khởi động | The new phone will be launched next month. | Điện thoại mới sẽ được ra mắt vào tháng tới.
+brand | /brænd/ | noun | thương hiệu | Nike is a famous sports brand. | Nike là thương hiệu thể thao nổi tiếng.
+consumer | /kənˈsuː.mɚ/ | noun | người tiêu dùng | Consumers are becoming more environmentally aware. | Người tiêu dùng ngày càng có ý thức về môi trường.
+budget | /ˈbʌdʒ.ɪt/ | noun | ngân sách | We have a limited budget for advertising. | Chúng ta có ngân sách hạn chế cho quảng cáo.
+merger | /ˈmɝː.dʒɚ/ | noun | sự sáp nhập | The merger of the two banks was announced today. | Việc sáp nhập hai ngân hàng đã được công bố hôm nay.
+entrepreneur | /ˌɑːn.trə.prəˈnɝː/ | noun | doanh nhân khởi nghiệp | She is a successful young entrepreneur. | Cô ấy là một doanh nhân trẻ thành đạt.
+startup | /ˈstɑːrt̬.ʌp/ | noun | công ty khởi nghiệp | He left his job to start a tech startup. | Anh ấy bỏ việc để mở một công ty khởi nghiệp công nghệ.
+## phrases
+Let's get down to business. | Chúng ta vào việc chính thôi.
+It's a win-win situation. | Đó là tình huống đôi bên cùng có lợi.
+We need to think outside the box. | Chúng ta cần suy nghĩ sáng tạo, thoát khỏi lối mòn.
+The ball is in your court. | Quyết định giờ nằm ở bạn.
+Time is money. | Thời gian là tiền bạc.
+## grammar
+title: Bị động nâng cao: have something done & It is said that...
+summary: Ở trình độ B2, câu bị động được dùng linh hoạt hơn: thuê / nhờ người khác làm việc gì (have / get something done) và đưa tin khách quan (It is said / believed / reported that...).
+formula: S + have / get + O + V3: We had the office redesigned.
+formula: It + is / was + said / believed / reported + that + mệnh đề
+formula: S + is / was + said / believed + to V / to have V3
+formula: Bị động ở các thì: is being + V3 (tiếp diễn), has been + V3 (hoàn thành), will be + V3
+point: have something done | Dùng khi ta không tự làm mà nhờ / thuê người khác: I had my car repaired (thợ sửa, không phải tôi). Cũng dùng cho việc không may: She had her phone stolen.
+point: It is said that... / S is said to... | Hai cách đưa tin mà không nêu nguồn cụ thể: It is believed that the company will merge. = The company is believed to be merging.
+point: to have + V3 | Khi sự việc xảy ra trước thời điểm nói: The CEO is said to have resigned last week.
+point: Bị động ở các thì | The product is being tested (đang được thử). The deal has been signed (đã được ký). The results will be published (sẽ được công bố).
+example: We are having our website redesigned. | Chúng tôi đang thuê người thiết kế lại trang web.
+example: It is reported that profits have doubled. | Có tin rằng lợi nhuận đã tăng gấp đôi.
+example: The startup is believed to be worth one billion dollars. | Công ty khởi nghiệp được cho là trị giá một tỷ đô-la.
+example: The new product has been launched in 20 countries. | Sản phẩm mới đã được ra mắt tại 20 quốc gia.
+mistake: I had repaired my laptop yesterday. (thợ sửa) | I had my laptop repaired yesterday. | Tân ngữ đứng trước V3.
+mistake: It is said the CEO to resign. | The CEO is said to have resigned. | Chọn đúng một trong hai cấu trúc.
+mistake: The deal has signed. | The deal has been signed. | Bị động hoàn thành: has been + V3.
+ex: We need to have the contract ___ by a lawyer. | check ; checked ; checking | checked | have + O + V3.
+ex: It ___ that the two companies will merge. | says ; is said ; said | is said | It is said that...
+ex: The CEO is believed ___ last month. | to resign ; to have resigned ; resigning | to have resigned | Sự việc đã xảy ra → to have + V3.
+ex: The new factory ___ at the moment. | is building ; is being built ; has built | is being built | Bị động tiếp diễn: is being + V3.
+ex: She got her hair ___ for the presentation. | cut ; cutting ; to cut | cut | get + O + V3.
+ex: The results ___ next week. | will publish ; will be published ; are publishing | will be published | Bị động tương lai: will be + V3.
+ex: Over one million units ___ since January. | have sold ; have been sold ; were selling | have been sold | since January → bị động hoàn thành.
+## dialogue
+title: Họp chiến lược
+setting: Giám đốc và trưởng phòng marketing họp về sản phẩm mới.
+line: A | Mr. Long | Let's get down to business. How are sales of the new app? | Chúng ta vào việc chính thôi. Doanh số ứng dụng mới thế nào?
+line: B | Emily | Good news. The app has been downloaded over 200,000 times since the launch. | Tin tốt ạ. Ứng dụng đã được tải hơn 200.000 lần kể từ khi ra mắt.
+line: A | Mr. Long | Excellent. What about our competitors? | Tuyệt vời. Còn các đối thủ thì sao?
+line: B | Emily | It is rumored that our main competitor is launching a similar product next month. | Có tin đồn rằng đối thủ chính của chúng ta sẽ ra mắt sản phẩm tương tự vào tháng tới.
+line: A | Mr. Long | Then we need to move fast. Can we increase the advertising budget? | Vậy chúng ta cần hành động nhanh. Có thể tăng ngân sách quảng cáo không?
+line: B | Emily | Yes. I suggest we have a new video ad made by a professional studio. | Được ạ. Tôi đề xuất thuê một studio chuyên nghiệp làm quảng cáo video mới.
+line: A | Mr. Long | Good idea. The ball is in your court, Emily. | Ý hay đấy. Việc này do cô quyết, Emily.
+q: How many times has the app been downloaded? | 20,000 ; over 200,000 ; 2 million | over 200,000
+q: What does Emily suggest? | lowering the price ; having a new video ad made ; hiring more staff | having a new video ad made
+## reading
+title: From garage to global brand
+text: Many of the world's biggest companies started in surprisingly small places. Apple is said to have been founded in a garage, and Amazon began as an online bookshop run from a rented house. What these entrepreneurs had in common was not money, but a clear vision and the courage to take risks. Of course, for every success story, thousands of startups fail. It is estimated that around 90% of new businesses close within five years. The most common reasons are a lack of customers, poor planning and running out of money.
+vi: Nhiều công ty lớn nhất thế giới bắt đầu ở những nơi nhỏ bé đến bất ngờ. Apple được cho là đã được thành lập trong một nhà để xe, còn Amazon khởi đầu là một hiệu sách trực tuyến vận hành từ một căn nhà thuê. Điểm chung của những doanh nhân này không phải là tiền, mà là tầm nhìn rõ ràng và dũng khí chấp nhận rủi ro. Tất nhiên, cứ mỗi câu chuyện thành công lại có hàng nghìn công ty khởi nghiệp thất bại. Ước tính khoảng 90% doanh nghiệp mới đóng cửa trong vòng năm năm. Những lý do phổ biến nhất là thiếu khách hàng, lập kế hoạch kém và cạn tiền.
+q: Where is Apple said to have been founded? | in a university ; in a garage ; in a bookshop | in a garage
+q: What percentage of new businesses close within five years? | about 50% ; about 70% ; about 90% | about 90%
+
+# UNIT b2-u4
+title: Sức khỏe tinh thần
+titleEn: Mental Health
+emoji: 🧘
+goal: Nói về căng thẳng, kiệt sức và suy đoán về tình trạng của người khác.
+## words
+anxiety | /æŋˈzaɪ.ə.t̬i/ | noun | sự lo âu | Many students suffer from exam anxiety. | Nhiều sinh viên bị lo âu khi thi cử. | anxious = lo âu.
+depression | /dɪˈpreʃ.ən/ | noun | trầm cảm | Depression is a serious illness. | Trầm cảm là một căn bệnh nghiêm trọng.
+cope | /koʊp/ | verb | đối phó, đương đầu | She is learning to cope with stress. | Cô ấy đang học cách đối phó với căng thẳng. | cope with sth.
+burnout | /ˈbɝːn.aʊt/ | noun | sự kiệt sức (vì công việc) | Working 70 hours a week can lead to burnout. | Làm việc 70 giờ một tuần có thể dẫn đến kiệt sức. | burn out = cháy hết.
+therapy | /ˈθer.ə.pi/ | noun | liệu pháp trị liệu | Talking therapy helped him a lot. | Liệu pháp trò chuyện đã giúp anh ấy rất nhiều. | therapist = nhà trị liệu.
+mindfulness | /ˈmaɪnd.fəl.nəs/ | noun | chánh niệm | Mindfulness means paying attention to the present moment. | Chánh niệm là chú tâm vào khoảnh khắc hiện tại.
+overwhelmed | /ˌoʊ.vɚˈwelmd/ | adj | choáng ngợp, quá tải | I feel overwhelmed by all this work. | Tôi thấy quá tải với đống công việc này.
+isolated | /ˈaɪ.sə.leɪ.t̬ɪd/ | adj | bị cô lập | Many elderly people feel isolated. | Nhiều người cao tuổi cảm thấy bị cô lập.
+wellbeing | /ˌwelˈbiː.ɪŋ/ | noun | sự khỏe mạnh, an lạc | Exercise is good for your mental wellbeing. | Tập thể dục tốt cho sức khỏe tinh thần.
+meditate | /ˈmed.ə.teɪt/ | verb | thiền | I meditate for ten minutes every morning. | Tôi thiền mười phút mỗi sáng. | meditation = thiền định.
+recover | /rɪˈkʌv.ɚ/ | verb | hồi phục | It took her months to recover from burnout. | Cô ấy mất nhiều tháng để hồi phục sau kiệt sức.
+vulnerable | /ˈvʌl.nɚ.ə.bəl/ | adj | dễ bị tổn thương | Teenagers are especially vulnerable to online bullying. | Thanh thiếu niên đặc biệt dễ bị tổn thương trước bắt nạt trên mạng.
+## phrases
+It's okay not to be okay. | Không ổn cũng không sao cả.
+I need some time for myself. | Tôi cần chút thời gian cho bản thân.
+Take it one day at a time. | Cứ từ từ từng ngày một.
+I'm here if you need to talk. | Tôi luôn ở đây nếu bạn cần tâm sự.
+Don't be too hard on yourself. | Đừng quá khắt khe với bản thân.
+## grammar
+title: Động từ khuyết thiếu chỉ suy đoán (must / might / can't + have V3)
+summary: Ta dùng must, might, may, could, can't để suy đoán với mức độ chắc chắn khác nhau. Muốn suy đoán về quá khứ, thêm have + V3.
+formula: Hiện tại: must / might / may / could / can't + V
+formula: Quá khứ: must / might / may / could / can't + have + V3
+formula: must = gần như chắc chắn đúng · might / may / could = có thể · can't / couldn't = chắc chắn không
+point: must – chắc hẳn là | She's been working since 6 a.m. She must be exhausted. (Suy luận logic từ bằng chứng.)
+point: can't – chắc chắn không | Phủ định của must (suy đoán) là can't, KHÔNG phải mustn't: He can't be ill – I saw him at the gym an hour ago.
+point: Suy đoán về quá khứ | He didn't answer. He must have been asleep. / She might have missed the bus. / They can't have forgotten – I reminded them twice.
+point: should have / shouldn't have | Diễn tả lời trách / tiếc: You should have told me (lẽ ra bạn nên nói với tôi). I shouldn't have eaten so much.
+example: You must be tired after such a long day. | Chắc hẳn bạn mệt lắm sau một ngày dài như vậy.
+example: He might be feeling overwhelmed. | Có thể anh ấy đang cảm thấy quá tải.
+example: She must have been very stressed before the exam. | Chắc hẳn cô ấy đã rất căng thẳng trước kỳ thi.
+example: They can't have heard the news yet. | Họ chắc chắn chưa nghe tin.
+mistake: He mustn't be at home – his car is gone. | He can't be at home – his car is gone. | Suy đoán phủ định dùng can't.
+mistake: She must has left. | She must have left. | Sau must dùng have nguyên mẫu.
+mistake: You should told me. | You should have told me. | should have + V3.
+ex: She hasn't eaten all day. She ___ be very hungry. | must ; can't ; mustn't | must | Suy luận chắc chắn → must.
+ex: That ___ be Tom. He's in Japan this week. | must ; can't ; might | can't | Chắc chắn không thể → can't.
+ex: I can't find my keys. I ___ have left them at the office. | must ; might ; can't | might | Không chắc → might.
+ex: He looks so relaxed. He ___ have had a nice holiday. | must ; can't ; shouldn't | must | Suy luận từ dấu hiệu → must have.
+ex: They ___ have seen us – they didn't say hello. | can't ; must ; should | can't | Chắc chắn đã không → can't have.
+ex: You look exhausted. You ___ have gone to bed so late. | shouldn't ; mustn't ; can't | shouldn't | Lời trách → shouldn't have.
+ex: She didn't come to work. She ___ be ill. | may ; must have ; can't have | may | may + V nguyên mẫu = có thể đang.
+## dialogue
+title: Lo cho đồng nghiệp
+setting: Hai đồng nghiệp lo lắng cho một người trong nhóm.
+line: A | Hana | Have you noticed that Duc has been very quiet lately? | Bạn có để ý dạo này Đức rất trầm không?
+line: B | Peter | Yes. He must be under a lot of pressure. He's been working on three projects at once. | Có. Chắc hẳn cậu ấy đang chịu nhiều áp lực. Cậu ấy làm ba dự án cùng lúc.
+line: A | Hana | He didn't come to lunch with us again today. He might be feeling isolated. | Hôm nay cậu ấy lại không đi ăn trưa cùng chúng ta. Có thể cậu ấy đang cảm thấy bị cô lập.
+line: B | Peter | And he can't have slept much. He sent me an email at 3 a.m.! | Và chắc chắn cậu ấy không ngủ được bao nhiêu. Cậu ấy gửi email cho mình lúc 3 giờ sáng!
+line: A | Hana | That sounds like burnout. We should have noticed earlier. | Nghe như dấu hiệu kiệt sức. Lẽ ra chúng ta phải nhận ra sớm hơn.
+line: B | Peter | Let's talk to him. Sometimes people just need to know someone is there. | Hãy nói chuyện với cậu ấy. Đôi khi người ta chỉ cần biết có ai đó bên cạnh.
+q: Why does Peter think Duc must be under pressure? | He's working on three projects ; He lost his job ; He is moving house | He's working on three projects
+q: How do they know Duc can't have slept much? | He looks tired ; He sent an email at 3 a.m. ; He told them | He sent an email at 3 a.m.
+## reading
+title: The rise of burnout
+text: In 2019, the World Health Organization officially recognised burnout as an "occupational phenomenon". It is caused by long-term stress at work that has not been successfully managed. People suffering from burnout often feel exhausted, negative about their job and less effective. Experts say the problem must have been growing for years, but smartphones and remote work have made it worse, because many employees never really switch off. To prevent burnout, psychologists recommend setting clear boundaries, taking regular breaks and practising mindfulness. Most importantly, it is not a sign of weakness to ask for help.
+vi: Năm 2019, Tổ chức Y tế Thế giới chính thức công nhận hội chứng kiệt sức là một "hiện tượng nghề nghiệp". Nó do căng thẳng kéo dài trong công việc không được kiểm soát tốt gây ra. Người bị kiệt sức thường cảm thấy mệt mỏi, tiêu cực về công việc và làm việc kém hiệu quả hơn. Các chuyên gia cho rằng vấn đề này hẳn đã gia tăng trong nhiều năm, nhưng điện thoại thông minh và làm việc từ xa khiến nó tồi tệ hơn vì nhiều nhân viên không bao giờ thực sự "ngắt kết nối". Để phòng ngừa, các nhà tâm lý khuyên nên đặt ranh giới rõ ràng, nghỉ ngơi thường xuyên và thực hành chánh niệm. Quan trọng nhất, nhờ giúp đỡ không phải là dấu hiệu của sự yếu đuối.
+q: What causes burnout? | physical illness ; long-term stress at work that isn't managed ; too much free time | long-term stress at work that isn't managed
+q: Why have smartphones made burnout worse? | They are expensive ; Employees never really switch off ; They cause headaches | Employees never really switch off
+
+# UNIT b2-u5
+title: Môi trường toàn cầu
+titleEn: Global Environment
+emoji: 🌏
+goal: Thảo luận biến đổi khí hậu, bảo tồn và viết câu học thuật gọn gàng.
+## words
+sustainable | /səˈsteɪ.nə.bəl/ | adj | bền vững | We need sustainable sources of energy. | Chúng ta cần nguồn năng lượng bền vững.
+emission | /iˈmɪʃ.ən/ | noun | khí thải | Carbon emissions must be cut by half. | Lượng khí thải carbon phải được cắt giảm một nửa.
+deforestation | /diːˌfɔːr.əˈsteɪ.ʃən/ | noun | nạn phá rừng | Deforestation destroys animal habitats. | Nạn phá rừng phá hủy môi trường sống của động vật.
+biodiversity | /ˌbaɪ.oʊ.dɪˈvɝː.sə.t̬i/ | noun | đa dạng sinh học | Coral reefs are rich in biodiversity. | Rạn san hô rất giàu đa dạng sinh học.
+ecosystem | /ˈiː.koʊˌsɪs.təm/ | noun | hệ sinh thái | Plastic pollution harms marine ecosystems. | Ô nhiễm nhựa gây hại cho hệ sinh thái biển.
+endangered | /ɪnˈdeɪn.dʒɚd/ | adj | có nguy cơ tuyệt chủng | The saola is one of the most endangered animals in the world. | Sao la là một trong những loài có nguy cơ tuyệt chủng cao nhất thế giới.
+conservation | /ˌkɑːn.sɚˈveɪ.ʃən/ | noun | sự bảo tồn | The national park focuses on wildlife conservation. | Vườn quốc gia tập trung vào bảo tồn động vật hoang dã.
+carbon | /ˈkɑːr.bən/ | noun | các-bon | Trees absorb carbon from the air. | Cây cối hấp thụ các-bon từ không khí. | carbon footprint = dấu chân các-bon.
+drought | /draʊt/ | noun | hạn hán | The drought has destroyed most of the crops. | Hạn hán đã phá hủy hầu hết mùa màng.
+renewable | /rɪˈnuː.ə.bəl/ | adj | tái tạo được | Wind and solar power are renewable energy sources. | Năng lượng gió và mặt trời là nguồn năng lượng tái tạo.
+consumption | /kənˈsʌmp.ʃən/ | noun | sự tiêu thụ | Meat consumption has increased worldwide. | Lượng tiêu thụ thịt đã tăng trên toàn thế giới.
+habitat | /ˈhæb.ə.tæt/ | noun | môi trường sống | Pandas are losing their natural habitat. | Gấu trúc đang mất dần môi trường sống tự nhiên.
+## phrases
+It's a race against time. | Đó là cuộc chạy đua với thời gian.
+We've reached a tipping point. | Chúng ta đã đến điểm bùng phát.
+Think globally, act locally. | Suy nghĩ toàn cầu, hành động địa phương.
+There's no time to lose. | Không còn thời gian để lãng phí.
+It's just the tip of the iceberg. | Đó mới chỉ là phần nổi của tảng băng.
+## grammar
+title: Mệnh đề quan hệ không xác định & rút gọn
+summary: Mệnh đề quan hệ không xác định thêm thông tin phụ (có dấu phẩy). Mệnh đề quan hệ rút gọn giúp câu văn ngắn gọn, học thuật hơn bằng cách dùng V-ing, V3 hoặc to V.
+formula: Không xác định: N, who / which / whose / where ..., (không dùng that)
+formula: Rút gọn chủ động: N + V-ing (the people living here = who live here)
+formula: Rút gọn bị động: N + V3 (the trees cut down = which were cut down)
+formula: Rút gọn với to V: the first / last / only + N + to V (the first country to ban plastic bags)
+formula: which bình luận cả mệnh đề: Forests are disappearing, which is worrying.
+point: Mệnh đề không xác định | Danh từ đã rõ, mệnh đề chỉ bổ sung: The Amazon, which is the largest rainforest, is shrinking. Bỏ mệnh đề đi câu vẫn đủ nghĩa.
+point: Rút gọn bằng V-ing (chủ động) | Animals that live in the Arctic → Animals living in the Arctic are at risk.
+point: Rút gọn bằng V3 (bị động) | Plastic that is produced every year → Plastic produced every year could circle the Earth many times.
+point: which thay cho cả mệnh đề | Global temperatures are rising, which causes more extreme weather. (which = việc nhiệt độ tăng.)
+example: Vietnam, which has a long coastline, is vulnerable to rising sea levels. | Việt Nam, quốc gia có đường bờ biển dài, dễ bị tổn thương trước mực nước biển dâng.
+example: Species living in coral reefs are under threat. | Các loài sống ở rạn san hô đang bị đe dọa.
+example: Most of the waste produced by factories ends up in rivers. | Phần lớn chất thải do nhà máy thải ra cuối cùng đổ vào sông.
+example: Kenya was one of the first countries to ban plastic bags. | Kenya là một trong những quốc gia đầu tiên cấm túi nilon.
+mistake: The Mekong, that flows through six countries, is polluted. | The Mekong, which flows through six countries, is polluted. | Mệnh đề không xác định không dùng that.
+mistake: People live near the coast are at risk. | People living near the coast are at risk. | Rút gọn chủ động dùng V-ing.
+mistake: The forests destroying last year were huge. | The forests destroyed last year were huge. | Nghĩa bị động → V3.
+ex: The Amazon, ___ is called "the lungs of the Earth", is shrinking. | that ; which ; who | which | Mệnh đề không xác định, chỉ vật → which.
+ex: Animals ___ in the Arctic are losing their habitat. | live ; living ; lived | living | Rút gọn chủ động → V-ing.
+ex: Most of the plastic ___ every year is never recycled. | producing ; produced ; produces | produced | Nhựa được sản xuất → bị động → V3.
+ex: New Zealand was the first country ___ women the vote. | giving ; to give ; given | to give | the first + N + to V.
+ex: Temperatures are rising, ___ is causing more droughts. | which ; that ; what | which | which bình luận cả mệnh đề.
+ex: The scientist, ___ research focuses on coral reefs, won an award. | who ; whose ; which | whose | Sở hữu (nghiên cứu của nhà khoa học) → whose.
+ex: The trees ___ down last year were over 200 years old. | cutting ; cut ; to cut | cut | Cây bị chặt → bị động → V3.
+## dialogue
+title: Chuẩn bị thuyết trình
+setting: Hai sinh viên chuẩn bị bài thuyết trình về biến đổi khí hậu.
+line: A | Quỳnh | For our presentation, let's focus on the Mekong Delta, which is home to 17 million people. | Cho bài thuyết trình, hãy tập trung vào đồng bằng sông Cửu Long, nơi sinh sống của 17 triệu người.
+line: B | Leo | Good idea. Rising sea levels are causing salt water to enter the rice fields, which is destroying crops. | Ý hay. Mực nước biển dâng khiến nước mặn xâm nhập ruộng lúa, điều này đang phá hủy mùa màng.
+line: A | Quỳnh | And there was a terrible drought in 2020, affecting hundreds of thousands of families. | Và năm 2020 có đợt hạn hán khủng khiếp, ảnh hưởng đến hàng trăm nghìn gia đình.
+line: B | Leo | We should also mention solutions. Farmers living in the area have started raising shrimp instead of growing rice. | Chúng ta cũng nên đề cập giải pháp. Nông dân sống trong khu vực đã bắt đầu nuôi tôm thay vì trồng lúa.
+line: A | Quỳnh | That's a great example of adapting. Let's finish with renewable energy projects funded by the government. | Đó là ví dụ tuyệt vời về sự thích nghi. Hãy kết thúc bằng các dự án năng lượng tái tạo do chính phủ tài trợ.
+line: B | Leo | Perfect. I'll find some data published in recent reports. | Tuyệt. Mình sẽ tìm số liệu được công bố trong các báo cáo gần đây.
+q: How many people live in the Mekong Delta? | 7 million ; 17 million ; 70 million | 17 million
+q: What have some farmers started doing? | moving to the city ; raising shrimp instead of growing rice ; building dams | raising shrimp instead of growing rice
+## reading
+title: Rewilding: giving nature a second chance
+text: Rewilding is a conservation approach that aims to restore ecosystems by letting nature take care of itself. Instead of managing every detail, scientists reintroduce species that have disappeared from an area, such as wolves or beavers, and then step back. One famous example is Yellowstone National Park, where wolves were brought back in 1995 after an absence of seventy years. The wolves, which hunted the deer, changed the behaviour of other animals, allowing trees and plants to grow again. Supporters believe rewilding is one of the most effective ways to protect biodiversity.
+vi: Tái hoang dã là một phương pháp bảo tồn nhằm phục hồi hệ sinh thái bằng cách để thiên nhiên tự chăm sóc chính nó. Thay vì kiểm soát từng chi tiết, các nhà khoa học tái thả những loài đã biến mất khỏi một khu vực, như sói hay hải ly, rồi lùi lại. Một ví dụ nổi tiếng là Vườn quốc gia Yellowstone, nơi sói được đưa trở lại vào năm 1995 sau bảy mươi năm vắng bóng. Đàn sói săn hươu đã làm thay đổi hành vi của các loài động vật khác, giúp cây cối và thực vật phát triển trở lại. Những người ủng hộ tin rằng tái hoang dã là một trong những cách hiệu quả nhất để bảo vệ đa dạng sinh học.
+q: What happened in Yellowstone in 1995? | Deer were removed ; Wolves were brought back ; The park was closed | Wolves were brought back
+q: How did the wolves help plants grow? | They planted seeds ; They changed the behaviour of other animals ; They ate insects | They changed the behaviour of other animals

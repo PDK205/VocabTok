@@ -1,0 +1,340 @@
+@level B2
+
+# UNIT b2-u6
+title: Giáo dục & Tranh luận
+titleEn: Education & Debate
+emoji: 🗣️
+goal: Lập luận, phản biện và nối các ý tương phản chính xác.
+## words
+curriculum | /kəˈrɪk.jə.ləm/ | noun | chương trình giảng dạy | Coding is now part of the school curriculum. | Lập trình hiện là một phần trong chương trình học. | Số nhiều: curricula hoặc curriculums.
+assess | /əˈses/ | verb | đánh giá | Students are assessed through projects and exams. | Học sinh được đánh giá qua dự án và bài thi. | assessment = sự đánh giá.
+critical | /ˈkrɪt̬.ɪ.kəl/ | adj | phản biện; then chốt | Critical thinking is an essential skill. | Tư duy phản biện là kỹ năng thiết yếu.
+debate | /dɪˈbeɪt/ | noun | cuộc tranh luận | We had a debate about school uniforms. | Chúng tôi tranh luận về đồng phục học sinh.
+argue | /ˈɑːrɡ.juː/ | verb | lập luận; tranh cãi | Some experts argue that homework is unnecessary. | Một số chuyên gia lập luận rằng bài tập về nhà là không cần thiết. | argument = lập luận; cuộc cãi vã.
+evidence | /ˈev.ə.dəns/ | noun | bằng chứng | There is no evidence to support this claim. | Không có bằng chứng ủng hộ tuyên bố này. | Không đếm được: a piece of evidence.
+perspective | /pɚˈspek.tɪv/ | noun | góc nhìn, quan điểm | Travelling gives you a new perspective on life. | Du lịch cho bạn góc nhìn mới về cuộc sống.
+compulsory | /kəmˈpʌl.sɚ.i/ | adj | bắt buộc | English is a compulsory subject in Vietnam. | Tiếng Anh là môn bắt buộc ở Việt Nam. | Đồng nghĩa: mandatory, obligatory.
+tuition | /tuːˈɪʃ.ən/ | noun | học phí; sự dạy kèm | Tuition fees have risen sharply. | Học phí đã tăng mạnh.
+academic | /ˌæk.əˈdem.ɪk/ | adj | học thuật | She has excellent academic results. | Cô ấy có thành tích học tập xuất sắc.
+plagiarism | /ˈpleɪ.dʒɚ.ɪ.zəm/ | noun | đạo văn | Plagiarism is taken very seriously at university. | Đạo văn bị xử lý rất nghiêm ở đại học.
+mentor | /ˈmen.tɔːr/ | noun | người hướng dẫn, cố vấn | A good mentor can change your career. | Một người cố vấn giỏi có thể thay đổi sự nghiệp của bạn.
+## phrases
+I see your point, but... | Tôi hiểu ý bạn, nhưng...
+That's a fair point. | Đó là một lập luận hợp lý.
+I couldn't agree more. | Tôi hoàn toàn đồng ý.
+On the other hand, ... | Mặt khác, ...
+Let me play devil's advocate. | Để tôi thử đứng ở phía phản biện xem.
+## grammar
+title: Từ nối chỉ sự tương phản (although, despite, however, whereas)
+summary: Để lập luận chặt chẽ (rất quan trọng trong IELTS), bạn cần nối các ý trái ngược một cách chính xác. Mỗi từ nối đi với một cấu trúc ngữ pháp riêng.
+formula: although / though / even though + mệnh đề (S + V)
+formula: despite / in spite of + N / V-ing / the fact that + mệnh đề
+formula: However, + mệnh đề (đứng đầu câu mới, sau dấu chấm hoặc chấm phẩy)
+formula: whereas / while + mệnh đề (so sánh hai đối tượng trái ngược)
+point: although vs despite | Although it rained, we went out. = Despite the rain, we went out. despite đi với danh từ / V-ing, KHÔNG đi trực tiếp với mệnh đề.
+point: however | Là trạng từ nối hai câu: Online learning is flexible. However, it requires self-discipline. Không dùng however để nối hai mệnh đề chỉ bằng dấu phẩy.
+point: whereas / while | So sánh hai sự vật tương phản: Public schools are free, whereas private schools charge high tuition fees.
+point: Không dùng but cùng although | Although he studied hard, but he failed (sai) → Although he studied hard, he failed.
+example: Although the course is expensive, it's worth it. | Mặc dù khóa học đắt, nó rất đáng giá.
+example: Despite having little evidence, he won the debate. | Dù có ít bằng chứng, anh ấy vẫn thắng cuộc tranh luận.
+example: Homework can be useful. However, too much of it causes stress. | Bài tập về nhà có thể hữu ích. Tuy nhiên, quá nhiều sẽ gây căng thẳng.
+example: Some students prefer group work, whereas others learn better alone. | Một số học sinh thích làm nhóm, trong khi những em khác học tốt hơn một mình.
+mistake: Despite it was difficult, she passed. | Although it was difficult, she passed. | despite không đi với mệnh đề.
+mistake: Although he was tired, but he kept studying. | Although he was tired, he kept studying. | Không dùng but cùng although.
+mistake: The exam was hard, however I passed. | The exam was hard. However, I passed. | however cần dấu chấm hoặc chấm phẩy phía trước.
+ex: ___ the high tuition fees, many students choose private universities. | Although ; Despite ; However | Despite | Despite + danh từ.
+ex: ___ she studied hard, she failed the exam. | Despite ; Although ; In spite of | Although | Although + mệnh đề.
+ex: The course is useful. ___, it's very expensive. | Although ; However ; Despite | However | However đứng đầu câu mới.
+ex: Public schools are free, ___ private ones are expensive. | whereas ; despite ; however | whereas | whereas so sánh hai đối tượng trái ngược.
+ex: In spite of ___ tired, he finished the essay. | be ; being ; was | being | In spite of + V-ing.
+ex: Despite the fact that he had no evidence, he ___ the debate. | won ; but won ; however won | won | Không thêm but sau despite.
+ex: ___ online courses are flexible, they require discipline. | Despite ; Even though ; However | Even though | Even though + mệnh đề.
+## dialogue
+title: Tranh luận: có nên bỏ bài tập về nhà?
+setting: Hai sinh viên tranh luận trong lớp kỹ năng.
+line: A | Thành | In my opinion, homework should be banned. Although it helps students practise, it causes too much stress. | Theo tôi, nên bỏ bài tập về nhà. Mặc dù nó giúp học sinh luyện tập, nó gây quá nhiều căng thẳng.
+line: B | Amy | I see your point. However, there's evidence that homework improves academic results. | Tôi hiểu ý bạn. Tuy nhiên, có bằng chứng cho thấy bài tập về nhà giúp cải thiện kết quả học tập.
+line: A | Thành | Only for older students. Young children benefit more from playing, whereas teenagers might need some homework. | Chỉ với học sinh lớn thôi. Trẻ nhỏ được lợi nhiều hơn từ vui chơi, trong khi thanh thiếu niên có thể cần chút bài tập.
+line: B | Amy | That's a fair point. Despite that, I think a small amount teaches responsibility. | Lập luận hợp lý. Dù vậy, tôi nghĩ một lượng nhỏ bài tập giúp dạy tính trách nhiệm.
+line: A | Thành | Maybe the real problem isn't homework itself, but how much is given. | Có lẽ vấn đề thực sự không phải bản thân bài tập, mà là lượng bài được giao.
+line: B | Amy | Now that's something we can agree on! | Đó là điều chúng ta có thể đồng ý!
+q: What is Thanh's main argument against homework? | It's boring ; It causes too much stress ; It's too easy | It causes too much stress
+q: What do they finally agree on? | Homework should be banned ; The amount of homework is the real problem ; Teenagers need more homework | The amount of homework is the real problem
+## reading
+title: Critical thinking: the most important skill?
+text: In a world full of information, critical thinking may be the most valuable skill a student can learn. Critical thinkers do not simply accept what they read; instead, they ask questions, look for evidence and consider different perspectives. Although most teachers agree that this skill is essential, many school curriculums still focus on memorising facts for exams. Some countries, however, have started to change. In Finland, for example, students spend more time on projects and discussions, whereas traditional tests play a smaller role. The results suggest that students become more independent and creative learners.
+vi: Trong một thế giới đầy thông tin, tư duy phản biện có thể là kỹ năng quý giá nhất mà học sinh có thể học. Người có tư duy phản biện không đơn thuần chấp nhận những gì họ đọc; thay vào đó, họ đặt câu hỏi, tìm bằng chứng và xem xét các góc nhìn khác nhau. Mặc dù hầu hết giáo viên đồng ý rằng kỹ năng này rất cần thiết, nhiều chương trình học vẫn tập trung vào việc ghi nhớ kiến thức để thi. Tuy nhiên, một số quốc gia đã bắt đầu thay đổi. Ví dụ ở Phần Lan, học sinh dành nhiều thời gian hơn cho dự án và thảo luận, trong khi các bài kiểm tra truyền thống đóng vai trò nhỏ hơn. Kết quả cho thấy học sinh trở thành những người học độc lập và sáng tạo hơn.
+q: What do critical thinkers do? | accept everything they read ; ask questions and look for evidence ; memorise facts | ask questions and look for evidence
+q: What is different about education in Finland? | more exams ; more projects and discussions ; longer school days | more projects and discussions
+
+# UNIT b2-u7
+title: Văn hóa & Di sản
+titleEn: Culture & Heritage
+emoji: 🏛️
+goal: Giới thiệu phong tục, di sản và viết câu gọn bằng mệnh đề phân từ.
+## words
+heritage | /ˈher.ə.t̬ɪdʒ/ | noun | di sản | Ha Long Bay is a World Heritage Site. | Vịnh Hạ Long là Di sản Thế giới.
+custom | /ˈkʌs.təm/ | noun | phong tục | It is a custom to give lucky money at Tet. | Lì xì ngày Tết là một phong tục. | customs (số nhiều) = hải quan.
+diverse | /dɪˈvɝːs/ | adj | đa dạng | Vietnam has a diverse culture with 54 ethnic groups. | Việt Nam có nền văn hóa đa dạng với 54 dân tộc. | diversity = sự đa dạng.
+ritual | /ˈrɪtʃ.u.əl/ | noun | nghi lễ, nghi thức | Lighting incense is a common ritual. | Thắp hương là một nghi thức phổ biến.
+ceremony | /ˈser.ə.moʊ.ni/ | noun | buổi lễ | The opening ceremony was spectacular. | Lễ khai mạc thật hoành tráng.
+craft | /kræft/ | noun | nghề thủ công | Pottery is a traditional craft in Bat Trang. | Gốm là nghề thủ công truyền thống ở Bát Tràng.
+ethnic | /ˈeθ.nɪk/ | adj | thuộc dân tộc | The museum displays clothes of different ethnic groups. | Bảo tàng trưng bày trang phục của các dân tộc khác nhau.
+preserve | /prɪˈzɝːv/ | verb | bảo tồn, gìn giữ | We must preserve our traditions. | Chúng ta phải gìn giữ truyền thống.
+authentic | /ɑːˈθen.t̬ɪk/ | adj | đích thực, nguyên bản | This restaurant serves authentic Hue food. | Nhà hàng này phục vụ món Huế chính gốc.
+landmark | /ˈlænd.mɑːrk/ | noun | địa danh nổi tiếng | The Eiffel Tower is the most famous landmark in Paris. | Tháp Eiffel là địa danh nổi tiếng nhất Paris.
+monument | /ˈmɑːn.jə.mənt/ | noun | tượng đài, công trình kỷ niệm | The monument was built to honour soldiers. | Tượng đài được xây để tưởng nhớ những người lính.
+folklore | /ˈfoʊk.lɔːr/ | noun | văn hóa dân gian | The story of Thanh Giong is part of Vietnamese folklore. | Truyện Thánh Gióng là một phần văn hóa dân gian Việt Nam.
+## phrases
+When in Rome, do as the Romans do. | Nhập gia tùy tục.
+It's deeply rooted in our culture. | Nó bắt rễ sâu trong văn hóa của chúng tôi.
+It's a must-see attraction. | Đó là điểm tham quan nhất định phải đến.
+Times have changed. | Thời thế đã thay đổi.
+It's passed down from generation to generation. | Nó được truyền từ đời này sang đời khác.
+## grammar
+title: Mệnh đề phân từ (Participle Clauses)
+summary: Mệnh đề phân từ giúp rút gọn câu, nối hai hành động cùng chủ ngữ một cách tự nhiên và trang trọng. Thường gặp trong văn viết, truyện và bài thi IELTS.
+formula: V-ing (chủ động, đồng thời / nguyên nhân): Walking through the old town, I saw many lanterns.
+formula: V3 (bị động): Built in the 11th century, the temple is very old.
+formula: Having + V3 (hành động xảy ra trước): Having visited Hue, we flew to Hoi An.
+formula: Chủ ngữ của hai mệnh đề phải giống nhau
+point: V-ing: chủ động | Thay cho mệnh đề có cùng chủ ngữ mang nghĩa chủ động: When I walked along the river → Walking along the river, I took many photos. Cũng diễn tả nguyên nhân: Feeling tired, she went to bed early.
+point: V3: bị động | Founded in 1070, the Temple of Literature is Vietnam's first university. (= It was founded in 1070.)
+point: Having + V3: hành động trước | Nhấn mạnh hành động thứ nhất đã hoàn tất: Having finished the tour, we had lunch.
+point: Lỗi "treo" chủ ngữ | Walking into the museum, the paintings amazed me (sai – bức tranh không đi bộ) → Walking into the museum, I was amazed by the paintings.
+example: Located in the north, Sapa is famous for its rice terraces. | Nằm ở phía Bắc, Sa Pa nổi tiếng với ruộng bậc thang.
+example: Wearing traditional clothes, the dancers performed beautifully. | Mặc trang phục truyền thống, các vũ công biểu diễn rất đẹp.
+example: Having lived in Japan for years, she understands the culture well. | Đã sống ở Nhật nhiều năm, cô ấy hiểu rõ văn hóa nơi đây.
+example: Made by hand, these ceramics are very expensive. | Được làm thủ công, những món gốm này rất đắt.
+mistake: Building in 1802, the citadel is huge. | Built in 1802, the citadel is huge. | Thành được xây → bị động → V3.
+mistake: Arriving at the temple, the gate was closed. | Arriving at the temple, we found the gate closed. | Chủ ngữ hai vế phải giống nhau.
+mistake: Having visit the museum, we went home. | Having visited the museum, we went home. | Having + V3.
+ex: ___ in the 11th century, the pagoda is one of the oldest in Vietnam. | Building ; Built ; Having built | Built | Ngôi chùa được xây → V3.
+ex: ___ along the beach, we watched the sunset. | Walked ; Walking ; To walk | Walking | Chủ động, đồng thời → V-ing.
+ex: ___ the ceremony, the guests went to the party. | Having attended ; Attended ; Being attended | Having attended | Hành động xảy ra trước → Having + V3.
+ex: ___ by hand, these lanterns are unique. | Making ; Made ; Make | Made | Đèn lồng được làm → V3.
+ex: ___ tired after the trip, she slept for twelve hours. | Felt ; Feeling ; Having felt | Feeling | Nguyên nhân, chủ động → V-ing.
+ex: ___ in Hoi An, the old house is now a museum. | Locating ; Located ; Locate | Located | be located in = nằm ở.
+ex: ___ the local language, he easily made friends. | Spoken ; Speaking ; Speaks | Speaking | Chủ động → V-ing.
+## dialogue
+title: Tham quan Văn Miếu
+setting: Hướng dẫn viên giới thiệu Văn Miếu với du khách.
+line: A | Tú | Welcome to the Temple of Literature. Built in 1070, it was Vietnam's first national university. | Chào mừng đến Văn Miếu. Được xây dựng năm 1070, đây là trường đại học quốc gia đầu tiên của Việt Nam.
+line: B | Hans | Amazing! What are those stone tablets? | Tuyệt vời! Những tấm bia đá kia là gì vậy?
+line: A | Tú | They record the names of doctoral graduates. Placed on the backs of stone turtles, they symbolise wisdom and long life. | Chúng ghi tên những người đỗ tiến sĩ. Được đặt trên lưng rùa đá, chúng tượng trưng cho trí tuệ và sự trường tồn.
+line: B | Hans | Do people still come here to pray? | Người ta có còn đến đây cầu nguyện không?
+line: A | Tú | Yes! Hoping for good luck, many students visit before their exams. | Có! Mong được may mắn, nhiều học sinh đến đây trước kỳ thi.
+line: B | Hans | Having seen this place, I understand why education is so respected in Vietnam. | Sau khi thấy nơi này, tôi hiểu vì sao giáo dục được coi trọng đến thế ở Việt Nam.
+q: When was the Temple of Literature built? | in 1070 ; in 1802 ; in 1945 | in 1070
+q: Why do students visit before exams? | to study ; hoping for good luck ; to take photos | hoping for good luck
+## reading
+title: Can tourism save traditions?
+text: Tourism can be both a blessing and a curse for traditional cultures. On the one hand, it provides income that helps communities preserve their crafts, festivals and heritage sites. Having seen how much visitors value authentic experiences, many villages have revived old customs that were almost forgotten. On the other hand, mass tourism can turn sacred rituals into shows performed only for cameras. Overwhelmed by crowds, some heritage sites have been damaged. Experts suggest that the solution is "responsible tourism", where visitors respect local customs and their money directly benefits local people.
+vi: Du lịch có thể vừa là phúc lành vừa là tai họa đối với văn hóa truyền thống. Một mặt, nó mang lại thu nhập giúp cộng đồng gìn giữ nghề thủ công, lễ hội và di tích. Nhận thấy du khách trân trọng những trải nghiệm đích thực đến mức nào, nhiều làng đã khôi phục những phong tục gần như bị lãng quên. Mặt khác, du lịch đại trà có thể biến những nghi lễ thiêng liêng thành các buổi biểu diễn chỉ dành cho máy ảnh. Bị quá tải bởi đám đông, một số di tích đã bị hư hại. Các chuyên gia cho rằng giải pháp là "du lịch có trách nhiệm", nơi du khách tôn trọng phong tục địa phương và tiền của họ mang lại lợi ích trực tiếp cho người dân.
+q: How does tourism help traditional cultures? | It provides income to preserve them ; It replaces old customs ; It builds hotels | It provides income to preserve them
+q: What is "responsible tourism"? | travelling only in groups ; respecting customs and benefiting local people ; avoiding heritage sites | respecting customs and benefiting local people
+
+# UNIT b2-u8
+title: Quảng cáo & Tiêu dùng
+titleEn: Advertising & Consumers
+emoji: 📣
+goal: Phân tích quảng cáo và thuật lại lời nói bằng động từ tường thuật chính xác.
+## words
+advertisement | /ˌæd.vɚˈtaɪz.mənt/ | noun | quảng cáo | I saw an advertisement for a new phone. | Tôi thấy một quảng cáo điện thoại mới. | Viết tắt: ad / advert.
+persuade | /pɚˈsweɪd/ | verb | thuyết phục | She persuaded me to buy the expensive one. | Cô ấy thuyết phục tôi mua cái đắt tiền. | persuade sb to V.
+influence | /ˈɪn.flu.əns/ | verb | ảnh hưởng | Advertising influences what we buy. | Quảng cáo ảnh hưởng đến những gì chúng ta mua. | influencer = người có ảnh hưởng.
+target | /ˈtɑːr.ɡɪt/ | verb | nhắm đến | This campaign targets young people. | Chiến dịch này nhắm đến giới trẻ.
+slogan | /ˈsloʊ.ɡən/ | noun | khẩu hiệu | Nike's slogan is "Just Do It". | Khẩu hiệu của Nike là "Just Do It".
+campaign | /kæmˈpeɪn/ | noun | chiến dịch | The advertising campaign was a huge success. | Chiến dịch quảng cáo thành công rực rỡ. | Chữ g câm.
+misleading | /ˌmɪsˈliː.dɪŋ/ | adj | gây hiểu lầm | The ad was banned for being misleading. | Quảng cáo bị cấm vì gây hiểu lầm.
+endorse | /ɪnˈdɔːrs/ | verb | xác nhận; làm đại diện quảng bá | Many athletes endorse sports brands. | Nhiều vận động viên làm đại diện cho các thương hiệu thể thao.
+sponsor | /ˈspɑːn.sɚ/ | verb | tài trợ | The event is sponsored by a bank. | Sự kiện được một ngân hàng tài trợ.
+viral | /ˈvaɪ.rəl/ | adj | lan truyền mạnh | The video went viral overnight. | Video lan truyền chóng mặt chỉ sau một đêm. | go viral = lan truyền mạnh.
+credible | /ˈkred.ə.bəl/ | adj | đáng tin | The review doesn't seem credible. | Bài đánh giá có vẻ không đáng tin. | credibility = sự đáng tin.
+commercial | /kəˈmɝː.ʃəl/ | noun | quảng cáo trên TV / radio | They spent millions on a TV commercial. | Họ chi hàng triệu cho một quảng cáo truyền hình.
+## phrases
+It's too good to be true. | Tốt đến mức khó tin.
+Don't fall for it. | Đừng mắc bẫy.
+It's selling like hot cakes. | Bán đắt như tôm tươi.
+You get what you pay for. | Tiền nào của nấy.
+Read the small print. | Đọc kỹ phần chữ nhỏ (điều khoản).
+## grammar
+title: Động từ tường thuật (suggest, advise, deny, admit, warn...)
+summary: Thay vì lặp lại said, người nói ở trình độ cao dùng động từ tường thuật chính xác hơn để truyền tải ý định: khuyên, cảnh báo, thừa nhận, phủ nhận... Mỗi động từ đi với một cấu trúc riêng.
+formula: V + to V: agree, refuse, promise, offer, threaten (He refused to pay.)
+formula: V + O + to V: advise, warn, persuade, encourage, remind, tell (She advised me to read the reviews.)
+formula: V + V-ing: deny, admit, suggest, recommend (He denied lying.)
+formula: V + that + mệnh đề: suggest, recommend, admit, claim, insist (They claimed that the product was natural.)
+formula: V + O + of / for + V-ing: accuse sb of, blame sb for (They accused the brand of lying.)
+point: suggest không đi với O + to V | She suggested going (đúng) / She suggested that we (should) go (đúng) / She suggested us to go (SAI).
+point: Phủ định với to V | warn / advise / tell sb NOT to V: The doctor warned me not to eat too much sugar.
+point: Chọn động từ theo ý định | "I'll pay for it" → He offered to pay. "I didn't steal it!" → He denied stealing it. "It was me" → She admitted breaking it.
+point: Lùi thì sau that | Động từ tường thuật ở quá khứ thì mệnh đề that thường lùi thì: The company claimed that its product was eco-friendly.
+example: The influencer admitted being paid for the review. | Người có ảnh hưởng thừa nhận đã được trả tiền cho bài đánh giá.
+example: My friend advised me not to trust online ads. | Bạn tôi khuyên tôi đừng tin quảng cáo trên mạng.
+example: The company denied using fake reviews. | Công ty phủ nhận việc dùng đánh giá giả.
+example: Experts recommend reading the small print carefully. | Các chuyên gia khuyên nên đọc kỹ điều khoản.
+mistake: He suggested me to buy it. | He suggested that I buy it. | suggest không đi với O + to V.
+mistake: She denied to take the money. | She denied taking the money. | deny + V-ing.
+mistake: They warned us don't click the link. | They warned us not to click the link. | warn sb not to V.
+ex: "I didn't lie!" → He denied ___. | to lie ; lying ; lie | lying | deny + V-ing.
+ex: "You should compare prices." → She advised me ___ prices. | compare ; to compare ; comparing | to compare | advise sb to V.
+ex: "Let's watch the ad again." → He suggested ___ the ad again. | watching ; to watch ; watch | watching | suggest + V-ing.
+ex: "I'll give you a discount." → The seller offered ___ me a discount. | giving ; to give ; give | to give | offer + to V.
+ex: "Don't believe that ad." → My mum warned me ___ that ad. | not believe ; not to believe ; to not believing | not to believe | warn sb not to V.
+ex: "Yes, we used fake reviews." → The company admitted ___ fake reviews. | using ; to use ; use | using | admit + V-ing.
+ex: They accused the brand ___ misleading customers. | for ; of ; with | of | accuse sb of + V-ing.
+## dialogue
+title: Bị quảng cáo đánh lừa
+setting: Hai người bạn nói về món đồ mua trên mạng.
+line: A | Trâm | Remember the face cream I bought? The ad promised I would look ten years younger. | Còn nhớ hũ kem dưỡng mình mua không? Quảng cáo hứa mình sẽ trẻ ra mười tuổi.
+line: B | Kevin | Let me guess. It didn't work? | Để mình đoán. Nó không hiệu quả à?
+line: A | Trâm | Not at all! And then I found out that the actress who endorsed it admitted being paid to say it was amazing. | Hoàn toàn không! Rồi mình phát hiện nữ diễn viên quảng bá nó đã thừa nhận được trả tiền để khen nó tuyệt vời.
+line: B | Kevin | That's so misleading. Did you complain? | Thật gây hiểu lầm. Bạn có khiếu nại không?
+line: A | Trâm | Yes. They refused to give me a refund, but a lawyer advised me to report them. | Có. Họ từ chối hoàn tiền, nhưng một luật sư khuyên mình nên tố cáo họ.
+line: B | Kevin | Good. Next time, read reviews from credible sources. If it seems too good to be true, it usually is. | Tốt. Lần sau hãy đọc đánh giá từ nguồn đáng tin. Thứ gì có vẻ quá tốt để là thật thì thường là không thật đâu.
+q: What did the actress admit? | using the cream every day ; being paid to promote it ; never using it | being paid to promote it
+q: What did the lawyer advise Tram to do? | buy another cream ; report the company ; forget about it | report the company
+## reading
+title: The power of influencer marketing
+text: Traditional TV commercials are losing their power, especially among young people. Instead, companies are spending billions on influencer marketing. When a popular content creator recommends a product, followers tend to see it as advice from a friend rather than an advertisement. However, this has raised serious concerns. Some influencers have been accused of promoting products they have never used, and many fail to mention that they were paid. As a result, several countries now require influencers to clearly label sponsored posts. Experts advise consumers to stay critical and ask themselves who benefits from a recommendation.
+vi: Quảng cáo truyền hình truyền thống đang mất dần sức mạnh, đặc biệt với giới trẻ. Thay vào đó, các công ty chi hàng tỷ đô cho tiếp thị qua người có ảnh hưởng. Khi một nhà sáng tạo nội dung nổi tiếng giới thiệu một sản phẩm, người theo dõi có xu hướng xem đó như lời khuyên từ bạn bè hơn là quảng cáo. Tuy nhiên, điều này gây ra những lo ngại nghiêm trọng. Một số người có ảnh hưởng bị cáo buộc quảng bá sản phẩm họ chưa từng dùng, và nhiều người không đề cập rằng họ được trả tiền. Do đó, nhiều quốc gia hiện yêu cầu người có ảnh hưởng ghi rõ bài đăng được tài trợ. Các chuyên gia khuyên người tiêu dùng nên giữ tư duy phản biện và tự hỏi ai được lợi từ một lời giới thiệu.
+q: Why is influencer marketing effective? | It is cheaper than TV ; Followers see it as advice from a friend ; Influencers are experts | Followers see it as advice from a friend
+q: What do several countries now require? | Influencers must label sponsored posts ; Influencers must pay more taxes ; Ads must be on TV | Influencers must label sponsored posts
+
+# UNIT b2-u9
+title: Tội phạm & Pháp luật
+titleEn: Crime & Law
+emoji: ⚖️
+goal: Đọc hiểu tin tức pháp luật và dùng bị động với động từ khuyết thiếu.
+## words
+crime | /kraɪm/ | noun | tội phạm, tội ác | The crime rate has fallen this year. | Tỷ lệ tội phạm đã giảm trong năm nay. | criminal = kẻ phạm tội.
+arrest | /əˈrest/ | verb | bắt giữ | The police arrested two men last night. | Cảnh sát đã bắt giữ hai người đàn ông tối qua.
+suspect | /ˈsʌs.pekt/ | noun | nghi phạm | The suspect has been questioned for hours. | Nghi phạm đã bị thẩm vấn hàng giờ. | Động từ suspect /səˈspekt/ = nghi ngờ.
+court | /kɔːrt/ | noun | tòa án | The case will be heard in court next month. | Vụ án sẽ được xét xử tại tòa vào tháng tới.
+guilty | /ˈɡɪl.ti/ | adj | có tội | The jury found him guilty. | Bồi thẩm đoàn tuyên anh ta có tội. | feel guilty = cảm thấy tội lỗi.
+innocent | /ˈɪn.ə.sənt/ | adj | vô tội | Everyone is innocent until proven guilty. | Mọi người đều vô tội cho đến khi bị chứng minh có tội.
+sentence | /ˈsen.təns/ | verb | kết án | He was sentenced to five years in prison. | Anh ta bị kết án năm năm tù. | Danh từ sentence còn nghĩa là câu văn.
+victim | /ˈvɪk.tɪm/ | noun | nạn nhân | The victims of the fraud lost all their savings. | Các nạn nhân vụ lừa đảo mất hết tiền tiết kiệm.
+punishment | /ˈpʌn.ɪʃ.mənt/ | noun | hình phạt | The punishment should fit the crime. | Hình phạt nên tương xứng với tội danh.
+theft | /θeft/ | noun | vụ trộm, tội trộm cắp | Bicycle theft is common in big cities. | Trộm xe đạp phổ biến ở các thành phố lớn. | thief = kẻ trộm; steal = ăn trộm.
+lawyer | /ˈlɑː.jɚ/ | noun | luật sư | You should speak to a lawyer. | Bạn nên nói chuyện với luật sư.
+jury | /ˈdʒʊr.i/ | noun | bồi thẩm đoàn | The jury took three days to reach a decision. | Bồi thẩm đoàn mất ba ngày để đưa ra quyết định.
+## phrases
+Crime doesn't pay. | Phạm tội chẳng đem lại lợi lộc gì.
+He was caught red-handed. | Anh ta bị bắt quả tang.
+The case is closed. | Vụ án đã khép lại.
+Justice has been served. | Công lý đã được thực thi.
+I want to report a theft. | Tôi muốn trình báo một vụ trộm.
+## grammar
+title: Bị động với động từ khuyết thiếu & thì hoàn thành
+summary: Trong tin tức về tội phạm và pháp luật, câu bị động xuất hiện liên tục vì ta quan tâm đến nạn nhân, nghi phạm và hành động hơn là người thực hiện. Ở trình độ B2 cần thành thạo bị động với modal và thì hoàn thành.
+formula: Modal + be + V3: Criminals should be punished.
+formula: Modal + have been + V3 (quá khứ): The thief must have been seen by someone.
+formula: have / has been + V3: The suspect has been arrested.
+formula: had been + V3: The money had been stolen before the police arrived.
+formula: being + V3 (sau giới từ / động từ): He was afraid of being caught.
+point: Bị động với modal | can / could / should / must / might / will + be + V3: This law must be changed. Online fraud can be prevented.
+point: Modal hoàn thành bị động | Suy đoán về quá khứ ở dạng bị động: The door can't have been locked – there's no damage.
+point: Bị động hoàn thành | Nhấn mạnh kết quả: Three men have been charged with theft. / By the time we got home, our house had been broken into.
+point: being + V3 | Dùng sau giới từ hoặc động từ cần V-ing: She hates being watched. / He denied being involved.
+example: Shoplifters will be prosecuted. | Kẻ trộm đồ trong cửa hàng sẽ bị truy tố.
+example: The suspect has been released due to a lack of evidence. | Nghi phạm đã được thả vì thiếu bằng chứng.
+example: The painting might have been stolen years ago. | Bức tranh có thể đã bị đánh cắp từ nhiều năm trước.
+example: Nobody likes being treated unfairly. | Không ai thích bị đối xử bất công.
+mistake: The criminal should punished. | The criminal should be punished. | Modal + be + V3.
+mistake: Two men have arrested. | Two men have been arrested. | Bị động hoàn thành: have been + V3.
+mistake: He was afraid of catching by the police. | He was afraid of being caught by the police. | Nghĩa bị động sau giới từ: being + V3.
+ex: Criminals should ___ according to the law. | punish ; be punished ; been punished | be punished | Modal + be + V3.
+ex: The suspect ___ by the police this morning. | has arrested ; has been arrested ; was arresting | has been arrested | Bị động hoàn thành.
+ex: The window must ___ broken from the inside. | be ; have been ; being | have been | Suy đoán quá khứ bị động: must have been + V3.
+ex: By the time the police arrived, the money ___. | had been taken ; has taken ; was taking | had been taken | Trước một mốc quá khứ → had been + V3.
+ex: This crime could ___ with better security. | prevent ; have been prevented ; be preventing | have been prevented | could have been + V3 = lẽ ra đã có thể được...
+ex: She hates ___ by strangers. | photographing ; being photographed ; be photographed | being photographed | hate + being + V3.
+ex: All passengers will ___ before boarding. | be checked ; check ; checked | be checked | will + be + V3.
+## dialogue
+title: Trình báo mất trộm
+setting: Một du khách đến đồn cảnh sát.
+line: A | Clara | Excuse me, I'd like to report a theft. My bag has been stolen. | Xin lỗi, tôi muốn trình báo một vụ trộm. Túi của tôi đã bị lấy cắp.
+line: B | Officer | I'm sorry to hear that. When did it happen? | Tôi rất tiếc. Chuyện xảy ra khi nào?
+line: A | Clara | About an hour ago, at a café near the lake. I left it on my chair for a minute. | Khoảng một tiếng trước, ở một quán cà phê gần hồ. Tôi để nó trên ghế một phút.
+line: B | Officer | It might have been taken by a pickpocket. Unfortunately, several thefts have been reported in that area this week. | Có thể nó đã bị một tên móc túi lấy. Không may là tuần này đã có nhiều vụ trộm được báo cáo ở khu vực đó.
+line: A | Clara | My passport was in it. What should I do? | Hộ chiếu của tôi ở trong đó. Tôi nên làm gì?
+line: B | Officer | A report will be written now, and you should contact your embassy. The café's cameras will be checked too. | Biên bản sẽ được lập ngay bây giờ, và cô nên liên hệ đại sứ quán. Camera của quán cũng sẽ được kiểm tra.
+line: A | Clara | Thank you. I hope the thief is caught. | Cảm ơn anh. Tôi hy vọng kẻ trộm sẽ bị bắt.
+q: Where was Clara's bag stolen? | on the bus ; at a café near the lake ; at the hotel | at a café near the lake
+q: What should Clara do about her passport? | buy a new one at the airport ; contact her embassy ; wait at the café | contact her embassy
+## reading
+title: Should prisons punish or rehabilitate?
+text: For centuries, prisons were seen mainly as places of punishment. Criminals were locked up, and society felt protected. However, statistics show that in many countries, more than half of prisoners commit another crime within a few years of being released. This has led some governments to rethink the purpose of prison. In Norway, for example, prisoners are encouraged to study, work and learn new skills. Critics argue that criminals should be punished, not rewarded. Yet Norway's reoffending rate is one of the lowest in the world, which suggests that rehabilitation may be more effective in the long run.
+vi: Trong nhiều thế kỷ, nhà tù chủ yếu được xem là nơi trừng phạt. Tội phạm bị giam giữ và xã hội cảm thấy được bảo vệ. Tuy nhiên, thống kê cho thấy ở nhiều quốc gia, hơn một nửa số tù nhân lại phạm tội trong vòng vài năm sau khi được thả. Điều này khiến một số chính phủ suy nghĩ lại về mục đích của nhà tù. Ví dụ ở Na Uy, tù nhân được khuyến khích học tập, làm việc và học kỹ năng mới. Những người chỉ trích cho rằng tội phạm nên bị trừng phạt chứ không phải được tưởng thưởng. Tuy vậy, tỷ lệ tái phạm của Na Uy thuộc hàng thấp nhất thế giới, cho thấy cải tạo có thể hiệu quả hơn về lâu dài.
+q: What happens to more than half of prisoners in many countries? | They become lawyers ; They commit another crime after release ; They stay in prison forever | They commit another crime after release
+q: What does Norway's low reoffending rate suggest? | Punishment works best ; Rehabilitation may be more effective ; Prisons should be closed | Rehabilitation may be more effective
+
+# UNIT b2-u10
+title: Khoa học & Khám phá
+titleEn: Science & Discovery
+emoji: 🔬
+goal: Nói về nghiên cứu khoa học và dùng cụm động từ tự nhiên như người bản xứ.
+## words
+research | /ˈriː.sɝːtʃ/ | noun | nghiên cứu | Research shows that sleep improves memory. | Nghiên cứu cho thấy giấc ngủ cải thiện trí nhớ. | Không đếm được: do research.
+discover | /dɪˈskʌv.ɚ/ | verb | khám phá, phát hiện | Penicillin was discovered by accident. | Penicillin được phát hiện một cách tình cờ. | discovery = phát hiện.
+experiment | /ɪkˈsper.ə.mənt/ | noun | thí nghiệm | They carried out an experiment on mice. | Họ tiến hành thí nghiệm trên chuột.
+theory | /ˈθɪr.i/ | noun | lý thuyết, học thuyết | Einstein's theory of relativity changed physics. | Thuyết tương đối của Einstein đã thay đổi vật lý học.
+hypothesis | /haɪˈpɑː.θə.sɪs/ | noun | giả thuyết | The experiment proved the hypothesis wrong. | Thí nghiệm đã chứng minh giả thuyết sai. | Số nhiều: hypotheses.
+laboratory | /ˈlæb.rə.tɔːr.i/ | noun | phòng thí nghiệm | She works in a laboratory. | Cô ấy làm việc trong phòng thí nghiệm. | Viết tắt: lab.
+analyze | /ˈæn.əl.aɪz/ | verb | phân tích | Scientists analyzed the data carefully. | Các nhà khoa học phân tích dữ liệu cẩn thận. | Anh-Anh: analyse; analysis = sự phân tích.
+phenomenon | /fəˈnɑː.mə.nɑːn/ | noun | hiện tượng | The Northern Lights are a natural phenomenon. | Cực quang là một hiện tượng tự nhiên. | Số nhiều: phenomena.
+observe | /əbˈzɝːv/ | verb | quan sát | Astronomers observe the stars at night. | Các nhà thiên văn quan sát các vì sao vào ban đêm. | observation = sự quan sát.
+conclusion | /kənˈkluː.ʒən/ | noun | kết luận | What conclusion can we draw from the results? | Chúng ta có thể rút ra kết luận gì từ kết quả?
+gravity | /ˈɡræv.ə.t̬i/ | noun | trọng lực | Newton described the law of gravity. | Newton đã mô tả định luật vạn vật hấp dẫn.
+telescope | /ˈtel.ə.skoʊp/ | noun | kính thiên văn | We looked at the moon through a telescope. | Chúng tôi ngắm mặt trăng qua kính thiên văn. | tele (xa) + scope (nhìn).
+## phrases
+Back to the drawing board. | Làm lại từ đầu thôi.
+It's not rocket science. | Có gì cao siêu đâu (dễ thôi).
+It's a process of trial and error. | Đó là quá trình thử và sai.
+The jury is still out. | Vẫn chưa có kết luận.
+Let's get to the bottom of this. | Hãy tìm ra tận gốc vấn đề.
+## grammar
+title: Cụm động từ thông dụng (Phrasal Verbs)
+summary: Cụm động từ là động từ + giới từ / trạng từ, tạo ra nghĩa mới thường khó đoán từ từng từ riêng lẻ. Người bản xứ dùng chúng liên tục trong giao tiếp, nên nắm vững cụm động từ giúp bạn nói tự nhiên hơn hẳn.
+formula: carry out = thực hiện (an experiment, research)
+formula: find out = tìm ra, phát hiện · figure out = hiểu ra, giải quyết
+formula: come up with = nghĩ ra (an idea) · look into = điều tra, xem xét
+formula: point out = chỉ ra · rule out = loại trừ · set up = thiết lập
+formula: turn out = hóa ra · break down = hỏng; phân hủy · give up = từ bỏ
+point: Tách được và không tách được | Nhiều cụm có thể tách: carry out the test = carry the test out. Khi tân ngữ là đại từ BẮT BUỘC tách: carry it out (không nói carry out it). Một số cụm không tách được: look into, come up with.
+point: Phrasal verb trong văn nói | Văn nói thường dùng phrasal verbs thay từ trang trọng: find out (discover), carry out (conduct), come up with (devise), put off (postpone).
+point: Học theo ngữ cảnh | Đừng học thuộc danh sách khô khan. Hãy học cả cụm trong câu: The results turned out to be wrong.
+point: Một cụm nhiều nghĩa | break down: The car broke down (hỏng). Plastic takes years to break down (phân hủy). She broke down in tears (òa khóc).
+example: The scientists carried out hundreds of experiments. | Các nhà khoa học đã tiến hành hàng trăm thí nghiệm.
+example: Researchers are looking into the causes of the disease. | Các nhà nghiên cứu đang điều tra nguyên nhân căn bệnh.
+example: She came up with a brilliant theory. | Cô ấy nghĩ ra một học thuyết xuất sắc.
+example: The hypothesis turned out to be wrong. | Giả thuyết hóa ra là sai.
+mistake: We carried out it last week. | We carried it out last week. | Đại từ phải đứng giữa động từ và tiểu từ.
+mistake: He came up an idea. | He came up with an idea. | come up with + N.
+mistake: Let's look the problem into. | Let's look into the problem. | look into không tách được.
+ex: The team ___ an experiment to test the new drug. | carried out ; found out ; gave up | carried out | carry out an experiment = tiến hành thí nghiệm.
+ex: Scientists are trying to ___ how the virus spreads. | find out ; give up ; break down | find out | find out = tìm ra.
+ex: She ___ a new way to recycle plastic. | came up with ; looked into ; turned out | came up with | come up with = nghĩ ra.
+ex: The results ___ to be very surprising. | turned out ; carried out ; set up | turned out | turn out to be = hóa ra là.
+ex: Plastic takes hundreds of years to ___. | break down ; set up ; point out | break down | break down = phân hủy.
+ex: The police are ___ the case. | looking into ; looking up ; coming up | looking into | look into = điều tra.
+ex: Don't ___ – you're close to the answer! | give up ; carry out ; turn out | give up | give up = bỏ cuộc.
+## dialogue
+title: Phát hiện bất ngờ
+setting: Hai nhà nghiên cứu trẻ trong phòng thí nghiệm.
+line: A | Dr. Hải | I've analyzed the results of yesterday's experiment. You won't believe what I found out. | Tôi đã phân tích kết quả thí nghiệm hôm qua. Chị sẽ không tin điều tôi phát hiện ra đâu.
+line: B | Dr. Kim | Tell me! Did our hypothesis turn out to be correct? | Kể đi! Giả thuyết của chúng ta có đúng không?
+line: A | Dr. Hải | Actually, no. But we observed something even more interesting. The bacteria broke down the plastic in just two weeks! | Thật ra là không. Nhưng chúng ta quan sát được điều còn thú vị hơn. Vi khuẩn đã phân hủy nhựa chỉ trong hai tuần!
+line: B | Dr. Kim | That's a huge discovery! We need to rule out any mistakes first. | Đó là một phát hiện lớn! Chúng ta cần loại trừ mọi sai sót trước đã.
+line: A | Dr. Hải | Agreed. Let's carry out the experiment again with a new sample. | Đồng ý. Hãy tiến hành lại thí nghiệm với mẫu mới.
+line: B | Dr. Kim | And if it works, we should set up a meeting with the director. This could change everything. | Và nếu thành công, chúng ta nên sắp xếp một cuộc họp với giám đốc. Điều này có thể thay đổi mọi thứ.
+q: What did the bacteria do? | They died ; They broke down the plastic ; They grew very slowly | They broke down the plastic
+q: What will they do first? | publish the results ; carry out the experiment again ; meet the director | carry out the experiment again
+## reading
+title: Accidental discoveries
+text: Some of the most important scientific breakthroughs happened by accident. In 1928, Alexander Fleming returned from holiday to find that mould had grown on one of his experiments. Instead of throwing it away, he looked into it more closely and found out that the mould killed bacteria. This discovery led to penicillin, which has saved millions of lives. Similarly, the microwave oven was invented after an engineer noticed that a chocolate bar in his pocket had melted while he was working with radar. These stories show that great discoveries require not only luck, but also curiosity and careful observation.
+vi: Một số bước đột phá khoa học quan trọng nhất đã xảy ra một cách tình cờ. Năm 1928, Alexander Fleming trở về sau kỳ nghỉ và thấy nấm mốc đã mọc trên một trong những thí nghiệm của ông. Thay vì vứt đi, ông xem xét kỹ hơn và phát hiện ra rằng nấm mốc giết chết vi khuẩn. Phát hiện này dẫn đến penicillin, loại thuốc đã cứu hàng triệu sinh mạng. Tương tự, lò vi sóng được phát minh sau khi một kỹ sư nhận thấy thanh sô-cô-la trong túi mình bị chảy trong lúc làm việc với radar. Những câu chuyện này cho thấy những khám phá vĩ đại không chỉ cần may mắn mà còn cần sự tò mò và quan sát cẩn thận.
+q: What did Fleming find on his experiment? | a chocolate bar ; mould ; a microwave | mould
+q: What do great discoveries require, according to the text? | only luck ; luck, curiosity and careful observation ; a lot of money | luck, curiosity and careful observation

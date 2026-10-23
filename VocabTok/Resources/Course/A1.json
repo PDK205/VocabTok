@@ -1,0 +1,3676 @@
+{
+ "units": [
+  {
+   "id": "a1-u1",
+   "words": [
+    {
+     "word": "hello",
+     "ipa": "/həˈloʊ/",
+     "pos": "interj",
+     "vi": "xin chào",
+     "ex": "Hello, my name is Lan.",
+     "exVi": "Xin chào, mình tên là Lan.",
+     "tip": "Thân mật hơn: hi, hey."
+    },
+    {
+     "word": "name",
+     "ipa": "/neɪm/",
+     "pos": "noun",
+     "vi": "tên",
+     "ex": "What is your name?",
+     "exVi": "Bạn tên là gì?",
+     "tip": "first name = tên; last name = họ."
+    },
+    {
+     "word": "meet",
+     "ipa": "/miːt/",
+     "pos": "verb",
+     "vi": "gặp, gặp gỡ",
+     "ex": "I meet my friends after school.",
+     "exVi": "Tôi gặp bạn bè sau giờ học.",
+     "tip": "Nice to meet you = Rất vui được gặp bạn."
+    },
+    {
+     "word": "nice",
+     "ipa": "/naɪs/",
+     "pos": "adj",
+     "vi": "tốt, dễ chịu",
+     "ex": "She is a nice person.",
+     "exVi": "Cô ấy là một người dễ mến."
+    },
+    {
+     "word": "friend",
+     "ipa": "/frend/",
+     "pos": "noun",
+     "vi": "bạn bè",
+     "ex": "Tom is my best friend.",
+     "exVi": "Tom là bạn thân nhất của tôi.",
+     "tip": "Chữ i câm: đọc là 'phren'."
+    },
+    {
+     "word": "student",
+     "ipa": "/ˈstuː.dənt/",
+     "pos": "noun",
+     "vi": "học sinh, sinh viên",
+     "ex": "I am a student at Hanoi University.",
+     "exVi": "Tôi là sinh viên Đại học Hà Nội."
+    },
+    {
+     "word": "teacher",
+     "ipa": "/ˈtiː.tʃɚ/",
+     "pos": "noun",
+     "vi": "giáo viên",
+     "ex": "Our teacher is very kind.",
+     "exVi": "Giáo viên của chúng tôi rất tốt bụng.",
+     "tip": "teach (dạy) + er (người làm)."
+    },
+    {
+     "word": "country",
+     "ipa": "/ˈkʌn.tri/",
+     "pos": "noun",
+     "vi": "đất nước",
+     "ex": "Vietnam is a beautiful country.",
+     "exVi": "Việt Nam là một đất nước xinh đẹp."
+    },
+    {
+     "word": "from",
+     "ipa": "/frʌm/",
+     "pos": "prep",
+     "vi": "từ (đến từ)",
+     "ex": "I am from Hai Phong.",
+     "exVi": "Tôi đến từ Hải Phòng.",
+     "tip": "Where are you from? = Bạn đến từ đâu?"
+    },
+    {
+     "word": "morning",
+     "ipa": "/ˈmɔːr.nɪŋ/",
+     "pos": "noun",
+     "vi": "buổi sáng",
+     "ex": "Good morning, everyone!",
+     "exVi": "Chào buổi sáng mọi người!"
+    },
+    {
+     "word": "goodbye",
+     "ipa": "/ˌɡʊdˈbaɪ/",
+     "pos": "interj",
+     "vi": "tạm biệt",
+     "ex": "Goodbye, see you tomorrow!",
+     "exVi": "Tạm biệt, hẹn gặp lại ngày mai!",
+     "tip": "Thân mật: bye, bye-bye, see you."
+    },
+    {
+     "word": "welcome",
+     "ipa": "/ˈwel.kəm/",
+     "pos": "adj",
+     "vi": "được chào đón",
+     "ex": "You are welcome to visit us.",
+     "exVi": "Bạn luôn được chào đón đến thăm chúng tôi.",
+     "tip": "You're welcome = Không có chi."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "Nice to meet you.",
+     "vi": "Rất vui được gặp bạn."
+    },
+    {
+     "en": "How are you?",
+     "vi": "Bạn khỏe không?"
+    },
+    {
+     "en": "I'm fine, thank you. And you?",
+     "vi": "Mình khỏe, cảm ơn. Còn bạn?"
+    },
+    {
+     "en": "What's your name?",
+     "vi": "Bạn tên là gì?"
+    },
+    {
+     "en": "Where are you from?",
+     "vi": "Bạn đến từ đâu?"
+    },
+    {
+     "en": "See you later!",
+     "vi": "Hẹn gặp lại sau nhé!"
+    }
+   ],
+   "grammar": {
+    "formulas": [
+     "I + am (I'm)",
+     "He / She / It + is (he's, she's, it's)",
+     "You / We / They + are (you're, we're, they're)",
+     "Phủ định: S + am / is / are + not",
+     "Câu hỏi: Am / Is / Are + S + ...?"
+    ],
+    "points": [
+     {
+      "title": "Chia theo chủ ngữ",
+      "body": "I luôn đi với am; he, she, it và danh từ số ít đi với is; you, we, they và danh từ số nhiều đi với are."
+     },
+     {
+      "title": "Thể phủ định",
+      "body": "Thêm not sau to be: I am not (I'm not), is not = isn't, are not = aren't. Không có dạng \"amn't\"."
+     },
+     {
+      "title": "Câu hỏi Yes/No",
+      "body": "Đảo to be lên trước chủ ngữ: Are you a student? → Yes, I am. / No, I'm not. Khi trả lời ngắn khẳng định không viết tắt: nói Yes, I am (không nói Yes, I'm)."
+     },
+     {
+      "title": "Đừng quên to be",
+      "body": "Tiếng Việt nói \"Cô ấy đến từ Hà Nội\" không cần chữ \"là\", nhưng tiếng Anh bắt buộc có to be: She IS from Hanoi."
+     }
+    ],
+    "examples": [
+     {
+      "en": "I am a student.",
+      "vi": "Tôi là sinh viên."
+     },
+     {
+      "en": "She is from Vietnam.",
+      "vi": "Cô ấy đến từ Việt Nam."
+     },
+     {
+      "en": "We are good friends.",
+      "vi": "Chúng tôi là bạn tốt."
+     },
+     {
+      "en": "Are you a teacher? No, I'm not.",
+      "vi": "Bạn là giáo viên à? Không, tôi không phải."
+     }
+    ],
+    "mistakes": [
+     {
+      "wrong": "I is a student.",
+      "right": "I am a student.",
+      "note": "I luôn đi với am."
+     },
+     {
+      "wrong": "She from Hanoi.",
+      "right": "She is from Hanoi.",
+      "note": "Câu thiếu to be – lỗi rất hay gặp của người Việt."
+     },
+     {
+      "wrong": "Yes, I'm.",
+      "right": "Yes, I am.",
+      "note": "Câu trả lời ngắn khẳng định không viết tắt."
+     }
+    ],
+    "exercises": [
+     {
+      "q": "I ___ a student.",
+      "options": [
+       "am",
+       "is",
+       "are"
+      ],
+      "answer": "am",
+      "explain": "Chủ ngữ I luôn đi với am."
+     },
+     {
+      "q": "My mother ___ a teacher.",
+      "options": [
+       "am",
+       "is",
+       "are"
+      ],
+      "answer": "is",
+      "explain": "My mother = she → is."
+     },
+     {
+      "q": "They ___ from Japan.",
+      "options": [
+       "is",
+       "are",
+       "am"
+      ],
+      "answer": "are",
+      "explain": "They → are."
+     },
+     {
+      "q": "___ you from Korea?",
+      "options": [
+       "Is",
+       "Are",
+       "Am"
+      ],
+      "answer": "Are",
+      "explain": "Câu hỏi với you → Are you...?"
+     },
+     {
+      "q": "He ___ not a doctor.",
+      "options": [
+       "am",
+       "is",
+       "are"
+      ],
+      "answer": "is",
+      "explain": "He → is not (isn't)."
+     },
+     {
+      "q": "We ___ friends.",
+      "options": [
+       "is",
+       "am",
+       "are"
+      ],
+      "answer": "are",
+      "explain": "We → are."
+     },
+     {
+      "q": "It ___ a nice day today.",
+      "options": [
+       "are",
+       "is",
+       "am"
+      ],
+      "answer": "is",
+      "explain": "It → is."
+     }
+    ],
+    "title": "Động từ to be (am / is / are)",
+    "summary": "To be nghĩa là \"là / thì / ở\". Đây là động từ quan trọng nhất trong tiếng Anh, dùng để giới thiệu bản thân, nói về tuổi, nghề nghiệp, quê quán và trạng thái."
+   },
+   "dialogue": {
+    "lines": [
+     {
+      "speaker": "A",
+      "name": "Lan",
+      "en": "Hello! I'm Lan. What's your name?",
+      "vi": "Xin chào! Mình là Lan. Bạn tên là gì?"
+     },
+     {
+      "speaker": "B",
+      "name": "Tom",
+      "en": "Hi, Lan. My name is Tom. Nice to meet you.",
+      "vi": "Chào Lan. Mình tên là Tom. Rất vui được gặp bạn."
+     },
+     {
+      "speaker": "A",
+      "name": "Lan",
+      "en": "Nice to meet you too. Where are you from?",
+      "vi": "Mình cũng rất vui được gặp bạn. Bạn đến từ đâu?"
+     },
+     {
+      "speaker": "B",
+      "name": "Tom",
+      "en": "I'm from Australia. And you?",
+      "vi": "Mình đến từ Úc. Còn bạn?"
+     },
+     {
+      "speaker": "A",
+      "name": "Lan",
+      "en": "I'm from Vietnam. Are you a student here?",
+      "vi": "Mình đến từ Việt Nam. Bạn là sinh viên ở đây à?"
+     },
+     {
+      "speaker": "B",
+      "name": "Tom",
+      "en": "No, I'm not. I'm a teacher!",
+      "vi": "Không phải đâu. Mình là giáo viên!"
+     },
+     {
+      "speaker": "A",
+      "name": "Lan",
+      "en": "Oh! Welcome to our class, teacher!",
+      "vi": "Ồ! Chào mừng thầy đến với lớp chúng em!"
+     }
+    ],
+    "questions": [
+     {
+      "q": "Where is Tom from?",
+      "options": [
+       "Vietnam",
+       "Australia",
+       "England"
+      ],
+      "answer": "Australia"
+     },
+     {
+      "q": "What is Tom's job?",
+      "options": [
+       "student",
+       "teacher",
+       "doctor"
+      ],
+      "answer": "teacher"
+     }
+    ],
+    "title": "Gặp bạn mới",
+    "setting": "Lan gặp Tom trong ngày đầu tiên ở lớp tiếng Anh."
+   },
+   "reading": {
+    "questions": [
+     {
+      "q": "Where is Anna from?",
+      "options": [
+       "Hanoi",
+       "Canada",
+       "England"
+      ],
+      "answer": "Canada"
+     },
+     {
+      "q": "Minh is a ___.",
+      "options": [
+       "teacher",
+       "student",
+       "doctor"
+      ],
+      "answer": "student"
+     },
+     {
+      "q": "How old is Minh?",
+      "options": [
+       "nineteen",
+       "nine",
+       "ninety"
+      ],
+      "answer": "nineteen"
+     }
+    ],
+    "title": "My new friend",
+    "text": "Hello! My name is Minh. I am a student in Hanoi. I am nineteen years old. My new friend is Anna. She is from Canada. She is a teacher at my school. Anna is very nice and funny. Every morning, we say hello and talk in English. I am happy to have a friend from another country.",
+    "vi": "Xin chào! Mình tên là Minh. Mình là sinh viên ở Hà Nội. Mình mười chín tuổi. Bạn mới của mình là Anna. Cô ấy đến từ Canada. Cô ấy là giáo viên ở trường mình. Anna rất dễ mến và vui tính. Mỗi sáng, chúng mình chào nhau và nói chuyện bằng tiếng Anh. Mình rất vui khi có một người bạn đến từ đất nước khác."
+   },
+   "title": "Chào hỏi & Giới thiệu",
+   "titleEn": "Greetings & Introductions",
+   "emoji": "👋",
+   "goal": "Chào hỏi, giới thiệu tên, quê quán và hỏi thăm sức khỏe."
+  },
+  {
+   "id": "a1-u2",
+   "words": [
+    {
+     "word": "family",
+     "ipa": "/ˈfæm.əl.i/",
+     "pos": "noun",
+     "vi": "gia đình",
+     "ex": "I love my family very much.",
+     "exVi": "Tôi rất yêu gia đình mình.",
+     "tip": "Father And Mother, I Love You → FAMILY."
+    },
+    {
+     "word": "mother",
+     "ipa": "/ˈmʌð.ɚ/",
+     "pos": "noun",
+     "vi": "mẹ",
+     "ex": "My mother is a nurse.",
+     "exVi": "Mẹ tôi là y tá.",
+     "tip": "Thân mật: mom (Mỹ), mum (Anh)."
+    },
+    {
+     "word": "father",
+     "ipa": "/ˈfɑː.ðɚ/",
+     "pos": "noun",
+     "vi": "bố, cha",
+     "ex": "My father works in a bank.",
+     "exVi": "Bố tôi làm việc ở ngân hàng.",
+     "tip": "Thân mật: dad."
+    },
+    {
+     "word": "brother",
+     "ipa": "/ˈbrʌð.ɚ/",
+     "pos": "noun",
+     "vi": "anh/em trai",
+     "ex": "I have one older brother.",
+     "exVi": "Tôi có một người anh trai.",
+     "tip": "older brother = anh trai; younger brother = em trai."
+    },
+    {
+     "word": "sister",
+     "ipa": "/ˈsɪs.tɚ/",
+     "pos": "noun",
+     "vi": "chị/em gái",
+     "ex": "My little sister is very funny.",
+     "exVi": "Em gái tôi rất vui tính."
+    },
+    {
+     "word": "parents",
+     "ipa": "/ˈper.ənts/",
+     "pos": "noun",
+     "vi": "bố mẹ",
+     "ex": "My parents live in Hue.",
+     "exVi": "Bố mẹ tôi sống ở Huế.",
+     "tip": "Parents là bố mẹ; họ hàng là relatives."
+    },
+    {
+     "word": "grandmother",
+     "ipa": "/ˈɡræn.mʌð.ɚ/",
+     "pos": "noun",
+     "vi": "bà",
+     "ex": "My grandmother makes great soup.",
+     "exVi": "Bà tôi nấu canh rất ngon.",
+     "tip": "Thân mật: grandma. Ông: grandfather."
+    },
+    {
+     "word": "son",
+     "ipa": "/sʌn/",
+     "pos": "noun",
+     "vi": "con trai",
+     "ex": "Their son is five years old.",
+     "exVi": "Con trai của họ năm tuổi.",
+     "tip": "Phát âm giống sun (mặt trời)."
+    },
+    {
+     "word": "daughter",
+     "ipa": "/ˈdɑː.t̬ɚ/",
+     "pos": "noun",
+     "vi": "con gái",
+     "ex": "She has a beautiful daughter.",
+     "exVi": "Cô ấy có một cô con gái xinh đẹp.",
+     "tip": "Chữ gh câm: đọc gần như \"đo-tơ\"."
+    },
+    {
+     "word": "husband",
+     "ipa": "/ˈhʌz.bənd/",
+     "pos": "noun",
+     "vi": "chồng",
+     "ex": "Her husband is a chef.",
+     "exVi": "Chồng cô ấy là đầu bếp."
+    },
+    {
+     "word": "wife",
+     "ipa": "/waɪf/",
+     "pos": "noun",
+     "vi": "vợ",
+     "ex": "His wife is from Da Nang.",
+     "exVi": "Vợ anh ấy đến từ Đà Nẵng.",
+     "tip": "Số nhiều: wives."
+    },
+    {
+     "word": "children",
+     "ipa": "/ˈtʃɪl.drən/",
+     "pos": "noun",
+     "vi": "trẻ em, con cái",
+     "ex": "They have three children.",
+     "exVi": "Họ có ba người con.",
+     "tip": "Số nhiều bất quy tắc của child."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "How many people are there in your family?",
+     "vi": "Gia đình bạn có mấy người?"
+    },
+    {
+     "en": "There are four people in my family.",
+     "vi": "Gia đình tôi có bốn người."
+    },
+    {
+     "en": "Do you have any brothers or sisters?",
+     "vi": "Bạn có anh chị em không?"
+    },
+    {
+     "en": "I'm an only child.",
+     "vi": "Tôi là con một."
+    },
+    {
+     "en": "This is my mother.",
+     "vi": "Đây là mẹ tôi."
+    },
+    {
+     "en": "She looks like her father.",
+     "vi": "Cô ấy trông giống bố."
+    }
+   ],
+   "grammar": {
+    "formulas": [
+     "I → my · you → your · he → his · she → her",
+     "it → its · we → our · they → their",
+     "Danh từ + 's + vật sở hữu: Tom's car"
+    ],
+    "points": [
+     {
+      "title": "Luôn có danh từ theo sau",
+      "body": "Tính từ sở hữu không đứng một mình: This is my book (đúng) – This is my (sai)."
+     },
+     {
+      "title": "his hay her?",
+      "body": "Chọn theo NGƯỜI SỞ HỮU, không theo vật hay người được sở hữu: Lan's father → her father (vì Lan là nữ)."
+     },
+     {
+      "title": "Sở hữu cách 's",
+      "body": "Thêm 's sau danh từ chỉ người: my sister's room. Danh từ số nhiều tận cùng bằng -s chỉ thêm dấu ': my parents' house."
+     },
+     {
+      "title": "its khác it's",
+      "body": "its = của nó (sở hữu); it's = it is. The cat is eating its food. / It's a cat."
+     }
+    ],
+    "examples": [
+     {
+      "en": "This is my brother. His name is Nam.",
+      "vi": "Đây là anh trai tôi. Tên anh ấy là Nam."
+     },
+     {
+      "en": "Our parents are teachers.",
+      "vi": "Bố mẹ chúng tôi là giáo viên."
+     },
+     {
+      "en": "Mai's husband is very kind.",
+      "vi": "Chồng của Mai rất tốt bụng."
+     },
+     {
+      "en": "The children love their grandmother.",
+      "vi": "Bọn trẻ yêu bà của chúng."
+     }
+    ],
+    "mistakes": [
+     {
+      "wrong": "Lan loves his mother.",
+      "right": "Lan loves her mother.",
+      "note": "Lan là nữ nên dùng her."
+     },
+     {
+      "wrong": "the car of my father",
+      "right": "my father's car",
+      "note": "Với người, dùng 's tự nhiên hơn \"of\"."
+     }
+    ],
+    "exercises": [
+     {
+      "q": "This is ___ sister. She is ten.",
+      "options": [
+       "my",
+       "me",
+       "I"
+      ],
+      "answer": "my",
+      "explain": "Trước danh từ dùng tính từ sở hữu my."
+     },
+     {
+      "q": "Tom loves ___ wife very much.",
+      "options": [
+       "her",
+       "his",
+       "their"
+      ],
+      "answer": "his",
+      "explain": "Tom là nam → his."
+     },
+     {
+      "q": "Lan and Nam live with ___ parents.",
+      "options": [
+       "their",
+       "our",
+       "his"
+      ],
+      "answer": "their",
+      "explain": "Lan and Nam = they → their."
+     },
+     {
+      "q": "We love ___ teacher.",
+      "options": [
+       "your",
+       "our",
+       "us"
+      ],
+      "answer": "our",
+      "explain": "We → our."
+     },
+     {
+      "q": "The dog is playing with ___ ball.",
+      "options": [
+       "it's",
+       "its",
+       "his"
+      ],
+      "answer": "its",
+      "explain": "its = của nó; it's = it is."
+     },
+     {
+      "q": "This is ___ car. (xe của bố tôi)",
+      "options": [
+       "my father",
+       "my father's",
+       "my fathers"
+      ],
+      "answer": "my father's",
+      "explain": "Sở hữu cách: father's."
+     },
+     {
+      "q": "What is ___ name?",
+      "options": [
+       "you",
+       "your",
+       "yours"
+      ],
+      "answer": "your",
+      "explain": "Trước danh từ name dùng your."
+     }
+    ],
+    "title": "Tính từ sở hữu & sở hữu cách 's",
+    "summary": "Tính từ sở hữu (my, your, his, her...) đứng trước danh từ để nói \"của ai\". Sở hữu cách 's gắn sau danh từ chỉ người: Lan's bag = cái túi của Lan."
+   },
+   "dialogue": {
+    "lines": [
+     {
+      "speaker": "A",
+      "name": "Mai",
+      "en": "Look, this is a photo of my family.",
+      "vi": "Nhìn này, đây là ảnh gia đình mình."
+     },
+     {
+      "speaker": "B",
+      "name": "Ben",
+      "en": "Wow, it's a big family! Who is this man?",
+      "vi": "Ồ, gia đình bạn đông thật! Người đàn ông này là ai?"
+     },
+     {
+      "speaker": "A",
+      "name": "Mai",
+      "en": "That's my father. He's a doctor.",
+      "vi": "Đó là bố mình. Bố là bác sĩ."
+     },
+     {
+      "speaker": "B",
+      "name": "Ben",
+      "en": "And who are the two girls?",
+      "vi": "Còn hai cô bé kia là ai?"
+     },
+     {
+      "speaker": "A",
+      "name": "Mai",
+      "en": "They're my sisters, Hoa and Linh. Hoa is twelve and Linh is eight.",
+      "vi": "Đó là hai em gái mình, Hoa và Linh. Hoa mười hai tuổi còn Linh tám tuổi."
+     },
+     {
+      "speaker": "B",
+      "name": "Ben",
+      "en": "Do you have any brothers?",
+      "vi": "Bạn có anh em trai không?"
+     },
+     {
+      "speaker": "A",
+      "name": "Mai",
+      "en": "No, I don't. What about you?",
+      "vi": "Không. Còn bạn thì sao?"
+     },
+     {
+      "speaker": "B",
+      "name": "Ben",
+      "en": "I'm an only child, but I have a lot of cousins.",
+      "vi": "Mình là con một, nhưng mình có rất nhiều anh chị em họ."
+     }
+    ],
+    "questions": [
+     {
+      "q": "What is Mai's father's job?",
+      "options": [
+       "teacher",
+       "doctor",
+       "chef"
+      ],
+      "answer": "doctor"
+     },
+     {
+      "q": "How many sisters does Mai have?",
+      "options": [
+       "one",
+       "two",
+       "three"
+      ],
+      "answer": "two"
+     },
+     {
+      "q": "Does Ben have any brothers or sisters?",
+      "options": [
+       "Yes, two sisters",
+       "No, he is an only child",
+       "Yes, one brother"
+      ],
+      "answer": "No, he is an only child"
+     }
+    ],
+    "title": "Ảnh gia đình",
+    "setting": "Mai cho bạn mới xem ảnh gia đình trên điện thoại."
+   },
+   "reading": {
+    "questions": [
+     {
+      "q": "How old is Emma?",
+      "options": [
+       "four",
+       "seven",
+       "thirty-five"
+      ],
+      "answer": "four"
+     },
+     {
+      "q": "What is Sarah's job?",
+      "options": [
+       "cook",
+       "nurse",
+       "teacher"
+      ],
+      "answer": "nurse"
+     },
+     {
+      "q": "When do the children visit their grandparents?",
+      "options": [
+       "on Saturdays",
+       "on Sundays",
+       "every day"
+      ],
+      "answer": "on Sundays"
+     }
+    ],
+    "title": "Peter's family",
+    "text": "My name is Peter and I am thirty-five. I live in London with my wife, Sarah, and our two children. Our son, Jack, is seven and our daughter, Emma, is four. Sarah is a nurse and I am a cook. My parents live near our house, so the children often visit their grandparents on Sundays. Their grandmother makes the best cakes in the world!",
+    "vi": "Tôi tên là Peter và tôi ba mươi lăm tuổi. Tôi sống ở London cùng vợ tôi, Sarah, và hai con của chúng tôi. Con trai chúng tôi, Jack, bảy tuổi và con gái chúng tôi, Emma, bốn tuổi. Sarah là y tá còn tôi là đầu bếp. Bố mẹ tôi sống gần nhà chúng tôi nên bọn trẻ thường đến thăm ông bà vào Chủ nhật. Bà của các cháu làm bánh ngon nhất thế giới!"
+   },
+   "title": "Gia đình",
+   "titleEn": "Family",
+   "emoji": "👨‍👩‍👧",
+   "goal": "Giới thiệu các thành viên trong gia đình và nói \"của ai\"."
+  },
+  {
+   "id": "a1-u3",
+   "words": [
+    {
+     "word": "time",
+     "ipa": "/taɪm/",
+     "pos": "noun",
+     "vi": "thời gian; giờ",
+     "ex": "What time is it now?",
+     "exVi": "Bây giờ là mấy giờ?"
+    },
+    {
+     "word": "hour",
+     "ipa": "/aʊr/",
+     "pos": "noun",
+     "vi": "giờ, tiếng đồng hồ",
+     "ex": "I sleep eight hours a day.",
+     "exVi": "Tôi ngủ tám tiếng mỗi ngày.",
+     "tip": "Chữ h câm nên nói an hour."
+    },
+    {
+     "word": "minute",
+     "ipa": "/ˈmɪn.ɪt/",
+     "pos": "noun",
+     "vi": "phút",
+     "ex": "Wait a minute, please.",
+     "exVi": "Làm ơn đợi một phút."
+    },
+    {
+     "word": "week",
+     "ipa": "/wiːk/",
+     "pos": "noun",
+     "vi": "tuần",
+     "ex": "I go swimming twice a week.",
+     "exVi": "Tôi đi bơi hai lần một tuần."
+    },
+    {
+     "word": "month",
+     "ipa": "/mʌnθ/",
+     "pos": "noun",
+     "vi": "tháng",
+     "ex": "My birthday is next month.",
+     "exVi": "Sinh nhật tôi vào tháng sau."
+    },
+    {
+     "word": "year",
+     "ipa": "/jɪr/",
+     "pos": "noun",
+     "vi": "năm",
+     "ex": "She is twenty years old.",
+     "exVi": "Cô ấy hai mươi tuổi."
+    },
+    {
+     "word": "today",
+     "ipa": "/təˈdeɪ/",
+     "pos": "adv",
+     "vi": "hôm nay",
+     "ex": "Today is Monday.",
+     "exVi": "Hôm nay là thứ Hai."
+    },
+    {
+     "word": "tomorrow",
+     "ipa": "/təˈmɑːr.oʊ/",
+     "pos": "adv",
+     "vi": "ngày mai",
+     "ex": "See you tomorrow!",
+     "exVi": "Hẹn gặp bạn ngày mai!",
+     "tip": "Một chữ m, hai chữ r."
+    },
+    {
+     "word": "birthday",
+     "ipa": "/ˈbɝːθ.deɪ/",
+     "pos": "noun",
+     "vi": "sinh nhật",
+     "ex": "When is your birthday?",
+     "exVi": "Sinh nhật bạn khi nào?",
+     "tip": "birth (sự ra đời) + day."
+    },
+    {
+     "word": "calendar",
+     "ipa": "/ˈkæl.ən.dɚ/",
+     "pos": "noun",
+     "vi": "lịch",
+     "ex": "I write my plans on the calendar.",
+     "exVi": "Tôi ghi kế hoạch lên lịch."
+    },
+    {
+     "word": "weekend",
+     "ipa": "/ˈwiːk.end/",
+     "pos": "noun",
+     "vi": "cuối tuần",
+     "ex": "What do you do at the weekend?",
+     "exVi": "Bạn làm gì vào cuối tuần?",
+     "tip": "week + end."
+    },
+    {
+     "word": "number",
+     "ipa": "/ˈnʌm.bɚ/",
+     "pos": "noun",
+     "vi": "số",
+     "ex": "What is your phone number?",
+     "exVi": "Số điện thoại của bạn là gì?"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "What time is it?",
+     "vi": "Mấy giờ rồi?"
+    },
+    {
+     "en": "It's half past seven.",
+     "vi": "Bây giờ là bảy giờ rưỡi."
+    },
+    {
+     "en": "It's a quarter to nine.",
+     "vi": "Bây giờ là chín giờ kém mười lăm."
+    },
+    {
+     "en": "What day is it today?",
+     "vi": "Hôm nay là thứ mấy?"
+    },
+    {
+     "en": "My birthday is on the fifth of May.",
+     "vi": "Sinh nhật tôi vào ngày 5 tháng 5."
+    },
+    {
+     "en": "See you on Friday!",
+     "vi": "Hẹn gặp bạn vào thứ Sáu!"
+    }
+   ],
+   "grammar": {
+    "formulas": [
+     "AT + giờ: at 7 o'clock, at noon, at night",
+     "ON + thứ / ngày: on Monday, on May 5th, on my birthday",
+     "IN + tháng / năm / mùa / buổi: in June, in 2025, in summer, in the morning"
+    ],
+    "points": [
+     {
+      "title": "AT – thời điểm chính xác",
+      "body": "Dùng với giờ (at 6:30), at noon, at midnight, at night và at the weekend (Anh-Anh)."
+     },
+     {
+      "title": "ON – ngày cụ thể",
+      "body": "Dùng với thứ trong tuần, ngày tháng, ngày lễ có chữ Day: on Sunday, on Christmas Day, on Monday morning."
+     },
+     {
+      "title": "IN – khoảng thời gian dài",
+      "body": "Dùng với tháng, năm, mùa, thế kỷ và các buổi: in the morning, in the afternoon, in the evening (nhưng at night)."
+     },
+     {
+      "title": "Không dùng giới từ",
+      "body": "Trước today, tomorrow, yesterday, this, next, last, every: I'll see you next week (không nói on next week)."
+     }
+    ],
+    "examples": [
+     {
+      "en": "The class starts at 8 o'clock.",
+      "vi": "Lớp học bắt đầu lúc 8 giờ."
+     },
+     {
+      "en": "We go to the market on Sundays.",
+      "vi": "Chúng tôi đi chợ vào các ngày Chủ nhật."
+     },
+     {
+      "en": "My birthday is in October.",
+      "vi": "Sinh nhật tôi vào tháng Mười."
+     },
+     {
+      "en": "I study English in the evening.",
+      "vi": "Tôi học tiếng Anh vào buổi tối."
+     }
+    ],
+    "mistakes": [
+     {
+      "wrong": "I was born on 2005.",
+      "right": "I was born in 2005.",
+      "note": "Năm dùng in."
+     },
+     {
+      "wrong": "See you on next Monday.",
+      "right": "See you next Monday.",
+      "note": "Có next thì bỏ giới từ."
+     }
+    ],
+    "exercises": [
+     {
+      "q": "The film starts ___ 9 p.m.",
+      "options": [
+       "in",
+       "on",
+       "at"
+      ],
+      "answer": "at",
+      "explain": "Giờ chính xác dùng at."
+     },
+     {
+      "q": "I have English classes ___ Tuesday.",
+      "options": [
+       "in",
+       "on",
+       "at"
+      ],
+      "answer": "on",
+      "explain": "Thứ trong tuần dùng on."
+     },
+     {
+      "q": "It is very hot ___ summer.",
+      "options": [
+       "in",
+       "on",
+       "at"
+      ],
+      "answer": "in",
+      "explain": "Mùa dùng in."
+     },
+     {
+      "q": "She was born ___ 1999.",
+      "options": [
+       "on",
+       "in",
+       "at"
+      ],
+      "answer": "in",
+      "explain": "Năm dùng in."
+     },
+     {
+      "q": "We don't work ___ night.",
+      "options": [
+       "in",
+       "on",
+       "at"
+      ],
+      "answer": "at",
+      "explain": "Cụm cố định: at night."
+     },
+     {
+      "q": "My birthday is ___ March 3rd.",
+      "options": [
+       "in",
+       "on",
+       "at"
+      ],
+      "answer": "on",
+      "explain": "Ngày cụ thể dùng on."
+     },
+     {
+      "q": "I will call you ___ tomorrow.",
+      "options": [
+       "on",
+       "at",
+       "(không cần giới từ)"
+      ],
+      "answer": "(không cần giới từ)",
+      "explain": "Trước tomorrow không dùng giới từ."
+     }
+    ],
+    "title": "Giới từ chỉ thời gian: in – on – at",
+    "summary": "Ba giới từ in, on, at giúp nói \"vào lúc nào\". Hãy tưởng tượng một tam giác ngược: IN cho khoảng thời gian lớn, ON cho ngày, AT cho thời điểm chính xác."
+   },
+   "dialogue": {
+    "lines": [
+     {
+      "speaker": "A",
+      "name": "Nam",
+      "en": "Hi Jenny! Are you free this weekend?",
+      "vi": "Chào Jenny! Cuối tuần này bạn rảnh không?"
+     },
+     {
+      "speaker": "B",
+      "name": "Jenny",
+      "en": "I'm busy on Saturday, but I'm free on Sunday. Why?",
+      "vi": "Thứ Bảy mình bận, nhưng Chủ nhật mình rảnh. Sao thế?"
+     },
+     {
+      "speaker": "A",
+      "name": "Nam",
+      "en": "There's a new film at the cinema. Do you want to come?",
+      "vi": "Rạp có phim mới. Bạn muốn đi không?"
+     },
+     {
+      "speaker": "B",
+      "name": "Jenny",
+      "en": "Sure! What time does it start?",
+      "vi": "Chắc chắn rồi! Phim bắt đầu lúc mấy giờ?"
+     },
+     {
+      "speaker": "A",
+      "name": "Nam",
+      "en": "At half past seven in the evening.",
+      "vi": "Lúc bảy giờ rưỡi tối."
+     },
+     {
+      "speaker": "B",
+      "name": "Jenny",
+      "en": "Great. Let's meet at seven in front of the cinema.",
+      "vi": "Tuyệt. Mình gặp nhau lúc bảy giờ trước cửa rạp nhé."
+     },
+     {
+      "speaker": "A",
+      "name": "Nam",
+      "en": "OK. See you on Sunday!",
+      "vi": "Được. Hẹn gặp bạn Chủ nhật!"
+     }
+    ],
+    "questions": [
+     {
+      "q": "When is Jenny free?",
+      "options": [
+       "on Saturday",
+       "on Sunday",
+       "on Friday"
+      ],
+      "answer": "on Sunday"
+     },
+     {
+      "q": "What time does the film start?",
+      "options": [
+       "7:00",
+       "7:30",
+       "8:30"
+      ],
+      "answer": "7:30"
+     }
+    ],
+    "title": "Hẹn đi xem phim",
+    "setting": "Nam rủ Jenny đi xem phim cuối tuần."
+   },
+   "reading": {
+    "questions": [
+     {
+      "q": "When does Linh work at the coffee shop?",
+      "options": [
+       "on Monday and Wednesday",
+       "on Tuesday and Thursday",
+       "at the weekend"
+      ],
+      "answer": "on Tuesday and Thursday"
+     },
+     {
+      "q": "When is Linh's birthday?",
+      "options": [
+       "December 2nd",
+       "December 20th",
+       "November 20th"
+      ],
+      "answer": "December 20th"
+     },
+     {
+      "q": "What does Linh do on Friday evening?",
+      "options": [
+       "She works",
+       "She plays badminton",
+       "She visits her parents"
+      ],
+      "answer": "She plays badminton"
+     }
+    ],
+    "title": "Linh's busy week",
+    "text": "Linh is a university student. Her week is very busy. On Monday and Wednesday, she has classes in the morning. On Tuesday and Thursday, she works at a coffee shop from two to six in the afternoon. On Friday evening, she plays badminton with her friends. At the weekend, she visits her parents. Her favourite month is December because her birthday is on December 20th.",
+    "vi": "Linh là sinh viên đại học. Tuần của cô ấy rất bận rộn. Thứ Hai và thứ Tư, cô ấy có lớp vào buổi sáng. Thứ Ba và thứ Năm, cô ấy làm ở quán cà phê từ hai đến sáu giờ chiều. Tối thứ Sáu, cô ấy chơi cầu lông với bạn bè. Cuối tuần, cô ấy về thăm bố mẹ. Tháng cô ấy thích nhất là tháng Mười Hai vì sinh nhật cô vào ngày 20 tháng 12."
+   },
+   "title": "Thời gian & Ngày tháng",
+   "titleEn": "Time & Dates",
+   "emoji": "⏰",
+   "goal": "Nói giờ, ngày trong tuần, tháng và hẹn lịch."
+  },
+  {
+   "id": "a1-u4",
+   "words": [
+    {
+     "word": "house",
+     "ipa": "/haʊs/",
+     "pos": "noun",
+     "vi": "ngôi nhà",
+     "ex": "They live in a big house.",
+     "exVi": "Họ sống trong một ngôi nhà lớn.",
+     "tip": "house = công trình; home = tổ ấm, nơi mình thuộc về."
+    },
+    {
+     "word": "room",
+     "ipa": "/ruːm/",
+     "pos": "noun",
+     "vi": "phòng",
+     "ex": "My room is small but tidy.",
+     "exVi": "Phòng tôi nhỏ nhưng gọn gàng."
+    },
+    {
+     "word": "kitchen",
+     "ipa": "/ˈkɪtʃ.ən/",
+     "pos": "noun",
+     "vi": "nhà bếp",
+     "ex": "Mom is cooking in the kitchen.",
+     "exVi": "Mẹ đang nấu ăn trong bếp."
+    },
+    {
+     "word": "bedroom",
+     "ipa": "/ˈbed.ruːm/",
+     "pos": "noun",
+     "vi": "phòng ngủ",
+     "ex": "There are two bedrooms upstairs.",
+     "exVi": "Trên lầu có hai phòng ngủ.",
+     "tip": "bed (giường) + room (phòng)."
+    },
+    {
+     "word": "bathroom",
+     "ipa": "/ˈbæθ.ruːm/",
+     "pos": "noun",
+     "vi": "phòng tắm",
+     "ex": "The bathroom is next to my room.",
+     "exVi": "Phòng tắm ở cạnh phòng tôi.",
+     "tip": "bath (tắm) + room."
+    },
+    {
+     "word": "table",
+     "ipa": "/ˈteɪ.bəl/",
+     "pos": "noun",
+     "vi": "cái bàn",
+     "ex": "The keys are on the table.",
+     "exVi": "Chìa khóa ở trên bàn."
+    },
+    {
+     "word": "chair",
+     "ipa": "/tʃer/",
+     "pos": "noun",
+     "vi": "cái ghế",
+     "ex": "Please sit on this chair.",
+     "exVi": "Mời ngồi lên chiếc ghế này."
+    },
+    {
+     "word": "window",
+     "ipa": "/ˈwɪn.doʊ/",
+     "pos": "noun",
+     "vi": "cửa sổ",
+     "ex": "Can you open the window?",
+     "exVi": "Bạn mở cửa sổ được không?"
+    },
+    {
+     "word": "door",
+     "ipa": "/dɔːr/",
+     "pos": "noun",
+     "vi": "cửa ra vào",
+     "ex": "Please close the door.",
+     "exVi": "Làm ơn đóng cửa lại."
+    },
+    {
+     "word": "garden",
+     "ipa": "/ˈɡɑːr.dən/",
+     "pos": "noun",
+     "vi": "khu vườn",
+     "ex": "We grow flowers in the garden.",
+     "exVi": "Chúng tôi trồng hoa trong vườn."
+    },
+    {
+     "word": "apartment",
+     "ipa": "/əˈpɑːrt.mənt/",
+     "pos": "noun",
+     "vi": "căn hộ",
+     "ex": "I live in an apartment on the tenth floor.",
+     "exVi": "Tôi sống ở một căn hộ trên tầng mười.",
+     "tip": "Anh-Anh gọi là flat."
+    },
+    {
+     "word": "floor",
+     "ipa": "/flɔːr/",
+     "pos": "noun",
+     "vi": "sàn nhà; tầng",
+     "ex": "The cat is sleeping on the floor.",
+     "exVi": "Con mèo đang ngủ trên sàn nhà."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "Come in, please.",
+     "vi": "Mời vào."
+    },
+    {
+     "en": "Make yourself at home.",
+     "vi": "Cứ tự nhiên như ở nhà nhé."
+    },
+    {
+     "en": "Where is the bathroom?",
+     "vi": "Phòng tắm ở đâu vậy?"
+    },
+    {
+     "en": "There is a sofa in the living room.",
+     "vi": "Có một chiếc ghế sofa trong phòng khách."
+    },
+    {
+     "en": "My house has three bedrooms.",
+     "vi": "Nhà tôi có ba phòng ngủ."
+    }
+   ],
+   "grammar": {
+    "formulas": [
+     "There is + a / an + danh từ số ít",
+     "There are + some / số đếm + danh từ số nhiều",
+     "Phủ định: There isn't a... / There aren't any...",
+     "Câu hỏi: Is there a...? / Are there any...?"
+    ],
+    "points": [
+     {
+      "title": "a hay an?",
+      "body": "Dùng an trước từ bắt đầu bằng ÂM nguyên âm: an apple, an hour (h câm). Dùng a trước âm phụ âm: a chair, a university (/juː/)."
+     },
+     {
+      "title": "some và any",
+      "body": "some dùng trong câu khẳng định; any dùng trong câu phủ định và câu hỏi: There are some books. / Are there any chairs?"
+     },
+     {
+      "title": "Đừng dùng have để nói \"có\"",
+      "body": "Người Việt hay nói \"In my room have a bed\" (sai). Đúng: There is a bed in my room. hoặc My room has a bed."
+     }
+    ],
+    "examples": [
+     {
+      "en": "There is a lamp on the desk.",
+      "vi": "Có một cái đèn trên bàn làm việc."
+     },
+     {
+      "en": "There are two windows in my bedroom.",
+      "vi": "Có hai cửa sổ trong phòng ngủ của tôi."
+     },
+     {
+      "en": "Is there a garden? Yes, there is.",
+      "vi": "Có vườn không? Có."
+     },
+     {
+      "en": "There aren't any chairs in the kitchen.",
+      "vi": "Không có cái ghế nào trong bếp."
+     }
+    ],
+    "mistakes": [
+     {
+      "wrong": "In my house have three rooms.",
+      "right": "There are three rooms in my house.",
+      "note": "Không dùng have để nói \"có\" tồn tại."
+     },
+     {
+      "wrong": "There is two cats.",
+      "right": "There are two cats.",
+      "note": "Danh từ số nhiều dùng there are."
+     }
+    ],
+    "exercises": [
+     {
+      "q": "There ___ a big table in the kitchen.",
+      "options": [
+       "is",
+       "are",
+       "be"
+      ],
+      "answer": "is",
+      "explain": "a big table là số ít."
+     },
+     {
+      "q": "There ___ three bedrooms upstairs.",
+      "options": [
+       "is",
+       "are",
+       "am"
+      ],
+      "answer": "are",
+      "explain": "three bedrooms là số nhiều."
+     },
+     {
+      "q": "Is there ___ apple in the fridge?",
+      "options": [
+       "a",
+       "an",
+       "some"
+      ],
+      "answer": "an",
+      "explain": "apple bắt đầu bằng nguyên âm."
+     },
+     {
+      "q": "There are ___ flowers in the garden.",
+      "options": [
+       "a",
+       "some",
+       "any"
+      ],
+      "answer": "some",
+      "explain": "Câu khẳng định số nhiều dùng some."
+     },
+     {
+      "q": "Are there ___ chairs in the room?",
+      "options": [
+       "some",
+       "any",
+       "a"
+      ],
+      "answer": "any",
+      "explain": "Câu hỏi dùng any."
+     },
+     {
+      "q": "There isn't ___ window in the bathroom.",
+      "options": [
+       "a",
+       "any",
+       "some"
+      ],
+      "answer": "a",
+      "explain": "window số ít: isn't a."
+     },
+     {
+      "q": "I live in ___ apartment.",
+      "options": [
+       "a",
+       "an",
+       "any"
+      ],
+      "answer": "an",
+      "explain": "apartment bắt đầu bằng nguyên âm."
+     }
+    ],
+    "title": "There is / There are + a, an, some, any",
+    "summary": "\"There is / There are\" nghĩa là \"có\" (cái gì tồn tại ở đâu đó). Dùng there is với danh từ số ít hoặc không đếm được, there are với danh từ số nhiều."
+   },
+   "dialogue": {
+    "lines": [
+     {
+      "speaker": "A",
+      "name": "Hà",
+      "en": "Hello, I'm calling about the apartment for rent.",
+      "vi": "Xin chào, tôi gọi để hỏi về căn hộ cho thuê."
+     },
+     {
+      "speaker": "B",
+      "name": "Mr. Brown",
+      "en": "Yes. It's on the fifth floor. It's very bright.",
+      "vi": "Vâng. Căn hộ ở tầng năm. Nó rất sáng sủa."
+     },
+     {
+      "speaker": "A",
+      "name": "Hà",
+      "en": "How many bedrooms are there?",
+      "vi": "Có mấy phòng ngủ ạ?"
+     },
+     {
+      "speaker": "B",
+      "name": "Mr. Brown",
+      "en": "There are two bedrooms and one bathroom.",
+      "vi": "Có hai phòng ngủ và một phòng tắm."
+     },
+     {
+      "speaker": "A",
+      "name": "Hà",
+      "en": "Is there a kitchen?",
+      "vi": "Có bếp không ạ?"
+     },
+     {
+      "speaker": "B",
+      "name": "Mr. Brown",
+      "en": "Yes, there is. There's a small kitchen with a new fridge.",
+      "vi": "Có. Có một căn bếp nhỏ với tủ lạnh mới."
+     },
+     {
+      "speaker": "A",
+      "name": "Hà",
+      "en": "Great! Can I come and see it tomorrow?",
+      "vi": "Tuyệt quá! Ngày mai tôi đến xem được không ạ?"
+     },
+     {
+      "speaker": "B",
+      "name": "Mr. Brown",
+      "en": "Of course. See you tomorrow at ten.",
+      "vi": "Tất nhiên. Hẹn gặp cô mười giờ sáng mai."
+     }
+    ],
+    "questions": [
+     {
+      "q": "Which floor is the apartment on?",
+      "options": [
+       "the second floor",
+       "the fifth floor",
+       "the tenth floor"
+      ],
+      "answer": "the fifth floor"
+     },
+     {
+      "q": "How many bedrooms are there?",
+      "options": [
+       "one",
+       "two",
+       "three"
+      ],
+      "answer": "two"
+     }
+    ],
+    "title": "Hỏi thuê căn hộ",
+    "setting": "Hà gọi điện hỏi về một căn hộ cho thuê."
+   },
+   "reading": {
+    "questions": [
+     {
+      "q": "Where is the dream house?",
+      "options": [
+       "in the city",
+       "near the sea",
+       "in the mountains"
+      ],
+      "answer": "near the sea"
+     },
+     {
+      "q": "How many bedrooms are there?",
+      "options": [
+       "two",
+       "three",
+       "four"
+      ],
+      "answer": "three"
+     },
+     {
+      "q": "Why is there no swimming pool?",
+      "options": [
+       "It is too expensive",
+       "The sea is the swimming pool",
+       "The garden is too small"
+      ],
+      "answer": "The sea is the swimming pool"
+     }
+    ],
+    "title": "My dream house",
+    "text": "My dream house is near the sea. It is not very big, but it is beautiful. There are three bedrooms, a large kitchen and a living room with big windows. From the windows, I can see the beach. There is a small garden with many flowers and an old tree. There isn't a swimming pool because the sea is my swimming pool! In the evening, I want to sit in the garden and watch the sunset.",
+    "vi": "Ngôi nhà mơ ước của tôi ở gần biển. Nó không lớn lắm nhưng rất đẹp. Có ba phòng ngủ, một căn bếp rộng và một phòng khách với những ô cửa sổ lớn. Từ cửa sổ, tôi có thể nhìn thấy bãi biển. Có một khu vườn nhỏ với nhiều hoa và một cái cây cổ thụ. Không có hồ bơi vì biển chính là hồ bơi của tôi! Buổi tối, tôi muốn ngồi trong vườn và ngắm hoàng hôn."
+   },
+   "title": "Nhà của tôi",
+   "titleEn": "My Home",
+   "emoji": "🏡",
+   "goal": "Mô tả nhà cửa, các phòng và đồ vật trong nhà."
+  },
+  {
+   "id": "a1-u5",
+   "words": [
+    {
+     "word": "breakfast",
+     "ipa": "/ˈbrek.fəst/",
+     "pos": "noun",
+     "vi": "bữa sáng",
+     "ex": "I have breakfast at seven.",
+     "exVi": "Tôi ăn sáng lúc bảy giờ.",
+     "tip": "break (phá vỡ) + fast (nhịn ăn): bữa phá vỡ cơn nhịn ăn qua đêm."
+    },
+    {
+     "word": "lunch",
+     "ipa": "/lʌntʃ/",
+     "pos": "noun",
+     "vi": "bữa trưa",
+     "ex": "We have lunch at school.",
+     "exVi": "Chúng tôi ăn trưa ở trường."
+    },
+    {
+     "word": "dinner",
+     "ipa": "/ˈdɪn.ɚ/",
+     "pos": "noun",
+     "vi": "bữa tối",
+     "ex": "My family has dinner together.",
+     "exVi": "Gia đình tôi ăn tối cùng nhau."
+    },
+    {
+     "word": "shower",
+     "ipa": "/ʃaʊr/",
+     "pos": "noun",
+     "vi": "vòi sen; việc tắm",
+     "ex": "I take a shower every morning.",
+     "exVi": "Tôi tắm vòi sen mỗi sáng.",
+     "tip": "take a shower = đi tắm."
+    },
+    {
+     "word": "usually",
+     "ipa": "/ˈjuː.ʒu.ə.li/",
+     "pos": "adv",
+     "vi": "thường thường",
+     "ex": "I usually walk to school.",
+     "exVi": "Tôi thường đi bộ đến trường."
+    },
+    {
+     "word": "always",
+     "ipa": "/ˈɑːl.weɪz/",
+     "pos": "adv",
+     "vi": "luôn luôn",
+     "ex": "She always gets up early.",
+     "exVi": "Cô ấy luôn dậy sớm."
+    },
+    {
+     "word": "never",
+     "ipa": "/ˈnev.ɚ/",
+     "pos": "adv",
+     "vi": "không bao giờ",
+     "ex": "He never drinks coffee.",
+     "exVi": "Anh ấy không bao giờ uống cà phê."
+    },
+    {
+     "word": "sometimes",
+     "ipa": "/ˈsʌm.taɪmz/",
+     "pos": "adv",
+     "vi": "thỉnh thoảng",
+     "ex": "Sometimes I cook dinner.",
+     "exVi": "Thỉnh thoảng tôi nấu bữa tối."
+    },
+    {
+     "word": "early",
+     "ipa": "/ˈɝː.li/",
+     "pos": "adv",
+     "vi": "sớm",
+     "ex": "My father goes to work early.",
+     "exVi": "Bố tôi đi làm sớm."
+    },
+    {
+     "word": "late",
+     "ipa": "/leɪt/",
+     "pos": "adj",
+     "vi": "muộn, trễ",
+     "ex": "Don't be late for class!",
+     "exVi": "Đừng đến lớp muộn nhé!"
+    },
+    {
+     "word": "busy",
+     "ipa": "/ˈbɪz.i/",
+     "pos": "adj",
+     "vi": "bận rộn",
+     "ex": "I am very busy today.",
+     "exVi": "Hôm nay tôi rất bận.",
+     "tip": "Đọc là \"bi-zi\"."
+    },
+    {
+     "word": "homework",
+     "ipa": "/ˈhoʊm.wɝːk/",
+     "pos": "noun",
+     "vi": "bài tập về nhà",
+     "ex": "I do my homework after dinner.",
+     "exVi": "Tôi làm bài tập sau bữa tối.",
+     "tip": "Không đếm được: không nói \"homeworks\"."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "I get up at six o'clock.",
+     "vi": "Tôi thức dậy lúc sáu giờ."
+    },
+    {
+     "en": "I go to bed at eleven.",
+     "vi": "Tôi đi ngủ lúc mười một giờ."
+    },
+    {
+     "en": "What do you usually do in the evening?",
+     "vi": "Bạn thường làm gì vào buổi tối?"
+    },
+    {
+     "en": "I brush my teeth twice a day.",
+     "vi": "Tôi đánh răng hai lần một ngày."
+    },
+    {
+     "en": "How often do you exercise?",
+     "vi": "Bạn có thường tập thể dục không?"
+    }
+   ],
+   "grammar": {
+    "formulas": [
+     "I / You / We / They + V (nguyên mẫu): I work.",
+     "He / She / It + V-s / es: She works.",
+     "Phủ định: don't / doesn't + V: He doesn't work.",
+     "Câu hỏi: Do / Does + S + V?: Does she work?"
+    ],
+    "points": [
+     {
+      "title": "Quy tắc thêm -s / -es",
+      "body": "Thêm -es khi động từ tận cùng bằng o, s, ch, sh, x, z: go → goes, watch → watches. Phụ âm + y → ies: study → studies. Đặc biệt: have → has."
+     },
+     {
+      "title": "Trạng từ tần suất",
+      "body": "always (100%) > usually > often > sometimes > rarely > never (0%). Đứng TRƯỚC động từ thường nhưng SAU to be: I always walk. / She is always late."
+     },
+     {
+      "title": "Có does thì động từ về nguyên mẫu",
+      "body": "Does she likes? (sai) → Does she like? (đúng). She doesn't works (sai) → She doesn't work."
+     },
+     {
+      "title": "Dấu hiệu nhận biết",
+      "body": "every day / week, on Mondays, once / twice a week, always, usually, often, sometimes, never."
+     }
+    ],
+    "examples": [
+     {
+      "en": "I usually have breakfast at home.",
+      "vi": "Tôi thường ăn sáng ở nhà."
+     },
+     {
+      "en": "My brother watches TV every evening.",
+      "vi": "Anh trai tôi xem TV mỗi tối."
+     },
+     {
+      "en": "She doesn't like coffee.",
+      "vi": "Cô ấy không thích cà phê."
+     },
+     {
+      "en": "Do you go to school by bus?",
+      "vi": "Bạn đi học bằng xe buýt à?"
+     }
+    ],
+    "mistakes": [
+     {
+      "wrong": "He go to work at 8.",
+      "right": "He goes to work at 8.",
+      "note": "He / She / It: động từ thêm -s / -es."
+     },
+     {
+      "wrong": "I am usually get up at 6.",
+      "right": "I usually get up at 6.",
+      "note": "Không dùng am với động từ thường."
+     },
+     {
+      "wrong": "Does she likes music?",
+      "right": "Does she like music?",
+      "note": "Sau does dùng động từ nguyên mẫu."
+     }
+    ],
+    "exercises": [
+     {
+      "q": "She ___ to school by bike.",
+      "options": [
+       "go",
+       "goes",
+       "going"
+      ],
+      "answer": "goes",
+      "explain": "Chủ ngữ she → goes."
+     },
+     {
+      "q": "They ___ breakfast at 7 a.m.",
+      "options": [
+       "has",
+       "have",
+       "haves"
+      ],
+      "answer": "have",
+      "explain": "They → have."
+     },
+     {
+      "q": "My father ___ watch TV in the morning.",
+      "options": [
+       "don't",
+       "doesn't",
+       "isn't"
+      ],
+      "answer": "doesn't",
+      "explain": "He → doesn't + V."
+     },
+     {
+      "q": "___ you usually walk to work?",
+      "options": [
+       "Do",
+       "Does",
+       "Are"
+      ],
+      "answer": "Do",
+      "explain": "You → Do."
+     },
+     {
+      "q": "Tom ___ English every evening.",
+      "options": [
+       "studys",
+       "studies",
+       "study"
+      ],
+      "answer": "studies",
+      "explain": "Phụ âm + y → ies."
+     },
+     {
+      "q": "I ___ late for class.",
+      "options": [
+       "never am",
+       "am never",
+       "never"
+      ],
+      "answer": "am never",
+      "explain": "Trạng từ tần suất đứng sau to be."
+     },
+     {
+      "q": "Does your sister ___ coffee?",
+      "options": [
+       "drink",
+       "drinks",
+       "drinking"
+      ],
+      "answer": "drink",
+      "explain": "Sau does dùng V nguyên mẫu."
+     }
+    ],
+    "title": "Thì hiện tại đơn (Present Simple)",
+    "summary": "Thì hiện tại đơn dùng để nói về thói quen, việc lặp lại và sự thật hiển nhiên. Điểm quan trọng nhất: với he / she / it, động từ phải thêm -s hoặc -es."
+   },
+   "dialogue": {
+    "lines": [
+     {
+      "speaker": "A",
+      "name": "Kevin",
+      "en": "You always look so fresh in the morning. What time do you get up?",
+      "vi": "Sáng nào trông bạn cũng tươi tỉnh. Bạn dậy lúc mấy giờ vậy?"
+     },
+     {
+      "speaker": "B",
+      "name": "Thu",
+      "en": "I usually get up at half past five.",
+      "vi": "Mình thường dậy lúc năm rưỡi."
+     },
+     {
+      "speaker": "A",
+      "name": "Kevin",
+      "en": "Wow, that's early! What do you do?",
+      "vi": "Chà, sớm thế! Bạn làm gì vậy?"
+     },
+     {
+      "speaker": "B",
+      "name": "Thu",
+      "en": "I go jogging in the park, then I take a shower and have breakfast.",
+      "vi": "Mình chạy bộ trong công viên, rồi tắm và ăn sáng."
+     },
+     {
+      "speaker": "A",
+      "name": "Kevin",
+      "en": "I never get up before seven. I'm always late!",
+      "vi": "Mình chẳng bao giờ dậy trước bảy giờ. Lúc nào mình cũng trễ!"
+     },
+     {
+      "speaker": "B",
+      "name": "Thu",
+      "en": "Try going to bed early. It really helps.",
+      "vi": "Thử đi ngủ sớm xem. Thật sự có ích đấy."
+     }
+    ],
+    "questions": [
+     {
+      "q": "What time does Thu usually get up?",
+      "options": [
+       "5:00",
+       "5:30",
+       "7:00"
+      ],
+      "answer": "5:30"
+     },
+     {
+      "q": "What does Thu do after jogging?",
+      "options": [
+       "She goes to work",
+       "She takes a shower",
+       "She goes back to bed"
+      ],
+      "answer": "She takes a shower"
+     }
+    ],
+    "title": "Bạn dậy lúc mấy giờ?",
+    "setting": "Hai đồng nghiệp nói chuyện trong giờ nghỉ."
+   },
+   "reading": {
+    "questions": [
+     {
+      "q": "How does Hana go to work?",
+      "options": [
+       "by bike",
+       "by bus",
+       "on foot"
+      ],
+      "answer": "by bus"
+     },
+     {
+      "q": "What time does she finish work?",
+      "options": [
+       "at noon",
+       "at four",
+       "at seven thirty"
+      ],
+      "answer": "at four"
+     },
+     {
+      "q": "Why does she never go to bed late?",
+      "options": [
+       "She has to cook",
+       "She needs energy for work",
+       "She reads books"
+      ],
+      "answer": "She needs energy for work"
+     }
+    ],
+    "title": "A day in the life of a nurse",
+    "text": "Hana is a nurse at a big hospital in Da Nang. She works from Monday to Friday. Every day, she gets up at six and has a quick breakfast. She takes the bus to work and starts at seven thirty. Her job is busy, but she loves helping people. She has lunch with her colleagues at noon. She finishes work at four. In the evening, she usually cooks dinner and reads a book. She never goes to bed late because she needs a lot of energy for work.",
+    "vi": "Hana là y tá ở một bệnh viện lớn tại Đà Nẵng. Cô ấy làm việc từ thứ Hai đến thứ Sáu. Mỗi ngày, cô dậy lúc sáu giờ và ăn sáng nhanh. Cô đi xe buýt đến chỗ làm và bắt đầu lúc bảy rưỡi. Công việc bận rộn nhưng cô thích giúp đỡ mọi người. Cô ăn trưa với đồng nghiệp lúc mười hai giờ trưa và tan làm lúc bốn giờ. Buổi tối, cô thường nấu bữa tối và đọc sách. Cô không bao giờ đi ngủ muộn vì cần nhiều năng lượng cho công việc."
+   },
+   "title": "Một ngày của tôi",
+   "titleEn": "Daily Routine",
+   "emoji": "☀️",
+   "goal": "Kể về thói quen hằng ngày và mức độ thường xuyên."
+  },
+  {
+   "id": "a1-u6",
+   "words": [
+    {
+     "word": "bread",
+     "ipa": "/bred/",
+     "pos": "noun",
+     "vi": "bánh mì",
+     "ex": "I eat bread with eggs for breakfast.",
+     "exVi": "Tôi ăn bánh mì với trứng cho bữa sáng.",
+     "tip": "Không đếm được: a piece of bread."
+    },
+    {
+     "word": "rice",
+     "ipa": "/raɪs/",
+     "pos": "noun",
+     "vi": "gạo; cơm",
+     "ex": "Vietnamese people eat rice every day.",
+     "exVi": "Người Việt ăn cơm mỗi ngày."
+    },
+    {
+     "word": "meat",
+     "ipa": "/miːt/",
+     "pos": "noun",
+     "vi": "thịt",
+     "ex": "I don't eat much meat.",
+     "exVi": "Tôi không ăn nhiều thịt.",
+     "tip": "Phát âm giống meet (gặp)."
+    },
+    {
+     "word": "chicken",
+     "ipa": "/ˈtʃɪk.ɪn/",
+     "pos": "noun",
+     "vi": "gà; thịt gà",
+     "ex": "Chicken soup is good when you are sick.",
+     "exVi": "Súp gà rất tốt khi bạn bị ốm."
+    },
+    {
+     "word": "fish",
+     "ipa": "/fɪʃ/",
+     "pos": "noun",
+     "vi": "cá",
+     "ex": "My grandfather catches fish in the river.",
+     "exVi": "Ông tôi bắt cá trên sông.",
+     "tip": "Số nhiều thường vẫn là fish."
+    },
+    {
+     "word": "egg",
+     "ipa": "/eɡ/",
+     "pos": "noun",
+     "vi": "quả trứng",
+     "ex": "She boils two eggs every morning.",
+     "exVi": "Cô ấy luộc hai quả trứng mỗi sáng."
+    },
+    {
+     "word": "vegetable",
+     "ipa": "/ˈvedʒ.tə.bəl/",
+     "pos": "noun",
+     "vi": "rau củ",
+     "ex": "Eat more vegetables to stay healthy.",
+     "exVi": "Ăn nhiều rau hơn để khỏe mạnh.",
+     "tip": "Đọc 3 âm tiết: VEJ-tơ-bồl."
+    },
+    {
+     "word": "fruit",
+     "ipa": "/fruːt/",
+     "pos": "noun",
+     "vi": "trái cây",
+     "ex": "Mango is my favourite fruit.",
+     "exVi": "Xoài là loại trái cây tôi thích nhất.",
+     "tip": "Chữ i câm: đọc \"phrút\"."
+    },
+    {
+     "word": "water",
+     "ipa": "/ˈwɑː.t̬ɚ/",
+     "pos": "noun",
+     "vi": "nước",
+     "ex": "Can I have a glass of water?",
+     "exVi": "Cho tôi xin một cốc nước được không?"
+    },
+    {
+     "word": "milk",
+     "ipa": "/mɪlk/",
+     "pos": "noun",
+     "vi": "sữa",
+     "ex": "Children need to drink milk.",
+     "exVi": "Trẻ em cần uống sữa."
+    },
+    {
+     "word": "hungry",
+     "ipa": "/ˈhʌŋ.ɡri/",
+     "pos": "adj",
+     "vi": "đói",
+     "ex": "I'm hungry. Let's eat!",
+     "exVi": "Mình đói rồi. Ăn thôi!",
+     "tip": "Khát nước là thirsty."
+    },
+    {
+     "word": "sweet",
+     "ipa": "/swiːt/",
+     "pos": "adj",
+     "vi": "ngọt",
+     "ex": "This cake is too sweet for me.",
+     "exVi": "Cái bánh này quá ngọt đối với tôi.",
+     "tip": "Danh từ sweets = kẹo (Anh-Anh)."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "What would you like to eat?",
+     "vi": "Bạn muốn ăn gì?"
+    },
+    {
+     "en": "I'd like a bowl of pho, please.",
+     "vi": "Cho tôi một bát phở."
+    },
+    {
+     "en": "I'm thirsty. Can I have some water?",
+     "vi": "Tôi khát. Cho tôi xin chút nước nhé?"
+    },
+    {
+     "en": "My favourite food is fried rice.",
+     "vi": "Món ăn yêu thích của tôi là cơm chiên."
+    },
+    {
+     "en": "Enjoy your meal!",
+     "vi": "Chúc ngon miệng!"
+    },
+    {
+     "en": "How much rice do you need?",
+     "vi": "Bạn cần bao nhiêu gạo?"
+    }
+   ],
+   "grammar": {
+    "formulas": [
+     "Đếm được: a / an + N số ít; số đếm + N số nhiều (three apples)",
+     "Không đếm được: some / much / a little + N (some water)",
+     "How many + N số nhiều? · How much + N không đếm được?",
+     "Đơn vị: a glass of water, a bowl of rice, a piece of bread, a kilo of meat"
+    ],
+    "points": [
+     {
+      "title": "Nhận biết danh từ không đếm được",
+      "body": "Thường là chất lỏng (water, milk, coffee), dạng hạt / bột (rice, sugar, salt), khái niệm trừu tượng (money, information, advice) và một số từ như bread, homework, furniture."
+     },
+     {
+      "title": "How many hay How much?",
+      "body": "How many + danh từ số nhiều: How many eggs? How much + danh từ không đếm được: How much milk? How much còn dùng để hỏi giá: How much is it?"
+     },
+     {
+      "title": "many – much – a lot of",
+      "body": "many đi với đếm được, much với không đếm được (thường dùng trong câu phủ định / câu hỏi). a lot of dùng được cho cả hai: a lot of eggs, a lot of water."
+     }
+    ],
+    "examples": [
+     {
+      "en": "There are six eggs in the fridge.",
+      "vi": "Có sáu quả trứng trong tủ lạnh."
+     },
+     {
+      "en": "How much water do you drink a day?",
+      "vi": "Mỗi ngày bạn uống bao nhiêu nước?"
+     },
+     {
+      "en": "I'd like a bowl of rice, please.",
+      "vi": "Cho tôi một bát cơm."
+     },
+     {
+      "en": "We don't have much bread.",
+      "vi": "Chúng ta không còn nhiều bánh mì."
+     }
+    ],
+    "mistakes": [
+     {
+      "wrong": "I want two breads.",
+      "right": "I want two pieces of bread.",
+      "note": "bread không đếm được."
+     },
+     {
+      "wrong": "How many water do you drink?",
+      "right": "How much water do you drink?",
+      "note": "water không đếm được."
+     }
+    ],
+    "exercises": [
+     {
+      "q": "How ___ apples do you want?",
+      "options": [
+       "much",
+       "many",
+       "a lot"
+      ],
+      "answer": "many",
+      "explain": "apples là danh từ đếm được số nhiều."
+     },
+     {
+      "q": "How ___ milk is there?",
+      "options": [
+       "much",
+       "many",
+       "few"
+      ],
+      "answer": "much",
+      "explain": "milk không đếm được."
+     },
+     {
+      "q": "Can I have ___ glass of water?",
+      "options": [
+       "a",
+       "an",
+       "some"
+      ],
+      "answer": "a",
+      "explain": "a glass of water."
+     },
+     {
+      "q": "There isn't ___ rice left.",
+      "options": [
+       "many",
+       "much",
+       "a"
+      ],
+      "answer": "much",
+      "explain": "rice không đếm được, câu phủ định dùng much."
+     },
+     {
+      "q": "She eats ___ vegetables every day.",
+      "options": [
+       "a lot of",
+       "much",
+       "a"
+      ],
+      "answer": "a lot of",
+      "explain": "a lot of dùng cho cả hai loại danh từ."
+     },
+     {
+      "q": "I'd like ___ egg, please.",
+      "options": [
+       "a",
+       "an",
+       "some"
+      ],
+      "answer": "an",
+      "explain": "egg bắt đầu bằng nguyên âm."
+     },
+     {
+      "q": "Would you like ___ bread?",
+      "options": [
+       "a",
+       "some",
+       "many"
+      ],
+      "answer": "some",
+      "explain": "Lời mời dùng some với danh từ không đếm được."
+     }
+    ],
+    "title": "Danh từ đếm được & không đếm được",
+    "summary": "Danh từ đếm được có số ít và số nhiều (an egg, two eggs). Danh từ không đếm được không có số nhiều và không đi với a / an (water, rice, bread, milk). Muốn đếm, ta dùng đơn vị: a glass of water."
+   },
+   "dialogue": {
+    "lines": [
+     {
+      "speaker": "A",
+      "name": "Jack",
+      "en": "I'm so hungry! What do you want for lunch?",
+      "vi": "Mình đói quá! Trưa nay bạn muốn ăn gì?"
+     },
+     {
+      "speaker": "B",
+      "name": "Vy",
+      "en": "I'd like chicken and rice. What about you?",
+      "vi": "Mình muốn ăn cơm gà. Còn bạn?"
+     },
+     {
+      "speaker": "A",
+      "name": "Jack",
+      "en": "I don't eat meat, so I'll have fish and vegetables.",
+      "vi": "Mình không ăn thịt nên sẽ ăn cá với rau."
+     },
+     {
+      "speaker": "B",
+      "name": "Vy",
+      "en": "Good choice. Do you want something to drink?",
+      "vi": "Lựa chọn hay đấy. Bạn có muốn uống gì không?"
+     },
+     {
+      "speaker": "A",
+      "name": "Jack",
+      "en": "Just some water, please. How about you?",
+      "vi": "Chỉ một chút nước thôi. Còn bạn?"
+     },
+     {
+      "speaker": "B",
+      "name": "Vy",
+      "en": "A glass of orange juice. It's sweet and fresh.",
+      "vi": "Một cốc nước cam. Ngọt và tươi mát."
+     }
+    ],
+    "questions": [
+     {
+      "q": "What does Vy want to eat?",
+      "options": [
+       "fish and vegetables",
+       "chicken and rice",
+       "bread and eggs"
+      ],
+      "answer": "chicken and rice"
+     },
+     {
+      "q": "Why doesn't Jack order chicken?",
+      "options": [
+       "He doesn't eat meat",
+       "He isn't hungry",
+       "It is too expensive"
+      ],
+      "answer": "He doesn't eat meat"
+     }
+    ],
+    "title": "Ăn trưa ở căng-tin",
+    "setting": "Hai bạn sinh viên chọn món ở căng-tin."
+   },
+   "reading": {
+    "questions": [
+     {
+      "q": "What is pho?",
+      "options": [
+       "a kind of bread",
+       "a noodle soup",
+       "a sweet cake"
+      ],
+      "answer": "a noodle soup"
+     },
+     {
+      "q": "Why do some people like sticky rice?",
+      "options": [
+       "It is cheap and filling",
+       "It is sweet",
+       "It has fish"
+      ],
+      "answer": "It is cheap and filling"
+     },
+     {
+      "q": "What do people often drink with breakfast?",
+      "options": [
+       "orange juice",
+       "iced milk coffee or green tea",
+       "milk"
+      ],
+      "answer": "iced milk coffee or green tea"
+     }
+    ],
+    "title": "Vietnamese breakfast",
+    "text": "In Vietnam, breakfast is very important. Many people eat outside before work. The most famous breakfast is pho, a noodle soup with beef or chicken. Another popular choice is banh mi, a crispy bread with meat, eggs and vegetables. Some people prefer sticky rice because it is cheap and keeps them full for a long time. With breakfast, Vietnamese people often drink iced milk coffee or green tea.",
+    "vi": "Ở Việt Nam, bữa sáng rất quan trọng. Nhiều người ăn ở ngoài trước khi đi làm. Món sáng nổi tiếng nhất là phở, món súp sợi với thịt bò hoặc gà. Một lựa chọn phổ biến khác là bánh mì, loại bánh giòn kẹp thịt, trứng và rau. Một số người thích xôi vì rẻ và giúp no lâu. Khi ăn sáng, người Việt thường uống cà phê sữa đá hoặc trà xanh."
+   },
+   "title": "Đồ ăn & Đồ uống",
+   "titleEn": "Food & Drink",
+   "emoji": "🍜",
+   "goal": "Nói về món ăn, đồ uống yêu thích và gọi món đơn giản."
+  },
+  {
+   "id": "a1-u7",
+   "words": [
+    {
+     "word": "shirt",
+     "ipa": "/ʃɝːt/",
+     "pos": "noun",
+     "vi": "áo sơ mi",
+     "ex": "He wears a white shirt to work.",
+     "exVi": "Anh ấy mặc áo sơ mi trắng đi làm.",
+     "tip": "T-shirt = áo phông."
+    },
+    {
+     "word": "dress",
+     "ipa": "/dres/",
+     "pos": "noun",
+     "vi": "váy liền",
+     "ex": "She looks beautiful in that red dress.",
+     "exVi": "Cô ấy trông thật đẹp trong chiếc váy đỏ đó.",
+     "tip": "Động từ dress = mặc quần áo."
+    },
+    {
+     "word": "shoes",
+     "ipa": "/ʃuːz/",
+     "pos": "noun",
+     "vi": "đôi giày",
+     "ex": "These shoes are very comfortable.",
+     "exVi": "Đôi giày này rất thoải mái.",
+     "tip": "a pair of shoes = một đôi giày."
+    },
+    {
+     "word": "jacket",
+     "ipa": "/ˈdʒæk.ɪt/",
+     "pos": "noun",
+     "vi": "áo khoác",
+     "ex": "Take a jacket. It's cold outside.",
+     "exVi": "Mang theo áo khoác đi. Ngoài trời lạnh đấy."
+    },
+    {
+     "word": "price",
+     "ipa": "/praɪs/",
+     "pos": "noun",
+     "vi": "giá cả",
+     "ex": "The price is too high.",
+     "exVi": "Giá quá cao."
+    },
+    {
+     "word": "cheap",
+     "ipa": "/tʃiːp/",
+     "pos": "adj",
+     "vi": "rẻ",
+     "ex": "Things at this market are cheap.",
+     "exVi": "Đồ ở chợ này rẻ.",
+     "tip": "Trái nghĩa: expensive."
+    },
+    {
+     "word": "expensive",
+     "ipa": "/ɪkˈspen.sɪv/",
+     "pos": "adj",
+     "vi": "đắt",
+     "ex": "The watch is very expensive.",
+     "exVi": "Chiếc đồng hồ rất đắt."
+    },
+    {
+     "word": "size",
+     "ipa": "/saɪz/",
+     "pos": "noun",
+     "vi": "cỡ, kích thước",
+     "ex": "What size do you wear?",
+     "exVi": "Bạn mặc cỡ nào?",
+     "tip": "S (small), M (medium), L (large)."
+    },
+    {
+     "word": "buy",
+     "ipa": "/baɪ/",
+     "pos": "verb",
+     "vi": "mua",
+     "ex": "I want to buy a new phone.",
+     "exVi": "Tôi muốn mua điện thoại mới.",
+     "tip": "Quá khứ: bought."
+    },
+    {
+     "word": "pay",
+     "ipa": "/peɪ/",
+     "pos": "verb",
+     "vi": "trả tiền",
+     "ex": "Can I pay by card?",
+     "exVi": "Tôi trả bằng thẻ được không?",
+     "tip": "Quá khứ: paid."
+    },
+    {
+     "word": "wear",
+     "ipa": "/wer/",
+     "pos": "verb",
+     "vi": "mặc, đội, đeo",
+     "ex": "I wear glasses.",
+     "exVi": "Tôi đeo kính.",
+     "tip": "wear dùng cho quần áo, giày, kính, đồng hồ..."
+    },
+    {
+     "word": "color",
+     "ipa": "/ˈkʌl.ɚ/",
+     "pos": "noun",
+     "vi": "màu sắc",
+     "ex": "What color is your bag?",
+     "exVi": "Túi của bạn màu gì?",
+     "tip": "Anh-Anh viết colour."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "How much is this shirt?",
+     "vi": "Chiếc áo này bao nhiêu tiền?"
+    },
+    {
+     "en": "Can I try it on?",
+     "vi": "Tôi mặc thử được không?"
+    },
+    {
+     "en": "Do you have it in a bigger size?",
+     "vi": "Có cỡ lớn hơn không?"
+    },
+    {
+     "en": "It's too expensive. Can you give me a discount?",
+     "vi": "Đắt quá. Bạn giảm giá được không?"
+    },
+    {
+     "en": "I'll take it.",
+     "vi": "Tôi lấy cái này."
+    },
+    {
+     "en": "Just looking, thanks.",
+     "vi": "Tôi chỉ xem thôi, cảm ơn."
+    }
+   ],
+   "grammar": {
+    "formulas": [
+     "This + N số ít (gần): this shirt",
+     "That + N số ít (xa): that dress",
+     "These + N số nhiều (gần): these shoes",
+     "Those + N số nhiều (xa): those jackets"
+    ],
+    "points": [
+     {
+      "title": "Gần hay xa",
+      "body": "this / these cho thứ ở gần người nói (có thể chạm vào); that / those cho thứ ở xa."
+     },
+     {
+      "title": "Hỏi giá",
+      "body": "How much is this / that + N số ít? How much are these / those + N số nhiều? Trả lời: It's 200,000 dong. / They're 15 dollars."
+     },
+     {
+      "title": "Đồ đi theo đôi luôn số nhiều",
+      "body": "shoes, jeans, trousers, glasses, scissors luôn số nhiều: these jeans, those glasses."
+     }
+    ],
+    "examples": [
+     {
+      "en": "This jacket is very warm.",
+      "vi": "Chiếc áo khoác này rất ấm."
+     },
+     {
+      "en": "How much are those shoes?",
+      "vi": "Đôi giày kia bao nhiêu tiền?"
+     },
+     {
+      "en": "These apples are cheap.",
+      "vi": "Những quả táo này rẻ."
+     },
+     {
+      "en": "Is that your car?",
+      "vi": "Kia có phải xe của bạn không?"
+     }
+    ],
+    "mistakes": [
+     {
+      "wrong": "How much is these shoes?",
+      "right": "How much are these shoes?",
+      "note": "these shoes số nhiều → are."
+     },
+     {
+      "wrong": "This jeans are nice.",
+      "right": "These jeans are nice.",
+      "note": "jeans luôn số nhiều."
+     }
+    ],
+    "exercises": [
+     {
+      "q": "___ dress here is beautiful.",
+      "options": [
+       "This",
+       "These",
+       "Those"
+      ],
+      "answer": "This",
+      "explain": "dress số ít, ở gần."
+     },
+     {
+      "q": "How much ___ those shoes?",
+      "options": [
+       "is",
+       "are",
+       "am"
+      ],
+      "answer": "are",
+      "explain": "those shoes số nhiều."
+     },
+     {
+      "q": "Look at ___ birds in the sky!",
+      "options": [
+       "this",
+       "that",
+       "those"
+      ],
+      "answer": "those",
+      "explain": "birds số nhiều, ở xa."
+     },
+     {
+      "q": "___ jeans are too long for me.",
+      "options": [
+       "This",
+       "These",
+       "That"
+      ],
+      "answer": "These",
+      "explain": "jeans luôn số nhiều."
+     },
+     {
+      "q": "Is ___ your bag over there?",
+      "options": [
+       "this",
+       "that",
+       "these"
+      ],
+      "answer": "that",
+      "explain": "over there → xa, số ít."
+     },
+     {
+      "q": "How much ___ this jacket?",
+      "options": [
+       "is",
+       "are",
+       "be"
+      ],
+      "answer": "is",
+      "explain": "this jacket số ít."
+     }
+    ],
+    "title": "This / That / These / Those",
+    "summary": "Đây là các từ chỉ định giúp nói \"cái này / cái kia\". Chọn theo hai yếu tố: số ít hay số nhiều, ở gần hay ở xa người nói."
+   },
+   "dialogue": {
+    "lines": [
+     {
+      "speaker": "A",
+      "name": "Assistant",
+      "en": "Hello! Can I help you?",
+      "vi": "Xin chào! Tôi có thể giúp gì cho chị?"
+     },
+     {
+      "speaker": "B",
+      "name": "Chi",
+      "en": "Yes, please. How much is this jacket?",
+      "vi": "Vâng. Chiếc áo khoác này bao nhiêu tiền?"
+     },
+     {
+      "speaker": "A",
+      "name": "Assistant",
+      "en": "It's forty dollars.",
+      "vi": "Bốn mươi đô-la ạ."
+     },
+     {
+      "speaker": "B",
+      "name": "Chi",
+      "en": "Can I try it on?",
+      "vi": "Tôi mặc thử được không?"
+     },
+     {
+      "speaker": "A",
+      "name": "Assistant",
+      "en": "Of course. What size do you wear?",
+      "vi": "Tất nhiên rồi. Chị mặc cỡ nào ạ?"
+     },
+     {
+      "speaker": "B",
+      "name": "Chi",
+      "en": "Medium. Hmm, it's a bit small. Do you have it in large?",
+      "vi": "Cỡ vừa. Hmm, hơi chật. Có cỡ lớn không?"
+     },
+     {
+      "speaker": "A",
+      "name": "Assistant",
+      "en": "Yes, here you are. We also have it in blue and black.",
+      "vi": "Có ạ, của chị đây. Chúng tôi cũng có màu xanh và màu đen."
+     },
+     {
+      "speaker": "B",
+      "name": "Chi",
+      "en": "I love the blue one. I'll take it. Can I pay by card?",
+      "vi": "Tôi thích cái màu xanh. Tôi lấy nó. Tôi trả bằng thẻ được không?"
+     }
+    ],
+    "questions": [
+     {
+      "q": "How much is the jacket?",
+      "options": [
+       "fourteen dollars",
+       "forty dollars",
+       "four dollars"
+      ],
+      "answer": "forty dollars"
+     },
+     {
+      "q": "Which color does Chi choose?",
+      "options": [
+       "black",
+       "red",
+       "blue"
+      ],
+      "answer": "blue"
+     }
+    ],
+    "title": "Ở cửa hàng quần áo",
+    "setting": "Chi mua áo khoác ở một cửa hàng."
+   },
+   "reading": {
+    "questions": [
+     {
+      "q": "Why is it a good idea to bargain?",
+      "options": [
+       "Sellers often start with a high price",
+       "Everything is free",
+       "Shops are closed"
+      ],
+      "answer": "Sellers often start with a high price"
+     },
+     {
+      "q": "Why should you bring cash?",
+      "options": [
+       "It is safer",
+       "Many small shops don't take cards",
+       "Cards are expensive"
+      ],
+      "answer": "Many small shops don't take cards"
+     }
+    ],
+    "title": "Shopping at a night market",
+    "text": "Night markets are very popular in Asia. You can buy almost everything there: clothes, shoes, bags, food and souvenirs. The prices are usually cheap, but sellers often start with a high price. So, it is a good idea to bargain. Smile, ask \"How much is it?\" and then offer a lower price. Don't forget to bring cash because many small shops don't take cards. And of course, try the street food!",
+    "vi": "Chợ đêm rất phổ biến ở châu Á. Bạn có thể mua gần như mọi thứ ở đó: quần áo, giày dép, túi xách, đồ ăn và quà lưu niệm. Giá thường rẻ, nhưng người bán hay hét giá cao lúc đầu. Vì vậy mặc cả là một ý hay. Hãy mỉm cười, hỏi \"Bao nhiêu tiền?\" rồi trả giá thấp hơn. Đừng quên mang tiền mặt vì nhiều cửa hàng nhỏ không nhận thẻ. Và tất nhiên, hãy thử đồ ăn đường phố!"
+   },
+   "title": "Mua sắm & Quần áo",
+   "titleEn": "Shopping & Clothes",
+   "emoji": "🛍️",
+   "goal": "Hỏi giá, chọn quần áo, nói kích cỡ và màu sắc."
+  },
+  {
+   "id": "a1-u8",
+   "words": [
+    {
+     "word": "hobby",
+     "ipa": "/ˈhɑː.bi/",
+     "pos": "noun",
+     "vi": "sở thích",
+     "ex": "My hobby is taking photos.",
+     "exVi": "Sở thích của tôi là chụp ảnh.",
+     "tip": "Số nhiều: hobbies."
+    },
+    {
+     "word": "music",
+     "ipa": "/ˈmjuː.zɪk/",
+     "pos": "noun",
+     "vi": "âm nhạc",
+     "ex": "I listen to music every day.",
+     "exVi": "Tôi nghe nhạc mỗi ngày."
+    },
+    {
+     "word": "movie",
+     "ipa": "/ˈmuː.vi/",
+     "pos": "noun",
+     "vi": "bộ phim",
+     "ex": "Let's watch a movie tonight.",
+     "exVi": "Tối nay xem phim nhé.",
+     "tip": "Anh-Anh hay dùng film."
+    },
+    {
+     "word": "sport",
+     "ipa": "/spɔːrt/",
+     "pos": "noun",
+     "vi": "thể thao",
+     "ex": "Football is a popular sport.",
+     "exVi": "Bóng đá là môn thể thao phổ biến."
+    },
+    {
+     "word": "swim",
+     "ipa": "/swɪm/",
+     "pos": "verb",
+     "vi": "bơi",
+     "ex": "Can you swim?",
+     "exVi": "Bạn biết bơi không?",
+     "tip": "swimming: nhân đôi m."
+    },
+    {
+     "word": "dance",
+     "ipa": "/dæns/",
+     "pos": "verb",
+     "vi": "nhảy múa",
+     "ex": "She can dance very well.",
+     "exVi": "Cô ấy nhảy rất giỏi."
+    },
+    {
+     "word": "sing",
+     "ipa": "/sɪŋ/",
+     "pos": "verb",
+     "vi": "hát",
+     "ex": "He sings in a band.",
+     "exVi": "Anh ấy hát trong một ban nhạc.",
+     "tip": "singer = ca sĩ."
+    },
+    {
+     "word": "draw",
+     "ipa": "/drɑː/",
+     "pos": "verb",
+     "vi": "vẽ",
+     "ex": "My son loves to draw animals.",
+     "exVi": "Con trai tôi thích vẽ động vật.",
+     "tip": "draw = vẽ bằng bút; paint = vẽ màu."
+    },
+    {
+     "word": "read",
+     "ipa": "/riːd/",
+     "pos": "verb",
+     "vi": "đọc",
+     "ex": "I read a book before bed.",
+     "exVi": "Tôi đọc sách trước khi ngủ.",
+     "tip": "Quá khứ read đọc là /red/."
+    },
+    {
+     "word": "cook",
+     "ipa": "/kʊk/",
+     "pos": "verb",
+     "vi": "nấu ăn",
+     "ex": "My dad can cook very well.",
+     "exVi": "Bố tôi nấu ăn rất giỏi.",
+     "tip": "Danh từ cook = đầu bếp; cooker = cái bếp."
+    },
+    {
+     "word": "guitar",
+     "ipa": "/ɡɪˈtɑːr/",
+     "pos": "noun",
+     "vi": "đàn ghi-ta",
+     "ex": "He plays the guitar every evening.",
+     "exVi": "Anh ấy chơi ghi-ta mỗi tối.",
+     "tip": "play + the + nhạc cụ."
+    },
+    {
+     "word": "favourite",
+     "ipa": "/ˈfeɪ.vər.ɪt/",
+     "pos": "adj",
+     "vi": "yêu thích nhất",
+     "ex": "What's your favourite sport?",
+     "exVi": "Môn thể thao yêu thích của bạn là gì?",
+     "tip": "Anh-Mỹ viết favorite."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "What do you do in your free time?",
+     "vi": "Bạn làm gì khi rảnh?"
+    },
+    {
+     "en": "I'm really into music.",
+     "vi": "Mình rất mê âm nhạc."
+    },
+    {
+     "en": "I can't swim at all.",
+     "vi": "Mình hoàn toàn không biết bơi."
+    },
+    {
+     "en": "Do you want to play badminton with us?",
+     "vi": "Bạn muốn chơi cầu lông với bọn mình không?"
+    },
+    {
+     "en": "I love watching movies.",
+     "vi": "Mình thích xem phim."
+    }
+   ],
+   "grammar": {
+    "formulas": [
+     "S + can / can't + V nguyên mẫu: I can swim.",
+     "Câu hỏi: Can + S + V? → Yes, I can. / No, I can't.",
+     "S + like / love / enjoy / hate + V-ing: She loves dancing."
+    ],
+    "points": [
+     {
+      "title": "Can không chia theo chủ ngữ",
+      "body": "Dùng can cho mọi chủ ngữ: He can sing (không nói He cans sing hay He can sings)."
+     },
+     {
+      "title": "Phát âm can / can't",
+      "body": "Câu khẳng định đọc nhẹ /kən/; can't đọc rõ và dài /kænt/ (Mỹ) hoặc /kɑːnt/ (Anh). Nghe kỹ âm t để phân biệt."
+     },
+     {
+      "title": "Like + V-ing",
+      "body": "Sau like, love, enjoy, hate, don't mind dùng V-ing: I enjoy reading. Riêng would like + to V: I'd like to dance (= tôi muốn nhảy)."
+     },
+     {
+      "title": "Động từ đi với môn thể thao",
+      "body": "play + môn có bóng (play football), go + V-ing (go swimming), do + võ / yoga (do karate)."
+     }
+    ],
+    "examples": [
+     {
+      "en": "I can play the guitar, but I can't sing.",
+      "vi": "Tôi biết chơi ghi-ta nhưng không biết hát."
+     },
+     {
+      "en": "Can your brother swim? Yes, he can.",
+      "vi": "Anh trai bạn biết bơi không? Có."
+     },
+     {
+      "en": "My mother loves cooking.",
+      "vi": "Mẹ tôi rất thích nấu ăn."
+     },
+     {
+      "en": "They enjoy playing football at the weekend.",
+      "vi": "Họ thích chơi bóng đá vào cuối tuần."
+     }
+    ],
+    "mistakes": [
+     {
+      "wrong": "She can sings well.",
+      "right": "She can sing well.",
+      "note": "Sau can dùng V nguyên mẫu."
+     },
+     {
+      "wrong": "I enjoy to read.",
+      "right": "I enjoy reading.",
+      "note": "Sau enjoy dùng V-ing."
+     }
+    ],
+    "exercises": [
+     {
+      "q": "My sister can ___ very well.",
+      "options": [
+       "dance",
+       "dances",
+       "dancing"
+      ],
+      "answer": "dance",
+      "explain": "Sau can là V nguyên mẫu."
+     },
+     {
+      "q": "___ you play the piano?",
+      "options": [
+       "Do",
+       "Can",
+       "Are"
+      ],
+      "answer": "Can",
+      "explain": "Hỏi về khả năng dùng Can."
+     },
+     {
+      "q": "I love ___ photos.",
+      "options": [
+       "take",
+       "taking",
+       "takes"
+      ],
+      "answer": "taking",
+      "explain": "Sau love dùng V-ing."
+     },
+     {
+      "q": "He ___ swim. He is afraid of water.",
+      "options": [
+       "can",
+       "can't",
+       "cans"
+      ],
+      "answer": "can't",
+      "explain": "Sợ nước → không biết bơi."
+     },
+     {
+      "q": "We enjoy ___ to music.",
+      "options": [
+       "listen",
+       "listening",
+       "to listen"
+      ],
+      "answer": "listening",
+      "explain": "Sau enjoy dùng V-ing."
+     },
+     {
+      "q": "Let's go ___ this afternoon!",
+      "options": [
+       "swim",
+       "swimming",
+       "to swim"
+      ],
+      "answer": "swimming",
+      "explain": "go + V-ing cho hoạt động thể thao."
+     },
+     {
+      "q": "She plays ___ guitar in a band.",
+      "options": [
+       "a",
+       "the",
+       "(không mạo từ)"
+      ],
+      "answer": "the",
+      "explain": "play + the + nhạc cụ."
+     }
+    ],
+    "title": "Can / Can't & Like + V-ing",
+    "summary": "Can dùng để nói về khả năng (\"có thể, biết làm gì\"). Sau can luôn là động từ nguyên mẫu. Để nói về sở thích, dùng like / love / enjoy / hate + V-ing."
+   },
+   "dialogue": {
+    "lines": [
+     {
+      "speaker": "A",
+      "name": "Đức",
+      "en": "Hey Lisa, what do you do in your free time?",
+      "vi": "Này Lisa, bạn làm gì khi rảnh?"
+     },
+     {
+      "speaker": "B",
+      "name": "Lisa",
+      "en": "I love dancing and listening to music. And you?",
+      "vi": "Mình thích nhảy và nghe nhạc. Còn bạn?"
+     },
+     {
+      "speaker": "A",
+      "name": "Đức",
+      "en": "I play the guitar. I can't sing, but I can play a lot of songs.",
+      "vi": "Mình chơi ghi-ta. Mình không biết hát, nhưng chơi được nhiều bài lắm."
+     },
+     {
+      "speaker": "B",
+      "name": "Lisa",
+      "en": "That's cool! I can sing a little. Why don't we join the music club together?",
+      "vi": "Hay quá! Mình hát được chút chút. Sao chúng ta không cùng vào câu lạc bộ âm nhạc nhỉ?"
+     },
+     {
+      "speaker": "A",
+      "name": "Đức",
+      "en": "Great idea! When does it meet?",
+      "vi": "Ý hay đấy! Câu lạc bộ sinh hoạt khi nào?"
+     },
+     {
+      "speaker": "B",
+      "name": "Lisa",
+      "en": "Every Wednesday at five.",
+      "vi": "Mỗi thứ Tư lúc năm giờ."
+     }
+    ],
+    "questions": [
+     {
+      "q": "What can Duc do?",
+      "options": [
+       "sing",
+       "play the guitar",
+       "dance"
+      ],
+      "answer": "play the guitar"
+     },
+     {
+      "q": "When does the music club meet?",
+      "options": [
+       "every Monday",
+       "every Wednesday",
+       "every Friday"
+      ],
+      "answer": "every Wednesday"
+     }
+    ],
+    "title": "Câu lạc bộ âm nhạc",
+    "setting": "Hai sinh viên nói về việc tham gia câu lạc bộ."
+   },
+   "reading": {
+    "questions": [
+     {
+      "q": "Which hobby is a quiet hobby?",
+      "options": [
+       "swimming",
+       "reading",
+       "playing sports"
+      ],
+      "answer": "reading"
+     },
+     {
+      "q": "What do active hobbies do for you?",
+      "options": [
+       "They help you sleep",
+       "They keep your body strong",
+       "They make you rich"
+      ],
+      "answer": "They keep your body strong"
+     },
+     {
+      "q": "What is the most important thing about a hobby?",
+      "options": [
+       "You are very good at it",
+       "You enjoy it",
+       "It is expensive"
+      ],
+      "answer": "You enjoy it"
+     }
+    ],
+    "title": "Find your hobby",
+    "text": "A hobby is something you do for fun in your free time. Some people like active hobbies, such as swimming, dancing or playing sports. These hobbies keep your body strong. Other people enjoy quiet hobbies like reading, drawing or cooking. They help you relax after a long day. You don't need to be good at your hobby. The most important thing is that you enjoy it. What about you? What do you love doing?",
+    "vi": "Sở thích là việc bạn làm cho vui trong thời gian rảnh. Một số người thích sở thích năng động như bơi, nhảy hay chơi thể thao. Những sở thích này giúp cơ thể khỏe mạnh. Người khác lại thích sở thích yên tĩnh như đọc sách, vẽ hay nấu ăn. Chúng giúp bạn thư giãn sau một ngày dài. Bạn không cần phải giỏi sở thích của mình. Điều quan trọng nhất là bạn thích nó. Còn bạn thì sao? Bạn thích làm gì?"
+   },
+   "title": "Sở thích & Khả năng",
+   "titleEn": "Hobbies & Abilities",
+   "emoji": "🎸",
+   "goal": "Nói về sở thích và những việc mình có thể / không thể làm."
+  },
+  {
+   "id": "a1-u9",
+   "words": [
+    {
+     "word": "street",
+     "ipa": "/striːt/",
+     "pos": "noun",
+     "vi": "đường phố",
+     "ex": "There are many shops on this street.",
+     "exVi": "Có nhiều cửa hàng trên con phố này."
+    },
+    {
+     "word": "bank",
+     "ipa": "/bæŋk/",
+     "pos": "noun",
+     "vi": "ngân hàng",
+     "ex": "The bank opens at eight.",
+     "exVi": "Ngân hàng mở cửa lúc tám giờ.",
+     "tip": "river bank = bờ sông."
+    },
+    {
+     "word": "hospital",
+     "ipa": "/ˈhɑː.spɪ.t̬əl/",
+     "pos": "noun",
+     "vi": "bệnh viện",
+     "ex": "My aunt works at the hospital.",
+     "exVi": "Dì tôi làm việc ở bệnh viện."
+    },
+    {
+     "word": "school",
+     "ipa": "/skuːl/",
+     "pos": "noun",
+     "vi": "trường học",
+     "ex": "My school is near my house.",
+     "exVi": "Trường tôi ở gần nhà.",
+     "tip": "ch đọc là /k/."
+    },
+    {
+     "word": "market",
+     "ipa": "/ˈmɑːr.kɪt/",
+     "pos": "noun",
+     "vi": "chợ",
+     "ex": "We buy fresh fruit at the market.",
+     "exVi": "Chúng tôi mua trái cây tươi ở chợ.",
+     "tip": "supermarket = siêu thị."
+    },
+    {
+     "word": "park",
+     "ipa": "/pɑːrk/",
+     "pos": "noun",
+     "vi": "công viên",
+     "ex": "Children are playing in the park.",
+     "exVi": "Trẻ em đang chơi trong công viên.",
+     "tip": "Động từ park = đỗ xe."
+    },
+    {
+     "word": "station",
+     "ipa": "/ˈsteɪ.ʃən/",
+     "pos": "noun",
+     "vi": "nhà ga, trạm",
+     "ex": "The train station is on the left.",
+     "exVi": "Ga tàu ở bên trái.",
+     "tip": "bus station, gas station."
+    },
+    {
+     "word": "left",
+     "ipa": "/left/",
+     "pos": "noun",
+     "vi": "bên trái",
+     "ex": "Turn left at the corner.",
+     "exVi": "Rẽ trái ở góc đường."
+    },
+    {
+     "word": "right",
+     "ipa": "/raɪt/",
+     "pos": "noun",
+     "vi": "bên phải",
+     "ex": "The bank is on your right.",
+     "exVi": "Ngân hàng ở bên phải bạn.",
+     "tip": "right còn nghĩa là \"đúng\"."
+    },
+    {
+     "word": "straight",
+     "ipa": "/streɪt/",
+     "pos": "adv",
+     "vi": "thẳng",
+     "ex": "Go straight for two blocks.",
+     "exVi": "Đi thẳng qua hai dãy nhà.",
+     "tip": "Chữ gh câm."
+    },
+    {
+     "word": "near",
+     "ipa": "/nɪr/",
+     "pos": "prep",
+     "vi": "gần",
+     "ex": "Is there a pharmacy near here?",
+     "exVi": "Có hiệu thuốc nào gần đây không?",
+     "tip": "Trái nghĩa: far from."
+    },
+    {
+     "word": "corner",
+     "ipa": "/ˈkɔːr.nɚ/",
+     "pos": "noun",
+     "vi": "góc (đường, phòng)",
+     "ex": "The café is on the corner.",
+     "exVi": "Quán cà phê ở góc đường."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "Excuse me, how can I get to the station?",
+     "vi": "Xin lỗi, làm sao để đến nhà ga?"
+    },
+    {
+     "en": "Go straight and turn left.",
+     "vi": "Đi thẳng rồi rẽ trái."
+    },
+    {
+     "en": "It's next to the bank.",
+     "vi": "Nó ở cạnh ngân hàng."
+    },
+    {
+     "en": "Is it far from here?",
+     "vi": "Nó có xa đây không?"
+    },
+    {
+     "en": "It's about five minutes on foot.",
+     "vi": "Đi bộ khoảng năm phút."
+    },
+    {
+     "en": "You can't miss it.",
+     "vi": "Bạn sẽ thấy ngay thôi."
+    }
+   ],
+   "grammar": {
+    "formulas": [
+     "in (trong) · on (trên, sát bề mặt) · under (dưới)",
+     "next to (cạnh) · between A and B (giữa) · opposite (đối diện) · behind (sau) · in front of (trước)",
+     "Mệnh lệnh: V nguyên mẫu...! (Go straight.) · Phủ định: Don't + V (Don't turn right.)"
+    ],
+    "points": [
+     {
+      "title": "in hay on?",
+      "body": "in = bên trong không gian (in the box, in the room, in Hanoi); on = trên bề mặt (on the table) hoặc trên tuyến đường (on Le Loi Street)."
+     },
+     {
+      "title": "Địa chỉ",
+      "body": "at + số nhà (at 25 Tran Phu Street); on + tên đường (on Tran Phu Street); in + thành phố / quốc gia (in Hue)."
+     },
+     {
+      "title": "Chỉ đường lịch sự",
+      "body": "Thêm please hoặc dùng \"You can...\" cho mềm mại: Please go straight. / You can take bus number 9."
+     }
+    ],
+    "examples": [
+     {
+      "en": "The cinema is opposite the park.",
+      "vi": "Rạp chiếu phim ở đối diện công viên."
+     },
+     {
+      "en": "The bank is between the post office and the café.",
+      "vi": "Ngân hàng ở giữa bưu điện và quán cà phê."
+     },
+     {
+      "en": "Go straight, then turn right at the corner.",
+      "vi": "Đi thẳng, rồi rẽ phải ở góc đường."
+     },
+     {
+      "en": "Don't park in front of the gate.",
+      "vi": "Đừng đỗ xe trước cổng."
+     }
+    ],
+    "mistakes": [
+     {
+      "wrong": "The book is in the table.",
+      "right": "The book is on the table.",
+      "note": "Trên bề mặt dùng on."
+     },
+     {
+      "wrong": "Not turn left!",
+      "right": "Don't turn left!",
+      "note": "Mệnh lệnh phủ định dùng Don't + V."
+     }
+    ],
+    "exercises": [
+     {
+      "q": "The cat is ___ the bed. It's hiding!",
+      "options": [
+       "on",
+       "under",
+       "between"
+      ],
+      "answer": "under",
+      "explain": "Trốn → ở dưới gầm giường."
+     },
+     {
+      "q": "The bank is ___ the café and the hotel.",
+      "options": [
+       "between",
+       "next",
+       "opposite"
+      ],
+      "answer": "between",
+      "explain": "between A and B."
+     },
+     {
+      "q": "I live ___ Nguyen Hue Street.",
+      "options": [
+       "in",
+       "on",
+       "at"
+      ],
+      "answer": "on",
+      "explain": "Tên đường dùng on."
+     },
+     {
+      "q": "___ left at the traffic lights.",
+      "options": [
+       "Turning",
+       "Turn",
+       "Turns"
+      ],
+      "answer": "Turn",
+      "explain": "Mệnh lệnh dùng V nguyên mẫu."
+     },
+     {
+      "q": "___ cross the street here. It's dangerous.",
+      "options": [
+       "No",
+       "Not",
+       "Don't"
+      ],
+      "answer": "Don't",
+      "explain": "Mệnh lệnh phủ định: Don't + V."
+     },
+     {
+      "q": "The pharmacy is ___ to the supermarket.",
+      "options": [
+       "near",
+       "next",
+       "opposite"
+      ],
+      "answer": "next",
+      "explain": "next to = cạnh."
+     },
+     {
+      "q": "My parents live ___ Da Lat.",
+      "options": [
+       "in",
+       "on",
+       "at"
+      ],
+      "answer": "in",
+      "explain": "Thành phố dùng in."
+     }
+    ],
+    "title": "Giới từ nơi chốn & câu mệnh lệnh",
+    "summary": "Giới từ nơi chốn cho biết vật ở đâu (in, on, under, next to, between, opposite...). Câu mệnh lệnh bắt đầu bằng động từ nguyên mẫu để chỉ đường hoặc yêu cầu: Turn left. Don't cross here."
+   },
+   "dialogue": {
+    "lines": [
+     {
+      "speaker": "A",
+      "name": "Anna",
+      "en": "Excuse me, can you help me? I'm looking for the train station.",
+      "vi": "Xin lỗi, bạn giúp tôi được không? Tôi đang tìm ga tàu."
+     },
+     {
+      "speaker": "B",
+      "name": "Long",
+      "en": "Sure. Go straight along this street for about two hundred meters.",
+      "vi": "Được chứ. Bạn đi thẳng theo con phố này khoảng hai trăm mét."
+     },
+     {
+      "speaker": "A",
+      "name": "Anna",
+      "en": "Straight, OK. And then?",
+      "vi": "Đi thẳng, được rồi. Sau đó thì sao?"
+     },
+     {
+      "speaker": "B",
+      "name": "Long",
+      "en": "Turn left at the big market. The station is opposite the park.",
+      "vi": "Rẽ trái ở chợ lớn. Ga tàu nằm đối diện công viên."
+     },
+     {
+      "speaker": "A",
+      "name": "Anna",
+      "en": "Is it far from here?",
+      "vi": "Có xa đây không?"
+     },
+     {
+      "speaker": "B",
+      "name": "Long",
+      "en": "No, it's about ten minutes on foot.",
+      "vi": "Không, đi bộ khoảng mười phút thôi."
+     },
+     {
+      "speaker": "A",
+      "name": "Anna",
+      "en": "Thank you so much!",
+      "vi": "Cảm ơn bạn rất nhiều!"
+     },
+     {
+      "speaker": "B",
+      "name": "Long",
+      "en": "You're welcome. Have a nice trip!",
+      "vi": "Không có gì. Chúc bạn chuyến đi vui vẻ!"
+     }
+    ],
+    "questions": [
+     {
+      "q": "Where should Anna turn left?",
+      "options": [
+       "at the bank",
+       "at the big market",
+       "at the park"
+      ],
+      "answer": "at the big market"
+     },
+     {
+      "q": "How long does it take to walk to the station?",
+      "options": [
+       "five minutes",
+       "ten minutes",
+       "twenty minutes"
+      ],
+      "answer": "ten minutes"
+     }
+    ],
+    "title": "Hỏi đường đến ga tàu",
+    "setting": "Một du khách hỏi đường trên phố."
+   },
+   "reading": {
+    "questions": [
+     {
+      "q": "What is next to the writer's apartment?",
+      "options": [
+       "a park",
+       "a bakery",
+       "a bank"
+      ],
+      "answer": "a bakery"
+     },
+     {
+      "q": "How does the writer usually go to the bus station?",
+      "options": [
+       "on foot",
+       "by bike",
+       "by taxi"
+      ],
+      "answer": "by bike"
+     },
+     {
+      "q": "Where is the bank?",
+      "options": [
+       "on the corner",
+       "opposite the park",
+       "next to the bakery"
+      ],
+      "answer": "on the corner"
+     }
+    ],
+    "title": "Welcome to my neighbourhood",
+    "text": "I live in a small but lively neighbourhood. My apartment is on Hoa Binh Street, next to a bakery, so it always smells good in the morning. Opposite my building, there is a big park where people go jogging. The market is at the end of the street, and there is a bank on the corner. The bus station is a bit far, about fifteen minutes on foot, but I usually ride my bike. I love my neighbourhood because everything I need is near.",
+    "vi": "Tôi sống ở một khu phố nhỏ nhưng nhộn nhịp. Căn hộ của tôi ở đường Hòa Bình, cạnh một tiệm bánh, nên buổi sáng lúc nào cũng thơm. Đối diện tòa nhà của tôi có một công viên lớn nơi mọi người chạy bộ. Chợ ở cuối phố, còn ngân hàng ở góc đường. Bến xe buýt hơi xa, đi bộ khoảng mười lăm phút, nhưng tôi thường đạp xe. Tôi yêu khu phố của mình vì mọi thứ tôi cần đều ở gần."
+   },
+   "title": "Thành phố & Chỉ đường",
+   "titleEn": "Places & Directions",
+   "emoji": "🗺️",
+   "goal": "Gọi tên địa điểm trong thành phố, hỏi đường và chỉ đường."
+  },
+  {
+   "id": "a1-u10",
+   "words": [
+    {
+     "word": "weather",
+     "ipa": "/ˈweð.ɚ/",
+     "pos": "noun",
+     "vi": "thời tiết",
+     "ex": "The weather is lovely today.",
+     "exVi": "Thời tiết hôm nay thật dễ chịu.",
+     "tip": "Đừng nhầm với whether (liệu)."
+    },
+    {
+     "word": "sunny",
+     "ipa": "/ˈsʌn.i/",
+     "pos": "adj",
+     "vi": "nắng",
+     "ex": "It's sunny, so let's go to the beach.",
+     "exVi": "Trời nắng, đi biển thôi.",
+     "tip": "sun + n + y."
+    },
+    {
+     "word": "rainy",
+     "ipa": "/ˈreɪ.ni/",
+     "pos": "adj",
+     "vi": "có mưa",
+     "ex": "I don't like rainy days.",
+     "exVi": "Tôi không thích những ngày mưa."
+    },
+    {
+     "word": "cloudy",
+     "ipa": "/ˈklaʊ.di/",
+     "pos": "adj",
+     "vi": "nhiều mây",
+     "ex": "It's cloudy, but it's not raining.",
+     "exVi": "Trời nhiều mây nhưng không mưa."
+    },
+    {
+     "word": "windy",
+     "ipa": "/ˈwɪn.di/",
+     "pos": "adj",
+     "vi": "có gió",
+     "ex": "It's too windy to fly a kite.",
+     "exVi": "Gió quá to để thả diều."
+    },
+    {
+     "word": "hot",
+     "ipa": "/hɑːt/",
+     "pos": "adj",
+     "vi": "nóng",
+     "ex": "Saigon is hot all year.",
+     "exVi": "Sài Gòn nóng quanh năm."
+    },
+    {
+     "word": "cold",
+     "ipa": "/koʊld/",
+     "pos": "adj",
+     "vi": "lạnh",
+     "ex": "It's cold in Hanoi in January.",
+     "exVi": "Tháng Một ở Hà Nội lạnh.",
+     "tip": "catch a cold = bị cảm lạnh."
+    },
+    {
+     "word": "warm",
+     "ipa": "/wɔːrm/",
+     "pos": "adj",
+     "vi": "ấm áp",
+     "ex": "Spring is warm and pleasant.",
+     "exVi": "Mùa xuân ấm áp và dễ chịu."
+    },
+    {
+     "word": "season",
+     "ipa": "/ˈsiː.zən/",
+     "pos": "noun",
+     "vi": "mùa",
+     "ex": "Which season do you like best?",
+     "exVi": "Bạn thích mùa nào nhất?",
+     "tip": "spring, summer, autumn (fall), winter."
+    },
+    {
+     "word": "summer",
+     "ipa": "/ˈsʌm.ɚ/",
+     "pos": "noun",
+     "vi": "mùa hè",
+     "ex": "We go to the beach every summer.",
+     "exVi": "Mùa hè nào chúng tôi cũng đi biển."
+    },
+    {
+     "word": "winter",
+     "ipa": "/ˈwɪn.t̬ɚ/",
+     "pos": "noun",
+     "vi": "mùa đông",
+     "ex": "Sometimes it snows in Sapa in winter.",
+     "exVi": "Thỉnh thoảng Sa Pa có tuyết vào mùa đông."
+    },
+    {
+     "word": "umbrella",
+     "ipa": "/ʌmˈbrel.ə/",
+     "pos": "noun",
+     "vi": "cái ô",
+     "ex": "Take an umbrella. It's going to rain.",
+     "exVi": "Mang theo ô đi. Trời sắp mưa đấy."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "What's the weather like today?",
+     "vi": "Hôm nay thời tiết thế nào?"
+    },
+    {
+     "en": "It's raining cats and dogs!",
+     "vi": "Mưa như trút nước!"
+    },
+    {
+     "en": "It's getting colder.",
+     "vi": "Trời đang lạnh dần."
+    },
+    {
+     "en": "What are you doing right now?",
+     "vi": "Bây giờ bạn đang làm gì?"
+    },
+    {
+     "en": "I'm waiting for the bus.",
+     "vi": "Tôi đang chờ xe buýt."
+    }
+   ],
+   "grammar": {
+    "formulas": [
+     "S + am / is / are + V-ing: I am reading.",
+     "Phủ định: S + am / is / are + not + V-ing",
+     "Câu hỏi: Am / Is / Are + S + V-ing?",
+     "Dấu hiệu: now, right now, at the moment, Look!, Listen!"
+    ],
+    "points": [
+     {
+      "title": "Quy tắc thêm -ing",
+      "body": "Bỏ e câm: make → making. Nhân đôi phụ âm cuối với từ một âm tiết dạng phụ âm–nguyên âm–phụ âm: run → running, swim → swimming. ie → ying: lie → lying."
+     },
+     {
+      "title": "So sánh với hiện tại đơn",
+      "body": "Hiện tại đơn = thói quen (I usually walk to work). Hiện tại tiếp diễn = đang diễn ra (Today I'm taking a taxi because it's raining)."
+     },
+     {
+      "title": "Động từ trạng thái",
+      "body": "Động từ chỉ cảm xúc, suy nghĩ, sở hữu thường không dùng tiếp diễn: like, love, want, know, understand, need, have (sở hữu). Nói I want (không nói I'm wanting)."
+     }
+    ],
+    "examples": [
+     {
+      "en": "Look! It's snowing!",
+      "vi": "Nhìn kìa! Tuyết đang rơi!"
+     },
+     {
+      "en": "She is talking on the phone right now.",
+      "vi": "Bây giờ cô ấy đang nói chuyện điện thoại."
+     },
+     {
+      "en": "We aren't watching TV. We're reading.",
+      "vi": "Chúng tôi không xem TV. Chúng tôi đang đọc sách."
+     },
+     {
+      "en": "Are you listening to me?",
+      "vi": "Bạn có đang nghe tôi nói không?"
+     }
+    ],
+    "mistakes": [
+     {
+      "wrong": "I reading a book now.",
+      "right": "I am reading a book now.",
+      "note": "Không được thiếu to be."
+     },
+     {
+      "wrong": "I am knowing the answer.",
+      "right": "I know the answer.",
+      "note": "know là động từ trạng thái."
+     }
+    ],
+    "exercises": [
+     {
+      "q": "Listen! The baby ___.",
+      "options": [
+       "cries",
+       "is crying",
+       "cry"
+      ],
+      "answer": "is crying",
+      "explain": "Listen! → đang xảy ra."
+     },
+     {
+      "q": "It ___ at the moment, so take an umbrella.",
+      "options": [
+       "rains",
+       "is raining",
+       "rain"
+      ],
+      "answer": "is raining",
+      "explain": "at the moment → tiếp diễn."
+     },
+     {
+      "q": "They ___ football now.",
+      "options": [
+       "are playing",
+       "play",
+       "is playing"
+      ],
+      "answer": "are playing",
+      "explain": "They → are + V-ing."
+     },
+     {
+      "q": "What ___ you doing?",
+      "options": [
+       "are",
+       "do",
+       "is"
+      ],
+      "answer": "are",
+      "explain": "Câu hỏi tiếp diễn với you → are."
+     },
+     {
+      "q": "My dad ___ the car right now.",
+      "options": [
+       "wash",
+       "is washing",
+       "washes"
+      ],
+      "answer": "is washing",
+      "explain": "right now → tiếp diễn."
+     },
+     {
+      "q": "I ___ a cup of coffee.",
+      "options": [
+       "am wanting",
+       "want",
+       "wanting"
+      ],
+      "answer": "want",
+      "explain": "want là động từ trạng thái."
+     },
+     {
+      "q": "We are ___ in the sea.",
+      "options": [
+       "swiming",
+       "swimming",
+       "swim"
+      ],
+      "answer": "swimming",
+      "explain": "swim → swimming (nhân đôi m)."
+     }
+    ],
+    "title": "Thì hiện tại tiếp diễn (Present Continuous)",
+    "summary": "Thì hiện tại tiếp diễn diễn tả hành động đang xảy ra ngay lúc nói hoặc quanh thời điểm hiện tại. Công thức có hai phần không thể thiếu: to be + V-ing."
+   },
+   "dialogue": {
+    "lines": [
+     {
+      "speaker": "A",
+      "name": "Minh",
+      "en": "Hi Sophie! What are you doing?",
+      "vi": "Chào Sophie! Bạn đang làm gì đấy?"
+     },
+     {
+      "speaker": "B",
+      "name": "Sophie",
+      "en": "I'm sitting in a café and drinking hot chocolate. It's snowing in London!",
+      "vi": "Mình đang ngồi trong quán cà phê uống sô-cô-la nóng. London đang có tuyết!"
+     },
+     {
+      "speaker": "A",
+      "name": "Minh",
+      "en": "Snow? Wow! Here in Ho Chi Minh City, it's sunny and very hot.",
+      "vi": "Tuyết á? Chà! Ở thành phố Hồ Chí Minh trời nắng và rất nóng."
+     },
+     {
+      "speaker": "B",
+      "name": "Sophie",
+      "en": "Lucky you! What are you doing now?",
+      "vi": "Sướng thế! Còn bạn đang làm gì?"
+     },
+     {
+      "speaker": "A",
+      "name": "Minh",
+      "en": "I'm swimming at the pool with my brother.",
+      "vi": "Mình đang bơi ở hồ bơi với anh trai."
+     },
+     {
+      "speaker": "B",
+      "name": "Sophie",
+      "en": "I'm jealous! I want some sunshine!",
+      "vi": "Ghen tị quá! Mình muốn có chút nắng!"
+     }
+    ],
+    "questions": [
+     {
+      "q": "What's the weather like in London?",
+      "options": [
+       "sunny",
+       "snowing",
+       "rainy"
+      ],
+      "answer": "snowing"
+     },
+     {
+      "q": "What is Minh doing?",
+      "options": [
+       "drinking hot chocolate",
+       "swimming",
+       "sleeping"
+      ],
+      "answer": "swimming"
+     }
+    ],
+    "title": "Cuộc gọi cuối tuần",
+    "setting": "Hai người bạn ở hai thành phố gọi điện cho nhau."
+   },
+   "reading": {
+    "questions": [
+     {
+      "q": "How many seasons are there in the south?",
+      "options": [
+       "two",
+       "three",
+       "four"
+      ],
+      "answer": "two"
+     },
+     {
+      "q": "Why is autumn beautiful in Hanoi?",
+      "options": [
+       "It is hot",
+       "It is cool and the sky is clear",
+       "It snows"
+      ],
+      "answer": "It is cool and the sky is clear"
+     },
+     {
+      "q": "When does it often rain in the rainy season?",
+      "options": [
+       "in the morning",
+       "in the afternoon",
+       "at midnight"
+      ],
+      "answer": "in the afternoon"
+     }
+    ],
+    "title": "Seasons in Vietnam",
+    "text": "Vietnam is a long country, so the weather is different from north to south. In the north, there are four seasons. Summer is hot and rainy, while winter is cold and cloudy. Autumn is the most beautiful season in Hanoi because it is cool and the sky is clear. In the south, there are only two seasons: the dry season and the rainy season. During the rainy season, it often rains heavily in the afternoon, so people always carry an umbrella or a raincoat.",
+    "vi": "Việt Nam là một đất nước dài nên thời tiết khác nhau từ Bắc vào Nam. Ở miền Bắc có bốn mùa. Mùa hè nóng và mưa nhiều, trong khi mùa đông lạnh và nhiều mây. Mùa thu là mùa đẹp nhất ở Hà Nội vì trời mát và bầu trời trong xanh. Ở miền Nam chỉ có hai mùa: mùa khô và mùa mưa. Trong mùa mưa, trời thường mưa to vào buổi chiều nên mọi người luôn mang theo ô hoặc áo mưa."
+   },
+   "title": "Thời tiết & Lúc này",
+   "titleEn": "Weather & Right Now",
+   "emoji": "🌦️",
+   "goal": "Nói về thời tiết, các mùa và việc đang diễn ra lúc này."
+  }
+ ],
+ "id": "A1",
+ "name": "Khởi đầu",
+ "nameEn": "Beginner",
+ "color": "22C55E",
+ "emoji": "🌱",
+ "hours": "60–80 giờ",
+ "description": "Làm quen với tiếng Anh: chào hỏi, giới thiệu bản thân, nói về gia đình, thói quen và nhu cầu hằng ngày bằng những câu đơn giản.",
+ "canDo": [
+  "Giới thiệu bản thân và người khác",
+  "Hỏi – trả lời thông tin cá nhân: tên, tuổi, quê quán, nghề nghiệp",
+  "Nói giờ, ngày tháng và kể về thói quen hằng ngày",
+  "Gọi món, mua sắm và hỏi giá đơn giản",
+  "Hỏi đường và hiểu chỉ dẫn ngắn"
+ ]
+}

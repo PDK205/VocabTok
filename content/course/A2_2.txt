@@ -1,0 +1,341 @@
+@level A2
+
+# UNIT a2-u6
+title: Công việc
+titleEn: Jobs & Work
+emoji: 💼
+goal: Nói về nghề nghiệp, kinh nghiệm làm việc và phỏng vấn đơn giản.
+## words
+job | /dʒɑːb/ | noun | công việc | She has a new job at a bank. | Cô ấy có công việc mới ở ngân hàng.
+salary | /ˈsæl.ɚ.i/ | noun | lương | The salary is good, but the hours are long. | Lương cao nhưng giờ làm dài. | Gốc Latin "sal" = muối: lính La Mã từng được trả bằng muối.
+office | /ˈɑː.fɪs/ | noun | văn phòng | Our office is on the third floor. | Văn phòng của chúng tôi ở tầng ba.
+manager | /ˈmæn.ɪ.dʒɚ/ | noun | quản lý | I need to talk to the manager. | Tôi cần nói chuyện với quản lý. | manage (quản lý) + er.
+colleague | /ˈkɑː.liːɡ/ | noun | đồng nghiệp | My colleagues are very helpful. | Đồng nghiệp của tôi rất hay giúp đỡ. | Đồng nghĩa: coworker.
+interview | /ˈɪn.t̬ɚ.vjuː/ | noun | cuộc phỏng vấn | I have a job interview tomorrow. | Ngày mai tôi có buổi phỏng vấn xin việc. | inter (giữa) + view (nhìn).
+experience | /ɪkˈspɪr.i.əns/ | noun | kinh nghiệm; trải nghiệm | Do you have any work experience? | Bạn có kinh nghiệm làm việc không?
+skill | /skɪl/ | noun | kỹ năng | Communication is an important skill. | Giao tiếp là một kỹ năng quan trọng.
+company | /ˈkʌm.pə.ni/ | noun | công ty | He works for a big company. | Anh ấy làm cho một công ty lớn.
+customer | /ˈkʌs.tə.mɚ/ | noun | khách hàng | The customer is always right. | Khách hàng luôn đúng.
+apply | /əˈplaɪ/ | verb | nộp đơn, ứng tuyển | I applied for three jobs last week. | Tuần trước tôi đã ứng tuyển ba công việc. | apply for a job; application = đơn xin.
+career | /kəˈrɪr/ | noun | sự nghiệp | She wants a career in medicine. | Cô ấy muốn theo sự nghiệp y khoa. | Trọng âm cuối: ca-REER.
+## phrases
+What do you do? | Bạn làm nghề gì?
+I work as a designer. | Tôi làm thiết kế.
+I'm looking for a job. | Tôi đang tìm việc.
+I've worked here for two years. | Tôi đã làm ở đây được hai năm.
+Could you tell me about yourself? | Bạn có thể giới thiệu về bản thân không?
+## grammar
+title: Hiện tại hoàn thành: kinh nghiệm (ever / never)
+summary: Thì hiện tại hoàn thành dùng để nói về trải nghiệm trong đời (đã từng / chưa từng) mà KHÔNG nói rõ thời điểm. Tiếng Việt không có thì này, nên hãy học qua thật nhiều ví dụ.
+formula: S + have / has + V3 (quá khứ phân từ): I have worked abroad.
+formula: Phủ định: S + have / has + never / not + V3
+formula: Câu hỏi: Have / Has + S + ever + V3?: Have you ever been to Japan?
+point: V3 là gì? | Động từ có quy tắc: V3 = V-ed (worked, visited). Động từ bất quy tắc phải học cột 3: be → been, do → done, see → seen, eat → eaten, go → gone / been.
+point: ever / never | ever (đã bao giờ) dùng trong câu hỏi; never (chưa bao giờ) dùng trong câu khẳng định mang nghĩa phủ định: I have never been late.
+point: Hiện tại hoàn thành hay quá khứ đơn? | Có thời điểm cụ thể (yesterday, in 2020, last year) → quá khứ đơn. Không nói thời điểm, chỉ quan tâm trải nghiệm → hiện tại hoàn thành. Have you ever worked in a team? – Yes, I worked in a team last year.
+point: been và gone | He has been to Paris (đã đến và đã quay về). He has gone to Paris (đã đi Paris và giờ đang ở đó).
+example: I have worked in three different companies. | Tôi đã làm việc ở ba công ty khác nhau.
+example: She has never had a job interview. | Cô ấy chưa bao giờ đi phỏng vấn xin việc.
+example: Have you ever managed a team? | Bạn đã bao giờ quản lý một nhóm chưa?
+example: He has met many famous customers. | Anh ấy đã gặp nhiều khách hàng nổi tiếng.
+mistake: I have saw that film. | I have seen that film. | Dùng V3 (seen), không dùng V2.
+mistake: She have worked here. | She has worked here. | She → has.
+mistake: Have you ever went abroad? | Have you ever been abroad? | V3 của go (trải nghiệm) là been.
+ex: I have ___ in a restaurant before. | work ; worked ; working | worked | have + V3.
+ex: She ___ never been to London. | have ; has ; is | has | She → has.
+ex: Have you ever ___ sushi? | eat ; ate ; eaten | eaten | eat – ate – eaten.
+ex: They have ___ seen a famous person. | ever ; never ; yet | never | Câu khẳng định mang nghĩa "chưa từng" dùng never.
+ex: ___ he ever worked abroad? | Have ; Has ; Did | Has | he → Has.
+ex: I ___ to Japan in 2019. | have been ; went ; have gone | went | Có thời điểm cụ thể (in 2019) → quá khứ đơn.
+ex: We have ___ this report three times. | read ; readed ; reading | read | read – read – read.
+## dialogue
+title: Phỏng vấn xin việc
+setting: Quang phỏng vấn vị trí nhân viên chăm sóc khách hàng.
+line: A | Ms. Taylor | Thank you for coming. Could you tell me about yourself? | Cảm ơn bạn đã đến. Bạn có thể giới thiệu về bản thân không?
+line: B | Quang | Sure. I graduated last year and I've worked as a sales assistant for six months. | Vâng. Tôi tốt nghiệp năm ngoái và đã làm nhân viên bán hàng được sáu tháng.
+line: A | Ms. Taylor | Have you ever worked with foreign customers? | Bạn đã bao giờ làm việc với khách hàng nước ngoài chưa?
+line: B | Quang | Yes, I have. Many tourists came to my shop, so I used English every day. | Rồi ạ. Nhiều khách du lịch đến cửa hàng nên ngày nào tôi cũng dùng tiếng Anh.
+line: A | Ms. Taylor | Great. Why did you apply for this job? | Tuyệt. Tại sao bạn ứng tuyển công việc này?
+line: B | Quang | I want to build a career in customer service, and your company is famous for it. | Tôi muốn xây dựng sự nghiệp trong ngành chăm sóc khách hàng, và công ty chị nổi tiếng về lĩnh vực này.
+line: A | Ms. Taylor | Have you ever had a difficult customer? | Bạn đã bao giờ gặp khách hàng khó tính chưa?
+line: B | Quang | Many times! I've learned to stay calm and listen carefully. | Nhiều lần rồi ạ! Tôi đã học được cách bình tĩnh và lắng nghe cẩn thận.
+q: How long has Quang worked as a sales assistant? | six weeks ; six months ; six years | six months
+q: What has Quang learned from difficult customers? | to stay calm and listen carefully ; to say no ; to call the manager | to stay calm and listen carefully
+## reading
+title: My first job
+text: I have had many jobs, but I will never forget my first one. When I was eighteen, I worked as a waiter in a busy restaurant. The salary was low and the hours were long, but I learned a lot. I learned how to talk to customers, how to work in a team and how to stay calm under pressure. My manager was strict but fair. Since then, I have worked in offices and big companies, but the skills from that restaurant have helped me in every job.
+vi: Tôi đã làm nhiều công việc, nhưng tôi sẽ không bao giờ quên công việc đầu tiên. Năm mười tám tuổi, tôi làm bồi bàn ở một nhà hàng đông khách. Lương thấp và giờ làm dài, nhưng tôi học được rất nhiều. Tôi học cách nói chuyện với khách hàng, cách làm việc nhóm và cách giữ bình tĩnh dưới áp lực. Quản lý của tôi nghiêm khắc nhưng công bằng. Từ đó đến nay, tôi đã làm ở các văn phòng và công ty lớn, nhưng những kỹ năng từ nhà hàng ấy đã giúp tôi trong mọi công việc.
+q: What was the writer's first job? | a manager ; a waiter ; an office worker | a waiter
+q: What was the manager like? | lazy and kind ; strict but fair ; young and funny | strict but fair
+
+# UNIT a2-u7
+title: Tiệc tùng & Lời mời
+titleEn: Parties & Invitations
+emoji: 🎉
+goal: Mời, nhận lời, từ chối và hứa hẹn.
+## words
+invite | /ɪnˈvaɪt/ | verb | mời | I'd like to invite you to my party. | Mình muốn mời bạn đến bữa tiệc của mình. | invitation = lời mời, thiệp mời.
+party | /ˈpɑːr.t̬i/ | noun | bữa tiệc | We're having a party on Saturday. | Chúng tôi tổ chức tiệc vào thứ Bảy.
+celebrate | /ˈsel.ə.breɪt/ | verb | ăn mừng, kỷ niệm | Let's celebrate your success! | Hãy ăn mừng thành công của bạn nào!
+gift | /ɡɪft/ | noun | món quà | Thank you for the lovely gift. | Cảm ơn món quà đáng yêu. | Đồng nghĩa: present.
+guest | /ɡest/ | noun | khách mời | There were fifty guests at the wedding. | Có năm mươi khách mời ở đám cưới. | u câm: đọc "ghét-xt".
+accept | /əkˈsept/ | verb | chấp nhận, nhận lời | She accepted our invitation. | Cô ấy đã nhận lời mời của chúng tôi. | Đừng nhầm except (ngoại trừ).
+refuse | /rɪˈfjuːz/ | verb | từ chối | He refused to come. | Anh ấy từ chối đến. | refuse + to V.
+decorate | /ˈdek.ə.reɪt/ | verb | trang trí | We decorated the room with balloons. | Chúng tôi trang trí căn phòng bằng bóng bay.
+wedding | /ˈwed.ɪŋ/ | noun | đám cưới | Their wedding is in June. | Đám cưới của họ vào tháng Sáu.
+promise | /ˈprɑː.mɪs/ | verb | hứa | I promise I will call you. | Mình hứa sẽ gọi cho bạn.
+surprise | /sɚˈpraɪz/ | noun | sự bất ngờ | We're planning a surprise party for Mom. | Chúng tôi đang lên kế hoạch tiệc bất ngờ cho mẹ.
+candle | /ˈkæn.dəl/ | noun | cây nến | Make a wish and blow out the candles! | Ước đi rồi thổi nến nào!
+## phrases
+Would you like to come to my party? | Bạn có muốn đến dự tiệc của mình không?
+I'd love to! | Mình rất muốn!
+Sorry, I can't. I'm busy that day. | Xin lỗi, mình không đi được. Hôm đó mình bận.
+Thanks for inviting me. | Cảm ơn đã mời mình.
+Happy birthday! Have a great day! | Chúc mừng sinh nhật! Chúc bạn một ngày tuyệt vời!
+Shall I bring anything? | Mình có cần mang gì không?
+## grammar
+title: Tương lai đơn với will & lời mời Would you like
+summary: Will + V dùng cho quyết định ngay lúc nói, lời hứa, lời đề nghị giúp đỡ và dự đoán. Will không chia theo chủ ngữ. Would you like...? là cách mời lịch sự nhất.
+formula: S + will ('ll) + V nguyên mẫu: I'll help you.
+formula: Phủ định: S + will not (won't) + V
+formula: Câu hỏi: Will + S + V? · Đề nghị: Shall I / we + V?
+formula: Mời: Would you like + N / to V? → I'd love to. / Yes, please.
+point: Quyết định tức thì | Lúc nói mới quyết định: The phone is ringing. – I'll answer it! (So với be going to: đã quyết định từ trước.)
+point: Hứa, đề nghị, nhờ vả | I'll always love you. (hứa) / I'll carry your bag. (đề nghị) / Will you help me? (nhờ)
+point: Dự đoán | Thường đi với I think, I'm sure, probably: I think it will be a great party.
+point: Nhận lời và từ chối lịch sự | Nhận: I'd love to! / That sounds great! Từ chối: I'm afraid I can't. / I'd love to, but I'm busy.
+example: Don't worry, I'll bring the cake. | Đừng lo, mình sẽ mang bánh.
+example: I promise I won't be late. | Mình hứa sẽ không đến muộn.
+example: I think she'll love your gift. | Mình nghĩ cô ấy sẽ thích món quà của bạn.
+example: Shall I decorate the room? | Mình trang trí phòng nhé?
+mistake: I will to call you. | I will call you. | Sau will không có to.
+mistake: She wills come. | She will come. | will không chia theo chủ ngữ.
+mistake: Will you like some tea? | Would you like some tea? | Mời lịch sự dùng Would you like.
+ex: It's cold in here. I ___ close the window. | will ; am ; going | will | Quyết định ngay lúc nói → will.
+ex: I promise I ___ forget your birthday. | won't ; don't ; am not | won't | Lời hứa → will / won't.
+ex: ___ you like to come to my wedding? | Will ; Would ; Do | Would | Lời mời: Would you like...?
+ex: I think the party ___ be fun. | will ; is ; does | will | Dự đoán với I think → will.
+ex: She will ___ a cake for the party. | make ; makes ; to make | make | Sau will dùng V nguyên mẫu.
+ex: ___ I help you with the decorations? | Shall ; Will ; Do | Shall | Lời đề nghị: Shall I...?
+ex: Thanks for the invitation. I'd ___ to come! | like ; love ; loving | love | I'd love to = Tôi rất muốn.
+## dialogue
+title: Tiệc sinh nhật bất ngờ
+setting: Hai người bạn bàn chuẩn bị tiệc bất ngờ cho Hoa.
+line: A | Tuấn | Hoa's birthday is on Friday. Let's have a surprise party for her! | Thứ Sáu là sinh nhật Hoa. Mình tổ chức tiệc bất ngờ cho bạn ấy đi!
+line: B | Kate | Great idea! I'll invite our classmates. | Ý hay đấy! Mình sẽ mời các bạn cùng lớp.
+line: A | Tuấn | And I'll order a big chocolate cake. She loves chocolate. | Còn mình sẽ đặt một cái bánh sô-cô-la lớn. Bạn ấy thích sô-cô-la lắm.
+line: B | Kate | Shall I decorate the room? I have lots of balloons and candles. | Mình trang trí phòng nhé? Mình có nhiều bóng bay và nến lắm.
+line: A | Tuấn | Perfect. But please don't tell her. It's a secret! | Tuyệt. Nhưng làm ơn đừng nói với bạn ấy nhé. Bí mật đấy!
+line: B | Kate | I promise I won't say a word. I think she'll be so surprised! | Mình hứa sẽ không hé nửa lời. Mình nghĩ bạn ấy sẽ bất ngờ lắm!
+q: What will Tuan order? | balloons ; a chocolate cake ; flowers | a chocolate cake
+q: What will Kate do? | invite classmates and decorate the room ; buy a gift ; cook dinner | invite classmates and decorate the room
+## reading
+title: Tet: the biggest celebration
+text: Tet, the Lunar New Year, is the most important holiday in Vietnam. Before Tet, families clean and decorate their houses with peach or apricot flowers. On New Year's Eve, everyone gathers for a big dinner. During Tet, people visit relatives and friends to wish them a happy new year. Children receive lucky money in red envelopes. Many people believe that the first guest to enter the house will bring luck for the whole year, so they choose this person carefully.
+vi: Tết Nguyên đán là ngày lễ quan trọng nhất ở Việt Nam. Trước Tết, các gia đình dọn dẹp và trang trí nhà cửa bằng hoa đào hoặc hoa mai. Vào đêm Giao thừa, mọi người quây quần bên bữa tối thịnh soạn. Trong dịp Tết, người ta đi thăm họ hàng, bạn bè để chúc năm mới. Trẻ em được nhận tiền lì xì trong phong bao đỏ. Nhiều người tin rằng vị khách đầu tiên bước vào nhà sẽ mang lại may mắn cho cả năm, nên họ chọn người này rất cẩn thận.
+q: What do children receive during Tet? | toys ; lucky money ; new books | lucky money
+q: Why do people choose the first guest carefully? | The guest brings luck for the year ; The guest cooks dinner ; The guest pays for the party | The guest brings luck for the year
+
+# UNIT a2-u8
+title: Công nghệ hằng ngày
+titleEn: Everyday Technology
+emoji: 📱
+goal: Nói về điện thoại, internet và các quy định bắt buộc.
+## words
+phone | /foʊn/ | noun | điện thoại | Please turn off your phone in class. | Hãy tắt điện thoại trong lớp. | ph đọc là /f/.
+download | /ˈdaʊn.loʊd/ | verb | tải xuống | You can download the app for free. | Bạn có thể tải ứng dụng miễn phí. | Ngược lại: upload.
+password | /ˈpæs.wɝːd/ | noun | mật khẩu | You must not share your password. | Bạn không được chia sẻ mật khẩu. | pass + word; chữ w câm.
+battery | /ˈbæt̬.ɚ.i/ | noun | pin | My battery is almost dead. | Pin của tôi sắp hết rồi.
+screen | /skriːn/ | noun | màn hình | The screen of my phone is broken. | Màn hình điện thoại của tôi bị vỡ. | screen time = thời gian dùng thiết bị.
+message | /ˈmes.ɪdʒ/ | noun | tin nhắn | I sent you a message last night. | Tối qua mình đã gửi tin nhắn cho bạn.
+website | /ˈweb.saɪt/ | noun | trang web | You can book tickets on our website. | Bạn có thể đặt vé trên trang web của chúng tôi.
+online | /ˈɑːn.laɪn/ | adv | trực tuyến | I usually shop online. | Tôi thường mua sắm trực tuyến. | Ngược lại: offline.
+account | /əˈkaʊnt/ | noun | tài khoản | You have to create an account first. | Bạn phải tạo tài khoản trước.
+charge | /tʃɑːrdʒ/ | verb | sạc (pin) | I have to charge my phone. | Tôi phải sạc điện thoại. | charger = cục sạc.
+internet | /ˈɪn.t̬ɚ.net/ | noun | mạng internet | The internet is very slow today. | Hôm nay mạng rất chậm.
+laptop | /ˈlæp.tɑːp/ | noun | máy tính xách tay | I do my homework on my laptop. | Tôi làm bài tập trên máy tính xách tay. | lap (đùi) + top: máy đặt trên đùi.
+## phrases
+What's the Wi-Fi password? | Mật khẩu Wi-Fi là gì?
+My phone is out of battery. | Điện thoại tôi hết pin rồi.
+Can you send me the link? | Bạn gửi cho mình đường link được không?
+I'll text you later. | Mình sẽ nhắn tin cho bạn sau.
+Have you updated the app? | Bạn đã cập nhật ứng dụng chưa?
+## grammar
+title: Must / Have to / Mustn't / Don't have to
+summary: Must và have to đều nghĩa là "phải". Nhưng mustn't nghĩa là "không được phép", còn don't have to nghĩa là "không cần phải" – hai nghĩa khác hẳn nhau!
+formula: S + must + V: You must wear a helmet.
+formula: S + have to / has to + V: She has to work on Sunday.
+formula: S + mustn't + V (cấm): You mustn't use your phone here.
+formula: S + don't / doesn't have to + V (không cần): You don't have to pay. It's free.
+point: Must hay have to? | must thường thể hiện cảm nhận của người nói hoặc quy định viết (You must try this app!). have to là nghĩa vụ do hoàn cảnh bên ngoài (I have to charge my phone – it's dead).
+point: Quá khứ chỉ có had to | must không có dạng quá khứ. Dùng had to: Yesterday I had to reset my password.
+point: Cẩn thận: mustn't ≠ don't have to | You mustn't open this file (cấm mở). You don't have to open this file (không cần mở, tùy bạn).
+example: You must create a strong password. | Bạn phải tạo mật khẩu mạnh.
+example: I have to charge my laptop before the meeting. | Tôi phải sạc laptop trước cuộc họp.
+example: You mustn't download apps from strange websites. | Bạn không được tải ứng dụng từ trang web lạ.
+example: You don't have to pay. The app is free. | Bạn không cần trả tiền. Ứng dụng miễn phí.
+mistake: She have to work today. | She has to work today. | She → has to.
+mistake: You must to update the app. | You must update the app. | Sau must không có to.
+mistake: I musted go yesterday. | I had to go yesterday. | Quá khứ dùng had to.
+ex: You ___ drive without a license. It's illegal. | mustn't ; don't have to ; must | mustn't | Phạm luật → cấm.
+ex: It's Sunday. I ___ get up early. | mustn't ; don't have to ; must | don't have to | Chủ nhật → không cần dậy sớm.
+ex: She ___ to finish the report today. | have ; has ; must | has | She → has to.
+ex: You must ___ your password every three months. | change ; to change ; changing | change | Sau must dùng V nguyên mẫu.
+ex: Yesterday I ___ call the bank three times. | must ; had to ; have to | had to | Quá khứ của must / have to là had to.
+ex: Students ___ wear uniforms at this school. It's the rule. | must ; mustn't ; don't have to | must | Quy định → must.
+ex: Does he ___ to work this weekend? | have ; has ; must | have | Sau does dùng have.
+## dialogue
+title: Điện thoại hết pin
+setting: Một vị khách hỏi nhân viên quán cà phê.
+line: A | Jun | Excuse me, my phone is out of battery. Can I charge it here? | Xin lỗi, điện thoại tôi hết pin rồi. Tôi sạc ở đây được không?
+line: B | Staff | Sure, there's a socket next to the window. | Được chứ, có ổ cắm cạnh cửa sổ.
+line: A | Jun | Thanks! And what's the Wi-Fi password? | Cảm ơn! Mật khẩu Wi-Fi là gì vậy?
+line: B | Staff | It's on your receipt. But you have to log in with your email first. | Nó in trên hóa đơn của anh. Nhưng anh phải đăng nhập bằng email trước.
+line: A | Jun | Do I have to pay for it? | Tôi có phải trả tiền không?
+line: B | Staff | No, you don't have to. It's free for customers. | Không cần ạ. Miễn phí cho khách hàng.
+line: A | Jun | Great. I must send an important message to my boss. | Tuyệt. Tôi phải gửi một tin nhắn quan trọng cho sếp.
+q: Where is the Wi-Fi password? | on the wall ; on the receipt ; on the menu | on the receipt
+q: Does Jun have to pay for the Wi-Fi? | Yes, he does ; No, he doesn't ; Only after one hour | No, he doesn't
+## reading
+title: Stay safe online
+text: The internet makes our lives easier, but we must be careful. First, you have to create strong passwords with letters, numbers and symbols. You mustn't use the same password for every account. Second, never click on strange links in messages or emails, even if they look real. Third, you should only download apps from official stores. Finally, think before you post. Once a photo is online, everybody can see it, and it is very difficult to delete it completely.
+vi: Internet giúp cuộc sống dễ dàng hơn, nhưng chúng ta phải cẩn thận. Thứ nhất, bạn phải tạo mật khẩu mạnh gồm chữ, số và ký hiệu. Bạn không được dùng cùng một mật khẩu cho mọi tài khoản. Thứ hai, đừng bao giờ bấm vào đường link lạ trong tin nhắn hay email, kể cả khi chúng trông như thật. Thứ ba, bạn chỉ nên tải ứng dụng từ cửa hàng chính thức. Cuối cùng, hãy suy nghĩ trước khi đăng. Một khi bức ảnh đã lên mạng, ai cũng có thể thấy nó, và rất khó xóa hoàn toàn.
+q: What should a strong password have? | only letters ; letters, numbers and symbols ; your name | letters, numbers and symbols
+q: Why should you think before you post a photo? | It's difficult to delete completely ; It's expensive ; Your phone will break | It's difficult to delete completely
+
+# UNIT a2-u9
+title: Cảm xúc
+titleEn: Feelings
+emoji: 😊
+goal: Diễn tả cảm xúc và phân biệt tính từ -ed / -ing.
+## words
+excited | /ɪkˈsaɪ.t̬ɪd/ | adj | hào hứng | I'm so excited about the trip! | Mình rất háo hức về chuyến đi! | excited about something.
+bored | /bɔːrd/ | adj | chán | I'm bored. Let's go out. | Chán quá. Đi chơi thôi. | Người thấy chán = bored; thứ gây chán = boring.
+tired | /taɪrd/ | adj | mệt | She was tired after work. | Cô ấy mệt sau giờ làm.
+worried | /ˈwɝː.id/ | adj | lo lắng | Don't be worried. Everything will be fine. | Đừng lo. Mọi chuyện sẽ ổn thôi. | worried about = lo về.
+surprised | /sɚˈpraɪzd/ | adj | ngạc nhiên | I was surprised to see him there. | Tôi ngạc nhiên khi thấy anh ấy ở đó.
+nervous | /ˈnɝː.vəs/ | adj | hồi hộp, căng thẳng | I always feel nervous before exams. | Tôi luôn thấy hồi hộp trước kỳ thi.
+angry | /ˈæŋ.ɡri/ | adj | tức giận | My mom was angry because I came home late. | Mẹ tôi giận vì tôi về nhà muộn. | angry with someone / about something.
+proud | /praʊd/ | adj | tự hào | We are very proud of you. | Chúng tôi rất tự hào về con. | be proud of.
+embarrassed | /ɪmˈber.əst/ | adj | xấu hổ, ngượng | I was embarrassed when I fell over. | Tôi xấu hổ khi bị ngã. | Hai chữ r, hai chữ s.
+relaxed | /rɪˈlækst/ | adj | thư thái | I feel relaxed after a hot bath. | Tôi thấy thư thái sau khi tắm nước ấm.
+confused | /kənˈfjuːzd/ | adj | bối rối, chưa hiểu | I'm confused. Can you explain again? | Mình chưa hiểu. Bạn giải thích lại được không?
+frightened | /ˈfraɪ.tənd/ | adj | sợ hãi | The child was frightened of the dark. | Đứa trẻ sợ bóng tối. | Đồng nghĩa: scared, afraid.
+## phrases
+How are you feeling today? | Hôm nay bạn thấy thế nào?
+What's wrong? You look upset. | Có chuyện gì vậy? Trông bạn buồn thế.
+Cheer up! | Vui lên nào!
+I'm so happy for you! | Mình mừng cho bạn quá!
+Don't worry about it. | Đừng lo lắng về chuyện đó.
+That sounds exciting! | Nghe thú vị đấy!
+## grammar
+title: Tính từ đuôi -ed và -ing
+summary: Nhiều tính từ chỉ cảm xúc có hai dạng. Đuôi -ED mô tả CẢM XÚC của người (tôi thấy chán = I'm bored). Đuôi -ING mô tả TÍNH CHẤT của sự vật / người gây ra cảm xúc đó (bộ phim chán = The film is boring).
+formula: Người cảm thấy: S + be / feel + adj-ed (I'm interested)
+formula: Sự vật gây ra: S + be + adj-ing (The book is interesting)
+formula: Cặp thường gặp: bored / boring · tired / tiring · excited / exciting · surprised / surprising · confused / confusing · embarrassed / embarrassing · frightened / frightening
+point: Mẹo nhớ | -ED = người NHẬN cảm xúc. -ING = thứ GÂY RA cảm xúc. I'm interested in this interesting book.
+point: Người cũng có thể là -ing | He is boring = Anh ta là người nhàm chán (làm người khác chán). He is bored = Anh ta đang thấy chán. Cẩn thận khi nói "I'm boring"!
+point: Giới từ đi kèm | interested in, bored with, excited about, worried about, surprised at / by, frightened of, proud of, angry with (người) / about (việc).
+example: I was bored because the lesson was boring. | Tôi thấy chán vì bài học nhàm chán.
+example: The news was surprising. | Tin tức thật bất ngờ.
+example: She is interested in music. | Cô ấy hứng thú với âm nhạc.
+example: Working twelve hours a day is tiring. | Làm việc mười hai tiếng một ngày thật mệt.
+mistake: I'm boring in this class. | I'm bored in this class. | Muốn nói "tôi thấy chán" dùng bored.
+mistake: The film was very excited. | The film was very exciting. | Bộ phim gây ra cảm xúc → -ing.
+mistake: I'm interesting in English. | I'm interested in English. | Cảm xúc của người → interested in.
+ex: The movie was so ___ that I fell asleep. | bored ; boring ; bore | boring | Bộ phim gây chán → boring.
+ex: I'm ___ about my holiday next week. | exciting ; excited ; excite | excited | Cảm xúc của tôi → excited.
+ex: The test was very ___. I didn't understand anything. | confusing ; confused ; confuse | confusing | Bài kiểm tra gây khó hiểu → confusing.
+ex: She was ___ when she saw the price. | surprising ; surprised ; surprise | surprised | Cảm xúc của cô ấy → surprised.
+ex: Long journeys are ___. | tiring ; tired ; tire | tiring | Chuyến đi gây mệt → tiring.
+ex: My parents are proud ___ me. | about ; of ; with | of | proud of.
+ex: Are you interested ___ learning English? | in ; on ; at | in | interested in.
+## dialogue
+title: Ngày đầu đi làm
+setting: Hai người bạn nói chuyện sau ngày đầu tiên đi làm của Bảo.
+line: A | Mia | So, how was your first day at work? | Ngày đầu đi làm của bạn thế nào?
+line: B | Bảo | Honestly, I was really nervous in the morning. | Thật lòng, buổi sáng mình hồi hộp lắm.
+line: A | Mia | That's normal. Was the work interesting? | Chuyện bình thường mà. Công việc có thú vị không?
+line: B | Bảo | Yes, but a bit confusing. There were so many new things to learn. | Có, nhưng hơi khó hiểu. Có quá nhiều thứ mới phải học.
+line: A | Mia | Were your colleagues friendly? | Đồng nghiệp có thân thiện không?
+line: B | Bảo | Very! But I was so embarrassed. I called my manager by the wrong name! | Rất thân thiện! Nhưng mình xấu hổ lắm. Mình gọi nhầm tên quản lý!
+line: A | Mia | Ha ha! Don't worry. I'm sure he wasn't angry. | Ha ha! Đừng lo. Mình chắc anh ấy không giận đâu.
+line: B | Bảo | No, he laughed. Now I feel more relaxed. | Không, anh ấy cười. Giờ mình thấy thoải mái hơn rồi.
+q: How did Bao feel in the morning? | relaxed ; nervous ; bored | nervous
+q: Why was Bao embarrassed? | He was late ; He called his manager by the wrong name ; He forgot his laptop | He called his manager by the wrong name
+## reading
+title: Why do we feel bored?
+text: Everyone feels bored sometimes. Scientists say boredom is not always bad. When we are bored, our brain starts to look for something new and interesting. This is why many people get creative ideas when they are doing boring things, like washing the dishes or waiting for a bus. However, if you feel bored all the time, it can make you tired and unhappy. So, try a new hobby, meet new people or learn a new skill. You might be surprised by how exciting life can be!
+vi: Ai cũng có lúc cảm thấy chán. Các nhà khoa học nói rằng sự nhàm chán không phải lúc nào cũng xấu. Khi ta chán, não bắt đầu tìm kiếm điều gì đó mới mẻ và thú vị. Đó là lý do nhiều người nảy ra ý tưởng sáng tạo khi đang làm việc nhàm chán như rửa bát hay chờ xe buýt. Tuy nhiên, nếu lúc nào bạn cũng thấy chán, điều đó có thể khiến bạn mệt mỏi và không vui. Vì vậy, hãy thử một sở thích mới, gặp gỡ người mới hoặc học một kỹ năng mới. Bạn có thể sẽ ngạc nhiên vì cuộc sống thú vị đến thế nào!
+q: What does our brain do when we are bored? | It sleeps ; It looks for something new ; It stops working | It looks for something new
+q: What can happen if you feel bored all the time? | You become rich ; You feel tired and unhappy ; You get more creative | You feel tired and unhappy
+
+# UNIT a2-u10
+title: Ở nhà hàng
+titleEn: At a Restaurant
+emoji: 🍽️
+goal: Đặt bàn, gọi món, yêu cầu lịch sự và thanh toán.
+## words
+menu | /ˈmen.juː/ | noun | thực đơn | Could I see the menu, please? | Cho tôi xem thực đơn được không?
+order | /ˈɔːr.dɚ/ | verb | gọi món, đặt hàng | Are you ready to order? | Quý khách đã sẵn sàng gọi món chưa?
+waiter | /ˈweɪ.t̬ɚ/ | noun | bồi bàn (nam) | The waiter brought our drinks. | Bồi bàn mang đồ uống ra cho chúng tôi. | Nữ: waitress. Trung tính: server.
+bill | /bɪl/ | noun | hóa đơn | Can we have the bill, please? | Cho chúng tôi xin hóa đơn. | Anh-Mỹ: check.
+dish | /dɪʃ/ | noun | món ăn; cái đĩa | This is the most popular dish here. | Đây là món phổ biến nhất ở đây.
+dessert | /dɪˈzɝːt/ | noun | món tráng miệng | What would you like for dessert? | Quý khách muốn dùng món tráng miệng gì? | 2 chữ s (ai cũng muốn ăn 2 lần); desert (1 s) = sa mạc.
+delicious | /dɪˈlɪʃ.əs/ | adj | ngon | The soup is delicious. | Món súp ngon tuyệt.
+spicy | /ˈspaɪ.si/ | adj | cay | Is this dish spicy? | Món này có cay không? | spice (gia vị) + y.
+reservation | /ˌrez.ɚˈveɪ.ʃən/ | noun | sự đặt chỗ | I have a reservation for two at seven. | Tôi đã đặt bàn cho hai người lúc bảy giờ. | reserve = giữ trước.
+vegetarian | /ˌvedʒ.əˈter.i.ən/ | adj | ăn chay | Do you have any vegetarian dishes? | Ở đây có món chay nào không?
+recommend | /ˌrek.əˈmend/ | verb | gợi ý, giới thiệu | What do you recommend? | Bạn gợi ý món nào? | Một chữ c, hai chữ m.
+napkin | /ˈnæp.kɪn/ | noun | khăn ăn | Could I have another napkin? | Cho tôi xin thêm khăn ăn được không?
+## phrases
+A table for two, please. | Cho tôi một bàn hai người.
+I'd like the grilled fish, please. | Cho tôi món cá nướng.
+Could I have some more water? | Cho tôi xin thêm chút nước được không?
+Excuse me, this isn't what I ordered. | Xin lỗi, đây không phải món tôi gọi.
+Can we pay separately? | Chúng tôi trả riêng được không?
+Keep the change. | Không cần trả lại tiền thừa đâu.
+## grammar
+title: Yêu cầu lịch sự: Could / Can / May / Would like
+summary: Khi gọi món hay nhờ vả, người bản xứ rất chú trọng sự lịch sự. Could và May lịch sự hơn Can; I'd like lịch sự hơn I want.
+formula: Can / Could I have + N, please? (xin cái gì)
+formula: Could you + V, please? (nhờ ai làm gì)
+formula: May I + V? (xin phép – rất trang trọng)
+formula: I'd like (= I would like) + N / to V
+point: Mức độ lịch sự | Can I...? (thân mật) < Could I...? (lịch sự) < May I...? (trang trọng). Trong nhà hàng nên dùng Could I...? hoặc I'd like...
+point: Tránh "I want" | "I want a coffee" nghe hơi cộc lốc. Hãy nói: I'd like a coffee, please. / Could I have a coffee, please?
+point: Trả lời yêu cầu | Đồng ý: Sure. / Of course. / Certainly. Từ chối khéo: I'm sorry, but... / I'm afraid we don't have...
+example: Could I have the menu, please? | Cho tôi xin thực đơn được không?
+example: I'd like a table by the window. | Tôi muốn một bàn cạnh cửa sổ.
+example: Could you recommend a dish? | Bạn có thể gợi ý một món không?
+example: May I pay by credit card? | Tôi có thể thanh toán bằng thẻ tín dụng không?
+mistake: I want the bill. | Could I have the bill, please? | Nói lịch sự hơn.
+mistake: Could you to bring some water? | Could you bring some water? | Sau could dùng V nguyên mẫu.
+mistake: I would like order now. | I would like to order now. | would like + to V.
+ex: ___ I have the bill, please? | Could ; Would ; Will | Could | Xin cái gì: Could I have...?
+ex: I'd like ___ a table for four. | book ; to book ; booking | to book | would like + to V.
+ex: Could you ___ me some more water? | bring ; to bring ; brings | bring | Sau could dùng V nguyên mẫu.
+ex: ___ you like anything to drink? | Could ; Would ; May | Would | Mời: Would you like...?
+ex: ___ I sit here? (rất trang trọng) | May ; Will ; Would | May | Xin phép trang trọng: May I...?
+ex: I'd ___ the chicken salad, please. | like ; want ; love to | like | I'd like + N.
+ex: Could I ___ another napkin? | have ; having ; to have | have | Could I have...?
+## dialogue
+title: Gọi món ở nhà hàng
+setting: Một cặp đôi ăn tối ở nhà hàng.
+line: A | Waiter | Good evening. Do you have a reservation? | Chào buổi tối. Anh chị đã đặt bàn chưa ạ?
+line: B | Huy | Yes, a table for two under the name Huy. | Rồi, bàn hai người tên Huy.
+line: A | Waiter | This way, please. Here is the menu. Are you ready to order? | Mời đi lối này. Đây là thực đơn. Anh chị gọi món chưa ạ?
+line: B | Huy | Could you recommend something? | Anh có thể gợi ý món gì không?
+line: A | Waiter | Our grilled fish is very popular. It's a little spicy. | Món cá nướng của chúng tôi rất được ưa chuộng. Hơi cay một chút.
+line: B | Huy | Great, I'd like the grilled fish. My wife is vegetarian. Do you have any vegetarian dishes? | Tuyệt, cho tôi món cá nướng. Vợ tôi ăn chay. Có món chay nào không?
+line: A | Waiter | Certainly. I recommend the tofu with mushrooms. | Có ạ. Tôi gợi ý món đậu phụ sốt nấm.
+line: B | Huy | Perfect. And could we have two glasses of orange juice, please? | Tuyệt. Và cho chúng tôi hai cốc nước cam nhé?
+q: What does the waiter recommend? | the grilled fish ; the beef noodles ; the chicken salad | the grilled fish
+q: What will Huy's wife eat? | grilled fish ; tofu with mushrooms ; chicken soup | tofu with mushrooms
+## reading
+title: Tipping around the world
+text: Should you leave a tip at a restaurant? It depends on the country. In the United States, tipping is very important. Most people leave 15 to 20 percent of the bill, because waiters' salaries are low. In Japan, however, tipping is not common and can even be rude. In many European countries, a service charge is already on the bill, but people often leave a few coins if the service was good. In Vietnam, tipping is not required, but it is always appreciated.
+vi: Bạn có nên để lại tiền boa ở nhà hàng không? Điều đó tùy từng quốc gia. Ở Mỹ, tiền boa rất quan trọng. Hầu hết mọi người để lại 15 đến 20 phần trăm hóa đơn vì lương bồi bàn thấp. Tuy nhiên ở Nhật, boa không phổ biến và thậm chí có thể bị coi là bất lịch sự. Ở nhiều nước châu Âu, phí dịch vụ đã có sẵn trong hóa đơn, nhưng người ta thường để lại vài đồng xu nếu phục vụ tốt. Ở Việt Nam, boa không bắt buộc nhưng luôn được trân trọng.
+q: How much do people usually tip in the US? | 5 percent ; 15 to 20 percent ; 50 percent | 15 to 20 percent
+q: In which country can tipping be rude? | the United States ; Japan ; Vietnam | Japan

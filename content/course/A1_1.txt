@@ -1,0 +1,357 @@
+@level A1
+name: Khởi đầu
+nameEn: Beginner
+color: 22C55E
+emoji: 🌱
+hours: 60–80 giờ
+description: Làm quen với tiếng Anh: chào hỏi, giới thiệu bản thân, nói về gia đình, thói quen và nhu cầu hằng ngày bằng những câu đơn giản.
+cando: Giới thiệu bản thân và người khác
+cando: Hỏi – trả lời thông tin cá nhân: tên, tuổi, quê quán, nghề nghiệp
+cando: Nói giờ, ngày tháng và kể về thói quen hằng ngày
+cando: Gọi món, mua sắm và hỏi giá đơn giản
+cando: Hỏi đường và hiểu chỉ dẫn ngắn
+
+# UNIT a1-u1
+title: Chào hỏi & Giới thiệu
+titleEn: Greetings & Introductions
+emoji: 👋
+goal: Chào hỏi, giới thiệu tên, quê quán và hỏi thăm sức khỏe.
+## words
+hello | /həˈloʊ/ | interj | xin chào | Hello, my name is Lan. | Xin chào, mình tên là Lan. | Thân mật hơn: hi, hey.
+name | /neɪm/ | noun | tên | What is your name? | Bạn tên là gì? | first name = tên; last name = họ.
+meet | /miːt/ | verb | gặp, gặp gỡ | I meet my friends after school. | Tôi gặp bạn bè sau giờ học. | Nice to meet you = Rất vui được gặp bạn.
+nice | /naɪs/ | adj | tốt, dễ chịu | She is a nice person. | Cô ấy là một người dễ mến.
+friend | /frend/ | noun | bạn bè | Tom is my best friend. | Tom là bạn thân nhất của tôi. | Chữ i câm: đọc là 'phren'.
+student | /ˈstuː.dənt/ | noun | học sinh, sinh viên | I am a student at Hanoi University. | Tôi là sinh viên Đại học Hà Nội.
+teacher | /ˈtiː.tʃɚ/ | noun | giáo viên | Our teacher is very kind. | Giáo viên của chúng tôi rất tốt bụng. | teach (dạy) + er (người làm).
+country | /ˈkʌn.tri/ | noun | đất nước | Vietnam is a beautiful country. | Việt Nam là một đất nước xinh đẹp.
+from | /frʌm/ | prep | từ (đến từ) | I am from Hai Phong. | Tôi đến từ Hải Phòng. | Where are you from? = Bạn đến từ đâu?
+morning | /ˈmɔːr.nɪŋ/ | noun | buổi sáng | Good morning, everyone! | Chào buổi sáng mọi người!
+goodbye | /ˌɡʊdˈbaɪ/ | interj | tạm biệt | Goodbye, see you tomorrow! | Tạm biệt, hẹn gặp lại ngày mai! | Thân mật: bye, bye-bye, see you.
+welcome | /ˈwel.kəm/ | adj | được chào đón | You are welcome to visit us. | Bạn luôn được chào đón đến thăm chúng tôi. | You're welcome = Không có chi.
+## phrases
+Nice to meet you. | Rất vui được gặp bạn.
+How are you? | Bạn khỏe không?
+I'm fine, thank you. And you? | Mình khỏe, cảm ơn. Còn bạn?
+What's your name? | Bạn tên là gì?
+Where are you from? | Bạn đến từ đâu?
+See you later! | Hẹn gặp lại sau nhé!
+## grammar
+title: Động từ to be (am / is / are)
+summary: To be nghĩa là "là / thì / ở". Đây là động từ quan trọng nhất trong tiếng Anh, dùng để giới thiệu bản thân, nói về tuổi, nghề nghiệp, quê quán và trạng thái.
+formula: I + am (I'm)
+formula: He / She / It + is (he's, she's, it's)
+formula: You / We / They + are (you're, we're, they're)
+formula: Phủ định: S + am / is / are + not
+formula: Câu hỏi: Am / Is / Are + S + ...?
+point: Chia theo chủ ngữ | I luôn đi với am; he, she, it và danh từ số ít đi với is; you, we, they và danh từ số nhiều đi với are.
+point: Thể phủ định | Thêm not sau to be: I am not (I'm not), is not = isn't, are not = aren't. Không có dạng "amn't".
+point: Câu hỏi Yes/No | Đảo to be lên trước chủ ngữ: Are you a student? → Yes, I am. / No, I'm not. Khi trả lời ngắn khẳng định không viết tắt: nói Yes, I am (không nói Yes, I'm).
+point: Đừng quên to be | Tiếng Việt nói "Cô ấy đến từ Hà Nội" không cần chữ "là", nhưng tiếng Anh bắt buộc có to be: She IS from Hanoi.
+example: I am a student. | Tôi là sinh viên.
+example: She is from Vietnam. | Cô ấy đến từ Việt Nam.
+example: We are good friends. | Chúng tôi là bạn tốt.
+example: Are you a teacher? No, I'm not. | Bạn là giáo viên à? Không, tôi không phải.
+mistake: I is a student. | I am a student. | I luôn đi với am.
+mistake: She from Hanoi. | She is from Hanoi. | Câu thiếu to be – lỗi rất hay gặp của người Việt.
+mistake: Yes, I'm. | Yes, I am. | Câu trả lời ngắn khẳng định không viết tắt.
+ex: I ___ a student. | am ; is ; are | am | Chủ ngữ I luôn đi với am.
+ex: My mother ___ a teacher. | am ; is ; are | is | My mother = she → is.
+ex: They ___ from Japan. | is ; are ; am | are | They → are.
+ex: ___ you from Korea? | Is ; Are ; Am | Are | Câu hỏi với you → Are you...?
+ex: He ___ not a doctor. | am ; is ; are | is | He → is not (isn't).
+ex: We ___ friends. | is ; am ; are | are | We → are.
+ex: It ___ a nice day today. | are ; is ; am | is | It → is.
+## dialogue
+title: Gặp bạn mới
+setting: Lan gặp Tom trong ngày đầu tiên ở lớp tiếng Anh.
+line: A | Lan | Hello! I'm Lan. What's your name? | Xin chào! Mình là Lan. Bạn tên là gì?
+line: B | Tom | Hi, Lan. My name is Tom. Nice to meet you. | Chào Lan. Mình tên là Tom. Rất vui được gặp bạn.
+line: A | Lan | Nice to meet you too. Where are you from? | Mình cũng rất vui được gặp bạn. Bạn đến từ đâu?
+line: B | Tom | I'm from Australia. And you? | Mình đến từ Úc. Còn bạn?
+line: A | Lan | I'm from Vietnam. Are you a student here? | Mình đến từ Việt Nam. Bạn là sinh viên ở đây à?
+line: B | Tom | No, I'm not. I'm a teacher! | Không phải đâu. Mình là giáo viên!
+line: A | Lan | Oh! Welcome to our class, teacher! | Ồ! Chào mừng thầy đến với lớp chúng em!
+q: Where is Tom from? | Vietnam ; Australia ; England | Australia
+q: What is Tom's job? | student ; teacher ; doctor | teacher
+## reading
+title: My new friend
+text: Hello! My name is Minh. I am a student in Hanoi. I am nineteen years old. My new friend is Anna. She is from Canada. She is a teacher at my school. Anna is very nice and funny. Every morning, we say hello and talk in English. I am happy to have a friend from another country.
+vi: Xin chào! Mình tên là Minh. Mình là sinh viên ở Hà Nội. Mình mười chín tuổi. Bạn mới của mình là Anna. Cô ấy đến từ Canada. Cô ấy là giáo viên ở trường mình. Anna rất dễ mến và vui tính. Mỗi sáng, chúng mình chào nhau và nói chuyện bằng tiếng Anh. Mình rất vui khi có một người bạn đến từ đất nước khác.
+q: Where is Anna from? | Hanoi ; Canada ; England | Canada
+q: Minh is a ___. | teacher ; student ; doctor | student
+q: How old is Minh? | nineteen ; nine ; ninety | nineteen
+
+# UNIT a1-u2
+title: Gia đình
+titleEn: Family
+emoji: 👨‍👩‍👧
+goal: Giới thiệu các thành viên trong gia đình và nói "của ai".
+## words
+family | /ˈfæm.əl.i/ | noun | gia đình | I love my family very much. | Tôi rất yêu gia đình mình. | Father And Mother, I Love You → FAMILY.
+mother | /ˈmʌð.ɚ/ | noun | mẹ | My mother is a nurse. | Mẹ tôi là y tá. | Thân mật: mom (Mỹ), mum (Anh).
+father | /ˈfɑː.ðɚ/ | noun | bố, cha | My father works in a bank. | Bố tôi làm việc ở ngân hàng. | Thân mật: dad.
+brother | /ˈbrʌð.ɚ/ | noun | anh/em trai | I have one older brother. | Tôi có một người anh trai. | older brother = anh trai; younger brother = em trai.
+sister | /ˈsɪs.tɚ/ | noun | chị/em gái | My little sister is very funny. | Em gái tôi rất vui tính.
+parents | /ˈper.ənts/ | noun | bố mẹ | My parents live in Hue. | Bố mẹ tôi sống ở Huế. | Parents là bố mẹ; họ hàng là relatives.
+grandmother | /ˈɡræn.mʌð.ɚ/ | noun | bà | My grandmother makes great soup. | Bà tôi nấu canh rất ngon. | Thân mật: grandma. Ông: grandfather.
+son | /sʌn/ | noun | con trai | Their son is five years old. | Con trai của họ năm tuổi. | Phát âm giống sun (mặt trời).
+daughter | /ˈdɑː.t̬ɚ/ | noun | con gái | She has a beautiful daughter. | Cô ấy có một cô con gái xinh đẹp. | Chữ gh câm: đọc gần như "đo-tơ".
+husband | /ˈhʌz.bənd/ | noun | chồng | Her husband is a chef. | Chồng cô ấy là đầu bếp.
+wife | /waɪf/ | noun | vợ | His wife is from Da Nang. | Vợ anh ấy đến từ Đà Nẵng. | Số nhiều: wives.
+children | /ˈtʃɪl.drən/ | noun | trẻ em, con cái | They have three children. | Họ có ba người con. | Số nhiều bất quy tắc của child.
+## phrases
+How many people are there in your family? | Gia đình bạn có mấy người?
+There are four people in my family. | Gia đình tôi có bốn người.
+Do you have any brothers or sisters? | Bạn có anh chị em không?
+I'm an only child. | Tôi là con một.
+This is my mother. | Đây là mẹ tôi.
+She looks like her father. | Cô ấy trông giống bố.
+## grammar
+title: Tính từ sở hữu & sở hữu cách 's
+summary: Tính từ sở hữu (my, your, his, her...) đứng trước danh từ để nói "của ai". Sở hữu cách 's gắn sau danh từ chỉ người: Lan's bag = cái túi của Lan.
+formula: I → my · you → your · he → his · she → her
+formula: it → its · we → our · they → their
+formula: Danh từ + 's + vật sở hữu: Tom's car
+point: Luôn có danh từ theo sau | Tính từ sở hữu không đứng một mình: This is my book (đúng) – This is my (sai).
+point: his hay her? | Chọn theo NGƯỜI SỞ HỮU, không theo vật hay người được sở hữu: Lan's father → her father (vì Lan là nữ).
+point: Sở hữu cách 's | Thêm 's sau danh từ chỉ người: my sister's room. Danh từ số nhiều tận cùng bằng -s chỉ thêm dấu ': my parents' house.
+point: its khác it's | its = của nó (sở hữu); it's = it is. The cat is eating its food. / It's a cat.
+example: This is my brother. His name is Nam. | Đây là anh trai tôi. Tên anh ấy là Nam.
+example: Our parents are teachers. | Bố mẹ chúng tôi là giáo viên.
+example: Mai's husband is very kind. | Chồng của Mai rất tốt bụng.
+example: The children love their grandmother. | Bọn trẻ yêu bà của chúng.
+mistake: Lan loves his mother. | Lan loves her mother. | Lan là nữ nên dùng her.
+mistake: the car of my father | my father's car | Với người, dùng 's tự nhiên hơn "of".
+ex: This is ___ sister. She is ten. | my ; me ; I | my | Trước danh từ dùng tính từ sở hữu my.
+ex: Tom loves ___ wife very much. | her ; his ; their | his | Tom là nam → his.
+ex: Lan and Nam live with ___ parents. | their ; our ; his | their | Lan and Nam = they → their.
+ex: We love ___ teacher. | your ; our ; us | our | We → our.
+ex: The dog is playing with ___ ball. | it's ; its ; his | its | its = của nó; it's = it is.
+ex: This is ___ car. (xe của bố tôi) | my father ; my father's ; my fathers | my father's | Sở hữu cách: father's.
+ex: What is ___ name? | you ; your ; yours | your | Trước danh từ name dùng your.
+## dialogue
+title: Ảnh gia đình
+setting: Mai cho bạn mới xem ảnh gia đình trên điện thoại.
+line: A | Mai | Look, this is a photo of my family. | Nhìn này, đây là ảnh gia đình mình.
+line: B | Ben | Wow, it's a big family! Who is this man? | Ồ, gia đình bạn đông thật! Người đàn ông này là ai?
+line: A | Mai | That's my father. He's a doctor. | Đó là bố mình. Bố là bác sĩ.
+line: B | Ben | And who are the two girls? | Còn hai cô bé kia là ai?
+line: A | Mai | They're my sisters, Hoa and Linh. Hoa is twelve and Linh is eight. | Đó là hai em gái mình, Hoa và Linh. Hoa mười hai tuổi còn Linh tám tuổi.
+line: B | Ben | Do you have any brothers? | Bạn có anh em trai không?
+line: A | Mai | No, I don't. What about you? | Không. Còn bạn thì sao?
+line: B | Ben | I'm an only child, but I have a lot of cousins. | Mình là con một, nhưng mình có rất nhiều anh chị em họ.
+q: What is Mai's father's job? | teacher ; doctor ; chef | doctor
+q: How many sisters does Mai have? | one ; two ; three | two
+q: Does Ben have any brothers or sisters? | Yes, two sisters ; No, he is an only child ; Yes, one brother | No, he is an only child
+## reading
+title: Peter's family
+text: My name is Peter and I am thirty-five. I live in London with my wife, Sarah, and our two children. Our son, Jack, is seven and our daughter, Emma, is four. Sarah is a nurse and I am a cook. My parents live near our house, so the children often visit their grandparents on Sundays. Their grandmother makes the best cakes in the world!
+vi: Tôi tên là Peter và tôi ba mươi lăm tuổi. Tôi sống ở London cùng vợ tôi, Sarah, và hai con của chúng tôi. Con trai chúng tôi, Jack, bảy tuổi và con gái chúng tôi, Emma, bốn tuổi. Sarah là y tá còn tôi là đầu bếp. Bố mẹ tôi sống gần nhà chúng tôi nên bọn trẻ thường đến thăm ông bà vào Chủ nhật. Bà của các cháu làm bánh ngon nhất thế giới!
+q: How old is Emma? | four ; seven ; thirty-five | four
+q: What is Sarah's job? | cook ; nurse ; teacher | nurse
+q: When do the children visit their grandparents? | on Saturdays ; on Sundays ; every day | on Sundays
+
+# UNIT a1-u3
+title: Thời gian & Ngày tháng
+titleEn: Time & Dates
+emoji: ⏰
+goal: Nói giờ, ngày trong tuần, tháng và hẹn lịch.
+## words
+time | /taɪm/ | noun | thời gian; giờ | What time is it now? | Bây giờ là mấy giờ?
+hour | /aʊr/ | noun | giờ, tiếng đồng hồ | I sleep eight hours a day. | Tôi ngủ tám tiếng mỗi ngày. | Chữ h câm nên nói an hour.
+minute | /ˈmɪn.ɪt/ | noun | phút | Wait a minute, please. | Làm ơn đợi một phút.
+week | /wiːk/ | noun | tuần | I go swimming twice a week. | Tôi đi bơi hai lần một tuần.
+month | /mʌnθ/ | noun | tháng | My birthday is next month. | Sinh nhật tôi vào tháng sau.
+year | /jɪr/ | noun | năm | She is twenty years old. | Cô ấy hai mươi tuổi.
+today | /təˈdeɪ/ | adv | hôm nay | Today is Monday. | Hôm nay là thứ Hai.
+tomorrow | /təˈmɑːr.oʊ/ | adv | ngày mai | See you tomorrow! | Hẹn gặp bạn ngày mai! | Một chữ m, hai chữ r.
+birthday | /ˈbɝːθ.deɪ/ | noun | sinh nhật | When is your birthday? | Sinh nhật bạn khi nào? | birth (sự ra đời) + day.
+calendar | /ˈkæl.ən.dɚ/ | noun | lịch | I write my plans on the calendar. | Tôi ghi kế hoạch lên lịch.
+weekend | /ˈwiːk.end/ | noun | cuối tuần | What do you do at the weekend? | Bạn làm gì vào cuối tuần? | week + end.
+number | /ˈnʌm.bɚ/ | noun | số | What is your phone number? | Số điện thoại của bạn là gì?
+## phrases
+What time is it? | Mấy giờ rồi?
+It's half past seven. | Bây giờ là bảy giờ rưỡi.
+It's a quarter to nine. | Bây giờ là chín giờ kém mười lăm.
+What day is it today? | Hôm nay là thứ mấy?
+My birthday is on the fifth of May. | Sinh nhật tôi vào ngày 5 tháng 5.
+See you on Friday! | Hẹn gặp bạn vào thứ Sáu!
+## grammar
+title: Giới từ chỉ thời gian: in – on – at
+summary: Ba giới từ in, on, at giúp nói "vào lúc nào". Hãy tưởng tượng một tam giác ngược: IN cho khoảng thời gian lớn, ON cho ngày, AT cho thời điểm chính xác.
+formula: AT + giờ: at 7 o'clock, at noon, at night
+formula: ON + thứ / ngày: on Monday, on May 5th, on my birthday
+formula: IN + tháng / năm / mùa / buổi: in June, in 2025, in summer, in the morning
+point: AT – thời điểm chính xác | Dùng với giờ (at 6:30), at noon, at midnight, at night và at the weekend (Anh-Anh).
+point: ON – ngày cụ thể | Dùng với thứ trong tuần, ngày tháng, ngày lễ có chữ Day: on Sunday, on Christmas Day, on Monday morning.
+point: IN – khoảng thời gian dài | Dùng với tháng, năm, mùa, thế kỷ và các buổi: in the morning, in the afternoon, in the evening (nhưng at night).
+point: Không dùng giới từ | Trước today, tomorrow, yesterday, this, next, last, every: I'll see you next week (không nói on next week).
+example: The class starts at 8 o'clock. | Lớp học bắt đầu lúc 8 giờ.
+example: We go to the market on Sundays. | Chúng tôi đi chợ vào các ngày Chủ nhật.
+example: My birthday is in October. | Sinh nhật tôi vào tháng Mười.
+example: I study English in the evening. | Tôi học tiếng Anh vào buổi tối.
+mistake: I was born on 2005. | I was born in 2005. | Năm dùng in.
+mistake: See you on next Monday. | See you next Monday. | Có next thì bỏ giới từ.
+ex: The film starts ___ 9 p.m. | in ; on ; at | at | Giờ chính xác dùng at.
+ex: I have English classes ___ Tuesday. | in ; on ; at | on | Thứ trong tuần dùng on.
+ex: It is very hot ___ summer. | in ; on ; at | in | Mùa dùng in.
+ex: She was born ___ 1999. | on ; in ; at | in | Năm dùng in.
+ex: We don't work ___ night. | in ; on ; at | at | Cụm cố định: at night.
+ex: My birthday is ___ March 3rd. | in ; on ; at | on | Ngày cụ thể dùng on.
+ex: I will call you ___ tomorrow. | on ; at ; (không cần giới từ) | (không cần giới từ) | Trước tomorrow không dùng giới từ.
+## dialogue
+title: Hẹn đi xem phim
+setting: Nam rủ Jenny đi xem phim cuối tuần.
+line: A | Nam | Hi Jenny! Are you free this weekend? | Chào Jenny! Cuối tuần này bạn rảnh không?
+line: B | Jenny | I'm busy on Saturday, but I'm free on Sunday. Why? | Thứ Bảy mình bận, nhưng Chủ nhật mình rảnh. Sao thế?
+line: A | Nam | There's a new film at the cinema. Do you want to come? | Rạp có phim mới. Bạn muốn đi không?
+line: B | Jenny | Sure! What time does it start? | Chắc chắn rồi! Phim bắt đầu lúc mấy giờ?
+line: A | Nam | At half past seven in the evening. | Lúc bảy giờ rưỡi tối.
+line: B | Jenny | Great. Let's meet at seven in front of the cinema. | Tuyệt. Mình gặp nhau lúc bảy giờ trước cửa rạp nhé.
+line: A | Nam | OK. See you on Sunday! | Được. Hẹn gặp bạn Chủ nhật!
+q: When is Jenny free? | on Saturday ; on Sunday ; on Friday | on Sunday
+q: What time does the film start? | 7:00 ; 7:30 ; 8:30 | 7:30
+## reading
+title: Linh's busy week
+text: Linh is a university student. Her week is very busy. On Monday and Wednesday, she has classes in the morning. On Tuesday and Thursday, she works at a coffee shop from two to six in the afternoon. On Friday evening, she plays badminton with her friends. At the weekend, she visits her parents. Her favourite month is December because her birthday is on December 20th.
+vi: Linh là sinh viên đại học. Tuần của cô ấy rất bận rộn. Thứ Hai và thứ Tư, cô ấy có lớp vào buổi sáng. Thứ Ba và thứ Năm, cô ấy làm ở quán cà phê từ hai đến sáu giờ chiều. Tối thứ Sáu, cô ấy chơi cầu lông với bạn bè. Cuối tuần, cô ấy về thăm bố mẹ. Tháng cô ấy thích nhất là tháng Mười Hai vì sinh nhật cô vào ngày 20 tháng 12.
+q: When does Linh work at the coffee shop? | on Monday and Wednesday ; on Tuesday and Thursday ; at the weekend | on Tuesday and Thursday
+q: When is Linh's birthday? | December 2nd ; December 20th ; November 20th | December 20th
+q: What does Linh do on Friday evening? | She works ; She plays badminton ; She visits her parents | She plays badminton
+
+# UNIT a1-u4
+title: Nhà của tôi
+titleEn: My Home
+emoji: 🏡
+goal: Mô tả nhà cửa, các phòng và đồ vật trong nhà.
+## words
+house | /haʊs/ | noun | ngôi nhà | They live in a big house. | Họ sống trong một ngôi nhà lớn. | house = công trình; home = tổ ấm, nơi mình thuộc về.
+room | /ruːm/ | noun | phòng | My room is small but tidy. | Phòng tôi nhỏ nhưng gọn gàng.
+kitchen | /ˈkɪtʃ.ən/ | noun | nhà bếp | Mom is cooking in the kitchen. | Mẹ đang nấu ăn trong bếp.
+bedroom | /ˈbed.ruːm/ | noun | phòng ngủ | There are two bedrooms upstairs. | Trên lầu có hai phòng ngủ. | bed (giường) + room (phòng).
+bathroom | /ˈbæθ.ruːm/ | noun | phòng tắm | The bathroom is next to my room. | Phòng tắm ở cạnh phòng tôi. | bath (tắm) + room.
+table | /ˈteɪ.bəl/ | noun | cái bàn | The keys are on the table. | Chìa khóa ở trên bàn.
+chair | /tʃer/ | noun | cái ghế | Please sit on this chair. | Mời ngồi lên chiếc ghế này.
+window | /ˈwɪn.doʊ/ | noun | cửa sổ | Can you open the window? | Bạn mở cửa sổ được không?
+door | /dɔːr/ | noun | cửa ra vào | Please close the door. | Làm ơn đóng cửa lại.
+garden | /ˈɡɑːr.dən/ | noun | khu vườn | We grow flowers in the garden. | Chúng tôi trồng hoa trong vườn.
+apartment | /əˈpɑːrt.mənt/ | noun | căn hộ | I live in an apartment on the tenth floor. | Tôi sống ở một căn hộ trên tầng mười. | Anh-Anh gọi là flat.
+floor | /flɔːr/ | noun | sàn nhà; tầng | The cat is sleeping on the floor. | Con mèo đang ngủ trên sàn nhà.
+## phrases
+Come in, please. | Mời vào.
+Make yourself at home. | Cứ tự nhiên như ở nhà nhé.
+Where is the bathroom? | Phòng tắm ở đâu vậy?
+There is a sofa in the living room. | Có một chiếc ghế sofa trong phòng khách.
+My house has three bedrooms. | Nhà tôi có ba phòng ngủ.
+## grammar
+title: There is / There are + a, an, some, any
+summary: "There is / There are" nghĩa là "có" (cái gì tồn tại ở đâu đó). Dùng there is với danh từ số ít hoặc không đếm được, there are với danh từ số nhiều.
+formula: There is + a / an + danh từ số ít
+formula: There are + some / số đếm + danh từ số nhiều
+formula: Phủ định: There isn't a... / There aren't any...
+formula: Câu hỏi: Is there a...? / Are there any...?
+point: a hay an? | Dùng an trước từ bắt đầu bằng ÂM nguyên âm: an apple, an hour (h câm). Dùng a trước âm phụ âm: a chair, a university (/juː/).
+point: some và any | some dùng trong câu khẳng định; any dùng trong câu phủ định và câu hỏi: There are some books. / Are there any chairs?
+point: Đừng dùng have để nói "có" | Người Việt hay nói "In my room have a bed" (sai). Đúng: There is a bed in my room. hoặc My room has a bed.
+example: There is a lamp on the desk. | Có một cái đèn trên bàn làm việc.
+example: There are two windows in my bedroom. | Có hai cửa sổ trong phòng ngủ của tôi.
+example: Is there a garden? Yes, there is. | Có vườn không? Có.
+example: There aren't any chairs in the kitchen. | Không có cái ghế nào trong bếp.
+mistake: In my house have three rooms. | There are three rooms in my house. | Không dùng have để nói "có" tồn tại.
+mistake: There is two cats. | There are two cats. | Danh từ số nhiều dùng there are.
+ex: There ___ a big table in the kitchen. | is ; are ; be | is | a big table là số ít.
+ex: There ___ three bedrooms upstairs. | is ; are ; am | are | three bedrooms là số nhiều.
+ex: Is there ___ apple in the fridge? | a ; an ; some | an | apple bắt đầu bằng nguyên âm.
+ex: There are ___ flowers in the garden. | a ; some ; any | some | Câu khẳng định số nhiều dùng some.
+ex: Are there ___ chairs in the room? | some ; any ; a | any | Câu hỏi dùng any.
+ex: There isn't ___ window in the bathroom. | a ; any ; some | a | window số ít: isn't a.
+ex: I live in ___ apartment. | a ; an ; any | an | apartment bắt đầu bằng nguyên âm.
+## dialogue
+title: Hỏi thuê căn hộ
+setting: Hà gọi điện hỏi về một căn hộ cho thuê.
+line: A | Hà | Hello, I'm calling about the apartment for rent. | Xin chào, tôi gọi để hỏi về căn hộ cho thuê.
+line: B | Mr. Brown | Yes. It's on the fifth floor. It's very bright. | Vâng. Căn hộ ở tầng năm. Nó rất sáng sủa.
+line: A | Hà | How many bedrooms are there? | Có mấy phòng ngủ ạ?
+line: B | Mr. Brown | There are two bedrooms and one bathroom. | Có hai phòng ngủ và một phòng tắm.
+line: A | Hà | Is there a kitchen? | Có bếp không ạ?
+line: B | Mr. Brown | Yes, there is. There's a small kitchen with a new fridge. | Có. Có một căn bếp nhỏ với tủ lạnh mới.
+line: A | Hà | Great! Can I come and see it tomorrow? | Tuyệt quá! Ngày mai tôi đến xem được không ạ?
+line: B | Mr. Brown | Of course. See you tomorrow at ten. | Tất nhiên. Hẹn gặp cô mười giờ sáng mai.
+q: Which floor is the apartment on? | the second floor ; the fifth floor ; the tenth floor | the fifth floor
+q: How many bedrooms are there? | one ; two ; three | two
+## reading
+title: My dream house
+text: My dream house is near the sea. It is not very big, but it is beautiful. There are three bedrooms, a large kitchen and a living room with big windows. From the windows, I can see the beach. There is a small garden with many flowers and an old tree. There isn't a swimming pool because the sea is my swimming pool! In the evening, I want to sit in the garden and watch the sunset.
+vi: Ngôi nhà mơ ước của tôi ở gần biển. Nó không lớn lắm nhưng rất đẹp. Có ba phòng ngủ, một căn bếp rộng và một phòng khách với những ô cửa sổ lớn. Từ cửa sổ, tôi có thể nhìn thấy bãi biển. Có một khu vườn nhỏ với nhiều hoa và một cái cây cổ thụ. Không có hồ bơi vì biển chính là hồ bơi của tôi! Buổi tối, tôi muốn ngồi trong vườn và ngắm hoàng hôn.
+q: Where is the dream house? | in the city ; near the sea ; in the mountains | near the sea
+q: How many bedrooms are there? | two ; three ; four | three
+q: Why is there no swimming pool? | It is too expensive ; The sea is the swimming pool ; The garden is too small | The sea is the swimming pool
+
+# UNIT a1-u5
+title: Một ngày của tôi
+titleEn: Daily Routine
+emoji: ☀️
+goal: Kể về thói quen hằng ngày và mức độ thường xuyên.
+## words
+breakfast | /ˈbrek.fəst/ | noun | bữa sáng | I have breakfast at seven. | Tôi ăn sáng lúc bảy giờ. | break (phá vỡ) + fast (nhịn ăn): bữa phá vỡ cơn nhịn ăn qua đêm.
+lunch | /lʌntʃ/ | noun | bữa trưa | We have lunch at school. | Chúng tôi ăn trưa ở trường.
+dinner | /ˈdɪn.ɚ/ | noun | bữa tối | My family has dinner together. | Gia đình tôi ăn tối cùng nhau.
+shower | /ʃaʊr/ | noun | vòi sen; việc tắm | I take a shower every morning. | Tôi tắm vòi sen mỗi sáng. | take a shower = đi tắm.
+usually | /ˈjuː.ʒu.ə.li/ | adv | thường thường | I usually walk to school. | Tôi thường đi bộ đến trường.
+always | /ˈɑːl.weɪz/ | adv | luôn luôn | She always gets up early. | Cô ấy luôn dậy sớm.
+never | /ˈnev.ɚ/ | adv | không bao giờ | He never drinks coffee. | Anh ấy không bao giờ uống cà phê.
+sometimes | /ˈsʌm.taɪmz/ | adv | thỉnh thoảng | Sometimes I cook dinner. | Thỉnh thoảng tôi nấu bữa tối.
+early | /ˈɝː.li/ | adv | sớm | My father goes to work early. | Bố tôi đi làm sớm.
+late | /leɪt/ | adj | muộn, trễ | Don't be late for class! | Đừng đến lớp muộn nhé!
+busy | /ˈbɪz.i/ | adj | bận rộn | I am very busy today. | Hôm nay tôi rất bận. | Đọc là "bi-zi".
+homework | /ˈhoʊm.wɝːk/ | noun | bài tập về nhà | I do my homework after dinner. | Tôi làm bài tập sau bữa tối. | Không đếm được: không nói "homeworks".
+## phrases
+I get up at six o'clock. | Tôi thức dậy lúc sáu giờ.
+I go to bed at eleven. | Tôi đi ngủ lúc mười một giờ.
+What do you usually do in the evening? | Bạn thường làm gì vào buổi tối?
+I brush my teeth twice a day. | Tôi đánh răng hai lần một ngày.
+How often do you exercise? | Bạn có thường tập thể dục không?
+## grammar
+title: Thì hiện tại đơn (Present Simple)
+summary: Thì hiện tại đơn dùng để nói về thói quen, việc lặp lại và sự thật hiển nhiên. Điểm quan trọng nhất: với he / she / it, động từ phải thêm -s hoặc -es.
+formula: I / You / We / They + V (nguyên mẫu): I work.
+formula: He / She / It + V-s / es: She works.
+formula: Phủ định: don't / doesn't + V: He doesn't work.
+formula: Câu hỏi: Do / Does + S + V?: Does she work?
+point: Quy tắc thêm -s / -es | Thêm -es khi động từ tận cùng bằng o, s, ch, sh, x, z: go → goes, watch → watches. Phụ âm + y → ies: study → studies. Đặc biệt: have → has.
+point: Trạng từ tần suất | always (100%) > usually > often > sometimes > rarely > never (0%). Đứng TRƯỚC động từ thường nhưng SAU to be: I always walk. / She is always late.
+point: Có does thì động từ về nguyên mẫu | Does she likes? (sai) → Does she like? (đúng). She doesn't works (sai) → She doesn't work.
+point: Dấu hiệu nhận biết | every day / week, on Mondays, once / twice a week, always, usually, often, sometimes, never.
+example: I usually have breakfast at home. | Tôi thường ăn sáng ở nhà.
+example: My brother watches TV every evening. | Anh trai tôi xem TV mỗi tối.
+example: She doesn't like coffee. | Cô ấy không thích cà phê.
+example: Do you go to school by bus? | Bạn đi học bằng xe buýt à?
+mistake: He go to work at 8. | He goes to work at 8. | He / She / It: động từ thêm -s / -es.
+mistake: I am usually get up at 6. | I usually get up at 6. | Không dùng am với động từ thường.
+mistake: Does she likes music? | Does she like music? | Sau does dùng động từ nguyên mẫu.
+ex: She ___ to school by bike. | go ; goes ; going | goes | Chủ ngữ she → goes.
+ex: They ___ breakfast at 7 a.m. | has ; have ; haves | have | They → have.
+ex: My father ___ watch TV in the morning. | don't ; doesn't ; isn't | doesn't | He → doesn't + V.
+ex: ___ you usually walk to work? | Do ; Does ; Are | Do | You → Do.
+ex: Tom ___ English every evening. | studys ; studies ; study | studies | Phụ âm + y → ies.
+ex: I ___ late for class. | never am ; am never ; never | am never | Trạng từ tần suất đứng sau to be.
+ex: Does your sister ___ coffee? | drink ; drinks ; drinking | drink | Sau does dùng V nguyên mẫu.
+## dialogue
+title: Bạn dậy lúc mấy giờ?
+setting: Hai đồng nghiệp nói chuyện trong giờ nghỉ.
+line: A | Kevin | You always look so fresh in the morning. What time do you get up? | Sáng nào trông bạn cũng tươi tỉnh. Bạn dậy lúc mấy giờ vậy?
+line: B | Thu | I usually get up at half past five. | Mình thường dậy lúc năm rưỡi.
+line: A | Kevin | Wow, that's early! What do you do? | Chà, sớm thế! Bạn làm gì vậy?
+line: B | Thu | I go jogging in the park, then I take a shower and have breakfast. | Mình chạy bộ trong công viên, rồi tắm và ăn sáng.
+line: A | Kevin | I never get up before seven. I'm always late! | Mình chẳng bao giờ dậy trước bảy giờ. Lúc nào mình cũng trễ!
+line: B | Thu | Try going to bed early. It really helps. | Thử đi ngủ sớm xem. Thật sự có ích đấy.
+q: What time does Thu usually get up? | 5:00 ; 5:30 ; 7:00 | 5:30
+q: What does Thu do after jogging? | She goes to work ; She takes a shower ; She goes back to bed | She takes a shower
+## reading
+title: A day in the life of a nurse
+text: Hana is a nurse at a big hospital in Da Nang. She works from Monday to Friday. Every day, she gets up at six and has a quick breakfast. She takes the bus to work and starts at seven thirty. Her job is busy, but she loves helping people. She has lunch with her colleagues at noon. She finishes work at four. In the evening, she usually cooks dinner and reads a book. She never goes to bed late because she needs a lot of energy for work.
+vi: Hana là y tá ở một bệnh viện lớn tại Đà Nẵng. Cô ấy làm việc từ thứ Hai đến thứ Sáu. Mỗi ngày, cô dậy lúc sáu giờ và ăn sáng nhanh. Cô đi xe buýt đến chỗ làm và bắt đầu lúc bảy rưỡi. Công việc bận rộn nhưng cô thích giúp đỡ mọi người. Cô ăn trưa với đồng nghiệp lúc mười hai giờ trưa và tan làm lúc bốn giờ. Buổi tối, cô thường nấu bữa tối và đọc sách. Cô không bao giờ đi ngủ muộn vì cần nhiều năng lượng cho công việc.
+q: How does Hana go to work? | by bike ; by bus ; on foot | by bus
+q: What time does she finish work? | at noon ; at four ; at seven thirty | at four
+q: Why does she never go to bed late? | She has to cook ; She needs energy for work ; She reads books | She needs energy for work

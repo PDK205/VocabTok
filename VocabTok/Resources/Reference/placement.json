@@ -1,0 +1,31 @@
+[
+  {"level": "A1", "q": "My name ___ Lan.", "options": ["am", "is", "are"], "answer": "is"},
+  {"level": "A1", "q": "They ___ students at this school.", "options": ["is", "are", "am"], "answer": "are"},
+  {"level": "A1", "q": "I ___ coffee every morning.", "options": ["drink", "drinks", "drinking"], "answer": "drink"},
+  {"level": "A1", "q": "What is the opposite of \"cheap\"?", "options": ["expensive", "small", "new"], "answer": "expensive"},
+  {"level": "A1", "q": "There ___ two books on the table.", "options": ["is", "are", "be"], "answer": "are"},
+
+  {"level": "A2", "q": "I ___ to Da Nang last summer.", "options": ["go", "went", "gone"], "answer": "went"},
+  {"level": "A2", "q": "She is ___ than her sister.", "options": ["tall", "taller", "tallest"], "answer": "taller"},
+  {"level": "A2", "q": "You look tired. You ___ go to bed early.", "options": ["should", "mustn't", "can't"], "answer": "should"},
+  {"level": "A2", "q": "We ___ going to visit our grandparents tomorrow.", "options": ["is", "are", "will"], "answer": "are"},
+  {"level": "A2", "q": "Have you ever ___ sushi?", "options": ["eat", "ate", "eaten"], "answer": "eaten"},
+
+  {"level": "B1", "q": "If it ___ tomorrow, we will stay at home.", "options": ["rains", "will rain", "rained"], "answer": "rains"},
+  {"level": "B1", "q": "This bridge ___ in 1990.", "options": ["built", "was built", "has built"], "answer": "was built"},
+  {"level": "B1", "q": "I have been learning English ___ five years.", "options": ["since", "for", "during"], "answer": "for"},
+  {"level": "B1", "q": "\"I'm tired.\" → She said that she ___ tired.", "options": ["is", "was", "be"], "answer": "was"},
+  {"level": "B1", "q": "The man ___ lives next door is a doctor.", "options": ["which", "who", "whose"], "answer": "who"},
+
+  {"level": "B2", "q": "If I had known about the meeting, I ___.", "options": ["would come", "would have come", "will come"], "answer": "would have come"},
+  {"level": "B2", "q": "Despite ___ hard, he failed the exam.", "options": ["study", "studying", "he studied"], "answer": "studying"},
+  {"level": "B2", "q": "By 2030, scientists ___ a cure for the disease.", "options": ["will find", "will have found", "are finding"], "answer": "will have found"},
+  {"level": "B2", "q": "He didn't answer the phone. He ___ asleep.", "options": ["must have been", "must be", "mustn't have been"], "answer": "must have been"},
+  {"level": "B2", "q": "The company is said ___ record profits last year.", "options": ["to make", "to have made", "making"], "answer": "to have made"},
+
+  {"level": "C1", "q": "Never ___ such a beautiful sunset.", "options": ["I have seen", "have I seen", "I saw"], "answer": "have I seen"},
+  {"level": "C1", "q": "It is essential that every student ___ the rules.", "options": ["follows", "follow", "followed"], "answer": "follow"},
+  {"level": "C1", "q": "___ you need any help, please contact me.", "options": ["Should", "Would", "Had"], "answer": "Should"},
+  {"level": "C1", "q": "It's high time we ___ action on climate change.", "options": ["take", "took", "will take"], "answer": "took"},
+  {"level": "C1", "q": "Which is the most natural collocation?", "options": ["make a conclusion", "draw a conclusion", "do a conclusion"], "answer": "draw a conclusion"}
+]

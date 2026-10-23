@@ -2,34 +2,35 @@ import SwiftUI
 
 /// Build the word by tapping shuffled letter tiles.
 struct SpellExerciseView: View {
-    let exercise: Exercise
+    let word: Word
+    let tiles: [Character]
     let state: AnswerState
     let onSubmit: (String) -> Void
 
-    /// Indices into `exercise.tiles`, in the order the user tapped them.
+    /// Indices into `tiles`, in the order the learner tapped them.
     @State private var placed: [Int] = []
     @State private var shake: CGFloat = 0
+    @State private var submitted = false
 
-    private var typed: String { String(placed.map { exercise.tiles[$0] }) }
-    private let columns = [GridItem(.adaptive(minimum: 48, maximum: 56), spacing: 10)]
+    private var typed: String { String(placed.map { tiles[$0] }) }
 
     var body: some View {
         VStack(spacing: 18) {
-            Text(exercise.kind.title)
-                .font(.system(size: 20, weight: .heavy, design: .rounded))
+            Text("Ghép chữ thành từ")
+                .font(.rounded(20, .heavy))
                 .foregroundColor(Theme.textPrimary)
                 .frame(maxWidth: .infinity, alignment: .leading)
                 .padding(.top, 12)
 
             VStack(spacing: 12) {
-                Text("“\(exercise.word.vi)”")
-                    .font(.system(size: 24, weight: .heavy, design: .rounded))
+                Text("“\(word.vi)”")
+                    .font(.rounded(24, .heavy))
                     .foregroundColor(Theme.textPrimary)
                     .multilineTextAlignment(.center)
                 HStack(spacing: 12) {
-                    SpeakButton(text: exercise.word.word, size: 42)
+                    SpeakButton(text: word.word, size: 42)
                     Text("Gợi ý: nghe phát âm")
-                        .font(.system(size: 13, weight: .semibold, design: .rounded))
+                        .font(.rounded(13, .semibold))
                         .foregroundColor(Theme.textSecondary)
                 }
             }
@@ -41,16 +42,13 @@ struct SpellExerciseView: View {
 
             Spacer(minLength: 0)
 
-            LazyVGrid(columns: columns, spacing: 10) {
-                ForEach(exercise.tiles.indices, id: \.self) { i in
+            FlowLayout(spacing: 10, lineSpacing: 10, alignment: .center) {
+                ForEach(tiles.indices, id: \.self) { i in
                     let used = placed.contains(i)
                     Button {
-                        guard state == .answering, !used else { return }
-                        Haptics.tap()
-                        withAnimation(.spring(response: 0.25, dampingFraction: 0.7)) { placed.append(i) }
-                        if placed.count == exercise.tiles.count { submit() }
+                        tapTile(i)
                     } label: {
-                        LetterTile(letter: exercise.tiles[i], faded: used)
+                        LetterTile(letter: tiles[i], faded: used)
                     }
                     .buttonStyle(PressableStyle())
                     .disabled(used || state != .answering)
@@ -65,7 +63,7 @@ struct SpellExerciseView: View {
                 } label: {
                     Label("Xoá", systemImage: "delete.left.fill")
                 }
-                .buttonStyle(BigButtonStyle(color: Theme.cardRaised, textColor: Theme.textPrimary))
+                .buttonStyle(SecondaryButtonStyle(color: Theme.textSecondary))
 
                 Button {
                     guard state == .answering else { return }
@@ -73,7 +71,7 @@ struct SpellExerciseView: View {
                 } label: {
                     Label("Làm lại", systemImage: "arrow.counterclockwise")
                 }
-                .buttonStyle(BigButtonStyle(color: Theme.cardRaised, textColor: Theme.textPrimary))
+                .buttonStyle(SecondaryButtonStyle(color: Theme.textSecondary))
             }
             .opacity(state == .answering ? 1 : 0)
             .padding(.bottom, 12)
@@ -81,24 +79,38 @@ struct SpellExerciseView: View {
         .padding(.horizontal, 18)
     }
 
+    private func tapTile(_ i: Int) {
+        guard state == .answering, !placed.contains(i), !submitted else { return }
+        Haptics.tap()
+        withAnimation(.spring(response: 0.25, dampingFraction: 0.7)) { placed.append(i) }
+        if placed.count == tiles.count {
+            submitted = true
+            let answer = typed
+            if TextMatch.normalize(answer) != TextMatch.normalize(word.word) {
+                withAnimation(.linear(duration: 0.4)) { shake += 1 }
+            }
+            DispatchQueue.main.asyncAfter(deadline: .now() + 0.15) { onSubmit(answer) }
+        }
+    }
+
     private var answerSlots: some View {
-        let slotColor: Color = state == .correct ? Theme.success : state == .wrong ? Theme.danger : Theme.accent
-        return LazyVGrid(columns: [GridItem(.adaptive(minimum: 30, maximum: 38), spacing: 6)], spacing: 8) {
-            ForEach(exercise.tiles.indices, id: \.self) { slot in
+        let slotColor: Color = state == .correct ? Theme.success : (state == .wrong ? Theme.danger : Theme.accent)
+        return FlowLayout(spacing: 6, lineSpacing: 8, alignment: .center) {
+            ForEach(tiles.indices, id: \.self) { slot in
                 let filled = slot < placed.count
-                Text(filled ? String(exercise.tiles[placed[slot]]) : " ")
-                    .font(.system(size: 22, weight: .heavy, design: .rounded))
+                Text(filled ? String(tiles[placed[slot]]) : " ")
+                    .font(.rounded(24, .heavy))
                     .foregroundColor(slotColor)
-                    .frame(width: 32, height: 42)
+                    .frame(width: 30, height: 42)
                     .overlay(
                         Rectangle()
                             .fill(filled ? slotColor : Theme.stroke)
                             .frame(height: 3),
                         alignment: .bottom
                     )
+                    .contentShape(Rectangle())
                     .onTapGesture {
-                        // Tap a filled slot to send that letter (and the ones after it) back.
-                        guard state == .answering, filled else { return }
+                        guard state == .answering, filled, !submitted else { return }
                         Haptics.tap()
                         withAnimation(.spring(response: 0.25, dampingFraction: 0.7)) { placed.removeSubrange(slot...) }
                     }
@@ -106,24 +118,15 @@ struct SpellExerciseView: View {
         }
         .padding(.horizontal, 4)
     }
-
-    private func submit() {
-        let answer = typed
-        let correct = answer == exercise.answer
-        if !correct {
-            withAnimation(.linear(duration: 0.4)) { shake += 1 }
-        }
-        DispatchQueue.main.asyncAfter(deadline: .now() + 0.15) { onSubmit(answer) }
-    }
 }
 
-private struct LetterTile: View {
+struct LetterTile: View {
     let letter: Character
     let faded: Bool
 
     var body: some View {
         Text(String(letter))
-            .font(.system(size: 24, weight: .heavy, design: .rounded))
+            .font(.rounded(24, .heavy))
             .foregroundColor(faded ? .clear : Theme.textPrimary)
             .frame(width: 50, height: 54)
             .background(

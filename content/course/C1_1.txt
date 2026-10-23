@@ -1,0 +1,285 @@
+@level C1
+name: Cao cấp
+nameEn: Advanced
+color: 8B5CF6
+emoji: 🏆
+hours: 700+ giờ
+description: Sử dụng tiếng Anh linh hoạt, chính xác trong học thuật và công việc; diễn đạt ý tưởng phức tạp với văn phong trang trọng, sắc thái tinh tế.
+cando: Viết luận học thuật mạch lạc, chặt chẽ
+cando: Dùng cấu trúc nhấn mạnh: đảo ngữ, câu chẻ, giả định
+cando: Thảo luận các vấn đề xã hội, kinh tế, đạo đức chuyên sâu
+cando: Đàm phán, thuyết trình với văn phong trang trọng
+cando: Tương đương IELTS 7.0–8.0
+
+# UNIT c1-u1
+title: Ngôn ngữ học thuật
+titleEn: Academic Language
+emoji: 🖋️
+goal: Diễn đạt trang trọng, mạch lạc và nhấn mạnh bằng đảo ngữ.
+## words
+ambiguous | /æmˈbɪɡ.ju.əs/ | adj | mơ hồ, nước đôi | The instructions were ambiguous. | Hướng dẫn rất mơ hồ. | ambi = hai phía → hiểu theo hai cách.
+coherent | /koʊˈhɪr.ənt/ | adj | mạch lạc | Your essay must be clear and coherent. | Bài luận của bạn phải rõ ràng và mạch lạc. | coherence = sự mạch lạc (tiêu chí chấm IELTS).
+articulate | /ɑːrˈtɪk.jə.lət/ | adj | diễn đạt lưu loát, rõ ràng | She is an articulate speaker. | Cô ấy là người diễn đạt rất lưu loát. | Động từ đọc /-leɪt/ = diễn đạt.
+eloquent | /ˈel.ə.kwənt/ | adj | hùng hồn, có tài hùng biện | He gave an eloquent speech. | Anh ấy có một bài phát biểu hùng hồn. | Gốc "loqu" = nói.
+concise | /kənˈsaɪs/ | adj | súc tích | Keep your answers short and concise. | Hãy giữ câu trả lời ngắn gọn, súc tích.
+nuance | /ˈnuː.ɑːns/ | noun | sắc thái | Translators must understand every nuance of meaning. | Người dịch phải hiểu mọi sắc thái ý nghĩa.
+convey | /kənˈveɪ/ | verb | truyền đạt | Music can convey emotions better than words. | Âm nhạc có thể truyền đạt cảm xúc tốt hơn lời nói.
+elaborate | /iˈlæb.ə.reɪt/ | verb | trình bày chi tiết | Could you elaborate on that point? | Bạn có thể trình bày chi tiết hơn ý đó không? | Tính từ đọc /-rət/ = công phu.
+implicit | /ɪmˈplɪs.ɪt/ | adj | ngầm, ẩn ý | There was an implicit criticism in his words. | Trong lời nói của anh ta có hàm ý chỉ trích.
+explicit | /ɪkˈsplɪs.ɪt/ | adj | rõ ràng, tường minh | The rules must be explicit. | Các quy tắc phải rõ ràng. | Trái nghĩa: implicit.
+rhetoric | /ˈret̬.ɚ.ɪk/ | noun | thuật hùng biện; lời lẽ hoa mỹ | His speech was full of empty rhetoric. | Bài phát biểu của ông ta đầy những lời lẽ sáo rỗng.
+paraphrase | /ˈper.ə.freɪz/ | verb | diễn đạt lại bằng từ khác | In IELTS, you should paraphrase the question. | Trong IELTS, bạn nên diễn đạt lại câu hỏi.
+## phrases
+To put it another way, ... | Nói cách khác, ...
+It goes without saying that... | Không cần phải nói cũng biết rằng...
+That's beside the point. | Điều đó không liên quan đến vấn đề chính.
+Let me rephrase that. | Để tôi nói lại cho rõ.
+In a nutshell, ... | Tóm lại, ...
+## grammar
+title: Đảo ngữ (Inversion)
+summary: Đảo ngữ là đưa trợ động từ lên trước chủ ngữ sau một trạng từ phủ định hoặc hạn chế đứng đầu câu. Cấu trúc này tạo sự nhấn mạnh, trang trọng – rất được đánh giá cao trong IELTS Writing và Speaking band 7+.
+formula: Never / Rarely / Seldom + trợ động từ + S + V: Never have I seen such a beautiful place.
+formula: Not only + trợ động từ + S + V, but (S) also...: Not only is she smart, but she is also kind.
+formula: Hardly / Scarcely + had + S + V3 + when...: Hardly had I arrived when it started to rain.
+formula: No sooner + had + S + V3 + than...: No sooner had he left than the phone rang.
+formula: Only then / Only after + ... + trợ động từ + S + V · Under no circumstances + trợ động từ + S + V
+point: Cách đảo | Giống câu hỏi: dùng trợ động từ của thì tương ứng (do / does / did, have / has / had, am / is / are, can, will...). I rarely eat meat → Rarely do I eat meat.
+point: Hardly... when / No sooner... than | Diễn tả hai hành động xảy ra liên tiếp gần như ngay lập tức, thường ở quá khứ hoàn thành: No sooner had we sat down than the lights went off.
+point: Only + trạng ngữ | Only when / Only after / Only by: Only after the exam did I realise my mistake. (Đảo ở mệnh đề CHÍNH.)
+point: Not until | Not until + mốc / mệnh đề + trợ động từ + S + V: Not until I moved abroad did I appreciate Vietnamese food.
+example: Rarely do we see such eloquent speakers. | Hiếm khi chúng ta thấy những diễn giả hùng hồn như vậy.
+example: Not only did he win the debate, but he also impressed the judges. | Anh ấy không chỉ thắng cuộc tranh luận mà còn gây ấn tượng với ban giám khảo.
+example: Hardly had she started her speech when the microphone stopped working. | Cô ấy vừa mới bắt đầu bài phát biểu thì micro ngừng hoạt động.
+example: Under no circumstances should you copy other people's work. | Trong bất kỳ trường hợp nào bạn cũng không được sao chép bài của người khác.
+mistake: Never I have seen such a mess. | Never have I seen such a mess. | Trợ động từ phải đứng trước chủ ngữ.
+mistake: Not only she sings, but she also dances. | Not only does she sing, but she also dances. | Thêm trợ động từ does.
+mistake: No sooner had I arrived when it rained. | No sooner had I arrived than it rained. | No sooner đi với than.
+ex: Never ___ such a convincing argument. | I have heard ; have I heard ; I heard | have I heard | Never đầu câu → đảo trợ động từ.
+ex: Not only ___ the exam, but she also got the highest score. | she passed ; did she pass ; passed she | did she pass | Not only + trợ động từ + S + V.
+ex: Hardly had we started the meeting ___ the fire alarm went off. | than ; when ; then | when | Hardly... when.
+ex: No sooner had he finished his speech ___ the audience applauded. | when ; than ; that | than | No sooner... than.
+ex: Rarely ___ students use such sophisticated vocabulary. | do ; are ; have | do | Hiện tại đơn → do.
+ex: Only after reading it twice ___ the main idea. | I understood ; did I understand ; I did understand | did I understand | Only after... → đảo ở mệnh đề chính.
+ex: Under no circumstances ___ leave the exam room early. | you should ; should you ; you must | should you | Under no circumstances + trợ động từ + S.
+## dialogue
+title: Luyện IELTS Speaking
+setting: Giáo viên nhận xét bài nói của học viên.
+line: A | Ms. Clark | Your ideas were excellent, but could you elaborate a bit more? Your answers were quite short. | Ý tưởng của em rất tốt, nhưng em có thể triển khai chi tiết hơn không? Câu trả lời của em khá ngắn.
+line: B | Bảo Anh | I see. I was worried about making mistakes, so I kept everything concise. | Em hiểu ạ. Em sợ mắc lỗi nên giữ mọi thứ thật ngắn gọn.
+line: A | Ms. Clark | Being concise is good in writing, but in speaking, examiners want to see how articulate you are. | Súc tích thì tốt trong bài viết, nhưng trong bài nói, giám khảo muốn thấy em diễn đạt lưu loát đến đâu.
+line: B | Bảo Anh | Should I use more advanced grammar? | Em có nên dùng ngữ pháp nâng cao hơn không ạ?
+line: A | Ms. Clark | Yes, but naturally. For example, instead of "I have never seen such a beautiful city", try "Never have I seen such a beautiful city". | Có, nhưng phải tự nhiên. Ví dụ, thay vì "I have never seen such a beautiful city", hãy thử "Never have I seen such a beautiful city".
+line: B | Bảo Anh | That sounds much more impressive! | Nghe ấn tượng hơn hẳn ạ!
+line: A | Ms. Clark | Exactly. And remember to paraphrase the question instead of repeating it word for word. | Đúng vậy. Và nhớ diễn đạt lại câu hỏi thay vì lặp lại y nguyên từng chữ.
+q: What was the problem with the student's answers? | They were too long ; They were too short ; They were off-topic | They were too short
+q: What does the teacher advise about the question? | repeat it exactly ; paraphrase it ; ignore it | paraphrase it
+## reading
+title: The art of clear writing
+text: Many people believe that good academic writing must be full of long words and complicated sentences. In reality, the opposite is often true. The best writers are able to convey complex ideas in a clear, concise and coherent way. Not only does unnecessary jargon make a text harder to read, but it can also hide a lack of real understanding. That said, simplicity does not mean being simplistic. Skilled writers use precise vocabulary to express subtle nuances, and they vary their sentence structures to keep readers engaged. Rarely is a text improved by making it longer; more often, it is improved by cutting what is not needed.
+vi: Nhiều người tin rằng văn phong học thuật tốt phải đầy từ dài và câu phức tạp. Thực tế, điều ngược lại thường đúng hơn. Những người viết giỏi nhất có khả năng truyền đạt ý tưởng phức tạp một cách rõ ràng, súc tích và mạch lạc. Biệt ngữ không cần thiết không chỉ khiến văn bản khó đọc hơn mà còn có thể che giấu sự thiếu hiểu biết thực sự. Dù vậy, đơn giản không có nghĩa là hời hợt. Người viết có kỹ năng dùng từ vựng chính xác để diễn tả những sắc thái tinh tế, và thay đổi cấu trúc câu để giữ chân người đọc. Hiếm khi một văn bản trở nên tốt hơn nhờ viết dài ra; thường thì nó tốt hơn nhờ cắt bỏ những gì không cần thiết.
+q: What can unnecessary jargon do? | make a text more convincing ; hide a lack of understanding ; make a text shorter | hide a lack of understanding
+q: How is a text usually improved, according to the writer? | by making it longer ; by cutting what is not needed ; by adding jargon | by cutting what is not needed
+
+# UNIT c1-u2
+title: Tư duy & Phẩm chất
+titleEn: Mindset & Character
+emoji: 💡
+goal: Mô tả phẩm chất tinh tế và nhấn mạnh ý bằng câu chẻ.
+## words
+pragmatic | /præɡˈmæt̬.ɪk/ | adj | thực tế, thực dụng | We need a pragmatic solution, not a perfect one. | Chúng ta cần một giải pháp thực tế, không phải hoàn hảo.
+tenacious | /təˈneɪ.ʃəs/ | adj | ngoan cường, bền bỉ | She is tenacious and never gives up on her goals. | Cô ấy bền bỉ và không bao giờ từ bỏ mục tiêu.
+diligent | /ˈdɪl.ə.dʒənt/ | adj | siêng năng, cần mẫn | Diligent students review their notes every day. | Học sinh siêng năng ôn bài mỗi ngày.
+versatile | /ˈvɝː.sə.t̬əl/ | adj | đa năng, linh hoạt | He is a versatile actor who can play any role. | Anh ấy là diễn viên đa năng, đóng được mọi vai.
+meticulous | /məˈtɪk.jə.ləs/ | adj | tỉ mỉ, kỹ lưỡng | She is meticulous about every detail. | Cô ấy tỉ mỉ đến từng chi tiết.
+impulsive | /ɪmˈpʌl.sɪv/ | adj | bốc đồng | Don't make impulsive decisions about money. | Đừng đưa ra quyết định bốc đồng về tiền bạc.
+intuitive | /ɪnˈtuː.ə.t̬ɪv/ | adj | trực quan; có trực giác | This app has a very intuitive design. | Ứng dụng này có thiết kế rất trực quan. | intuition = trực giác.
+skeptical | /ˈskep.tɪ.kəl/ | adj | hoài nghi | Scientists are skeptical about the new claims. | Các nhà khoa học hoài nghi về những tuyên bố mới. | Anh-Anh viết sceptical.
+empathetic | /ˌem.pəˈθet̬.ɪk/ | adj | đồng cảm, thấu cảm | A good leader is empathetic towards the team. | Một nhà lãnh đạo giỏi biết thấu cảm với đội ngũ. | empathy = sự thấu cảm.
+arrogant | /ˈer.ə.ɡənt/ | adj | kiêu ngạo | His arrogant attitude annoyed everyone. | Thái độ kiêu ngạo của anh ta khiến mọi người khó chịu.
+humble | /ˈhʌm.bəl/ | adj | khiêm nhường | Despite his fame, he remains humble. | Dù nổi tiếng, anh ấy vẫn khiêm nhường.
+resilient | /rɪˈzɪl.jənt/ | adj | kiên cường, mau phục hồi | Children are often more resilient than adults think. | Trẻ em thường kiên cường hơn người lớn nghĩ. | Như lò xo: nén xuống rồi lại bật lên.
+## phrases
+He's a jack of all trades. | Anh ấy biết đủ thứ nghề.
+She keeps her feet on the ground. | Cô ấy luôn thực tế và khiêm tốn.
+Actions speak louder than words. | Hành động có sức nặng hơn lời nói.
+It's not what you know, it's who you know. | Quan trọng không phải bạn biết gì mà là bạn quen ai.
+He has a chip on his shoulder. | Anh ta hay tự ái, dễ phật ý.
+## grammar
+title: Câu chẻ (Cleft Sentences)
+summary: Câu chẻ chia một câu thành hai phần để NHẤN MẠNH một thông tin cụ thể. Đây là công cụ mạnh giúp bài nói và viết sắc sảo, tự nhiên như người bản xứ.
+formula: It is / was + phần nhấn mạnh + that / who + phần còn lại: It was her determination that impressed me.
+formula: What + S + V + is / was + phần nhấn mạnh: What I admire most is her honesty.
+formula: All (that) + S + V + is / was...: All I want is a little respect.
+formula: The reason (why) / The thing (that) + S + V + is...: The reason why I left is that I needed a change.
+point: It-cleft | Nhấn mạnh chủ ngữ, tân ngữ hoặc trạng ngữ: Tom broke the window yesterday → It was Tom who broke the window. / It was yesterday that Tom broke the window.
+point: What-cleft | Đưa thông tin mới, quan trọng xuống cuối câu: I need more time → What I need is more time. Nhấn mạnh hành động: What she did was (to) call the police.
+point: All... is | Nhấn mạnh sự đơn giản, duy nhất: All you need to do is (to) press this button.
+point: Ứng dụng trong Speaking | Giúp câu trả lời có điểm nhấn: What really motivates me is the chance to help others. / It's not money that makes people happy, it's relationships.
+example: It was his humble attitude that won everyone's respect. | Chính thái độ khiêm nhường của anh ấy đã chiếm được sự tôn trọng của mọi người.
+example: What makes her a great leader is her empathy. | Điều khiến cô ấy trở thành nhà lãnh đạo giỏi là sự thấu cảm.
+example: All I asked for was an honest answer. | Tất cả những gì tôi yêu cầu là một câu trả lời thành thật.
+example: It wasn't until I failed that I learned to be resilient. | Mãi đến khi thất bại tôi mới học được cách kiên cường.
+mistake: It was Mai which helped me. | It was Mai who helped me. | Người dùng who (hoặc that).
+mistake: What I need it is rest. | What I need is rest. | Không thêm it.
+mistake: It is the teachers who is responsible. | It is the teachers who are responsible. | Động từ chia theo danh từ được nhấn mạnh.
+ex: It was her patience ___ impressed the interviewers. | that ; what ; which it | that | It was + X + that...
+ex: ___ I admire most about him is his honesty. | That ; What ; Which | What | What-cleft.
+ex: It was in 2015 ___ she started her own company. | that ; when it ; which | that | Nhấn mạnh thời gian vẫn dùng that.
+ex: All you need to do ___ be yourself. | is ; are ; was being | is | All... is (to) V.
+ex: It ___ my parents who taught me to be humble. | were ; was ; is being | was | Luôn dùng It is / It was.
+ex: What she did ___ apologize to everyone. | is ; was ; were | was | What she did was (to) V.
+ex: The reason ___ I left the company is that I wanted a challenge. | why ; what ; because | why | The reason why...
+## dialogue
+title: Phẩm chất của nhà lãnh đạo
+setting: Một CEO trả lời phỏng vấn trên podcast.
+line: A | Daniel | What do you think makes a great leader? | Theo bà, điều gì tạo nên một nhà lãnh đạo giỏi?
+line: B | Ms. Lan | What matters most, in my opinion, is the ability to listen. Many leaders are intelligent, but few are truly empathetic. | Theo tôi, điều quan trọng nhất là khả năng lắng nghe. Nhiều nhà lãnh đạo thông minh, nhưng ít người thực sự biết thấu cảm.
+line: A | Daniel | Interesting. Was there a moment that shaped your leadership style? | Thú vị. Có khoảnh khắc nào định hình phong cách lãnh đạo của bà không?
+line: B | Ms. Lan | Yes. It was when my first company failed that I learned to be humble and resilient. | Có. Chính khi công ty đầu tiên của tôi thất bại, tôi mới học được cách khiêm nhường và kiên cường.
+line: A | Daniel | What did you do differently the second time? | Lần thứ hai bà đã làm khác đi điều gì?
+line: B | Ms. Lan | What I did was surround myself with people who were smarter than me – and actually listen to them. | Điều tôi làm là bao quanh mình bằng những người giỏi hơn mình – và thực sự lắng nghe họ.
+line: A | Daniel | All our listeners want to know is: do you ever make impulsive decisions? | Tất cả những gì thính giả muốn biết là: bà có bao giờ đưa ra quyết định bốc đồng không?
+line: B | Ms. Lan | Rarely! I'm quite pragmatic. I sleep on every big decision. | Hiếm lắm! Tôi khá thực tế. Mọi quyết định lớn tôi đều để qua một đêm suy nghĩ.
+q: What does Ms. Lan think matters most in a leader? | intelligence ; the ability to listen ; making quick decisions | the ability to listen
+q: When did she learn to be humble and resilient? | when her first company failed ; when she became famous ; at university | when her first company failed
+## reading
+title: Grit: the secret to success?
+text: Why do some people achieve their goals while others with equal talent do not? According to psychologist Angela Duckworth, it is not intelligence that best predicts success, but "grit" – a combination of passion and perseverance over a long period of time. In her studies of students, soldiers and salespeople, what separated the most successful from the rest was their tenacity: they kept going after failure. Critics are skeptical, arguing that grit is simply another word for diligence and that factors like wealth and opportunity matter more. Nevertheless, the idea has encouraged many people to see effort, not just talent, as the key to achievement.
+vi: Vì sao một số người đạt được mục tiêu trong khi những người khác có tài năng ngang bằng lại không? Theo nhà tâm lý học Angela Duckworth, không phải trí thông minh mà là "grit" (sự bền bỉ) – sự kết hợp giữa đam mê và kiên trì trong thời gian dài – mới dự đoán thành công tốt nhất. Trong các nghiên cứu về học sinh, binh sĩ và nhân viên bán hàng, điều phân biệt những người thành công nhất với phần còn lại là sự ngoan cường: họ tiếp tục sau thất bại. Những người chỉ trích tỏ ra hoài nghi, cho rằng grit chỉ là một từ khác của sự cần cù và các yếu tố như tài sản hay cơ hội quan trọng hơn. Tuy vậy, ý tưởng này đã khuyến khích nhiều người coi nỗ lực, chứ không chỉ tài năng, là chìa khóa của thành tựu.
+q: According to Duckworth, what best predicts success? | intelligence ; grit ; wealth | grit
+q: What do critics argue? | Grit doesn't exist ; Wealth and opportunity matter more ; Talent is everything | Wealth and opportunity matter more
+
+# UNIT c1-u3
+title: Xã hội & Công bằng
+titleEn: Society & Equality
+emoji: 🤲
+goal: Thảo luận vấn đề xã hội và đưa ra yêu cầu, khuyến nghị bằng thức giả định.
+## words
+inequality | /ˌɪn.ɪˈkwɑː.lə.t̬i/ | noun | sự bất bình đẳng | Income inequality has increased in many countries. | Bất bình đẳng thu nhập đã gia tăng ở nhiều quốc gia.
+poverty | /ˈpɑː.vɚ.t̬i/ | noun | sự nghèo đói | Millions of people still live in poverty. | Hàng triệu người vẫn sống trong cảnh nghèo đói. | poor → poverty.
+discrimination | /dɪˌskrɪm.əˈneɪ.ʃən/ | noun | sự phân biệt đối xử | Discrimination based on gender is illegal. | Phân biệt đối xử dựa trên giới tính là bất hợp pháp.
+privilege | /ˈprɪv.əl.ɪdʒ/ | noun | đặc quyền | Education should be a right, not a privilege. | Giáo dục nên là quyền, không phải đặc quyền.
+marginalize | /ˈmɑːr.dʒɪ.nəl.aɪz/ | verb | gạt ra ngoài lề | Disabled people are often marginalized. | Người khuyết tật thường bị gạt ra ngoài lề xã hội. | margin = lề.
+welfare | /ˈwel.fer/ | noun | phúc lợi | The government spends billions on social welfare. | Chính phủ chi hàng tỷ cho phúc lợi xã hội.
+equity | /ˈek.wə.t̬i/ | noun | sự công bằng | Equity means giving people what they need to succeed. | Công bằng là trao cho mỗi người những gì họ cần để thành công. | equality = như nhau; equity = theo nhu cầu.
+prejudice | /ˈpredʒ.ə.dɪs/ | noun | định kiến | We must fight racial prejudice. | Chúng ta phải chống lại định kiến chủng tộc. | pre (trước) + judge (phán xét).
+advocate | /ˈæd.və.keɪt/ | verb | ủng hộ, bênh vực | She advocates equal pay for women. | Cô ấy ủng hộ trả lương ngang bằng cho phụ nữ. | Danh từ đọc /-kət/ = người ủng hộ.
+empower | /ɪmˈpaʊ.ɚ/ | verb | trao quyền, tiếp sức | Education empowers women to make their own choices. | Giáo dục trao quyền cho phụ nữ tự đưa ra lựa chọn. | em + power.
+grassroots | /ˌɡræsˈruːts/ | adj | (thuộc) cơ sở, quần chúng | The campaign began as a grassroots movement. | Chiến dịch bắt đầu như một phong trào quần chúng. | grass (cỏ) + roots (rễ).
+stigma | /ˈstɪɡ.mə/ | noun | sự kỳ thị | There is still a stigma around mental illness. | Vẫn còn sự kỳ thị đối với bệnh tâm thần.
+## phrases
+Everyone deserves a fair chance. | Ai cũng xứng đáng có một cơ hội công bằng.
+We need to level the playing field. | Chúng ta cần tạo sân chơi bình đẳng.
+It's a vicious circle. | Đó là một vòng luẩn quẩn.
+Teach a man to fish and you feed him for a lifetime. | Cho cần câu thay vì cho con cá.
+Charity begins at home. | Lòng nhân ái bắt đầu từ chính gia đình.
+## grammar
+title: Thức giả định (Subjunctive)
+summary: Thức giả định dùng động từ nguyên mẫu (không chia) sau các động từ / tính từ thể hiện yêu cầu, đề nghị, sự cấp thiết. Đây là dấu hiệu của văn phong trang trọng, học thuật.
+formula: S + suggest / recommend / insist / demand / propose + (that) + S + V nguyên mẫu
+formula: It is essential / vital / important / crucial + that + S + V nguyên mẫu
+formula: Phủ định: that + S + not + V (They demand that he not be released.)
+formula: Bị động: that + S + be + V3 (It is vital that the law be changed.)
+point: Động từ không chia | Dù chủ ngữ là he / she, động từ vẫn nguyên mẫu: The committee recommends that she apply again (KHÔNG phải applies).
+point: Anh-Anh hay dùng should | Người Anh thường thêm should: I suggest that he should apply. Cả hai cách đều đúng, dạng không có should trang trọng hơn.
+point: Các tính từ thường gặp | essential, vital, crucial, imperative, important, necessary, urgent: It is imperative that every child have access to education.
+point: Cấu trúc thay thế an toàn | Nếu không chắc, dùng for sb to V: It is essential for every child to have access to education.
+example: Activists demand that the government take action on inequality. | Các nhà hoạt động yêu cầu chính phủ hành động về vấn đề bất bình đẳng.
+example: It is vital that every citizen be treated equally. | Điều thiết yếu là mọi công dân đều được đối xử bình đẳng.
+example: The report recommends that welfare spending be increased. | Báo cáo khuyến nghị tăng chi tiêu phúc lợi.
+example: I suggest that he not make any promises he can't keep. | Tôi đề nghị anh ấy đừng hứa những điều không thể giữ.
+mistake: They insisted that he pays the fine. | They insisted that he pay the fine. | Thức giả định dùng V nguyên mẫu.
+mistake: It is essential that the law is changed. | It is essential that the law be changed. | Bị động giả định: be + V3.
+mistake: She suggested me to apply. | She suggested that I apply. | suggest + that + S + V.
+ex: The committee recommends that she ___ for the scholarship. | applies ; apply ; applied | apply | Thức giả định: V nguyên mẫu.
+ex: It is essential that every child ___ access to clean water. | has ; have ; had | have | It is essential that + S + V nguyên mẫu.
+ex: Protesters demand that the law ___ immediately. | is changed ; be changed ; changes | be changed | Bị động giả định: be + V3.
+ex: I suggest that he ___ late again. | not be ; isn't ; won't be | not be | Phủ định giả định: not + V.
+ex: It is vital that the government ___ action now. | take ; takes ; took | take | V nguyên mẫu.
+ex: The doctor insisted that the patient ___ in bed. | stays ; stay ; stayed | stay | insist that + S + V nguyên mẫu.
+ex: It's important ___ everyone to have equal opportunities. | that ; for ; to | for | It's important for sb to V.
+## dialogue
+title: Hội thảo về bình đẳng giáo dục
+setting: Hai diễn giả trao đổi tại hội thảo.
+line: A | Dr. Hoa | Children in remote areas still don't have the same opportunities as those in cities. It's vital that this gap be closed. | Trẻ em vùng sâu vùng xa vẫn chưa có cơ hội như trẻ em thành phố. Điều thiết yếu là khoảng cách này phải được thu hẹp.
+line: B | Mr. Evans | I agree. But simply giving every school the same budget isn't enough. We need equity, not just equality. | Tôi đồng ý. Nhưng chỉ cấp cho mọi trường cùng một ngân sách thì chưa đủ. Chúng ta cần công bằng, không chỉ bình đẳng.
+line: A | Dr. Hoa | Exactly. I'd recommend that schools in poor areas receive extra funding and better-trained teachers. | Chính xác. Tôi khuyến nghị các trường ở vùng nghèo được nhận thêm kinh phí và giáo viên được đào tạo tốt hơn.
+line: B | Mr. Evans | And what about grassroots initiatives? Local communities often understand the problems best. | Còn các sáng kiến từ cơ sở thì sao? Cộng đồng địa phương thường hiểu rõ vấn đề nhất.
+line: A | Dr. Hoa | Absolutely. I'd also insist that girls be given special support, since they're more likely to drop out. | Hoàn toàn đúng. Tôi cũng kiên quyết đề nghị các em gái được hỗ trợ đặc biệt, vì các em dễ bỏ học hơn.
+line: B | Mr. Evans | Education is the most powerful tool we have to break the cycle of poverty. | Giáo dục là công cụ mạnh nhất chúng ta có để phá vỡ vòng luẩn quẩn của nghèo đói.
+q: What does Mr. Evans say is needed? | the same budget for every school ; equity, not just equality ; more exams | equity, not just equality
+q: Why should girls receive special support? | They are better students ; They are more likely to drop out ; They need more books | They are more likely to drop out
+## reading
+title: Equality or equity?
+text: The terms equality and equity are often used interchangeably, but they mean different things. Equality means giving everyone exactly the same resources. Equity, by contrast, recognises that people start from different positions and therefore need different levels of support to reach the same outcome. A famous illustration shows three people of different heights trying to watch a football match over a fence. Giving each of them the same box is equality; giving the shortest person more boxes is equity. Critics warn that equity policies can be difficult to design fairly. Nevertheless, many experts insist that governments address the root causes of disadvantage.
+vi: Hai thuật ngữ bình đẳng (equality) và công bằng (equity) thường được dùng thay thế nhau, nhưng chúng mang nghĩa khác nhau. Bình đẳng là trao cho mọi người nguồn lực giống hệt nhau. Ngược lại, công bằng thừa nhận rằng mỗi người xuất phát từ vị trí khác nhau và do đó cần mức hỗ trợ khác nhau để đạt cùng một kết quả. Một hình minh họa nổi tiếng cho thấy ba người có chiều cao khác nhau đang cố xem trận bóng qua hàng rào. Cho mỗi người một chiếc hộp giống nhau là bình đẳng; cho người thấp nhất nhiều hộp hơn là công bằng. Những người chỉ trích cảnh báo rằng chính sách công bằng có thể khó thiết kế một cách hợp lý. Tuy vậy, nhiều chuyên gia kiên quyết cho rằng chính phủ phải giải quyết tận gốc nguyên nhân của sự thiệt thòi.
+q: What does equity recognise? | Everyone needs the same resources ; People start from different positions ; Football is important | People start from different positions
+q: In the illustration, what is equity? | giving everyone the same box ; giving the shortest person more boxes ; removing the fence | giving the shortest person more boxes
+
+# UNIT c1-u4
+title: Kinh tế toàn cầu
+titleEn: Global Economy
+emoji: 💹
+goal: Phân tích xu hướng kinh tế và viết học thuật bằng danh từ hóa.
+## words
+inflation | /ɪnˈfleɪ.ʃən/ | noun | lạm phát | Inflation has reduced people's purchasing power. | Lạm phát đã làm giảm sức mua của người dân.
+recession | /rɪˈseʃ.ən/ | noun | suy thoái kinh tế | Many companies went bankrupt during the recession. | Nhiều công ty phá sản trong thời kỳ suy thoái.
+fiscal | /ˈfɪs.kəl/ | adj | (thuộc) tài khóa, ngân sách nhà nước | The government announced new fiscal policies. | Chính phủ công bố chính sách tài khóa mới.
+monetary | /ˈmɑː.nə.ter.i/ | adj | (thuộc) tiền tệ | The central bank controls monetary policy. | Ngân hàng trung ương kiểm soát chính sách tiền tệ.
+stagnant | /ˈstæɡ.nənt/ | adj | trì trệ | Wages have remained stagnant for years. | Tiền lương trì trệ suốt nhiều năm.
+fluctuate | /ˈflʌk.tʃu.eɪt/ | verb | dao động, biến động | Oil prices fluctuate constantly. | Giá dầu biến động liên tục.
+globalization | /ˌɡloʊ.bəl.əˈzeɪ.ʃən/ | noun | toàn cầu hóa | Globalization has connected markets around the world. | Toàn cầu hóa đã kết nối các thị trường trên khắp thế giới.
+tariff | /ˈter.ɪf/ | noun | thuế quan | The new tariffs on imports have raised prices. | Thuế quan mới đối với hàng nhập khẩu đã làm tăng giá.
+subsidy | /ˈsʌb.sə.di/ | noun | trợ cấp | Farmers receive government subsidies. | Nông dân nhận trợ cấp của chính phủ.
+deficit | /ˈdef.ə.sɪt/ | noun | thâm hụt | The country has a large budget deficit. | Đất nước có mức thâm hụt ngân sách lớn.
+surplus | /ˈsɝː.pləs/ | noun | thặng dư | Vietnam has a large trade surplus with the US. | Việt Nam có thặng dư thương mại lớn với Mỹ.
+commodity | /kəˈmɑː.də.t̬i/ | noun | hàng hóa cơ bản | Coffee is one of Vietnam's main export commodities. | Cà phê là một trong những mặt hàng xuất khẩu chính của Việt Nam.
+## phrases
+The economy is booming. | Nền kinh tế đang bùng nổ.
+We need to tighten our belts. | Chúng ta cần thắt lưng buộc bụng.
+Prices are going through the roof. | Giá cả tăng chóng mặt.
+It's a buyer's market. | Đó là thị trường có lợi cho người mua.
+Don't put all your eggs in one basket. | Đừng bỏ hết trứng vào một giỏ.
+## grammar
+title: Danh từ hóa (Nominalization) trong văn viết học thuật
+summary: Danh từ hóa là biến động từ / tính từ thành danh từ để câu văn khách quan, cô đọng và trang trọng hơn. Đây là đặc trưng quan trọng nhất của văn phong học thuật và IELTS Writing.
+formula: Động từ → danh từ: increase → an increase, decide → a decision, grow → growth, fail → failure
+formula: Tính từ → danh từ: important → importance, stable → stability, poor → poverty
+formula: There was a + adj + N + in + X (There was a sharp rise in inflation.)
+formula: The + N + of + X + V... (The introduction of tariffs led to higher prices.)
+point: Câu nói → câu viết học thuật | Prices rose sharply, so people bought less. → The sharp rise in prices led to a fall in consumption.
+point: Trạng từ biến thành tính từ | Khi danh từ hóa, trạng từ trở thành tính từ: increased dramatically → a dramatic increase; fell slightly → a slight fall.
+point: Dùng cho IELTS Task 1 | There was a significant increase in exports between 2010 and 2020. / Exports experienced a gradual decline.
+point: Đừng lạm dụng | Quá nhiều danh từ khiến câu nặng nề, khó đọc. Kết hợp hài hòa danh từ hóa với động từ mạnh để câu vẫn rõ ràng.
+example: The government's decision to raise taxes was unpopular. | Quyết định tăng thuế của chính phủ không được lòng dân.
+example: There has been a dramatic increase in the cost of living. | Chi phí sinh hoạt đã tăng mạnh.
+example: The failure of several banks caused a global recession. | Sự sụp đổ của một số ngân hàng đã gây ra suy thoái toàn cầu.
+example: Economic growth depends on political stability. | Tăng trưởng kinh tế phụ thuộc vào sự ổn định chính trị.
+mistake: There was a dramatically increase in prices. | There was a dramatic increase in prices. | Bổ nghĩa cho danh từ dùng tính từ.
+mistake: The grow of the economy was slow. | The growth of the economy was slow. | Danh từ của grow là growth.
+mistake: An increase of prices happened. | There was an increase in prices. | increase in + N; dùng There was.
+ex: There was a sharp ___ in unemployment last year. | rise ; rose ; rising | rise | a sharp rise = sự tăng mạnh.
+ex: The government's ___ to cut spending surprised economists. | decide ; decision ; decisive | decision | Danh từ: decision.
+ex: Exports showed a ___ decline over the decade. | gradually ; gradual ; gradualness | gradual | Bổ nghĩa cho danh từ dùng tính từ.
+ex: Economic ___ requires political stability. | grow ; growth ; grown | growth | Danh từ: growth.
+ex: The ___ of new tariffs led to higher prices. | introduce ; introduction ; introducing | introduction | Danh từ: introduction.
+ex: There was a significant increase ___ the price of oil. | of ; in ; on | in | an increase in + N.
+ex: The ___ of the company was caused by poor management. | fail ; failure ; failing | failure | Danh từ: failure.
+## dialogue
+title: Viết IELTS Task 1
+setting: Giáo viên hướng dẫn học viên viết mô tả biểu đồ.
+line: A | Mr. Duy | Look at your sentence: "Prices went up a lot in 2022 because oil was expensive." It's correct, but it sounds too informal. | Nhìn câu của em này: "Prices went up a lot in 2022 because oil was expensive." Câu đúng nhưng nghe quá thân mật.
+line: B | Yến | How can I make it more academic? | Làm sao để câu nghe học thuật hơn ạ?
+line: A | Mr. Duy | Try nominalization. For example: "There was a dramatic increase in prices in 2022 due to the rising cost of oil." | Thử danh từ hóa xem. Ví dụ: "There was a dramatic increase in prices in 2022 due to the rising cost of oil."
+line: B | Yến | Oh, that sounds much better! So "went up a lot" becomes "a dramatic increase"? | Ồ, nghe hay hơn hẳn! Vậy "went up a lot" trở thành "a dramatic increase" ạ?
+line: A | Mr. Duy | Exactly. And notice that the adverb becomes an adjective. "Fell slightly" becomes "a slight fall". | Chính xác. Và chú ý trạng từ biến thành tính từ. "Fell slightly" thành "a slight fall".
+line: B | Yến | Got it. I'll rewrite the whole paragraph using more nouns. | Em hiểu rồi. Em sẽ viết lại cả đoạn với nhiều danh từ hơn.
+line: A | Mr. Duy | Good, but don't overdo it. Clarity is still the most important thing. | Tốt, nhưng đừng lạm dụng. Sự rõ ràng vẫn là quan trọng nhất.
+q: What was the problem with Yen's sentence? | It was grammatically wrong ; It was too informal ; It was too long | It was too informal
+q: What does "fell slightly" become? | a slightly fall ; a slight fall ; a fall slight | a slight fall
+## reading
+title: The price of everything
+text: In recent years, the rapid rise in the cost of living has become a major concern for households worldwide. Economists attribute this increase to several factors, including disruptions to global supply chains and the sharp fluctuation of energy prices. In response, many central banks raised interest rates in an attempt to control inflation. However, such monetary tightening carries risks: higher borrowing costs can slow economic growth and, in extreme cases, trigger a recession. Meanwhile, governments face the difficult task of protecting vulnerable citizens through subsidies without increasing their budget deficits to unsustainable levels.
+vi: Trong những năm gần đây, sự gia tăng nhanh chóng của chi phí sinh hoạt đã trở thành mối lo ngại lớn của các hộ gia đình trên toàn thế giới. Các nhà kinh tế cho rằng sự gia tăng này do nhiều yếu tố, bao gồm sự gián đoạn chuỗi cung ứng toàn cầu và biến động mạnh của giá năng lượng. Để đối phó, nhiều ngân hàng trung ương đã tăng lãi suất nhằm kiểm soát lạm phát. Tuy nhiên, việc thắt chặt tiền tệ như vậy đi kèm rủi ro: chi phí vay cao hơn có thể làm chậm tăng trưởng kinh tế và, trong trường hợp nghiêm trọng, gây ra suy thoái. Trong khi đó, các chính phủ đối mặt với nhiệm vụ khó khăn là bảo vệ những công dân dễ tổn thương thông qua trợ cấp mà không đẩy thâm hụt ngân sách lên mức không bền vững.
+q: Why did central banks raise interest rates? | to control inflation ; to increase spending ; to help exporters | to control inflation
+q: What risk does monetary tightening carry? | It can slow growth and trigger a recession ; It reduces taxes ; It increases subsidies | It can slow growth and trigger a recession

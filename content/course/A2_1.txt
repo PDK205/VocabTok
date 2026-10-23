@@ -1,0 +1,350 @@
+@level A2
+name: Sơ cấp
+nameEn: Elementary
+color: 0EA5E9
+emoji: 🌿
+hours: 100–150 giờ
+description: Giao tiếp trong các tình huống quen thuộc: kể chuyện quá khứ, nói về kế hoạch, sức khỏe, công việc, du lịch và cảm xúc.
+cando: Kể lại kỳ nghỉ, sự việc đã xảy ra trong quá khứ
+cando: Nói về kế hoạch và dự định tương lai
+cando: Đưa ra và xin lời khuyên đơn giản
+cando: So sánh nơi chốn, đồ vật, con người
+cando: Gọi món, đặt chỗ và yêu cầu lịch sự
+
+# UNIT a2-u1
+title: Kỳ nghỉ vừa qua
+titleEn: Last Holiday
+emoji: 🏖️
+goal: Kể về kỳ nghỉ và những nơi bạn đã ở trong quá khứ.
+## words
+yesterday | /ˈjes.tɚ.deɪ/ | adv | hôm qua | I was very busy yesterday. | Hôm qua tôi rất bận. | the day before yesterday = hôm kia.
+holiday | /ˈhɑː.lə.deɪ/ | noun | kỳ nghỉ, ngày lễ | We had a great holiday in Nha Trang. | Chúng tôi đã có kỳ nghỉ tuyệt vời ở Nha Trang. | Anh-Mỹ hay dùng vacation.
+beach | /biːtʃ/ | noun | bãi biển | The beach was clean and quiet. | Bãi biển sạch sẽ và yên tĩnh.
+trip | /trɪp/ | noun | chuyến đi | How was your trip to Hue? | Chuyến đi Huế của bạn thế nào? | business trip = chuyến công tác.
+hotel | /hoʊˈtel/ | noun | khách sạn | Our hotel was near the sea. | Khách sạn của chúng tôi ở gần biển. | Trọng âm ở âm tiết thứ hai: ho-TEL.
+ticket | /ˈtɪk.ɪt/ | noun | vé | The plane tickets were very cheap. | Vé máy bay rất rẻ.
+visit | /ˈvɪz.ɪt/ | verb | thăm, tham quan | We visited the old town. | Chúng tôi đã tham quan phố cổ.
+island | /ˈaɪ.lənd/ | noun | hòn đảo | Phu Quoc is a beautiful island. | Phú Quốc là một hòn đảo xinh đẹp. | Chữ s câm: đọc "ai-lừnd".
+sunset | /ˈsʌn.set/ | noun | hoàng hôn | The sunset on the beach was amazing. | Hoàng hôn trên biển thật tuyệt. | sunrise = bình minh.
+relax | /rɪˈlæks/ | verb | thư giãn | On holiday, I just want to relax. | Khi đi nghỉ, tôi chỉ muốn thư giãn.
+souvenir | /ˌsuː.vəˈnɪr/ | noun | quà lưu niệm | I bought a souvenir for my mom. | Tôi đã mua một món quà lưu niệm cho mẹ. | Gốc tiếng Pháp nghĩa là "nhớ lại".
+wonderful | /ˈwʌn.dɚ.fəl/ | adj | tuyệt vời | We had a wonderful time. | Chúng tôi đã có khoảng thời gian tuyệt vời. | wonder (kỳ diệu) + ful.
+## phrases
+How was your holiday? | Kỳ nghỉ của bạn thế nào?
+It was amazing! | Tuyệt vời lắm!
+Where did you go? | Bạn đã đi đâu?
+We had a great time. | Chúng tôi đã rất vui.
+The weather was perfect. | Thời tiết thật hoàn hảo.
+## grammar
+title: Quá khứ của to be: was / were
+summary: Was / were là dạng quá khứ của am / is / are, dùng để nói về trạng thái, vị trí, cảm xúc trong quá khứ: I was tired yesterday.
+formula: I / He / She / It + was
+formula: You / We / They + were
+formula: Phủ định: wasn't (was not) / weren't (were not)
+formula: Câu hỏi: Was / Were + S + ...? → Yes, I was. / No, they weren't.
+point: Dấu hiệu thời gian | yesterday, last night / week / year, two days ago, in 2020, when I was a child.
+point: There was / There were | Quá khứ của there is / there are: There was a big storm. / There were many tourists.
+point: Hỏi về kỳ nghỉ | How was your holiday? – It was great! / Where were you last weekend? – I was in Da Lat.
+example: I was at the beach yesterday. | Hôm qua tôi ở bãi biển.
+example: The hotel was clean and cheap. | Khách sạn sạch sẽ và rẻ.
+example: We weren't at home last weekend. | Cuối tuần trước chúng tôi không ở nhà.
+example: Was the weather nice? Yes, it was. | Thời tiết có đẹp không? Có.
+mistake: Yesterday I am very tired. | Yesterday I was very tired. | yesterday → dùng quá khứ.
+mistake: They was happy. | They were happy. | They đi với were.
+ex: I ___ in Nha Trang last summer. | was ; were ; am | was | I → was; last summer → quá khứ.
+ex: My parents ___ at home yesterday. | was ; were ; are | were | My parents = they → were.
+ex: ___ the hotel expensive? | Was ; Were ; Did | Was | the hotel số ít → Was.
+ex: There ___ many people on the beach. | was ; were ; is | were | many people số nhiều → were.
+ex: We ___ very tired last night. | was ; were ; are | were | We → were.
+ex: It ___ sunny yesterday. It was rainy. | wasn't ; weren't ; isn't | wasn't | It → wasn't.
+ex: How ___ your holiday? It was great! | was ; were ; did | was | your holiday số ít → was.
+## dialogue
+title: Kỳ nghỉ ở Phú Quốc
+setting: Hai đồng nghiệp nói chuyện vào sáng thứ Hai.
+line: A | Mark | Hi Ngoc! You look great. How was your holiday? | Chào Ngọc! Trông bạn tươi thế. Kỳ nghỉ của bạn thế nào?
+line: B | Ngọc | It was wonderful! I was in Phu Quoc for five days. | Tuyệt vời lắm! Mình ở Phú Quốc năm ngày.
+line: A | Mark | Lucky you! Was the weather good? | Sướng thế! Thời tiết có đẹp không?
+line: B | Ngọc | Yes, it was sunny every day. The beaches were beautiful. | Có, ngày nào cũng nắng. Những bãi biển rất đẹp.
+line: A | Mark | What about the hotel? | Còn khách sạn thì sao?
+line: B | Ngọc | It was small but very clean, and the staff were really friendly. | Nhỏ nhưng rất sạch sẽ, và nhân viên thật sự thân thiện.
+line: A | Mark | Were there many tourists? | Có nhiều khách du lịch không?
+line: B | Ngọc | Not really. It was quiet and relaxing. | Không nhiều lắm. Yên tĩnh và thư thái.
+q: How long was Ngoc in Phu Quoc? | three days ; five days ; a week | five days
+q: What was the hotel like? | big and expensive ; small but very clean ; old and dirty | small but very clean
+## reading
+title: A postcard from Hoi An
+text: Dear Grandma, I'm writing to you from Hoi An! We arrived here three days ago. The old town is amazing. The streets are full of yellow houses and colourful lanterns. Yesterday was the best day. In the morning, we were at An Bang beach. The water was warm and clear. In the evening, we were at the night market and I bought a souvenir for you. The food here is delicious, especially cao lau noodles. See you soon! Love, Mai.
+vi: Bà yêu quý, cháu viết thư cho bà từ Hội An! Nhà mình đến đây ba ngày trước. Phố cổ thật tuyệt vời. Những con phố đầy nhà vàng và đèn lồng nhiều màu sắc. Hôm qua là ngày tuyệt nhất. Buổi sáng, cả nhà ở bãi biển An Bàng. Nước biển ấm và trong. Buổi tối, cả nhà ở chợ đêm và cháu đã mua một món quà lưu niệm cho bà. Đồ ăn ở đây rất ngon, đặc biệt là mì cao lầu. Hẹn sớm gặp bà! Thương bà, Mai.
+q: When did Mai's family arrive in Hoi An? | yesterday ; three days ago ; last week | three days ago
+q: Where were they yesterday morning? | at the night market ; at An Bang beach ; in the old town | at An Bang beach
+q: What did Mai buy for her grandma? | a lantern ; a souvenir ; some noodles | a souvenir
+
+# UNIT a2-u2
+title: Chuyện đã xảy ra
+titleEn: What Happened?
+emoji: 📖
+goal: Kể lại một câu chuyện, sự việc trong quá khứ theo trình tự.
+## words
+happen | /ˈhæp.ən/ | verb | xảy ra | What happened to your arm? | Tay bạn bị sao vậy? | happen to sb = xảy ra với ai.
+decide | /dɪˈsaɪd/ | verb | quyết định | We decided to stay at home. | Chúng tôi quyết định ở nhà. | decide + to V.
+arrive | /əˈraɪv/ | verb | đến nơi | We arrived in Hanoi at midnight. | Chúng tôi đến Hà Nội lúc nửa đêm. | arrive in + thành phố; arrive at + địa điểm nhỏ.
+leave | /liːv/ | verb | rời đi; để lại | She left the house at seven. | Cô ấy rời nhà lúc bảy giờ. | Bất quy tắc: leave – left – left.
+forget | /fɚˈɡet/ | verb | quên | I forgot my umbrella at school. | Tôi để quên ô ở trường. | forget – forgot – forgotten.
+remember | /rɪˈmem.bɚ/ | verb | nhớ | Do you remember his name? | Bạn có nhớ tên anh ấy không?
+lose | /luːz/ | verb | làm mất; thua | I lost my wallet on the bus. | Tôi làm mất ví trên xe buýt. | lose – lost – lost. Đừng nhầm loose (lỏng).
+find | /faɪnd/ | verb | tìm thấy | Did you find your keys? | Bạn tìm thấy chìa khóa chưa? | find – found – found.
+finally | /ˈfaɪ.nəl.i/ | adv | cuối cùng | Finally, we got home. | Cuối cùng, chúng tôi cũng về đến nhà.
+suddenly | /ˈsʌd.ən.li/ | adv | đột nhiên | Suddenly, the lights went out. | Đột nhiên, đèn tắt phụt.
+story | /ˈstɔːr.i/ | noun | câu chuyện | Tell me a funny story. | Kể cho mình nghe một câu chuyện vui đi.
+ago | /əˈɡoʊ/ | adv | cách đây | I met her two years ago. | Tôi gặp cô ấy cách đây hai năm. | Luôn đứng sau khoảng thời gian: three days ago.
+## phrases
+What happened next? | Sau đó chuyện gì xảy ra?
+You won't believe what happened! | Bạn sẽ không tin chuyện gì đã xảy ra đâu!
+That's a funny story! | Chuyện đó buồn cười thật!
+In the end, everything was fine. | Cuối cùng thì mọi chuyện đều ổn.
+What did you do then? | Lúc đó bạn đã làm gì?
+## grammar
+title: Thì quá khứ đơn (Past Simple)
+summary: Thì quá khứ đơn diễn tả hành động đã xảy ra và kết thúc tại một thời điểm xác định trong quá khứ. Động từ có quy tắc thêm -ed; động từ bất quy tắc phải học thuộc (xem bảng Động từ bất quy tắc trong mục Tài liệu).
+formula: Khẳng định: S + V-ed / V2: I visited, she went
+formula: Phủ định: S + didn't + V nguyên mẫu: He didn't go.
+formula: Câu hỏi: Did + S + V nguyên mẫu? → Yes, I did. / No, I didn't.
+formula: Có từ để hỏi: Wh- + did + S + V?: Where did you go?
+point: Quy tắc thêm -ed | Thường thêm -ed (walk → walked); tận cùng e chỉ thêm d (live → lived); phụ âm + y → ied (study → studied); nhân đôi phụ âm cuối (stop → stopped).
+point: Cách đọc đuôi -ed | /t/ sau âm vô thanh p, k, f, s, ʃ, tʃ (stopped, watched); /ɪd/ sau t, d (wanted, needed); /d/ trong các trường hợp còn lại (played, cleaned).
+point: Động từ bất quy tắc thường gặp | go → went, have → had, see → saw, buy → bought, eat → ate, leave → left, lose → lost, find → found, forget → forgot, take → took.
+point: Có did thì động từ về nguyên mẫu | Did you went? (sai) → Did you go? (đúng). She didn't came (sai) → She didn't come.
+example: I lost my keys yesterday. | Hôm qua tôi làm mất chìa khóa.
+example: We arrived at the airport two hours ago. | Chúng tôi đến sân bay hai tiếng trước.
+example: She didn't remember my name. | Cô ấy không nhớ tên tôi.
+example: What did you do last weekend? | Cuối tuần trước bạn đã làm gì?
+mistake: I goed to school. | I went to school. | go là động từ bất quy tắc.
+mistake: He didn't came. | He didn't come. | Sau didn't dùng V nguyên mẫu.
+mistake: Where you went? | Where did you go? | Câu hỏi cần trợ động từ did.
+ex: We ___ a great film last night. | see ; saw ; seen | saw | see – saw – seen; quá khứ đơn dùng V2.
+ex: She ___ her homework yesterday. | finish ; finished ; finishs | finished | Động từ có quy tắc thêm -ed.
+ex: I ___ my phone at the café. | lose ; losed ; lost | lost | lose – lost – lost.
+ex: ___ you call your mother yesterday? | Do ; Did ; Were | Did | Câu hỏi quá khứ đơn dùng Did.
+ex: They didn't ___ the bus. | catch ; caught ; catched | catch | Sau didn't dùng V nguyên mẫu.
+ex: When ___ he arrive? | did ; was ; does | did | Wh- + did + S + V.
+ex: My grandfather ___ in a small village when he was young. | lives ; lived ; living | lived | when he was young → quá khứ.
+## dialogue
+title: Một ngày xui xẻo
+setting: Hai người bạn gặp nhau ở quán cà phê.
+line: A | Hùng | You look tired. What happened? | Trông bạn mệt mỏi thế. Có chuyện gì vậy?
+line: B | Emma | Oh, yesterday was a terrible day! First, I forgot to set my alarm and woke up late. | Ôi, hôm qua là một ngày kinh khủng! Đầu tiên, mình quên đặt báo thức và dậy muộn.
+line: A | Hùng | Oh no! Did you miss your bus? | Ôi không! Bạn có lỡ xe buýt không?
+line: B | Emma | Yes, I did. So I took a taxi, but I left my wallet in it! | Có. Nên mình bắt taxi, nhưng lại để quên ví trên đó!
+line: A | Hùng | That's awful! Did you find it? | Tệ quá! Bạn có tìm lại được không?
+line: B | Emma | Finally, yes. The driver called me in the evening and brought it back. | Cuối cùng thì có. Tài xế gọi cho mình vào buổi tối và mang trả lại.
+line: A | Hùng | What a kind man! | Ông ấy tốt bụng thật!
+q: Why did Emma wake up late? | She was sick ; She forgot to set her alarm ; She went to bed late | She forgot to set her alarm
+q: Where did Emma leave her wallet? | on the bus ; in the taxi ; at home | in the taxi
+## reading
+title: The lost dog
+text: Last Saturday, something strange happened in my neighbourhood. In the morning, my neighbour, Mrs. Lan, opened her gate and her little dog, Milo, ran away. She looked everywhere, but she couldn't find him. She put photos of Milo on every street. Two days later, a boy from the next street knocked on her door. Milo was in his arms! The boy found him in the park. Mrs. Lan was so happy that she cried. She gave the boy a big box of cakes to say thank you.
+vi: Thứ Bảy tuần trước, một chuyện lạ đã xảy ra ở khu phố tôi. Buổi sáng, bà Lan hàng xóm mở cổng và chú chó nhỏ Milo của bà chạy mất. Bà tìm khắp nơi nhưng không thấy. Bà dán ảnh Milo trên mọi con phố. Hai ngày sau, một cậu bé ở phố bên cạnh gõ cửa nhà bà. Milo đang nằm trong vòng tay cậu! Cậu bé đã tìm thấy nó trong công viên. Bà Lan vui đến mức bật khóc. Bà tặng cậu bé một hộp bánh lớn để cảm ơn.
+q: Where did the boy find Milo? | in the street ; in the park ; at school | in the park
+q: When did the boy bring Milo back? | the same day ; two days later ; a week later | two days later
+q: How did Mrs. Lan thank the boy? | She gave him money ; She gave him a box of cakes ; She gave him a dog | She gave him a box of cakes
+
+# UNIT a2-u3
+title: Sức khỏe
+titleEn: Health
+emoji: 🩺
+goal: Mô tả triệu chứng, đi khám bệnh và đưa ra lời khuyên.
+## words
+headache | /ˈhed.eɪk/ | noun | đau đầu | I have a terrible headache. | Tôi bị đau đầu kinh khủng. | head + ache (cơn đau). Tương tự: toothache, stomachache.
+fever | /ˈfiː.vɚ/ | noun | sốt | The child has a high fever. | Đứa trẻ bị sốt cao.
+cough | /kɑːf/ | noun | ho | My cough is getting worse. | Cơn ho của tôi ngày càng nặng. | gh đọc là /f/.
+medicine | /ˈmed.ɪ.sən/ | noun | thuốc | Take this medicine three times a day. | Uống thuốc này ba lần một ngày. | take medicine = uống thuốc.
+doctor | /ˈdɑːk.tɚ/ | noun | bác sĩ | You should see a doctor. | Bạn nên đi khám bác sĩ.
+pain | /peɪn/ | noun | cơn đau | I have a pain in my back. | Tôi bị đau lưng. | painful = đau đớn.
+sick | /sɪk/ | adj | ốm, bệnh | She is sick today, so she's at home. | Hôm nay cô ấy ốm nên ở nhà.
+healthy | /ˈhel.θi/ | adj | khỏe mạnh; lành mạnh | Fruit is good for a healthy body. | Trái cây tốt cho một cơ thể khỏe mạnh. | health (sức khỏe) + y.
+rest | /rest/ | verb | nghỉ ngơi | You need to rest for a few days. | Bạn cần nghỉ ngơi vài ngày.
+stomach | /ˈstʌm.ək/ | noun | dạ dày, bụng | My stomach hurts after lunch. | Bụng tôi đau sau bữa trưa. | ch đọc là /k/.
+throat | /θroʊt/ | noun | cổ họng | I have a sore throat. | Tôi bị đau họng. | sore throat = đau họng.
+exercise | /ˈek.sɚ.saɪz/ | verb | tập thể dục | I exercise three times a week. | Tôi tập thể dục ba lần một tuần.
+## phrases
+What's the matter? | Bạn bị sao vậy?
+I don't feel well. | Tôi thấy không khỏe.
+I have a sore throat. | Tôi bị đau họng.
+Get well soon! | Chóng khỏe nhé!
+You should stay in bed. | Bạn nên nằm nghỉ trên giường.
+Take care of yourself. | Giữ gìn sức khỏe nhé.
+## grammar
+title: Should / Shouldn't (lời khuyên)
+summary: Should dùng để đưa ra lời khuyên hoặc nói điều nên làm; shouldn't là điều không nên làm. Giống can, should không chia theo chủ ngữ và luôn đi với động từ nguyên mẫu.
+formula: S + should + V nguyên mẫu: You should rest.
+formula: S + shouldn't + V nguyên mẫu: You shouldn't smoke.
+formula: Câu hỏi: Should + S + V?: Should I see a doctor?
+formula: Xin lời khuyên: What should I do?
+point: Khuyên nhẹ nhàng | I think you should... / Maybe you should... / I don't think you should... giúp câu khuyên mềm mỏng, lịch sự hơn.
+point: Không thêm to sau should | You should to go (sai) → You should go (đúng). Khác với ought to (cũng nghĩa là nên) phải có to.
+point: Các cách khuyên khác | Why don't you + V? (Sao bạn không...?) / If I were you, I'd + V (Nếu tôi là bạn, tôi sẽ...).
+example: You should drink more water. | Bạn nên uống nhiều nước hơn.
+example: You shouldn't eat too much sugar. | Bạn không nên ăn quá nhiều đường.
+example: Should I take this medicine before meals? | Tôi có nên uống thuốc này trước bữa ăn không?
+example: I think you should go to bed early. | Tôi nghĩ bạn nên đi ngủ sớm.
+mistake: You should to rest. | You should rest. | Sau should không có to.
+mistake: She shoulds see a doctor. | She should see a doctor. | should không chia theo chủ ngữ.
+ex: You have a fever. You ___ stay at home. | should ; shouldn't ; can't | should | Bị sốt → nên ở nhà.
+ex: You ___ drink coffee before bed. | should ; shouldn't ; must | shouldn't | Cà phê trước khi ngủ → không nên.
+ex: He should ___ more vegetables. | eat ; eats ; to eat | eat | Sau should dùng V nguyên mẫu.
+ex: ___ I call a doctor? | Do ; Should ; Am | Should | Xin lời khuyên: Should I...?
+ex: My throat hurts. What ___ I do? | should ; do ; am | should | What should I do?
+ex: Why don't you ___ some rest? | take ; taking ; to take | take | Why don't you + V nguyên mẫu.
+ex: You shouldn't ___ so many sweets. | eat ; eating ; ate | eat | Sau shouldn't dùng V nguyên mẫu.
+## dialogue
+title: Ở phòng khám
+setting: Phong đến gặp bác sĩ vì bị ốm.
+line: A | Doctor | Good morning. What's the matter? | Chào buổi sáng. Anh bị sao vậy?
+line: B | Phong | I have a headache and a sore throat. I also have a fever. | Tôi bị đau đầu và đau họng. Tôi cũng bị sốt.
+line: A | Doctor | When did it start? | Bắt đầu từ khi nào?
+line: B | Phong | Two days ago. | Hai ngày trước.
+line: A | Doctor | Let me check... I think you have the flu. You should stay in bed and drink lots of water. | Để tôi khám... Tôi nghĩ anh bị cúm. Anh nên nằm nghỉ và uống thật nhiều nước.
+line: B | Phong | Should I take any medicine? | Tôi có nên uống thuốc gì không?
+line: A | Doctor | Yes, take this medicine twice a day after meals. And you shouldn't go to work this week. | Có, uống thuốc này hai lần một ngày sau bữa ăn. Và tuần này anh không nên đi làm.
+line: B | Phong | Thank you, doctor. | Cảm ơn bác sĩ.
+q: What's wrong with Phong? | He has the flu ; He broke his leg ; He has a toothache | He has the flu
+q: How often should he take the medicine? | once a day ; twice a day ; three times a day | twice a day
+## reading
+title: Five habits for a healthy life
+text: Do you want to be healthy and full of energy? Here are five simple tips. First, you should sleep seven to eight hours every night. Second, you should drink at least two litres of water a day. Third, eat a lot of fruit and vegetables, and you shouldn't eat too much fast food. Fourth, exercise for thirty minutes every day. Walking is a great start! Finally, don't forget to relax. Spend time with friends and turn off your phone sometimes.
+vi: Bạn muốn khỏe mạnh và tràn đầy năng lượng? Đây là năm lời khuyên đơn giản. Thứ nhất, bạn nên ngủ bảy đến tám tiếng mỗi đêm. Thứ hai, bạn nên uống ít nhất hai lít nước mỗi ngày. Thứ ba, hãy ăn nhiều trái cây và rau, và không nên ăn quá nhiều đồ ăn nhanh. Thứ tư, tập thể dục ba mươi phút mỗi ngày. Đi bộ là một khởi đầu tuyệt vời! Cuối cùng, đừng quên thư giãn. Dành thời gian cho bạn bè và thỉnh thoảng tắt điện thoại đi.
+q: How much water should you drink a day? | one litre ; at least two litres ; five litres | at least two litres
+q: How long should you exercise every day? | ten minutes ; thirty minutes ; two hours | thirty minutes
+q: Which activity is "a great start"? | swimming ; walking ; running | walking
+
+# UNIT a2-u4
+title: Kế hoạch du lịch
+titleEn: Travel Plans
+emoji: ✈️
+goal: Nói về kế hoạch du lịch, đặt vé và chuẩn bị hành lý.
+## words
+airport | /ˈer.pɔːrt/ | noun | sân bay | We need to be at the airport by six. | Chúng ta cần có mặt ở sân bay trước sáu giờ. | air (không khí) + port (cảng).
+passport | /ˈpæs.pɔːrt/ | noun | hộ chiếu | Don't forget your passport! | Đừng quên hộ chiếu nhé! | pass (đi qua) + port (cảng).
+luggage | /ˈlʌɡ.ɪdʒ/ | noun | hành lý | My luggage is too heavy. | Hành lý của tôi nặng quá. | Không đếm được: a piece of luggage.
+flight | /flaɪt/ | noun | chuyến bay | Our flight leaves at 9 a.m. | Chuyến bay của chúng tôi cất cánh lúc 9 giờ sáng. | fly (bay) → flight.
+train | /treɪn/ | noun | tàu hỏa | We're going to take the night train to Sapa. | Chúng tôi sẽ đi tàu đêm lên Sa Pa.
+tourist | /ˈtʊr.ɪst/ | noun | khách du lịch | Hoi An is full of tourists in summer. | Hội An đông khách du lịch vào mùa hè. | tour + ist.
+journey | /ˈdʒɝː.ni/ | noun | chuyến đi, hành trình | The journey takes six hours. | Chuyến đi mất sáu tiếng. | journey thường dài hơn trip.
+map | /mæp/ | noun | bản đồ | Let's check the map on my phone. | Xem bản đồ trên điện thoại của mình đi.
+book | /bʊk/ | verb | đặt (vé, phòng) | I'm going to book a hotel online. | Tôi sẽ đặt khách sạn trên mạng. | booking = sự đặt chỗ.
+pack | /pæk/ | verb | đóng gói, xếp đồ | Did you pack your bag? | Bạn xếp đồ vào túi chưa? | unpack = dỡ đồ.
+guide | /ɡaɪd/ | noun | hướng dẫn viên | Our guide speaks very good English. | Hướng dẫn viên của chúng tôi nói tiếng Anh rất giỏi. | u câm: đọc "gai-đ".
+abroad | /əˈbrɑːd/ | adv | ở / ra nước ngoài | She wants to study abroad. | Cô ấy muốn đi du học. | Không nói go to abroad, chỉ nói go abroad.
+## phrases
+I'd like a return ticket to Da Nang, please. | Cho tôi một vé khứ hồi đi Đà Nẵng.
+What time does the flight leave? | Mấy giờ chuyến bay cất cánh?
+Where is the check-in counter? | Quầy làm thủ tục ở đâu?
+Have a safe trip! | Thượng lộ bình an nhé!
+I'm going to stay for a week. | Tôi sẽ ở lại một tuần.
+## grammar
+title: Be going to (dự định & dự đoán)
+summary: Be going to + V dùng để nói về kế hoạch, dự định đã quyết định trước khi nói, hoặc dự đoán dựa trên dấu hiệu nhìn thấy ở hiện tại.
+formula: S + am / is / are + going to + V: I'm going to visit Hue.
+formula: Phủ định: S + am / is / are + not + going to + V
+formula: Câu hỏi: Am / Is / Are + S + going to + V?
+point: Dự định đã có kế hoạch | We're going to fly to Bangkok next month. (Đã quyết định, có thể đã mua vé.)
+point: Dự đoán có căn cứ | Look at those dark clouds! It's going to rain. (Thấy mây đen → đoán trời sắp mưa.)
+point: Văn nói: gonna | Trong văn nói thân mật, người bản xứ hay đọc going to thành "gonna": I'm gonna travel. Không viết gonna trong bài thi.
+example: I'm going to book a hotel tonight. | Tối nay tôi sẽ đặt khách sạn.
+example: She isn't going to travel this summer. | Mùa hè này cô ấy sẽ không đi du lịch.
+example: Are you going to take the train? | Bạn sẽ đi tàu à?
+example: Be careful! You're going to fall! | Cẩn thận! Bạn sắp ngã đấy!
+mistake: I going to visit Hue. | I'm going to visit Hue. | Thiếu to be.
+mistake: She is going to visits Paris. | She is going to visit Paris. | Sau going to dùng V nguyên mẫu.
+ex: We ___ going to visit Japan next year. | is ; are ; am | are | We → are.
+ex: She is going ___ a new suitcase. | buy ; to buy ; buying | to buy | be going to + V.
+ex: Look at the sky! It ___ rain. | is going to ; going to ; goes to | is going to | Dự đoán có căn cứ.
+ex: ___ you going to book the tickets? | Do ; Are ; Will | Are | Câu hỏi: Are you going to...?
+ex: I'm not going to ___ abroad this year. | travel ; travelling ; travels | travel | going to + V nguyên mẫu.
+ex: They ___ going to stay at a hotel. They're going to camp. | aren't ; isn't ; don't | aren't | They → aren't.
+ex: What ___ you going to do this weekend? | are ; do ; is | are | What are you going to do?
+## dialogue
+title: Lên kế hoạch đi Đà Lạt
+setting: Hai bạn thân bàn về chuyến đi sắp tới.
+line: A | Linh | Guess what? I'm going to travel to Da Lat next week! | Đoán xem? Tuần sau mình sẽ đi Đà Lạt!
+line: B | Sam | Really? How are you going to get there? | Thật à? Bạn sẽ đi bằng gì?
+line: A | Linh | I'm going to take the night bus. It's cheaper than flying. | Mình sẽ đi xe khách đêm. Rẻ hơn đi máy bay.
+line: B | Sam | Good idea. Where are you going to stay? | Ý hay đấy. Bạn sẽ ở đâu?
+line: A | Linh | I booked a small homestay near the lake. | Mình đã đặt một homestay nhỏ gần hồ.
+line: B | Sam | Are you going to visit the flower gardens? | Bạn có định đi thăm các vườn hoa không?
+line: A | Linh | Of course! And I'm going to try lots of street food. | Tất nhiên! Và mình sẽ thử thật nhiều đồ ăn đường phố.
+line: B | Sam | Don't forget to pack a warm jacket. It's cold at night there. | Đừng quên mang áo ấm. Ở đó ban đêm lạnh đấy.
+q: How is Linh going to travel to Da Lat? | by plane ; by night bus ; by train | by night bus
+q: Why should Linh pack a warm jacket? | It's cold at night ; It's going to snow ; The bus is cold | It's cold at night
+## reading
+title: Tips for your first trip abroad
+text: Are you going to travel abroad for the first time? Here is some advice. Before your journey, check that your passport is valid for at least six months. Book your flight and hotel early because prices go up quickly. Don't pack too much: a small suitcase is easier to carry. Download a map of the city and learn a few useful phrases like "Thank you" and "How much is it?". Finally, keep a copy of your important documents in your email. Have a great trip!
+vi: Bạn sắp đi nước ngoài lần đầu? Đây là vài lời khuyên. Trước chuyến đi, hãy kiểm tra hộ chiếu còn hạn ít nhất sáu tháng. Đặt vé máy bay và khách sạn sớm vì giá tăng nhanh. Đừng mang quá nhiều đồ: một chiếc vali nhỏ dễ mang hơn. Tải bản đồ thành phố và học vài câu hữu ích như "Cảm ơn" và "Bao nhiêu tiền?". Cuối cùng, hãy lưu bản sao các giấy tờ quan trọng trong email. Chúc bạn chuyến đi vui vẻ!
+q: Why should you book early? | Hotels close early ; Prices go up quickly ; Flights are full of tourists | Prices go up quickly
+q: Where should you keep a copy of your documents? | in your suitcase ; in your email ; at the hotel | in your email
+
+# UNIT a2-u5
+title: Thành phố & Nông thôn
+titleEn: City & Countryside
+emoji: 🏙️
+goal: So sánh nơi chốn, cuộc sống ở thành phố và nông thôn.
+## words
+crowded | /ˈkraʊ.dɪd/ | adj | đông đúc | The bus is always crowded in the morning. | Xe buýt lúc nào cũng đông vào buổi sáng. | crowd = đám đông.
+quiet | /ˈkwaɪ.ət/ | adj | yên tĩnh | The library is a quiet place. | Thư viện là một nơi yên tĩnh. | Đừng nhầm với quite (khá).
+noisy | /ˈnɔɪ.zi/ | adj | ồn ào | My street is too noisy at night. | Đường phố nhà tôi quá ồn vào ban đêm. | noise (tiếng ồn) + y.
+modern | /ˈmɑː.dɚn/ | adj | hiện đại | Singapore is a very modern city. | Singapore là một thành phố rất hiện đại.
+village | /ˈvɪl.ɪdʒ/ | noun | làng | My grandparents live in a small village. | Ông bà tôi sống ở một ngôi làng nhỏ.
+countryside | /ˈkʌn.tri.saɪd/ | noun | vùng nông thôn | The air in the countryside is cleaner. | Không khí ở nông thôn sạch hơn. | country + side.
+traffic | /ˈtræf.ɪk/ | noun | giao thông | The traffic is terrible at rush hour. | Giao thông giờ cao điểm thật kinh khủng. | traffic jam = tắc đường.
+peaceful | /ˈpiːs.fəl/ | adj | yên bình | Life in the village is peaceful. | Cuộc sống ở làng thật yên bình. | peace (hòa bình) + ful.
+convenient | /kənˈviː.ni.ənt/ | adj | tiện lợi | Living near the metro is very convenient. | Sống gần tàu điện ngầm rất tiện lợi.
+population | /ˌpɑː.pjəˈleɪ.ʃən/ | noun | dân số | Ho Chi Minh City has the largest population in Vietnam. | Thành phố Hồ Chí Minh có dân số đông nhất Việt Nam.
+building | /ˈbɪl.dɪŋ/ | noun | tòa nhà | That building has fifty floors. | Tòa nhà đó có năm mươi tầng. | build (xây) + ing.
+fresh | /freʃ/ | adj | tươi; trong lành | We buy fresh vegetables every day. | Chúng tôi mua rau tươi mỗi ngày.
+## phrases
+I prefer living in the city. | Tôi thích sống ở thành phố hơn.
+It's much quieter than here. | Ở đó yên tĩnh hơn ở đây nhiều.
+What's it like there? | Ở đó thế nào?
+Life is more expensive in the city. | Cuộc sống ở thành phố đắt đỏ hơn.
+There's nothing to do here. | Ở đây chẳng có gì để làm.
+## grammar
+title: So sánh hơn & so sánh nhất
+summary: So sánh hơn dùng khi so sánh HAI người / vật; so sánh nhất dùng khi so sánh từ BA trở lên. Cách tạo phụ thuộc vào độ dài của tính từ.
+formula: Tính từ ngắn: adj-er + than (cheaper than) · the + adj-est (the cheapest)
+formula: Tính từ dài: more + adj + than (more modern than) · the most + adj (the most modern)
+formula: Bất quy tắc: good → better → the best · bad → worse → the worst · far → farther → the farthest
+point: Tính từ ngắn và dài | Tính từ ngắn: 1 âm tiết (cheap, big) và 2 âm tiết tận cùng -y (busy → busier, noisy → the noisiest). Tính từ dài: các tính từ 2 âm tiết trở lên còn lại (modern, crowded, peaceful).
+point: Quy tắc chính tả | Tận cùng e: thêm r / st (nice → nicer). Phụ âm–nguyên âm–phụ âm: nhân đôi (big → bigger, hot → hottest). -y → -ier / -iest (happy → happier).
+point: So sánh bằng | as + adj + as: The village is as beautiful as a painting. Phủ định: not as + adj + as (= kém hơn).
+point: Nhấn mạnh | much / a lot / far + so sánh hơn: much bigger, a lot more expensive.
+example: The city is noisier than the countryside. | Thành phố ồn hơn nông thôn.
+example: Hanoi is more crowded than my hometown. | Hà Nội đông đúc hơn quê tôi.
+example: This is the most modern building in the city. | Đây là tòa nhà hiện đại nhất thành phố.
+example: Life here is not as expensive as in Saigon. | Cuộc sống ở đây không đắt đỏ bằng ở Sài Gòn.
+mistake: My city is more big than yours. | My city is bigger than yours. | big là tính từ ngắn.
+mistake: She is the most tall in my class. | She is the tallest in my class. | tall → the tallest.
+mistake: This is more better. | This is better. | better đã là so sánh hơn.
+ex: A village is ___ than a city. | smaller ; more small ; smallest | smaller | small là tính từ ngắn.
+ex: Tokyo is one of ___ cities in the world. | the biggest ; bigger ; the most big | the biggest | So sánh nhất của big.
+ex: The traffic today is ___ than yesterday. | bad ; worse ; worst | worse | bad → worse → the worst.
+ex: This hotel is ___ than that one. | more convenient ; convenienter ; most convenient | more convenient | convenient là tính từ dài.
+ex: She is the ___ student in our class. | happier ; happiest ; most happy | happiest | happy → the happiest.
+ex: My new apartment is ___ bigger than my old one. | much ; more ; most | much | much + so sánh hơn để nhấn mạnh.
+ex: The countryside is not as ___ as the city. | noisy ; noisier ; noisiest | noisy | as + adj nguyên dạng + as.
+## dialogue
+title: Thành phố hay nông thôn?
+setting: Hai đồng nghiệp tranh luận nên sống ở đâu.
+line: A | Chris | Do you want to live in the city or in the countryside? | Bạn muốn sống ở thành phố hay nông thôn?
+line: B | Hiền | The countryside, definitely. It's quieter and the air is fresher. | Nông thôn, chắc chắn rồi. Ở đó yên tĩnh hơn và không khí trong lành hơn.
+line: A | Chris | But the city is more convenient. There are more shops, hospitals and jobs. | Nhưng thành phố tiện lợi hơn. Có nhiều cửa hàng, bệnh viện và việc làm hơn.
+line: B | Hiền | That's true, but the traffic here is the worst! I spend two hours a day on the road. | Đúng vậy, nhưng giao thông ở đây tệ nhất! Mình mất hai tiếng mỗi ngày ngoài đường.
+line: A | Chris | Maybe the best idea is to work in the city and spend weekends in the countryside. | Có lẽ ý tưởng hay nhất là làm việc ở thành phố và về quê vào cuối tuần.
+line: B | Hiền | Now that's a perfect plan! | Đó đúng là một kế hoạch hoàn hảo!
+q: Why does Hien prefer the countryside? | It's more convenient ; It's quieter with fresher air ; There are more jobs | It's quieter with fresher air
+q: What is the "perfect plan"? | Live in the countryside and never go to the city ; Work in the city and spend weekends in the countryside ; Move abroad | Work in the city and spend weekends in the countryside
+## reading
+title: Two homes
+text: I have two homes. During the week, I live in a small apartment in Ho Chi Minh City. It is the busiest city in Vietnam, with more than nine million people. The streets are crowded and noisy, but life is exciting and convenient. At the weekend, I go back to my parents' house in a village in the Mekong Delta. It is much smaller and more peaceful. There are no tall buildings, only rice fields and rivers. The food is fresher and cheaper, and people are friendlier. For me, the village is the best place to relax.
+vi: Tôi có hai ngôi nhà. Trong tuần, tôi sống trong một căn hộ nhỏ ở Thành phố Hồ Chí Minh. Đây là thành phố nhộn nhịp nhất Việt Nam với hơn chín triệu dân. Đường phố đông đúc và ồn ào, nhưng cuộc sống thú vị và tiện lợi. Cuối tuần, tôi về nhà bố mẹ ở một ngôi làng thuộc đồng bằng sông Cửu Long. Nơi đó nhỏ hơn và yên bình hơn nhiều. Không có tòa nhà cao tầng, chỉ có ruộng lúa và sông nước. Đồ ăn tươi hơn, rẻ hơn và con người thân thiện hơn. Với tôi, làng quê là nơi tốt nhất để thư giãn.
+q: How many people live in Ho Chi Minh City? | about one million ; more than nine million ; ninety million | more than nine million
+q: What is the village like compared to the city? | bigger and noisier ; smaller and more peaceful ; more modern | smaller and more peaceful

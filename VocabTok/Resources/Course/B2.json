@@ -1,0 +1,3575 @@
+{
+ "units": [
+  {
+   "id": "b2-u1",
+   "words": [
+    {
+     "word": "artificial",
+     "ipa": "/ˌɑːr.t̬əˈfɪʃ.əl/",
+     "pos": "adj",
+     "vi": "nhân tạo",
+     "ex": "Artificial intelligence is changing the world.",
+     "exVi": "Trí tuệ nhân tạo đang thay đổi thế giới.",
+     "tip": "AI = Artificial Intelligence."
+    },
+    {
+     "word": "automation",
+     "ipa": "/ˌɑː.t̬əˈmeɪ.ʃən/",
+     "pos": "noun",
+     "vi": "sự tự động hóa",
+     "ex": "Automation has reduced the need for factory workers.",
+     "exVi": "Tự động hóa đã giảm nhu cầu công nhân nhà máy."
+    },
+    {
+     "word": "innovation",
+     "ipa": "/ˌɪn.əˈveɪ.ʃən/",
+     "pos": "noun",
+     "vi": "sự đổi mới, sáng kiến",
+     "ex": "The company is famous for its innovation.",
+     "exVi": "Công ty nổi tiếng nhờ sự đổi mới.",
+     "tip": "innovative = đổi mới, sáng tạo."
+    },
+    {
+     "word": "device",
+     "ipa": "/dɪˈvaɪs/",
+     "pos": "noun",
+     "vi": "thiết bị",
+     "ex": "Please switch off all electronic devices.",
+     "exVi": "Vui lòng tắt mọi thiết bị điện tử.",
+     "tip": "device (danh từ) – devise (động từ: nghĩ ra)."
+    },
+    {
+     "word": "privacy",
+     "ipa": "/ˈpraɪ.və.si/",
+     "pos": "noun",
+     "vi": "quyền riêng tư",
+     "ex": "Social media can be a threat to privacy.",
+     "exVi": "Mạng xã hội có thể đe dọa quyền riêng tư."
+    },
+    {
+     "word": "virtual",
+     "ipa": "/ˈvɝː.tʃu.əl/",
+     "pos": "adj",
+     "vi": "ảo",
+     "ex": "We had a virtual meeting on Zoom.",
+     "exVi": "Chúng tôi họp trực tuyến trên Zoom.",
+     "tip": "virtual reality (VR) = thực tế ảo."
+    },
+    {
+     "word": "digital",
+     "ipa": "/ˈdɪdʒ.ə.t̬əl/",
+     "pos": "adj",
+     "vi": "kỹ thuật số",
+     "ex": "We live in a digital age.",
+     "exVi": "Chúng ta sống trong thời đại số."
+    },
+    {
+     "word": "revolutionize",
+     "ipa": "/ˌrev.əˈluː.ʃən.aɪz/",
+     "pos": "verb",
+     "vi": "cách mạng hóa",
+     "ex": "Smartphones revolutionized the way we communicate.",
+     "exVi": "Điện thoại thông minh đã cách mạng hóa cách chúng ta giao tiếp."
+    },
+    {
+     "word": "breakthrough",
+     "ipa": "/ˈbreɪk.θruː/",
+     "pos": "noun",
+     "vi": "bước đột phá",
+     "ex": "Scientists have made a breakthrough in cancer research.",
+     "exVi": "Các nhà khoa học đã có bước đột phá trong nghiên cứu ung thư.",
+     "tip": "break + through (xuyên qua)."
+    },
+    {
+     "word": "obsolete",
+     "ipa": "/ˌɑːb.səlˈiːt/",
+     "pos": "adj",
+     "vi": "lỗi thời",
+     "ex": "Many old jobs will become obsolete.",
+     "exVi": "Nhiều công việc cũ sẽ trở nên lỗi thời."
+    },
+    {
+     "word": "algorithm",
+     "ipa": "/ˈæl.ɡə.rɪ.ðəm/",
+     "pos": "noun",
+     "vi": "thuật toán",
+     "ex": "The algorithm recommends videos you might like.",
+     "exVi": "Thuật toán gợi ý video bạn có thể thích."
+    },
+    {
+     "word": "gadget",
+     "ipa": "/ˈɡædʒ.ɪt/",
+     "pos": "noun",
+     "vi": "đồ công nghệ nhỏ",
+     "ex": "He loves buying the latest gadgets.",
+     "exVi": "Anh ấy thích mua những món đồ công nghệ mới nhất."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "It's just a matter of time.",
+     "vi": "Chỉ là vấn đề thời gian thôi."
+    },
+    {
+     "en": "Technology is a double-edged sword.",
+     "vi": "Công nghệ là con dao hai lưỡi."
+    },
+    {
+     "en": "We need to keep up with the times.",
+     "vi": "Chúng ta cần theo kịp thời đại."
+    },
+    {
+     "en": "It's cutting-edge technology.",
+     "vi": "Đó là công nghệ tiên tiến nhất."
+    },
+    {
+     "en": "I'm not very tech-savvy.",
+     "vi": "Tôi không rành công nghệ lắm."
+    }
+   ],
+   "grammar": {
+    "formulas": [
+     "Tương lai tiếp diễn: S + will be + V-ing (This time tomorrow, I'll be flying to Tokyo.)",
+     "Tương lai hoàn thành: S + will have + V3 (By 2030, robots will have replaced many jobs.)",
+     "Dấu hiệu: this time next week, at 8 p.m. tomorrow · by + mốc thời gian, by the time + S + V (hiện tại đơn)"
+    ],
+    "points": [
+     {
+      "title": "Đang diễn ra tại thời điểm tương lai",
+      "body": "At 9 a.m. tomorrow, I'll be presenting our new app. (Đúng 9 giờ sáng mai, tôi đang thuyết trình.)"
+     },
+     {
+      "title": "Hoàn tất trước một mốc",
+      "body": "By the end of this year, we will have launched three products. by = trước / không muộn hơn."
+     },
+     {
+      "title": "Hỏi lịch sự về kế hoạch",
+      "body": "Will you be using the car tonight? (hỏi nhẹ nhàng về kế hoạch của người khác, không mang ý nhờ vả ép buộc)."
+     },
+     {
+      "title": "By the time + hiện tại đơn",
+      "body": "By the time you arrive, I will have finished the report. Không dùng will sau by the time."
+     }
+    ],
+    "examples": [
+     {
+      "en": "This time next year, I'll be working in Singapore.",
+      "vi": "Giờ này năm sau, tôi sẽ đang làm việc ở Singapore."
+     },
+     {
+      "en": "By 2040, most cars will have become electric.",
+      "vi": "Đến năm 2040, hầu hết ô tô sẽ đã chuyển sang chạy điện."
+     },
+     {
+      "en": "Don't call at eight – I'll be having a meeting.",
+      "vi": "Đừng gọi lúc tám giờ – lúc đó tôi đang họp."
+     },
+     {
+      "en": "By the time you get home, I will have cooked dinner.",
+      "vi": "Khi bạn về đến nhà, tôi sẽ nấu xong bữa tối."
+     }
+    ],
+    "mistakes": [
+     {
+      "wrong": "By 2030, AI will replace many jobs.",
+      "right": "By 2030, AI will have replaced many jobs.",
+      "note": "by + mốc tương lai → tương lai hoàn thành."
+     },
+     {
+      "wrong": "By the time you will arrive, I'll have left.",
+      "right": "By the time you arrive, I'll have left.",
+      "note": "Sau by the time dùng hiện tại đơn."
+     },
+     {
+      "wrong": "This time tomorrow I will lie on the beach.",
+      "right": "This time tomorrow I will be lying on the beach.",
+      "note": "Đang diễn ra tại thời điểm tương lai → tiếp diễn."
+     }
+    ],
+    "exercises": [
+     {
+      "q": "This time tomorrow, I ___ to London.",
+      "options": [
+       "will fly",
+       "will be flying",
+       "will have flown"
+      ],
+      "answer": "will be flying",
+      "explain": "This time tomorrow → tương lai tiếp diễn."
+     },
+     {
+      "q": "By 2030, scientists ___ a cure for this disease.",
+      "options": [
+       "will find",
+       "will be finding",
+       "will have found"
+      ],
+      "answer": "will have found",
+      "explain": "By 2030 → tương lai hoàn thành."
+     },
+     {
+      "q": "By the time you ___, the meeting will have started.",
+      "options": [
+       "arrive",
+       "will arrive",
+       "arrived"
+      ],
+      "answer": "arrive",
+      "explain": "Sau by the time dùng hiện tại đơn."
+     },
+     {
+      "q": "At 10 p.m. tonight, she ___ her favourite show.",
+      "options": [
+       "will be watching",
+       "will have watched",
+       "watches"
+      ],
+      "answer": "will be watching",
+      "explain": "Thời điểm cụ thể trong tương lai → tiếp diễn."
+     },
+     {
+      "q": "___ you be using your laptop this evening?",
+      "options": [
+       "Will",
+       "Are",
+       "Have"
+      ],
+      "answer": "Will",
+      "explain": "Hỏi lịch sự: Will you be + V-ing?"
+     },
+     {
+      "q": "By next month, I ___ here for ten years.",
+      "options": [
+       "will work",
+       "will have worked",
+       "will be work"
+      ],
+      "answer": "will have worked",
+      "explain": "By next month → tương lai hoàn thành."
+     },
+     {
+      "q": "By the end of the century, robots ___ most factory jobs.",
+      "options": [
+       "will have taken over",
+       "will be take over",
+       "are taking over"
+      ],
+      "answer": "will have taken over",
+      "explain": "By the end of... → tương lai hoàn thành."
+     }
+    ],
+    "title": "Tương lai tiếp diễn & Tương lai hoàn thành",
+    "summary": "Tương lai tiếp diễn (will be + V-ing) diễn tả hành động đang diễn ra tại một thời điểm trong tương lai. Tương lai hoàn thành (will have + V3) diễn tả hành động sẽ hoàn tất trước một thời điểm trong tương lai."
+   },
+   "dialogue": {
+    "lines": [
+     {
+      "speaker": "A",
+      "name": "Minh",
+      "en": "Do you think we'll still be driving cars in 2040?",
+      "vi": "Bạn nghĩ năm 2040 chúng ta còn tự lái ô tô không?"
+     },
+     {
+      "speaker": "B",
+      "name": "Sarah",
+      "en": "I doubt it. By then, self-driving cars will have become normal. We'll be reading or sleeping while the car drives.",
+      "vi": "Mình nghi lắm. Đến lúc đó, xe tự lái sẽ trở nên bình thường rồi. Chúng ta sẽ đang đọc sách hoặc ngủ trong khi xe tự chạy."
+     },
+     {
+      "speaker": "A",
+      "name": "Minh",
+      "en": "That sounds great, but what about privacy? These devices collect so much data.",
+      "vi": "Nghe tuyệt đấy, nhưng còn quyền riêng tư thì sao? Những thiết bị này thu thập quá nhiều dữ liệu."
+     },
+     {
+      "speaker": "B",
+      "name": "Sarah",
+      "en": "That's the big question. Governments will have to create new laws.",
+      "vi": "Đó là câu hỏi lớn. Chính phủ sẽ phải tạo ra luật mới."
+     },
+     {
+      "speaker": "A",
+      "name": "Minh",
+      "en": "And jobs? I read that automation will have replaced 30% of jobs by 2035.",
+      "vi": "Còn việc làm? Mình đọc thấy đến năm 2035 tự động hóa sẽ thay thế 30% việc làm."
+     },
+     {
+      "speaker": "B",
+      "name": "Sarah",
+      "en": "Some jobs will disappear, but new ones will appear. Twenty years ago, nobody was working as an app developer!",
+      "vi": "Một số việc sẽ biến mất nhưng việc mới sẽ xuất hiện. Hai mươi năm trước, chẳng ai làm nghề lập trình ứng dụng cả!"
+     }
+    ],
+    "questions": [
+     {
+      "q": "What does Sarah think people will be doing in self-driving cars?",
+      "options": [
+       "driving",
+       "reading or sleeping",
+       "working on laptops only"
+      ],
+      "answer": "reading or sleeping"
+     },
+     {
+      "q": "What does Minh worry about?",
+      "options": [
+       "privacy",
+       "the price of cars",
+       "traffic"
+      ],
+      "answer": "privacy"
+     }
+    ],
+    "title": "Cuộc sống năm 2040",
+    "setting": "Hai đồng nghiệp ngành công nghệ dự đoán tương lai."
+   },
+   "reading": {
+    "questions": [
+     {
+      "q": "According to supporters, how will AI change medicine?",
+      "options": [
+       "It will replace doctors",
+       "It will help doctors find diseases earlier",
+       "It will make medicine cheaper"
+      ],
+      "answer": "It will help doctors find diseases earlier"
+     },
+     {
+      "q": "What do most experts agree on?",
+      "options": [
+       "AI is dangerous",
+       "The technology is neither good nor bad",
+       "AI will solve all problems"
+      ],
+      "answer": "The technology is neither good nor bad"
+     }
+    ],
+    "title": "The rise of artificial intelligence",
+    "text": "Artificial intelligence is no longer science fiction. Every day, algorithms decide which videos we watch, which products we see and even which news we read. Supporters say AI will have transformed medicine within a decade, helping doctors find diseases earlier than ever before. However, critics warn that many jobs will become obsolete, and that powerful companies will be collecting more personal data than ever. Most experts agree on one thing: the technology itself is neither good nor bad. What matters is how we decide to use it, and who makes the rules.",
+    "vi": "Trí tuệ nhân tạo không còn là khoa học viễn tưởng. Mỗi ngày, các thuật toán quyết định chúng ta xem video nào, thấy sản phẩm nào và thậm chí đọc tin tức nào. Những người ủng hộ cho rằng AI sẽ làm thay đổi ngành y trong vòng một thập kỷ, giúp bác sĩ phát hiện bệnh sớm hơn bao giờ hết. Tuy nhiên, những người chỉ trích cảnh báo rằng nhiều công việc sẽ trở nên lỗi thời, và các công ty quyền lực sẽ thu thập nhiều dữ liệu cá nhân hơn bao giờ hết. Hầu hết các chuyên gia đồng ý một điều: bản thân công nghệ không tốt cũng không xấu. Điều quan trọng là chúng ta quyết định sử dụng nó như thế nào, và ai là người đặt ra luật lệ."
+   },
+   "title": "Công nghệ & Tương lai",
+   "titleEn": "Technology & the Future",
+   "emoji": "🤖",
+   "goal": "Dự đoán tương lai với thì tương lai tiếp diễn và tương lai hoàn thành."
+  },
+  {
+   "id": "b2-u2",
+   "words": [
+    {
+     "word": "relationship",
+     "ipa": "/rɪˈleɪ.ʃən.ʃɪp/",
+     "pos": "noun",
+     "vi": "mối quan hệ",
+     "ex": "They have a very close relationship.",
+     "exVi": "Họ có mối quan hệ rất thân thiết."
+    },
+    {
+     "word": "trust",
+     "ipa": "/trʌst/",
+     "pos": "noun",
+     "vi": "lòng tin",
+     "ex": "Trust is the foundation of any friendship.",
+     "exVi": "Lòng tin là nền tảng của mọi tình bạn."
+    },
+    {
+     "word": "conflict",
+     "ipa": "/ˈkɑːn.flɪkt/",
+     "pos": "noun",
+     "vi": "xung đột",
+     "ex": "They had a conflict about money.",
+     "exVi": "Họ xảy ra xung đột về tiền bạc."
+    },
+    {
+     "word": "compromise",
+     "ipa": "/ˈkɑːm.prə.maɪz/",
+     "pos": "verb",
+     "vi": "thỏa hiệp",
+     "ex": "Couples need to learn how to compromise.",
+     "exVi": "Các cặp đôi cần học cách thỏa hiệp."
+    },
+    {
+     "word": "loyal",
+     "ipa": "/ˈlɔɪ.əl/",
+     "pos": "adj",
+     "vi": "trung thành",
+     "ex": "Dogs are loyal animals.",
+     "exVi": "Chó là loài vật trung thành.",
+     "tip": "loyalty = lòng trung thành."
+    },
+    {
+     "word": "betray",
+     "ipa": "/bɪˈtreɪ/",
+     "pos": "verb",
+     "vi": "phản bội",
+     "ex": "He felt betrayed by his best friend.",
+     "exVi": "Anh ấy cảm thấy bị bạn thân phản bội."
+    },
+    {
+     "word": "reconcile",
+     "ipa": "/ˈrek.ən.saɪl/",
+     "pos": "verb",
+     "vi": "hòa giải, làm lành",
+     "ex": "After years of silence, the brothers finally reconciled.",
+     "exVi": "Sau nhiều năm im lặng, hai anh em cuối cùng đã làm lành."
+    },
+    {
+     "word": "apologize",
+     "ipa": "/əˈpɑː.lə.dʒaɪz/",
+     "pos": "verb",
+     "vi": "xin lỗi",
+     "ex": "You should apologize to her.",
+     "exVi": "Bạn nên xin lỗi cô ấy.",
+     "tip": "apologize to sb for sth."
+    },
+    {
+     "word": "misunderstanding",
+     "ipa": "/ˌmɪs.ʌn.dɚˈstæn.dɪŋ/",
+     "pos": "noun",
+     "vi": "sự hiểu lầm",
+     "ex": "It was just a misunderstanding.",
+     "exVi": "Đó chỉ là một sự hiểu lầm."
+    },
+    {
+     "word": "supportive",
+     "ipa": "/səˈpɔːr.t̬ɪv/",
+     "pos": "adj",
+     "vi": "luôn ủng hộ, giúp đỡ",
+     "ex": "My parents are very supportive.",
+     "exVi": "Bố mẹ tôi luôn ủng hộ tôi."
+    },
+    {
+     "word": "acquaintance",
+     "ipa": "/əˈkweɪn.təns/",
+     "pos": "noun",
+     "vi": "người quen",
+     "ex": "He's not a friend, just an acquaintance.",
+     "exVi": "Anh ta không phải bạn, chỉ là người quen."
+    },
+    {
+     "word": "jealous",
+     "ipa": "/ˈdʒel.əs/",
+     "pos": "adj",
+     "vi": "ghen tị, ghen",
+     "ex": "She gets jealous when he talks to other girls.",
+     "exVi": "Cô ấy ghen khi anh nói chuyện với cô gái khác."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "We're on the same page.",
+     "vi": "Chúng ta cùng quan điểm."
+    },
+    {
+     "en": "Let's agree to disagree.",
+     "vi": "Chúng ta cứ giữ quan điểm riêng vậy."
+    },
+    {
+     "en": "I owe you an apology.",
+     "vi": "Tôi nợ bạn một lời xin lỗi."
+    },
+    {
+     "en": "It takes two to tango.",
+     "vi": "Một bàn tay không vỗ nên kêu."
+    },
+    {
+     "en": "We drifted apart.",
+     "vi": "Chúng tôi dần xa cách nhau."
+    }
+   ],
+   "grammar": {
+    "formulas": [
+     "Loại 3: If + S + had + V3, S + would have + V3",
+     "Hỗn hợp (quá khứ → hiện tại): If + S + had + V3, S + would + V (now)",
+     "Hỗn hợp (hiện tại → quá khứ): If + S + V2, S + would have + V3",
+     "Tiếc nuối: S + wish + S + had + V3 (I wish I had told the truth.)"
+    ],
+    "points": [
+     {
+      "title": "Loại 3 = quá khứ không có thật",
+      "body": "If I had known about the party, I would have come. (Thực tế: tôi không biết nên đã không đến.)"
+     },
+     {
+      "title": "Hỗn hợp: quá khứ ảnh hưởng hiện tại",
+      "body": "If she hadn't moved abroad, she would be married to him now. (Quá khứ: đã chuyển đi → hiện tại: không cưới.)"
+     },
+     {
+      "title": "Hỗn hợp: hiện tại giải thích quá khứ",
+      "body": "If he weren't so stubborn, he would have apologized yesterday. (Hiện tại: bướng → quá khứ: đã không xin lỗi.)"
+     },
+     {
+      "title": "could have / might have",
+      "body": "Thay would have bằng could have (đã có thể) hoặc might have (có lẽ đã): If we had talked, we could have avoided the conflict."
+     }
+    ],
+    "examples": [
+     {
+      "en": "If you had told me the truth, I would have forgiven you.",
+      "vi": "Nếu bạn nói thật với tôi, tôi đã tha thứ cho bạn rồi."
+     },
+     {
+      "en": "If they hadn't argued, they would still be together.",
+      "vi": "Nếu họ không cãi nhau, giờ họ vẫn còn bên nhau."
+     },
+     {
+      "en": "I wish I hadn't said those words.",
+      "vi": "Tôi ước mình đã không nói những lời đó."
+     },
+     {
+      "en": "If she weren't so shy, she would have asked him out.",
+      "vi": "Nếu cô ấy không quá nhút nhát, cô ấy đã rủ anh ấy đi chơi rồi."
+     }
+    ],
+    "mistakes": [
+     {
+      "wrong": "If I would have known, I would have helped.",
+      "right": "If I had known, I would have helped.",
+      "note": "Mệnh đề if dùng had + V3."
+     },
+     {
+      "wrong": "If I had studied, I would pass the exam last year.",
+      "right": "If I had studied, I would have passed the exam last year.",
+      "note": "Kết quả trong quá khứ → would have + V3."
+     },
+     {
+      "wrong": "I wish I didn't say that yesterday.",
+      "right": "I wish I hadn't said that yesterday.",
+      "note": "Tiếc về quá khứ → had + V3."
+     }
+    ],
+    "exercises": [
+     {
+      "q": "If I ___ about the meeting, I would have come.",
+      "options": [
+       "knew",
+       "had known",
+       "would know"
+      ],
+      "answer": "had known",
+      "explain": "Loại 3: If + had + V3."
+     },
+     {
+      "q": "If she had apologized, he ___ her.",
+      "options": [
+       "would forgive",
+       "would have forgiven",
+       "forgave"
+      ],
+      "answer": "would have forgiven",
+      "explain": "Loại 3: would have + V3."
+     },
+     {
+      "q": "If we hadn't missed the flight, we ___ in Paris now.",
+      "options": [
+       "would be",
+       "would have been",
+       "are"
+      ],
+      "answer": "would be",
+      "explain": "Hỗn hợp: kết quả ở hiện tại (now)."
+     },
+     {
+      "q": "I wish I ___ him the truth.",
+      "options": [
+       "told",
+       "had told",
+       "would tell"
+      ],
+      "answer": "had told",
+      "explain": "Tiếc nuối quá khứ → had + V3."
+     },
+     {
+      "q": "If he ___ so jealous, they wouldn't have broken up.",
+      "options": [
+       "isn't",
+       "weren't",
+       "hadn't"
+      ],
+      "answer": "weren't",
+      "explain": "Hỗn hợp: tính cách hiện tại → kết quả quá khứ."
+     },
+     {
+      "q": "If you had listened to me, you ___ that mistake.",
+      "options": [
+       "wouldn't make",
+       "wouldn't have made",
+       "didn't make"
+      ],
+      "answer": "wouldn't have made",
+      "explain": "Loại 3."
+     },
+     {
+      "q": "They ___ have reconciled if they had talked earlier.",
+      "options": [
+       "could",
+       "can",
+       "will"
+      ],
+      "answer": "could",
+      "explain": "could have + V3 = đã có thể."
+     }
+    ],
+    "title": "Câu điều kiện loại 3 & điều kiện hỗn hợp",
+    "summary": "Câu điều kiện loại 3 nói về điều KHÔNG xảy ra trong quá khứ và kết quả tưởng tượng của nó – thường để diễn tả sự tiếc nuối. Câu điều kiện hỗn hợp kết nối giả định trong quá khứ với kết quả ở hiện tại (hoặc ngược lại)."
+   },
+   "dialogue": {
+    "lines": [
+     {
+      "speaker": "A",
+      "name": "Linh",
+      "en": "Do you still talk to Mai?",
+      "vi": "Bạn còn nói chuyện với Mai không?"
+     },
+     {
+      "speaker": "B",
+      "name": "Jason",
+      "en": "No. We had a big misunderstanding last year and haven't spoken since.",
+      "vi": "Không. Năm ngoái bọn mình hiểu lầm nặng và không nói chuyện từ đó."
+     },
+     {
+      "speaker": "A",
+      "name": "Linh",
+      "en": "That's sad. What happened?",
+      "vi": "Buồn thật. Đã xảy ra chuyện gì vậy?"
+     },
+     {
+      "speaker": "B",
+      "name": "Jason",
+      "en": "She thought I had told her secret to other people. If she had asked me directly, I would have explained.",
+      "vi": "Cô ấy nghĩ mình đã kể bí mật của cô ấy cho người khác. Nếu cô ấy hỏi thẳng mình, mình đã giải thích rồi."
+     },
+     {
+      "speaker": "A",
+      "name": "Linh",
+      "en": "And why didn't you contact her?",
+      "vi": "Vậy sao bạn không liên lạc với cô ấy?"
+     },
+     {
+      "speaker": "B",
+      "name": "Jason",
+      "en": "I was too proud. If I weren't so stubborn, I would have called her months ago.",
+      "vi": "Mình quá tự ái. Nếu mình không bướng như vậy, mình đã gọi cho cô ấy từ mấy tháng trước rồi."
+     },
+     {
+      "speaker": "A",
+      "name": "Linh",
+      "en": "It's not too late. Maybe you two could reconcile.",
+      "vi": "Vẫn chưa muộn đâu. Có lẽ hai bạn có thể làm lành."
+     },
+     {
+      "speaker": "B",
+      "name": "Jason",
+      "en": "You're right. I wish I had done it sooner.",
+      "vi": "Bạn nói đúng. Mình ước mình đã làm điều đó sớm hơn."
+     }
+    ],
+    "questions": [
+     {
+      "q": "Why did Mai stop talking to Jason?",
+      "options": [
+       "He forgot her birthday",
+       "She thought he had told her secret",
+       "He moved abroad"
+      ],
+      "answer": "She thought he had told her secret"
+     },
+     {
+      "q": "Why didn't Jason call Mai?",
+      "options": [
+       "He was too proud",
+       "He was too busy",
+       "He lost her number"
+      ],
+      "answer": "He was too proud"
+     }
+    ],
+    "title": "Giá như...",
+    "setting": "Hai người bạn nói về một tình bạn đã rạn nứt."
+   },
+   "reading": {
+    "questions": [
+     {
+      "q": "What does forgiving mean, according to the text?",
+      "options": [
+       "forgetting everything",
+       "letting go of the desire for revenge",
+       "pretending nothing happened"
+      ],
+      "answer": "letting go of the desire for revenge"
+     },
+     {
+      "q": "What causes most misunderstandings?",
+      "options": [
+       "bad intentions",
+       "poor communication",
+       "jealousy"
+      ],
+      "answer": "poor communication"
+     }
+    ],
+    "title": "The science of forgiveness",
+    "text": "Holding on to anger can be exhausting. Psychologists have found that people who forgive tend to have lower stress levels and healthier relationships. Forgiving does not mean forgetting or pretending that nothing happened. It means choosing to let go of the desire for revenge. Interestingly, many people later realise that if they had communicated more openly, the conflict would never have started. Researchers suggest a simple first step: try to see the situation from the other person's perspective. Most misunderstandings are not caused by bad intentions, but by poor communication.",
+    "vi": "Ôm giữ cơn giận có thể khiến ta kiệt sức. Các nhà tâm lý học phát hiện rằng những người biết tha thứ thường có mức độ căng thẳng thấp hơn và các mối quan hệ lành mạnh hơn. Tha thứ không có nghĩa là quên đi hay giả vờ như chưa có chuyện gì. Nó có nghĩa là chọn buông bỏ mong muốn trả thù. Thú vị là, nhiều người sau này nhận ra rằng nếu họ giao tiếp cởi mở hơn, xung đột đã không bao giờ bắt đầu. Các nhà nghiên cứu gợi ý một bước đầu tiên đơn giản: hãy thử nhìn tình huống từ góc nhìn của người kia. Phần lớn hiểu lầm không phải do ý xấu mà do giao tiếp kém."
+   },
+   "title": "Các mối quan hệ",
+   "titleEn": "Relationships",
+   "emoji": "💞",
+   "goal": "Nói về xung đột, sự tiếc nuối và giả định về quá khứ."
+  },
+  {
+   "id": "b2-u3",
+   "words": [
+    {
+     "word": "profit",
+     "ipa": "/ˈprɑː.fɪt/",
+     "pos": "noun",
+     "vi": "lợi nhuận",
+     "ex": "The company made a huge profit last year.",
+     "exVi": "Công ty thu lợi nhuận khổng lồ năm ngoái.",
+     "tip": "Trái nghĩa: loss."
+    },
+    {
+     "word": "revenue",
+     "ipa": "/ˈrev.ə.nuː/",
+     "pos": "noun",
+     "vi": "doanh thu",
+     "ex": "Online sales now account for half of our revenue.",
+     "exVi": "Doanh số trực tuyến hiện chiếm một nửa doanh thu."
+    },
+    {
+     "word": "investment",
+     "ipa": "/ɪnˈvest.mənt/",
+     "pos": "noun",
+     "vi": "sự đầu tư",
+     "ex": "Education is the best investment.",
+     "exVi": "Giáo dục là khoản đầu tư tốt nhất.",
+     "tip": "invest in sth = đầu tư vào."
+    },
+    {
+     "word": "competitor",
+     "ipa": "/kəmˈpet̬.ə.t̬ɚ/",
+     "pos": "noun",
+     "vi": "đối thủ cạnh tranh",
+     "ex": "Our main competitor has lowered its prices.",
+     "exVi": "Đối thủ chính của chúng tôi đã hạ giá."
+    },
+    {
+     "word": "strategy",
+     "ipa": "/ˈstræt̬.ə.dʒi/",
+     "pos": "noun",
+     "vi": "chiến lược",
+     "ex": "We need a new marketing strategy.",
+     "exVi": "Chúng ta cần một chiến lược tiếp thị mới."
+    },
+    {
+     "word": "launch",
+     "ipa": "/lɑːntʃ/",
+     "pos": "verb",
+     "vi": "ra mắt, khởi động",
+     "ex": "The new phone will be launched next month.",
+     "exVi": "Điện thoại mới sẽ được ra mắt vào tháng tới."
+    },
+    {
+     "word": "brand",
+     "ipa": "/brænd/",
+     "pos": "noun",
+     "vi": "thương hiệu",
+     "ex": "Nike is a famous sports brand.",
+     "exVi": "Nike là thương hiệu thể thao nổi tiếng."
+    },
+    {
+     "word": "consumer",
+     "ipa": "/kənˈsuː.mɚ/",
+     "pos": "noun",
+     "vi": "người tiêu dùng",
+     "ex": "Consumers are becoming more environmentally aware.",
+     "exVi": "Người tiêu dùng ngày càng có ý thức về môi trường."
+    },
+    {
+     "word": "budget",
+     "ipa": "/ˈbʌdʒ.ɪt/",
+     "pos": "noun",
+     "vi": "ngân sách",
+     "ex": "We have a limited budget for advertising.",
+     "exVi": "Chúng ta có ngân sách hạn chế cho quảng cáo."
+    },
+    {
+     "word": "merger",
+     "ipa": "/ˈmɝː.dʒɚ/",
+     "pos": "noun",
+     "vi": "sự sáp nhập",
+     "ex": "The merger of the two banks was announced today.",
+     "exVi": "Việc sáp nhập hai ngân hàng đã được công bố hôm nay."
+    },
+    {
+     "word": "entrepreneur",
+     "ipa": "/ˌɑːn.trə.prəˈnɝː/",
+     "pos": "noun",
+     "vi": "doanh nhân khởi nghiệp",
+     "ex": "She is a successful young entrepreneur.",
+     "exVi": "Cô ấy là một doanh nhân trẻ thành đạt."
+    },
+    {
+     "word": "startup",
+     "ipa": "/ˈstɑːrt̬.ʌp/",
+     "pos": "noun",
+     "vi": "công ty khởi nghiệp",
+     "ex": "He left his job to start a tech startup.",
+     "exVi": "Anh ấy bỏ việc để mở một công ty khởi nghiệp công nghệ."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "Let's get down to business.",
+     "vi": "Chúng ta vào việc chính thôi."
+    },
+    {
+     "en": "It's a win-win situation.",
+     "vi": "Đó là tình huống đôi bên cùng có lợi."
+    },
+    {
+     "en": "We need to think outside the box.",
+     "vi": "Chúng ta cần suy nghĩ sáng tạo, thoát khỏi lối mòn."
+    },
+    {
+     "en": "The ball is in your court.",
+     "vi": "Quyết định giờ nằm ở bạn."
+    },
+    {
+     "en": "Time is money.",
+     "vi": "Thời gian là tiền bạc."
+    }
+   ],
+   "grammar": {
+    "formulas": [
+     "S + have / get + O + V3: We had the office redesigned.",
+     "It + is / was + said / believed / reported + that + mệnh đề",
+     "S + is / was + said / believed + to V / to have V3",
+     "Bị động ở các thì: is being + V3 (tiếp diễn), has been + V3 (hoàn thành), will be + V3"
+    ],
+    "points": [
+     {
+      "title": "have something done",
+      "body": "Dùng khi ta không tự làm mà nhờ / thuê người khác: I had my car repaired (thợ sửa, không phải tôi). Cũng dùng cho việc không may: She had her phone stolen."
+     },
+     {
+      "title": "It is said that... / S is said to...",
+      "body": "Hai cách đưa tin mà không nêu nguồn cụ thể: It is believed that the company will merge. = The company is believed to be merging."
+     },
+     {
+      "title": "to have + V3",
+      "body": "Khi sự việc xảy ra trước thời điểm nói: The CEO is said to have resigned last week."
+     },
+     {
+      "title": "Bị động ở các thì",
+      "body": "The product is being tested (đang được thử). The deal has been signed (đã được ký). The results will be published (sẽ được công bố)."
+     }
+    ],
+    "examples": [
+     {
+      "en": "We are having our website redesigned.",
+      "vi": "Chúng tôi đang thuê người thiết kế lại trang web."
+     },
+     {
+      "en": "It is reported that profits have doubled.",
+      "vi": "Có tin rằng lợi nhuận đã tăng gấp đôi."
+     },
+     {
+      "en": "The startup is believed to be worth one billion dollars.",
+      "vi": "Công ty khởi nghiệp được cho là trị giá một tỷ đô-la."
+     },
+     {
+      "en": "The new product has been launched in 20 countries.",
+      "vi": "Sản phẩm mới đã được ra mắt tại 20 quốc gia."
+     }
+    ],
+    "mistakes": [
+     {
+      "wrong": "I had repaired my laptop yesterday. (thợ sửa)",
+      "right": "I had my laptop repaired yesterday.",
+      "note": "Tân ngữ đứng trước V3."
+     },
+     {
+      "wrong": "It is said the CEO to resign.",
+      "right": "The CEO is said to have resigned.",
+      "note": "Chọn đúng một trong hai cấu trúc."
+     },
+     {
+      "wrong": "The deal has signed.",
+      "right": "The deal has been signed.",
+      "note": "Bị động hoàn thành: has been + V3."
+     }
+    ],
+    "exercises": [
+     {
+      "q": "We need to have the contract ___ by a lawyer.",
+      "options": [
+       "check",
+       "checked",
+       "checking"
+      ],
+      "answer": "checked",
+      "explain": "have + O + V3."
+     },
+     {
+      "q": "It ___ that the two companies will merge.",
+      "options": [
+       "says",
+       "is said",
+       "said"
+      ],
+      "answer": "is said",
+      "explain": "It is said that..."
+     },
+     {
+      "q": "The CEO is believed ___ last month.",
+      "options": [
+       "to resign",
+       "to have resigned",
+       "resigning"
+      ],
+      "answer": "to have resigned",
+      "explain": "Sự việc đã xảy ra → to have + V3."
+     },
+     {
+      "q": "The new factory ___ at the moment.",
+      "options": [
+       "is building",
+       "is being built",
+       "has built"
+      ],
+      "answer": "is being built",
+      "explain": "Bị động tiếp diễn: is being + V3."
+     },
+     {
+      "q": "She got her hair ___ for the presentation.",
+      "options": [
+       "cut",
+       "cutting",
+       "to cut"
+      ],
+      "answer": "cut",
+      "explain": "get + O + V3."
+     },
+     {
+      "q": "The results ___ next week.",
+      "options": [
+       "will publish",
+       "will be published",
+       "are publishing"
+      ],
+      "answer": "will be published",
+      "explain": "Bị động tương lai: will be + V3."
+     },
+     {
+      "q": "Over one million units ___ since January.",
+      "options": [
+       "have sold",
+       "have been sold",
+       "were selling"
+      ],
+      "answer": "have been sold",
+      "explain": "since January → bị động hoàn thành."
+     }
+    ],
+    "title": "Bị động nâng cao: have something done & It is said that...",
+    "summary": "Ở trình độ B2, câu bị động được dùng linh hoạt hơn: thuê / nhờ người khác làm việc gì (have / get something done) và đưa tin khách quan (It is said / believed / reported that...)."
+   },
+   "dialogue": {
+    "lines": [
+     {
+      "speaker": "A",
+      "name": "Mr. Long",
+      "en": "Let's get down to business. How are sales of the new app?",
+      "vi": "Chúng ta vào việc chính thôi. Doanh số ứng dụng mới thế nào?"
+     },
+     {
+      "speaker": "B",
+      "name": "Emily",
+      "en": "Good news. The app has been downloaded over 200,000 times since the launch.",
+      "vi": "Tin tốt ạ. Ứng dụng đã được tải hơn 200.000 lần kể từ khi ra mắt."
+     },
+     {
+      "speaker": "A",
+      "name": "Mr. Long",
+      "en": "Excellent. What about our competitors?",
+      "vi": "Tuyệt vời. Còn các đối thủ thì sao?"
+     },
+     {
+      "speaker": "B",
+      "name": "Emily",
+      "en": "It is rumored that our main competitor is launching a similar product next month.",
+      "vi": "Có tin đồn rằng đối thủ chính của chúng ta sẽ ra mắt sản phẩm tương tự vào tháng tới."
+     },
+     {
+      "speaker": "A",
+      "name": "Mr. Long",
+      "en": "Then we need to move fast. Can we increase the advertising budget?",
+      "vi": "Vậy chúng ta cần hành động nhanh. Có thể tăng ngân sách quảng cáo không?"
+     },
+     {
+      "speaker": "B",
+      "name": "Emily",
+      "en": "Yes. I suggest we have a new video ad made by a professional studio.",
+      "vi": "Được ạ. Tôi đề xuất thuê một studio chuyên nghiệp làm quảng cáo video mới."
+     },
+     {
+      "speaker": "A",
+      "name": "Mr. Long",
+      "en": "Good idea. The ball is in your court, Emily.",
+      "vi": "Ý hay đấy. Việc này do cô quyết, Emily."
+     }
+    ],
+    "questions": [
+     {
+      "q": "How many times has the app been downloaded?",
+      "options": [
+       "20,000",
+       "over 200,000",
+       "2 million"
+      ],
+      "answer": "over 200,000"
+     },
+     {
+      "q": "What does Emily suggest?",
+      "options": [
+       "lowering the price",
+       "having a new video ad made",
+       "hiring more staff"
+      ],
+      "answer": "having a new video ad made"
+     }
+    ],
+    "title": "Họp chiến lược",
+    "setting": "Giám đốc và trưởng phòng marketing họp về sản phẩm mới."
+   },
+   "reading": {
+    "questions": [
+     {
+      "q": "Where is Apple said to have been founded?",
+      "options": [
+       "in a university",
+       "in a garage",
+       "in a bookshop"
+      ],
+      "answer": "in a garage"
+     },
+     {
+      "q": "What percentage of new businesses close within five years?",
+      "options": [
+       "about 50%",
+       "about 70%",
+       "about 90%"
+      ],
+      "answer": "about 90%"
+     }
+    ],
+    "title": "From garage to global brand",
+    "text": "Many of the world's biggest companies started in surprisingly small places. Apple is said to have been founded in a garage, and Amazon began as an online bookshop run from a rented house. What these entrepreneurs had in common was not money, but a clear vision and the courage to take risks. Of course, for every success story, thousands of startups fail. It is estimated that around 90% of new businesses close within five years. The most common reasons are a lack of customers, poor planning and running out of money.",
+    "vi": "Nhiều công ty lớn nhất thế giới bắt đầu ở những nơi nhỏ bé đến bất ngờ. Apple được cho là đã được thành lập trong một nhà để xe, còn Amazon khởi đầu là một hiệu sách trực tuyến vận hành từ một căn nhà thuê. Điểm chung của những doanh nhân này không phải là tiền, mà là tầm nhìn rõ ràng và dũng khí chấp nhận rủi ro. Tất nhiên, cứ mỗi câu chuyện thành công lại có hàng nghìn công ty khởi nghiệp thất bại. Ước tính khoảng 90% doanh nghiệp mới đóng cửa trong vòng năm năm. Những lý do phổ biến nhất là thiếu khách hàng, lập kế hoạch kém và cạn tiền."
+   },
+   "title": "Kinh doanh",
+   "titleEn": "Business",
+   "emoji": "📈",
+   "goal": "Thảo luận chiến lược kinh doanh và đưa tin khách quan bằng bị động nâng cao."
+  },
+  {
+   "id": "b2-u4",
+   "words": [
+    {
+     "word": "anxiety",
+     "ipa": "/æŋˈzaɪ.ə.t̬i/",
+     "pos": "noun",
+     "vi": "sự lo âu",
+     "ex": "Many students suffer from exam anxiety.",
+     "exVi": "Nhiều sinh viên bị lo âu khi thi cử.",
+     "tip": "anxious = lo âu."
+    },
+    {
+     "word": "depression",
+     "ipa": "/dɪˈpreʃ.ən/",
+     "pos": "noun",
+     "vi": "trầm cảm",
+     "ex": "Depression is a serious illness.",
+     "exVi": "Trầm cảm là một căn bệnh nghiêm trọng."
+    },
+    {
+     "word": "cope",
+     "ipa": "/koʊp/",
+     "pos": "verb",
+     "vi": "đối phó, đương đầu",
+     "ex": "She is learning to cope with stress.",
+     "exVi": "Cô ấy đang học cách đối phó với căng thẳng.",
+     "tip": "cope with sth."
+    },
+    {
+     "word": "burnout",
+     "ipa": "/ˈbɝːn.aʊt/",
+     "pos": "noun",
+     "vi": "sự kiệt sức (vì công việc)",
+     "ex": "Working 70 hours a week can lead to burnout.",
+     "exVi": "Làm việc 70 giờ một tuần có thể dẫn đến kiệt sức.",
+     "tip": "burn out = cháy hết."
+    },
+    {
+     "word": "therapy",
+     "ipa": "/ˈθer.ə.pi/",
+     "pos": "noun",
+     "vi": "liệu pháp trị liệu",
+     "ex": "Talking therapy helped him a lot.",
+     "exVi": "Liệu pháp trò chuyện đã giúp anh ấy rất nhiều.",
+     "tip": "therapist = nhà trị liệu."
+    },
+    {
+     "word": "mindfulness",
+     "ipa": "/ˈmaɪnd.fəl.nəs/",
+     "pos": "noun",
+     "vi": "chánh niệm",
+     "ex": "Mindfulness means paying attention to the present moment.",
+     "exVi": "Chánh niệm là chú tâm vào khoảnh khắc hiện tại."
+    },
+    {
+     "word": "overwhelmed",
+     "ipa": "/ˌoʊ.vɚˈwelmd/",
+     "pos": "adj",
+     "vi": "choáng ngợp, quá tải",
+     "ex": "I feel overwhelmed by all this work.",
+     "exVi": "Tôi thấy quá tải với đống công việc này."
+    },
+    {
+     "word": "isolated",
+     "ipa": "/ˈaɪ.sə.leɪ.t̬ɪd/",
+     "pos": "adj",
+     "vi": "bị cô lập",
+     "ex": "Many elderly people feel isolated.",
+     "exVi": "Nhiều người cao tuổi cảm thấy bị cô lập."
+    },
+    {
+     "word": "wellbeing",
+     "ipa": "/ˌwelˈbiː.ɪŋ/",
+     "pos": "noun",
+     "vi": "sự khỏe mạnh, an lạc",
+     "ex": "Exercise is good for your mental wellbeing.",
+     "exVi": "Tập thể dục tốt cho sức khỏe tinh thần."
+    },
+    {
+     "word": "meditate",
+     "ipa": "/ˈmed.ə.teɪt/",
+     "pos": "verb",
+     "vi": "thiền",
+     "ex": "I meditate for ten minutes every morning.",
+     "exVi": "Tôi thiền mười phút mỗi sáng.",
+     "tip": "meditation = thiền định."
+    },
+    {
+     "word": "recover",
+     "ipa": "/rɪˈkʌv.ɚ/",
+     "pos": "verb",
+     "vi": "hồi phục",
+     "ex": "It took her months to recover from burnout.",
+     "exVi": "Cô ấy mất nhiều tháng để hồi phục sau kiệt sức."
+    },
+    {
+     "word": "vulnerable",
+     "ipa": "/ˈvʌl.nɚ.ə.bəl/",
+     "pos": "adj",
+     "vi": "dễ bị tổn thương",
+     "ex": "Teenagers are especially vulnerable to online bullying.",
+     "exVi": "Thanh thiếu niên đặc biệt dễ bị tổn thương trước bắt nạt trên mạng."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "It's okay not to be okay.",
+     "vi": "Không ổn cũng không sao cả."
+    },
+    {
+     "en": "I need some time for myself.",
+     "vi": "Tôi cần chút thời gian cho bản thân."
+    },
+    {
+     "en": "Take it one day at a time.",
+     "vi": "Cứ từ từ từng ngày một."
+    },
+    {
+     "en": "I'm here if you need to talk.",
+     "vi": "Tôi luôn ở đây nếu bạn cần tâm sự."
+    },
+    {
+     "en": "Don't be too hard on yourself.",
+     "vi": "Đừng quá khắt khe với bản thân."
+    }
+   ],
+   "grammar": {
+    "formulas": [
+     "Hiện tại: must / might / may / could / can't + V",
+     "Quá khứ: must / might / may / could / can't + have + V3",
+     "must = gần như chắc chắn đúng · might / may / could = có thể · can't / couldn't = chắc chắn không"
+    ],
+    "points": [
+     {
+      "title": "must – chắc hẳn là",
+      "body": "She's been working since 6 a.m. She must be exhausted. (Suy luận logic từ bằng chứng.)"
+     },
+     {
+      "title": "can't – chắc chắn không",
+      "body": "Phủ định của must (suy đoán) là can't, KHÔNG phải mustn't: He can't be ill – I saw him at the gym an hour ago."
+     },
+     {
+      "title": "Suy đoán về quá khứ",
+      "body": "He didn't answer. He must have been asleep. / She might have missed the bus. / They can't have forgotten – I reminded them twice."
+     },
+     {
+      "title": "should have / shouldn't have",
+      "body": "Diễn tả lời trách / tiếc: You should have told me (lẽ ra bạn nên nói với tôi). I shouldn't have eaten so much."
+     }
+    ],
+    "examples": [
+     {
+      "en": "You must be tired after such a long day.",
+      "vi": "Chắc hẳn bạn mệt lắm sau một ngày dài như vậy."
+     },
+     {
+      "en": "He might be feeling overwhelmed.",
+      "vi": "Có thể anh ấy đang cảm thấy quá tải."
+     },
+     {
+      "en": "She must have been very stressed before the exam.",
+      "vi": "Chắc hẳn cô ấy đã rất căng thẳng trước kỳ thi."
+     },
+     {
+      "en": "They can't have heard the news yet.",
+      "vi": "Họ chắc chắn chưa nghe tin."
+     }
+    ],
+    "mistakes": [
+     {
+      "wrong": "He mustn't be at home – his car is gone.",
+      "right": "He can't be at home – his car is gone.",
+      "note": "Suy đoán phủ định dùng can't."
+     },
+     {
+      "wrong": "She must has left.",
+      "right": "She must have left.",
+      "note": "Sau must dùng have nguyên mẫu."
+     },
+     {
+      "wrong": "You should told me.",
+      "right": "You should have told me.",
+      "note": "should have + V3."
+     }
+    ],
+    "exercises": [
+     {
+      "q": "She hasn't eaten all day. She ___ be very hungry.",
+      "options": [
+       "must",
+       "can't",
+       "mustn't"
+      ],
+      "answer": "must",
+      "explain": "Suy luận chắc chắn → must."
+     },
+     {
+      "q": "That ___ be Tom. He's in Japan this week.",
+      "options": [
+       "must",
+       "can't",
+       "might"
+      ],
+      "answer": "can't",
+      "explain": "Chắc chắn không thể → can't."
+     },
+     {
+      "q": "I can't find my keys. I ___ have left them at the office.",
+      "options": [
+       "must",
+       "might",
+       "can't"
+      ],
+      "answer": "might",
+      "explain": "Không chắc → might."
+     },
+     {
+      "q": "He looks so relaxed. He ___ have had a nice holiday.",
+      "options": [
+       "must",
+       "can't",
+       "shouldn't"
+      ],
+      "answer": "must",
+      "explain": "Suy luận từ dấu hiệu → must have."
+     },
+     {
+      "q": "They ___ have seen us – they didn't say hello.",
+      "options": [
+       "can't",
+       "must",
+       "should"
+      ],
+      "answer": "can't",
+      "explain": "Chắc chắn đã không → can't have."
+     },
+     {
+      "q": "You look exhausted. You ___ have gone to bed so late.",
+      "options": [
+       "shouldn't",
+       "mustn't",
+       "can't"
+      ],
+      "answer": "shouldn't",
+      "explain": "Lời trách → shouldn't have."
+     },
+     {
+      "q": "She didn't come to work. She ___ be ill.",
+      "options": [
+       "may",
+       "must have",
+       "can't have"
+      ],
+      "answer": "may",
+      "explain": "may + V nguyên mẫu = có thể đang."
+     }
+    ],
+    "title": "Động từ khuyết thiếu chỉ suy đoán (must / might / can't + have V3)",
+    "summary": "Ta dùng must, might, may, could, can't để suy đoán với mức độ chắc chắn khác nhau. Muốn suy đoán về quá khứ, thêm have + V3."
+   },
+   "dialogue": {
+    "lines": [
+     {
+      "speaker": "A",
+      "name": "Hana",
+      "en": "Have you noticed that Duc has been very quiet lately?",
+      "vi": "Bạn có để ý dạo này Đức rất trầm không?"
+     },
+     {
+      "speaker": "B",
+      "name": "Peter",
+      "en": "Yes. He must be under a lot of pressure. He's been working on three projects at once.",
+      "vi": "Có. Chắc hẳn cậu ấy đang chịu nhiều áp lực. Cậu ấy làm ba dự án cùng lúc."
+     },
+     {
+      "speaker": "A",
+      "name": "Hana",
+      "en": "He didn't come to lunch with us again today. He might be feeling isolated.",
+      "vi": "Hôm nay cậu ấy lại không đi ăn trưa cùng chúng ta. Có thể cậu ấy đang cảm thấy bị cô lập."
+     },
+     {
+      "speaker": "B",
+      "name": "Peter",
+      "en": "And he can't have slept much. He sent me an email at 3 a.m.!",
+      "vi": "Và chắc chắn cậu ấy không ngủ được bao nhiêu. Cậu ấy gửi email cho mình lúc 3 giờ sáng!"
+     },
+     {
+      "speaker": "A",
+      "name": "Hana",
+      "en": "That sounds like burnout. We should have noticed earlier.",
+      "vi": "Nghe như dấu hiệu kiệt sức. Lẽ ra chúng ta phải nhận ra sớm hơn."
+     },
+     {
+      "speaker": "B",
+      "name": "Peter",
+      "en": "Let's talk to him. Sometimes people just need to know someone is there.",
+      "vi": "Hãy nói chuyện với cậu ấy. Đôi khi người ta chỉ cần biết có ai đó bên cạnh."
+     }
+    ],
+    "questions": [
+     {
+      "q": "Why does Peter think Duc must be under pressure?",
+      "options": [
+       "He's working on three projects",
+       "He lost his job",
+       "He is moving house"
+      ],
+      "answer": "He's working on three projects"
+     },
+     {
+      "q": "How do they know Duc can't have slept much?",
+      "options": [
+       "He looks tired",
+       "He sent an email at 3 a.m.",
+       "He told them"
+      ],
+      "answer": "He sent an email at 3 a.m."
+     }
+    ],
+    "title": "Lo cho đồng nghiệp",
+    "setting": "Hai đồng nghiệp lo lắng cho một người trong nhóm."
+   },
+   "reading": {
+    "questions": [
+     {
+      "q": "What causes burnout?",
+      "options": [
+       "physical illness",
+       "long-term stress at work that isn't managed",
+       "too much free time"
+      ],
+      "answer": "long-term stress at work that isn't managed"
+     },
+     {
+      "q": "Why have smartphones made burnout worse?",
+      "options": [
+       "They are expensive",
+       "Employees never really switch off",
+       "They cause headaches"
+      ],
+      "answer": "Employees never really switch off"
+     }
+    ],
+    "title": "The rise of burnout",
+    "text": "In 2019, the World Health Organization officially recognised burnout as an \"occupational phenomenon\". It is caused by long-term stress at work that has not been successfully managed. People suffering from burnout often feel exhausted, negative about their job and less effective. Experts say the problem must have been growing for years, but smartphones and remote work have made it worse, because many employees never really switch off. To prevent burnout, psychologists recommend setting clear boundaries, taking regular breaks and practising mindfulness. Most importantly, it is not a sign of weakness to ask for help.",
+    "vi": "Năm 2019, Tổ chức Y tế Thế giới chính thức công nhận hội chứng kiệt sức là một \"hiện tượng nghề nghiệp\". Nó do căng thẳng kéo dài trong công việc không được kiểm soát tốt gây ra. Người bị kiệt sức thường cảm thấy mệt mỏi, tiêu cực về công việc và làm việc kém hiệu quả hơn. Các chuyên gia cho rằng vấn đề này hẳn đã gia tăng trong nhiều năm, nhưng điện thoại thông minh và làm việc từ xa khiến nó tồi tệ hơn vì nhiều nhân viên không bao giờ thực sự \"ngắt kết nối\". Để phòng ngừa, các nhà tâm lý khuyên nên đặt ranh giới rõ ràng, nghỉ ngơi thường xuyên và thực hành chánh niệm. Quan trọng nhất, nhờ giúp đỡ không phải là dấu hiệu của sự yếu đuối."
+   },
+   "title": "Sức khỏe tinh thần",
+   "titleEn": "Mental Health",
+   "emoji": "🧘",
+   "goal": "Nói về căng thẳng, kiệt sức và suy đoán về tình trạng của người khác."
+  },
+  {
+   "id": "b2-u5",
+   "words": [
+    {
+     "word": "sustainable",
+     "ipa": "/səˈsteɪ.nə.bəl/",
+     "pos": "adj",
+     "vi": "bền vững",
+     "ex": "We need sustainable sources of energy.",
+     "exVi": "Chúng ta cần nguồn năng lượng bền vững."
+    },
+    {
+     "word": "emission",
+     "ipa": "/iˈmɪʃ.ən/",
+     "pos": "noun",
+     "vi": "khí thải",
+     "ex": "Carbon emissions must be cut by half.",
+     "exVi": "Lượng khí thải carbon phải được cắt giảm một nửa."
+    },
+    {
+     "word": "deforestation",
+     "ipa": "/diːˌfɔːr.əˈsteɪ.ʃən/",
+     "pos": "noun",
+     "vi": "nạn phá rừng",
+     "ex": "Deforestation destroys animal habitats.",
+     "exVi": "Nạn phá rừng phá hủy môi trường sống của động vật."
+    },
+    {
+     "word": "biodiversity",
+     "ipa": "/ˌbaɪ.oʊ.dɪˈvɝː.sə.t̬i/",
+     "pos": "noun",
+     "vi": "đa dạng sinh học",
+     "ex": "Coral reefs are rich in biodiversity.",
+     "exVi": "Rạn san hô rất giàu đa dạng sinh học."
+    },
+    {
+     "word": "ecosystem",
+     "ipa": "/ˈiː.koʊˌsɪs.təm/",
+     "pos": "noun",
+     "vi": "hệ sinh thái",
+     "ex": "Plastic pollution harms marine ecosystems.",
+     "exVi": "Ô nhiễm nhựa gây hại cho hệ sinh thái biển."
+    },
+    {
+     "word": "endangered",
+     "ipa": "/ɪnˈdeɪn.dʒɚd/",
+     "pos": "adj",
+     "vi": "có nguy cơ tuyệt chủng",
+     "ex": "The saola is one of the most endangered animals in the world.",
+     "exVi": "Sao la là một trong những loài có nguy cơ tuyệt chủng cao nhất thế giới."
+    },
+    {
+     "word": "conservation",
+     "ipa": "/ˌkɑːn.sɚˈveɪ.ʃən/",
+     "pos": "noun",
+     "vi": "sự bảo tồn",
+     "ex": "The national park focuses on wildlife conservation.",
+     "exVi": "Vườn quốc gia tập trung vào bảo tồn động vật hoang dã."
+    },
+    {
+     "word": "carbon",
+     "ipa": "/ˈkɑːr.bən/",
+     "pos": "noun",
+     "vi": "các-bon",
+     "ex": "Trees absorb carbon from the air.",
+     "exVi": "Cây cối hấp thụ các-bon từ không khí.",
+     "tip": "carbon footprint = dấu chân các-bon."
+    },
+    {
+     "word": "drought",
+     "ipa": "/draʊt/",
+     "pos": "noun",
+     "vi": "hạn hán",
+     "ex": "The drought has destroyed most of the crops.",
+     "exVi": "Hạn hán đã phá hủy hầu hết mùa màng."
+    },
+    {
+     "word": "renewable",
+     "ipa": "/rɪˈnuː.ə.bəl/",
+     "pos": "adj",
+     "vi": "tái tạo được",
+     "ex": "Wind and solar power are renewable energy sources.",
+     "exVi": "Năng lượng gió và mặt trời là nguồn năng lượng tái tạo."
+    },
+    {
+     "word": "consumption",
+     "ipa": "/kənˈsʌmp.ʃən/",
+     "pos": "noun",
+     "vi": "sự tiêu thụ",
+     "ex": "Meat consumption has increased worldwide.",
+     "exVi": "Lượng tiêu thụ thịt đã tăng trên toàn thế giới."
+    },
+    {
+     "word": "habitat",
+     "ipa": "/ˈhæb.ə.tæt/",
+     "pos": "noun",
+     "vi": "môi trường sống",
+     "ex": "Pandas are losing their natural habitat.",
+     "exVi": "Gấu trúc đang mất dần môi trường sống tự nhiên."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "It's a race against time.",
+     "vi": "Đó là cuộc chạy đua với thời gian."
+    },
+    {
+     "en": "We've reached a tipping point.",
+     "vi": "Chúng ta đã đến điểm bùng phát."
+    },
+    {
+     "en": "Think globally, act locally.",
+     "vi": "Suy nghĩ toàn cầu, hành động địa phương."
+    },
+    {
+     "en": "There's no time to lose.",
+     "vi": "Không còn thời gian để lãng phí."
+    },
+    {
+     "en": "It's just the tip of the iceberg.",
+     "vi": "Đó mới chỉ là phần nổi của tảng băng."
+    }
+   ],
+   "grammar": {
+    "formulas": [
+     "Không xác định: N, who / which / whose / where ..., (không dùng that)",
+     "Rút gọn chủ động: N + V-ing (the people living here = who live here)",
+     "Rút gọn bị động: N + V3 (the trees cut down = which were cut down)",
+     "Rút gọn với to V: the first / last / only + N + to V (the first country to ban plastic bags)",
+     "which bình luận cả mệnh đề: Forests are disappearing, which is worrying."
+    ],
+    "points": [
+     {
+      "title": "Mệnh đề không xác định",
+      "body": "Danh từ đã rõ, mệnh đề chỉ bổ sung: The Amazon, which is the largest rainforest, is shrinking. Bỏ mệnh đề đi câu vẫn đủ nghĩa."
+     },
+     {
+      "title": "Rút gọn bằng V-ing (chủ động)",
+      "body": "Animals that live in the Arctic → Animals living in the Arctic are at risk."
+     },
+     {
+      "title": "Rút gọn bằng V3 (bị động)",
+      "body": "Plastic that is produced every year → Plastic produced every year could circle the Earth many times."
+     },
+     {
+      "title": "which thay cho cả mệnh đề",
+      "body": "Global temperatures are rising, which causes more extreme weather. (which = việc nhiệt độ tăng.)"
+     }
+    ],
+    "examples": [
+     {
+      "en": "Vietnam, which has a long coastline, is vulnerable to rising sea levels.",
+      "vi": "Việt Nam, quốc gia có đường bờ biển dài, dễ bị tổn thương trước mực nước biển dâng."
+     },
+     {
+      "en": "Species living in coral reefs are under threat.",
+      "vi": "Các loài sống ở rạn san hô đang bị đe dọa."
+     },
+     {
+      "en": "Most of the waste produced by factories ends up in rivers.",
+      "vi": "Phần lớn chất thải do nhà máy thải ra cuối cùng đổ vào sông."
+     },
+     {
+      "en": "Kenya was one of the first countries to ban plastic bags.",
+      "vi": "Kenya là một trong những quốc gia đầu tiên cấm túi nilon."
+     }
+    ],
+    "mistakes": [
+     {
+      "wrong": "The Mekong, that flows through six countries, is polluted.",
+      "right": "The Mekong, which flows through six countries, is polluted.",
+      "note": "Mệnh đề không xác định không dùng that."
+     },
+     {
+      "wrong": "People live near the coast are at risk.",
+      "right": "People living near the coast are at risk.",
+      "note": "Rút gọn chủ động dùng V-ing."
+     },
+     {
+      "wrong": "The forests destroying last year were huge.",
+      "right": "The forests destroyed last year were huge.",
+      "note": "Nghĩa bị động → V3."
+     }
+    ],
+    "exercises": [
+     {
+      "q": "The Amazon, ___ is called \"the lungs of the Earth\", is shrinking.",
+      "options": [
+       "that",
+       "which",
+       "who"
+      ],
+      "answer": "which",
+      "explain": "Mệnh đề không xác định, chỉ vật → which."
+     },
+     {
+      "q": "Animals ___ in the Arctic are losing their habitat.",
+      "options": [
+       "live",
+       "living",
+       "lived"
+      ],
+      "answer": "living",
+      "explain": "Rút gọn chủ động → V-ing."
+     },
+     {
+      "q": "Most of the plastic ___ every year is never recycled.",
+      "options": [
+       "producing",
+       "produced",
+       "produces"
+      ],
+      "answer": "produced",
+      "explain": "Nhựa được sản xuất → bị động → V3."
+     },
+     {
+      "q": "New Zealand was the first country ___ women the vote.",
+      "options": [
+       "giving",
+       "to give",
+       "given"
+      ],
+      "answer": "to give",
+      "explain": "the first + N + to V."
+     },
+     {
+      "q": "Temperatures are rising, ___ is causing more droughts.",
+      "options": [
+       "which",
+       "that",
+       "what"
+      ],
+      "answer": "which",
+      "explain": "which bình luận cả mệnh đề."
+     },
+     {
+      "q": "The scientist, ___ research focuses on coral reefs, won an award.",
+      "options": [
+       "who",
+       "whose",
+       "which"
+      ],
+      "answer": "whose",
+      "explain": "Sở hữu (nghiên cứu của nhà khoa học) → whose."
+     },
+     {
+      "q": "The trees ___ down last year were over 200 years old.",
+      "options": [
+       "cutting",
+       "cut",
+       "to cut"
+      ],
+      "answer": "cut",
+      "explain": "Cây bị chặt → bị động → V3."
+     }
+    ],
+    "title": "Mệnh đề quan hệ không xác định & rút gọn",
+    "summary": "Mệnh đề quan hệ không xác định thêm thông tin phụ (có dấu phẩy). Mệnh đề quan hệ rút gọn giúp câu văn ngắn gọn, học thuật hơn bằng cách dùng V-ing, V3 hoặc to V."
+   },
+   "dialogue": {
+    "lines": [
+     {
+      "speaker": "A",
+      "name": "Quỳnh",
+      "en": "For our presentation, let's focus on the Mekong Delta, which is home to 17 million people.",
+      "vi": "Cho bài thuyết trình, hãy tập trung vào đồng bằng sông Cửu Long, nơi sinh sống của 17 triệu người."
+     },
+     {
+      "speaker": "B",
+      "name": "Leo",
+      "en": "Good idea. Rising sea levels are causing salt water to enter the rice fields, which is destroying crops.",
+      "vi": "Ý hay. Mực nước biển dâng khiến nước mặn xâm nhập ruộng lúa, điều này đang phá hủy mùa màng."
+     },
+     {
+      "speaker": "A",
+      "name": "Quỳnh",
+      "en": "And there was a terrible drought in 2020, affecting hundreds of thousands of families.",
+      "vi": "Và năm 2020 có đợt hạn hán khủng khiếp, ảnh hưởng đến hàng trăm nghìn gia đình."
+     },
+     {
+      "speaker": "B",
+      "name": "Leo",
+      "en": "We should also mention solutions. Farmers living in the area have started raising shrimp instead of growing rice.",
+      "vi": "Chúng ta cũng nên đề cập giải pháp. Nông dân sống trong khu vực đã bắt đầu nuôi tôm thay vì trồng lúa."
+     },
+     {
+      "speaker": "A",
+      "name": "Quỳnh",
+      "en": "That's a great example of adapting. Let's finish with renewable energy projects funded by the government.",
+      "vi": "Đó là ví dụ tuyệt vời về sự thích nghi. Hãy kết thúc bằng các dự án năng lượng tái tạo do chính phủ tài trợ."
+     },
+     {
+      "speaker": "B",
+      "name": "Leo",
+      "en": "Perfect. I'll find some data published in recent reports.",
+      "vi": "Tuyệt. Mình sẽ tìm số liệu được công bố trong các báo cáo gần đây."
+     }
+    ],
+    "questions": [
+     {
+      "q": "How many people live in the Mekong Delta?",
+      "options": [
+       "7 million",
+       "17 million",
+       "70 million"
+      ],
+      "answer": "17 million"
+     },
+     {
+      "q": "What have some farmers started doing?",
+      "options": [
+       "moving to the city",
+       "raising shrimp instead of growing rice",
+       "building dams"
+      ],
+      "answer": "raising shrimp instead of growing rice"
+     }
+    ],
+    "title": "Chuẩn bị thuyết trình",
+    "setting": "Hai sinh viên chuẩn bị bài thuyết trình về biến đổi khí hậu."
+   },
+   "reading": {
+    "questions": [
+     {
+      "q": "What happened in Yellowstone in 1995?",
+      "options": [
+       "Deer were removed",
+       "Wolves were brought back",
+       "The park was closed"
+      ],
+      "answer": "Wolves were brought back"
+     },
+     {
+      "q": "How did the wolves help plants grow?",
+      "options": [
+       "They planted seeds",
+       "They changed the behaviour of other animals",
+       "They ate insects"
+      ],
+      "answer": "They changed the behaviour of other animals"
+     }
+    ],
+    "title": "Rewilding: giving nature a second chance",
+    "text": "Rewilding is a conservation approach that aims to restore ecosystems by letting nature take care of itself. Instead of managing every detail, scientists reintroduce species that have disappeared from an area, such as wolves or beavers, and then step back. One famous example is Yellowstone National Park, where wolves were brought back in 1995 after an absence of seventy years. The wolves, which hunted the deer, changed the behaviour of other animals, allowing trees and plants to grow again. Supporters believe rewilding is one of the most effective ways to protect biodiversity.",
+    "vi": "Tái hoang dã là một phương pháp bảo tồn nhằm phục hồi hệ sinh thái bằng cách để thiên nhiên tự chăm sóc chính nó. Thay vì kiểm soát từng chi tiết, các nhà khoa học tái thả những loài đã biến mất khỏi một khu vực, như sói hay hải ly, rồi lùi lại. Một ví dụ nổi tiếng là Vườn quốc gia Yellowstone, nơi sói được đưa trở lại vào năm 1995 sau bảy mươi năm vắng bóng. Đàn sói săn hươu đã làm thay đổi hành vi của các loài động vật khác, giúp cây cối và thực vật phát triển trở lại. Những người ủng hộ tin rằng tái hoang dã là một trong những cách hiệu quả nhất để bảo vệ đa dạng sinh học."
+   },
+   "title": "Môi trường toàn cầu",
+   "titleEn": "Global Environment",
+   "emoji": "🌏",
+   "goal": "Thảo luận biến đổi khí hậu, bảo tồn và viết câu học thuật gọn gàng."
+  },
+  {
+   "id": "b2-u6",
+   "words": [
+    {
+     "word": "curriculum",
+     "ipa": "/kəˈrɪk.jə.ləm/",
+     "pos": "noun",
+     "vi": "chương trình giảng dạy",
+     "ex": "Coding is now part of the school curriculum.",
+     "exVi": "Lập trình hiện là một phần trong chương trình học.",
+     "tip": "Số nhiều: curricula hoặc curriculums."
+    },
+    {
+     "word": "assess",
+     "ipa": "/əˈses/",
+     "pos": "verb",
+     "vi": "đánh giá",
+     "ex": "Students are assessed through projects and exams.",
+     "exVi": "Học sinh được đánh giá qua dự án và bài thi.",
+     "tip": "assessment = sự đánh giá."
+    },
+    {
+     "word": "critical",
+     "ipa": "/ˈkrɪt̬.ɪ.kəl/",
+     "pos": "adj",
+     "vi": "phản biện; then chốt",
+     "ex": "Critical thinking is an essential skill.",
+     "exVi": "Tư duy phản biện là kỹ năng thiết yếu."
+    },
+    {
+     "word": "debate",
+     "ipa": "/dɪˈbeɪt/",
+     "pos": "noun",
+     "vi": "cuộc tranh luận",
+     "ex": "We had a debate about school uniforms.",
+     "exVi": "Chúng tôi tranh luận về đồng phục học sinh."
+    },
+    {
+     "word": "argue",
+     "ipa": "/ˈɑːrɡ.juː/",
+     "pos": "verb",
+     "vi": "lập luận; tranh cãi",
+     "ex": "Some experts argue that homework is unnecessary.",
+     "exVi": "Một số chuyên gia lập luận rằng bài tập về nhà là không cần thiết.",
+     "tip": "argument = lập luận; cuộc cãi vã."
+    },
+    {
+     "word": "evidence",
+     "ipa": "/ˈev.ə.dəns/",
+     "pos": "noun",
+     "vi": "bằng chứng",
+     "ex": "There is no evidence to support this claim.",
+     "exVi": "Không có bằng chứng ủng hộ tuyên bố này.",
+     "tip": "Không đếm được: a piece of evidence."
+    },
+    {
+     "word": "perspective",
+     "ipa": "/pɚˈspek.tɪv/",
+     "pos": "noun",
+     "vi": "góc nhìn, quan điểm",
+     "ex": "Travelling gives you a new perspective on life.",
+     "exVi": "Du lịch cho bạn góc nhìn mới về cuộc sống."
+    },
+    {
+     "word": "compulsory",
+     "ipa": "/kəmˈpʌl.sɚ.i/",
+     "pos": "adj",
+     "vi": "bắt buộc",
+     "ex": "English is a compulsory subject in Vietnam.",
+     "exVi": "Tiếng Anh là môn bắt buộc ở Việt Nam.",
+     "tip": "Đồng nghĩa: mandatory, obligatory."
+    },
+    {
+     "word": "tuition",
+     "ipa": "/tuːˈɪʃ.ən/",
+     "pos": "noun",
+     "vi": "học phí; sự dạy kèm",
+     "ex": "Tuition fees have risen sharply.",
+     "exVi": "Học phí đã tăng mạnh."
+    },
+    {
+     "word": "academic",
+     "ipa": "/ˌæk.əˈdem.ɪk/",
+     "pos": "adj",
+     "vi": "học thuật",
+     "ex": "She has excellent academic results.",
+     "exVi": "Cô ấy có thành tích học tập xuất sắc."
+    },
+    {
+     "word": "plagiarism",
+     "ipa": "/ˈpleɪ.dʒɚ.ɪ.zəm/",
+     "pos": "noun",
+     "vi": "đạo văn",
+     "ex": "Plagiarism is taken very seriously at university.",
+     "exVi": "Đạo văn bị xử lý rất nghiêm ở đại học."
+    },
+    {
+     "word": "mentor",
+     "ipa": "/ˈmen.tɔːr/",
+     "pos": "noun",
+     "vi": "người hướng dẫn, cố vấn",
+     "ex": "A good mentor can change your career.",
+     "exVi": "Một người cố vấn giỏi có thể thay đổi sự nghiệp của bạn."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "I see your point, but...",
+     "vi": "Tôi hiểu ý bạn, nhưng..."
+    },
+    {
+     "en": "That's a fair point.",
+     "vi": "Đó là một lập luận hợp lý."
+    },
+    {
+     "en": "I couldn't agree more.",
+     "vi": "Tôi hoàn toàn đồng ý."
+    },
+    {
+     "en": "On the other hand, ...",
+     "vi": "Mặt khác, ..."
+    },
+    {
+     "en": "Let me play devil's advocate.",
+     "vi": "Để tôi thử đứng ở phía phản biện xem."
+    }
+   ],
+   "grammar": {
+    "formulas": [
+     "although / though / even though + mệnh đề (S + V)",
+     "despite / in spite of + N / V-ing / the fact that + mệnh đề",
+     "However, + mệnh đề (đứng đầu câu mới, sau dấu chấm hoặc chấm phẩy)",
+     "whereas / while + mệnh đề (so sánh hai đối tượng trái ngược)"
+    ],
+    "points": [
+     {
+      "title": "although vs despite",
+      "body": "Although it rained, we went out. = Despite the rain, we went out. despite đi với danh từ / V-ing, KHÔNG đi trực tiếp với mệnh đề."
+     },
+     {
+      "title": "however",
+      "body": "Là trạng từ nối hai câu: Online learning is flexible. However, it requires self-discipline. Không dùng however để nối hai mệnh đề chỉ bằng dấu phẩy."
+     },
+     {
+      "title": "whereas / while",
+      "body": "So sánh hai sự vật tương phản: Public schools are free, whereas private schools charge high tuition fees."
+     },
+     {
+      "title": "Không dùng but cùng although",
+      "body": "Although he studied hard, but he failed (sai) → Although he studied hard, he failed."
+     }
+    ],
+    "examples": [
+     {
+      "en": "Although the course is expensive, it's worth it.",
+      "vi": "Mặc dù khóa học đắt, nó rất đáng giá."
+     },
+     {
+      "en": "Despite having little evidence, he won the debate.",
+      "vi": "Dù có ít bằng chứng, anh ấy vẫn thắng cuộc tranh luận."
+     },
+     {
+      "en": "Homework can be useful. However, too much of it causes stress.",
+      "vi": "Bài tập về nhà có thể hữu ích. Tuy nhiên, quá nhiều sẽ gây căng thẳng."
+     },
+     {
+      "en": "Some students prefer group work, whereas others learn better alone.",
+      "vi": "Một số học sinh thích làm nhóm, trong khi những em khác học tốt hơn một mình."
+     }
+    ],
+    "mistakes": [
+     {
+      "wrong": "Despite it was difficult, she passed.",
+      "right": "Although it was difficult, she passed.",
+      "note": "despite không đi với mệnh đề."
+     },
+     {
+      "wrong": "Although he was tired, but he kept studying.",
+      "right": "Although he was tired, he kept studying.",
+      "note": "Không dùng but cùng although."
+     },
+     {
+      "wrong": "The exam was hard, however I passed.",
+      "right": "The exam was hard. However, I passed.",
+      "note": "however cần dấu chấm hoặc chấm phẩy phía trước."
+     }
+    ],
+    "exercises": [
+     {
+      "q": "___ the high tuition fees, many students choose private universities.",
+      "options": [
+       "Although",
+       "Despite",
+       "However"
+      ],
+      "answer": "Despite",
+      "explain": "Despite + danh từ."
+     },
+     {
+      "q": "___ she studied hard, she failed the exam.",
+      "options": [
+       "Despite",
+       "Although",
+       "In spite of"
+      ],
+      "answer": "Although",
+      "explain": "Although + mệnh đề."
+     },
+     {
+      "q": "The course is useful. ___, it's very expensive.",
+      "options": [
+       "Although",
+       "However",
+       "Despite"
+      ],
+      "answer": "However",
+      "explain": "However đứng đầu câu mới."
+     },
+     {
+      "q": "Public schools are free, ___ private ones are expensive.",
+      "options": [
+       "whereas",
+       "despite",
+       "however"
+      ],
+      "answer": "whereas",
+      "explain": "whereas so sánh hai đối tượng trái ngược."
+     },
+     {
+      "q": "In spite of ___ tired, he finished the essay.",
+      "options": [
+       "be",
+       "being",
+       "was"
+      ],
+      "answer": "being",
+      "explain": "In spite of + V-ing."
+     },
+     {
+      "q": "Despite the fact that he had no evidence, he ___ the debate.",
+      "options": [
+       "won",
+       "but won",
+       "however won"
+      ],
+      "answer": "won",
+      "explain": "Không thêm but sau despite."
+     },
+     {
+      "q": "___ online courses are flexible, they require discipline.",
+      "options": [
+       "Despite",
+       "Even though",
+       "However"
+      ],
+      "answer": "Even though",
+      "explain": "Even though + mệnh đề."
+     }
+    ],
+    "title": "Từ nối chỉ sự tương phản (although, despite, however, whereas)",
+    "summary": "Để lập luận chặt chẽ (rất quan trọng trong IELTS), bạn cần nối các ý trái ngược một cách chính xác. Mỗi từ nối đi với một cấu trúc ngữ pháp riêng."
+   },
+   "dialogue": {
+    "lines": [
+     {
+      "speaker": "A",
+      "name": "Thành",
+      "en": "In my opinion, homework should be banned. Although it helps students practise, it causes too much stress.",
+      "vi": "Theo tôi, nên bỏ bài tập về nhà. Mặc dù nó giúp học sinh luyện tập, nó gây quá nhiều căng thẳng."
+     },
+     {
+      "speaker": "B",
+      "name": "Amy",
+      "en": "I see your point. However, there's evidence that homework improves academic results.",
+      "vi": "Tôi hiểu ý bạn. Tuy nhiên, có bằng chứng cho thấy bài tập về nhà giúp cải thiện kết quả học tập."
+     },
+     {
+      "speaker": "A",
+      "name": "Thành",
+      "en": "Only for older students. Young children benefit more from playing, whereas teenagers might need some homework.",
+      "vi": "Chỉ với học sinh lớn thôi. Trẻ nhỏ được lợi nhiều hơn từ vui chơi, trong khi thanh thiếu niên có thể cần chút bài tập."
+     },
+     {
+      "speaker": "B",
+      "name": "Amy",
+      "en": "That's a fair point. Despite that, I think a small amount teaches responsibility.",
+      "vi": "Lập luận hợp lý. Dù vậy, tôi nghĩ một lượng nhỏ bài tập giúp dạy tính trách nhiệm."
+     },
+     {
+      "speaker": "A",
+      "name": "Thành",
+      "en": "Maybe the real problem isn't homework itself, but how much is given.",
+      "vi": "Có lẽ vấn đề thực sự không phải bản thân bài tập, mà là lượng bài được giao."
+     },
+     {
+      "speaker": "B",
+      "name": "Amy",
+      "en": "Now that's something we can agree on!",
+      "vi": "Đó là điều chúng ta có thể đồng ý!"
+     }
+    ],
+    "questions": [
+     {
+      "q": "What is Thanh's main argument against homework?",
+      "options": [
+       "It's boring",
+       "It causes too much stress",
+       "It's too easy"
+      ],
+      "answer": "It causes too much stress"
+     },
+     {
+      "q": "What do they finally agree on?",
+      "options": [
+       "Homework should be banned",
+       "The amount of homework is the real problem",
+       "Teenagers need more homework"
+      ],
+      "answer": "The amount of homework is the real problem"
+     }
+    ],
+    "title": "Tranh luận: có nên bỏ bài tập về nhà?",
+    "setting": "Hai sinh viên tranh luận trong lớp kỹ năng."
+   },
+   "reading": {
+    "questions": [
+     {
+      "q": "What do critical thinkers do?",
+      "options": [
+       "accept everything they read",
+       "ask questions and look for evidence",
+       "memorise facts"
+      ],
+      "answer": "ask questions and look for evidence"
+     },
+     {
+      "q": "What is different about education in Finland?",
+      "options": [
+       "more exams",
+       "more projects and discussions",
+       "longer school days"
+      ],
+      "answer": "more projects and discussions"
+     }
+    ],
+    "title": "Critical thinking: the most important skill?",
+    "text": "In a world full of information, critical thinking may be the most valuable skill a student can learn. Critical thinkers do not simply accept what they read; instead, they ask questions, look for evidence and consider different perspectives. Although most teachers agree that this skill is essential, many school curriculums still focus on memorising facts for exams. Some countries, however, have started to change. In Finland, for example, students spend more time on projects and discussions, whereas traditional tests play a smaller role. The results suggest that students become more independent and creative learners.",
+    "vi": "Trong một thế giới đầy thông tin, tư duy phản biện có thể là kỹ năng quý giá nhất mà học sinh có thể học. Người có tư duy phản biện không đơn thuần chấp nhận những gì họ đọc; thay vào đó, họ đặt câu hỏi, tìm bằng chứng và xem xét các góc nhìn khác nhau. Mặc dù hầu hết giáo viên đồng ý rằng kỹ năng này rất cần thiết, nhiều chương trình học vẫn tập trung vào việc ghi nhớ kiến thức để thi. Tuy nhiên, một số quốc gia đã bắt đầu thay đổi. Ví dụ ở Phần Lan, học sinh dành nhiều thời gian hơn cho dự án và thảo luận, trong khi các bài kiểm tra truyền thống đóng vai trò nhỏ hơn. Kết quả cho thấy học sinh trở thành những người học độc lập và sáng tạo hơn."
+   },
+   "title": "Giáo dục & Tranh luận",
+   "titleEn": "Education & Debate",
+   "emoji": "🗣️",
+   "goal": "Lập luận, phản biện và nối các ý tương phản chính xác."
+  },
+  {
+   "id": "b2-u7",
+   "words": [
+    {
+     "word": "heritage",
+     "ipa": "/ˈher.ə.t̬ɪdʒ/",
+     "pos": "noun",
+     "vi": "di sản",
+     "ex": "Ha Long Bay is a World Heritage Site.",
+     "exVi": "Vịnh Hạ Long là Di sản Thế giới."
+    },
+    {
+     "word": "custom",
+     "ipa": "/ˈkʌs.təm/",
+     "pos": "noun",
+     "vi": "phong tục",
+     "ex": "It is a custom to give lucky money at Tet.",
+     "exVi": "Lì xì ngày Tết là một phong tục.",
+     "tip": "customs (số nhiều) = hải quan."
+    },
+    {
+     "word": "diverse",
+     "ipa": "/dɪˈvɝːs/",
+     "pos": "adj",
+     "vi": "đa dạng",
+     "ex": "Vietnam has a diverse culture with 54 ethnic groups.",
+     "exVi": "Việt Nam có nền văn hóa đa dạng với 54 dân tộc.",
+     "tip": "diversity = sự đa dạng."
+    },
+    {
+     "word": "ritual",
+     "ipa": "/ˈrɪtʃ.u.əl/",
+     "pos": "noun",
+     "vi": "nghi lễ, nghi thức",
+     "ex": "Lighting incense is a common ritual.",
+     "exVi": "Thắp hương là một nghi thức phổ biến."
+    },
+    {
+     "word": "ceremony",
+     "ipa": "/ˈser.ə.moʊ.ni/",
+     "pos": "noun",
+     "vi": "buổi lễ",
+     "ex": "The opening ceremony was spectacular.",
+     "exVi": "Lễ khai mạc thật hoành tráng."
+    },
+    {
+     "word": "craft",
+     "ipa": "/kræft/",
+     "pos": "noun",
+     "vi": "nghề thủ công",
+     "ex": "Pottery is a traditional craft in Bat Trang.",
+     "exVi": "Gốm là nghề thủ công truyền thống ở Bát Tràng."
+    },
+    {
+     "word": "ethnic",
+     "ipa": "/ˈeθ.nɪk/",
+     "pos": "adj",
+     "vi": "thuộc dân tộc",
+     "ex": "The museum displays clothes of different ethnic groups.",
+     "exVi": "Bảo tàng trưng bày trang phục của các dân tộc khác nhau."
+    },
+    {
+     "word": "preserve",
+     "ipa": "/prɪˈzɝːv/",
+     "pos": "verb",
+     "vi": "bảo tồn, gìn giữ",
+     "ex": "We must preserve our traditions.",
+     "exVi": "Chúng ta phải gìn giữ truyền thống."
+    },
+    {
+     "word": "authentic",
+     "ipa": "/ɑːˈθen.t̬ɪk/",
+     "pos": "adj",
+     "vi": "đích thực, nguyên bản",
+     "ex": "This restaurant serves authentic Hue food.",
+     "exVi": "Nhà hàng này phục vụ món Huế chính gốc."
+    },
+    {
+     "word": "landmark",
+     "ipa": "/ˈlænd.mɑːrk/",
+     "pos": "noun",
+     "vi": "địa danh nổi tiếng",
+     "ex": "The Eiffel Tower is the most famous landmark in Paris.",
+     "exVi": "Tháp Eiffel là địa danh nổi tiếng nhất Paris."
+    },
+    {
+     "word": "monument",
+     "ipa": "/ˈmɑːn.jə.mənt/",
+     "pos": "noun",
+     "vi": "tượng đài, công trình kỷ niệm",
+     "ex": "The monument was built to honour soldiers.",
+     "exVi": "Tượng đài được xây để tưởng nhớ những người lính."
+    },
+    {
+     "word": "folklore",
+     "ipa": "/ˈfoʊk.lɔːr/",
+     "pos": "noun",
+     "vi": "văn hóa dân gian",
+     "ex": "The story of Thanh Giong is part of Vietnamese folklore.",
+     "exVi": "Truyện Thánh Gióng là một phần văn hóa dân gian Việt Nam."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "When in Rome, do as the Romans do.",
+     "vi": "Nhập gia tùy tục."
+    },
+    {
+     "en": "It's deeply rooted in our culture.",
+     "vi": "Nó bắt rễ sâu trong văn hóa của chúng tôi."
+    },
+    {
+     "en": "It's a must-see attraction.",
+     "vi": "Đó là điểm tham quan nhất định phải đến."
+    },
+    {
+     "en": "Times have changed.",
+     "vi": "Thời thế đã thay đổi."
+    },
+    {
+     "en": "It's passed down from generation to generation.",
+     "vi": "Nó được truyền từ đời này sang đời khác."
+    }
+   ],
+   "grammar": {
+    "formulas": [
+     "V-ing (chủ động, đồng thời / nguyên nhân): Walking through the old town, I saw many lanterns.",
+     "V3 (bị động): Built in the 11th century, the temple is very old.",
+     "Having + V3 (hành động xảy ra trước): Having visited Hue, we flew to Hoi An.",
+     "Chủ ngữ của hai mệnh đề phải giống nhau"
+    ],
+    "points": [
+     {
+      "title": "V-ing: chủ động",
+      "body": "Thay cho mệnh đề có cùng chủ ngữ mang nghĩa chủ động: When I walked along the river → Walking along the river, I took many photos. Cũng diễn tả nguyên nhân: Feeling tired, she went to bed early."
+     },
+     {
+      "title": "V3: bị động",
+      "body": "Founded in 1070, the Temple of Literature is Vietnam's first university. (= It was founded in 1070.)"
+     },
+     {
+      "title": "Having + V3: hành động trước",
+      "body": "Nhấn mạnh hành động thứ nhất đã hoàn tất: Having finished the tour, we had lunch."
+     },
+     {
+      "title": "Lỗi \"treo\" chủ ngữ",
+      "body": "Walking into the museum, the paintings amazed me (sai – bức tranh không đi bộ) → Walking into the museum, I was amazed by the paintings."
+     }
+    ],
+    "examples": [
+     {
+      "en": "Located in the north, Sapa is famous for its rice terraces.",
+      "vi": "Nằm ở phía Bắc, Sa Pa nổi tiếng với ruộng bậc thang."
+     },
+     {
+      "en": "Wearing traditional clothes, the dancers performed beautifully.",
+      "vi": "Mặc trang phục truyền thống, các vũ công biểu diễn rất đẹp."
+     },
+     {
+      "en": "Having lived in Japan for years, she understands the culture well.",
+      "vi": "Đã sống ở Nhật nhiều năm, cô ấy hiểu rõ văn hóa nơi đây."
+     },
+     {
+      "en": "Made by hand, these ceramics are very expensive.",
+      "vi": "Được làm thủ công, những món gốm này rất đắt."
+     }
+    ],
+    "mistakes": [
+     {
+      "wrong": "Building in 1802, the citadel is huge.",
+      "right": "Built in 1802, the citadel is huge.",
+      "note": "Thành được xây → bị động → V3."
+     },
+     {
+      "wrong": "Arriving at the temple, the gate was closed.",
+      "right": "Arriving at the temple, we found the gate closed.",
+      "note": "Chủ ngữ hai vế phải giống nhau."
+     },
+     {
+      "wrong": "Having visit the museum, we went home.",
+      "right": "Having visited the museum, we went home.",
+      "note": "Having + V3."
+     }
+    ],
+    "exercises": [
+     {
+      "q": "___ in the 11th century, the pagoda is one of the oldest in Vietnam.",
+      "options": [
+       "Building",
+       "Built",
+       "Having built"
+      ],
+      "answer": "Built",
+      "explain": "Ngôi chùa được xây → V3."
+     },
+     {
+      "q": "___ along the beach, we watched the sunset.",
+      "options": [
+       "Walked",
+       "Walking",
+       "To walk"
+      ],
+      "answer": "Walking",
+      "explain": "Chủ động, đồng thời → V-ing."
+     },
+     {
+      "q": "___ the ceremony, the guests went to the party.",
+      "options": [
+       "Having attended",
+       "Attended",
+       "Being attended"
+      ],
+      "answer": "Having attended",
+      "explain": "Hành động xảy ra trước → Having + V3."
+     },
+     {
+      "q": "___ by hand, these lanterns are unique.",
+      "options": [
+       "Making",
+       "Made",
+       "Make"
+      ],
+      "answer": "Made",
+      "explain": "Đèn lồng được làm → V3."
+     },
+     {
+      "q": "___ tired after the trip, she slept for twelve hours.",
+      "options": [
+       "Felt",
+       "Feeling",
+       "Having felt"
+      ],
+      "answer": "Feeling",
+      "explain": "Nguyên nhân, chủ động → V-ing."
+     },
+     {
+      "q": "___ in Hoi An, the old house is now a museum.",
+      "options": [
+       "Locating",
+       "Located",
+       "Locate"
+      ],
+      "answer": "Located",
+      "explain": "be located in = nằm ở."
+     },
+     {
+      "q": "___ the local language, he easily made friends.",
+      "options": [
+       "Spoken",
+       "Speaking",
+       "Speaks"
+      ],
+      "answer": "Speaking",
+      "explain": "Chủ động → V-ing."
+     }
+    ],
+    "title": "Mệnh đề phân từ (Participle Clauses)",
+    "summary": "Mệnh đề phân từ giúp rút gọn câu, nối hai hành động cùng chủ ngữ một cách tự nhiên và trang trọng. Thường gặp trong văn viết, truyện và bài thi IELTS."
+   },
+   "dialogue": {
+    "lines": [
+     {
+      "speaker": "A",
+      "name": "Tú",
+      "en": "Welcome to the Temple of Literature. Built in 1070, it was Vietnam's first national university.",
+      "vi": "Chào mừng đến Văn Miếu. Được xây dựng năm 1070, đây là trường đại học quốc gia đầu tiên của Việt Nam."
+     },
+     {
+      "speaker": "B",
+      "name": "Hans",
+      "en": "Amazing! What are those stone tablets?",
+      "vi": "Tuyệt vời! Những tấm bia đá kia là gì vậy?"
+     },
+     {
+      "speaker": "A",
+      "name": "Tú",
+      "en": "They record the names of doctoral graduates. Placed on the backs of stone turtles, they symbolise wisdom and long life.",
+      "vi": "Chúng ghi tên những người đỗ tiến sĩ. Được đặt trên lưng rùa đá, chúng tượng trưng cho trí tuệ và sự trường tồn."
+     },
+     {
+      "speaker": "B",
+      "name": "Hans",
+      "en": "Do people still come here to pray?",
+      "vi": "Người ta có còn đến đây cầu nguyện không?"
+     },
+     {
+      "speaker": "A",
+      "name": "Tú",
+      "en": "Yes! Hoping for good luck, many students visit before their exams.",
+      "vi": "Có! Mong được may mắn, nhiều học sinh đến đây trước kỳ thi."
+     },
+     {
+      "speaker": "B",
+      "name": "Hans",
+      "en": "Having seen this place, I understand why education is so respected in Vietnam.",
+      "vi": "Sau khi thấy nơi này, tôi hiểu vì sao giáo dục được coi trọng đến thế ở Việt Nam."
+     }
+    ],
+    "questions": [
+     {
+      "q": "When was the Temple of Literature built?",
+      "options": [
+       "in 1070",
+       "in 1802",
+       "in 1945"
+      ],
+      "answer": "in 1070"
+     },
+     {
+      "q": "Why do students visit before exams?",
+      "options": [
+       "to study",
+       "hoping for good luck",
+       "to take photos"
+      ],
+      "answer": "hoping for good luck"
+     }
+    ],
+    "title": "Tham quan Văn Miếu",
+    "setting": "Hướng dẫn viên giới thiệu Văn Miếu với du khách."
+   },
+   "reading": {
+    "questions": [
+     {
+      "q": "How does tourism help traditional cultures?",
+      "options": [
+       "It provides income to preserve them",
+       "It replaces old customs",
+       "It builds hotels"
+      ],
+      "answer": "It provides income to preserve them"
+     },
+     {
+      "q": "What is \"responsible tourism\"?",
+      "options": [
+       "travelling only in groups",
+       "respecting customs and benefiting local people",
+       "avoiding heritage sites"
+      ],
+      "answer": "respecting customs and benefiting local people"
+     }
+    ],
+    "title": "Can tourism save traditions?",
+    "text": "Tourism can be both a blessing and a curse for traditional cultures. On the one hand, it provides income that helps communities preserve their crafts, festivals and heritage sites. Having seen how much visitors value authentic experiences, many villages have revived old customs that were almost forgotten. On the other hand, mass tourism can turn sacred rituals into shows performed only for cameras. Overwhelmed by crowds, some heritage sites have been damaged. Experts suggest that the solution is \"responsible tourism\", where visitors respect local customs and their money directly benefits local people.",
+    "vi": "Du lịch có thể vừa là phúc lành vừa là tai họa đối với văn hóa truyền thống. Một mặt, nó mang lại thu nhập giúp cộng đồng gìn giữ nghề thủ công, lễ hội và di tích. Nhận thấy du khách trân trọng những trải nghiệm đích thực đến mức nào, nhiều làng đã khôi phục những phong tục gần như bị lãng quên. Mặt khác, du lịch đại trà có thể biến những nghi lễ thiêng liêng thành các buổi biểu diễn chỉ dành cho máy ảnh. Bị quá tải bởi đám đông, một số di tích đã bị hư hại. Các chuyên gia cho rằng giải pháp là \"du lịch có trách nhiệm\", nơi du khách tôn trọng phong tục địa phương và tiền của họ mang lại lợi ích trực tiếp cho người dân."
+   },
+   "title": "Văn hóa & Di sản",
+   "titleEn": "Culture & Heritage",
+   "emoji": "🏛️",
+   "goal": "Giới thiệu phong tục, di sản và viết câu gọn bằng mệnh đề phân từ."
+  },
+  {
+   "id": "b2-u8",
+   "words": [
+    {
+     "word": "advertisement",
+     "ipa": "/ˌæd.vɚˈtaɪz.mənt/",
+     "pos": "noun",
+     "vi": "quảng cáo",
+     "ex": "I saw an advertisement for a new phone.",
+     "exVi": "Tôi thấy một quảng cáo điện thoại mới.",
+     "tip": "Viết tắt: ad / advert."
+    },
+    {
+     "word": "persuade",
+     "ipa": "/pɚˈsweɪd/",
+     "pos": "verb",
+     "vi": "thuyết phục",
+     "ex": "She persuaded me to buy the expensive one.",
+     "exVi": "Cô ấy thuyết phục tôi mua cái đắt tiền.",
+     "tip": "persuade sb to V."
+    },
+    {
+     "word": "influence",
+     "ipa": "/ˈɪn.flu.əns/",
+     "pos": "verb",
+     "vi": "ảnh hưởng",
+     "ex": "Advertising influences what we buy.",
+     "exVi": "Quảng cáo ảnh hưởng đến những gì chúng ta mua.",
+     "tip": "influencer = người có ảnh hưởng."
+    },
+    {
+     "word": "target",
+     "ipa": "/ˈtɑːr.ɡɪt/",
+     "pos": "verb",
+     "vi": "nhắm đến",
+     "ex": "This campaign targets young people.",
+     "exVi": "Chiến dịch này nhắm đến giới trẻ."
+    },
+    {
+     "word": "slogan",
+     "ipa": "/ˈsloʊ.ɡən/",
+     "pos": "noun",
+     "vi": "khẩu hiệu",
+     "ex": "Nike's slogan is \"Just Do It\".",
+     "exVi": "Khẩu hiệu của Nike là \"Just Do It\"."
+    },
+    {
+     "word": "campaign",
+     "ipa": "/kæmˈpeɪn/",
+     "pos": "noun",
+     "vi": "chiến dịch",
+     "ex": "The advertising campaign was a huge success.",
+     "exVi": "Chiến dịch quảng cáo thành công rực rỡ.",
+     "tip": "Chữ g câm."
+    },
+    {
+     "word": "misleading",
+     "ipa": "/ˌmɪsˈliː.dɪŋ/",
+     "pos": "adj",
+     "vi": "gây hiểu lầm",
+     "ex": "The ad was banned for being misleading.",
+     "exVi": "Quảng cáo bị cấm vì gây hiểu lầm."
+    },
+    {
+     "word": "endorse",
+     "ipa": "/ɪnˈdɔːrs/",
+     "pos": "verb",
+     "vi": "xác nhận; làm đại diện quảng bá",
+     "ex": "Many athletes endorse sports brands.",
+     "exVi": "Nhiều vận động viên làm đại diện cho các thương hiệu thể thao."
+    },
+    {
+     "word": "sponsor",
+     "ipa": "/ˈspɑːn.sɚ/",
+     "pos": "verb",
+     "vi": "tài trợ",
+     "ex": "The event is sponsored by a bank.",
+     "exVi": "Sự kiện được một ngân hàng tài trợ."
+    },
+    {
+     "word": "viral",
+     "ipa": "/ˈvaɪ.rəl/",
+     "pos": "adj",
+     "vi": "lan truyền mạnh",
+     "ex": "The video went viral overnight.",
+     "exVi": "Video lan truyền chóng mặt chỉ sau một đêm.",
+     "tip": "go viral = lan truyền mạnh."
+    },
+    {
+     "word": "credible",
+     "ipa": "/ˈkred.ə.bəl/",
+     "pos": "adj",
+     "vi": "đáng tin",
+     "ex": "The review doesn't seem credible.",
+     "exVi": "Bài đánh giá có vẻ không đáng tin.",
+     "tip": "credibility = sự đáng tin."
+    },
+    {
+     "word": "commercial",
+     "ipa": "/kəˈmɝː.ʃəl/",
+     "pos": "noun",
+     "vi": "quảng cáo trên TV / radio",
+     "ex": "They spent millions on a TV commercial.",
+     "exVi": "Họ chi hàng triệu cho một quảng cáo truyền hình."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "It's too good to be true.",
+     "vi": "Tốt đến mức khó tin."
+    },
+    {
+     "en": "Don't fall for it.",
+     "vi": "Đừng mắc bẫy."
+    },
+    {
+     "en": "It's selling like hot cakes.",
+     "vi": "Bán đắt như tôm tươi."
+    },
+    {
+     "en": "You get what you pay for.",
+     "vi": "Tiền nào của nấy."
+    },
+    {
+     "en": "Read the small print.",
+     "vi": "Đọc kỹ phần chữ nhỏ (điều khoản)."
+    }
+   ],
+   "grammar": {
+    "formulas": [
+     "V + to V: agree, refuse, promise, offer, threaten (He refused to pay.)",
+     "V + O + to V: advise, warn, persuade, encourage, remind, tell (She advised me to read the reviews.)",
+     "V + V-ing: deny, admit, suggest, recommend (He denied lying.)",
+     "V + that + mệnh đề: suggest, recommend, admit, claim, insist (They claimed that the product was natural.)",
+     "V + O + of / for + V-ing: accuse sb of, blame sb for (They accused the brand of lying.)"
+    ],
+    "points": [
+     {
+      "title": "suggest không đi với O + to V",
+      "body": "She suggested going (đúng) / She suggested that we (should) go (đúng) / She suggested us to go (SAI)."
+     },
+     {
+      "title": "Phủ định với to V",
+      "body": "warn / advise / tell sb NOT to V: The doctor warned me not to eat too much sugar."
+     },
+     {
+      "title": "Chọn động từ theo ý định",
+      "body": "\"I'll pay for it\" → He offered to pay. \"I didn't steal it!\" → He denied stealing it. \"It was me\" → She admitted breaking it."
+     },
+     {
+      "title": "Lùi thì sau that",
+      "body": "Động từ tường thuật ở quá khứ thì mệnh đề that thường lùi thì: The company claimed that its product was eco-friendly."
+     }
+    ],
+    "examples": [
+     {
+      "en": "The influencer admitted being paid for the review.",
+      "vi": "Người có ảnh hưởng thừa nhận đã được trả tiền cho bài đánh giá."
+     },
+     {
+      "en": "My friend advised me not to trust online ads.",
+      "vi": "Bạn tôi khuyên tôi đừng tin quảng cáo trên mạng."
+     },
+     {
+      "en": "The company denied using fake reviews.",
+      "vi": "Công ty phủ nhận việc dùng đánh giá giả."
+     },
+     {
+      "en": "Experts recommend reading the small print carefully.",
+      "vi": "Các chuyên gia khuyên nên đọc kỹ điều khoản."
+     }
+    ],
+    "mistakes": [
+     {
+      "wrong": "He suggested me to buy it.",
+      "right": "He suggested that I buy it.",
+      "note": "suggest không đi với O + to V."
+     },
+     {
+      "wrong": "She denied to take the money.",
+      "right": "She denied taking the money.",
+      "note": "deny + V-ing."
+     },
+     {
+      "wrong": "They warned us don't click the link.",
+      "right": "They warned us not to click the link.",
+      "note": "warn sb not to V."
+     }
+    ],
+    "exercises": [
+     {
+      "q": "\"I didn't lie!\" → He denied ___.",
+      "options": [
+       "to lie",
+       "lying",
+       "lie"
+      ],
+      "answer": "lying",
+      "explain": "deny + V-ing."
+     },
+     {
+      "q": "\"You should compare prices.\" → She advised me ___ prices.",
+      "options": [
+       "compare",
+       "to compare",
+       "comparing"
+      ],
+      "answer": "to compare",
+      "explain": "advise sb to V."
+     },
+     {
+      "q": "\"Let's watch the ad again.\" → He suggested ___ the ad again.",
+      "options": [
+       "watching",
+       "to watch",
+       "watch"
+      ],
+      "answer": "watching",
+      "explain": "suggest + V-ing."
+     },
+     {
+      "q": "\"I'll give you a discount.\" → The seller offered ___ me a discount.",
+      "options": [
+       "giving",
+       "to give",
+       "give"
+      ],
+      "answer": "to give",
+      "explain": "offer + to V."
+     },
+     {
+      "q": "\"Don't believe that ad.\" → My mum warned me ___ that ad.",
+      "options": [
+       "not believe",
+       "not to believe",
+       "to not believing"
+      ],
+      "answer": "not to believe",
+      "explain": "warn sb not to V."
+     },
+     {
+      "q": "\"Yes, we used fake reviews.\" → The company admitted ___ fake reviews.",
+      "options": [
+       "using",
+       "to use",
+       "use"
+      ],
+      "answer": "using",
+      "explain": "admit + V-ing."
+     },
+     {
+      "q": "They accused the brand ___ misleading customers.",
+      "options": [
+       "for",
+       "of",
+       "with"
+      ],
+      "answer": "of",
+      "explain": "accuse sb of + V-ing."
+     }
+    ],
+    "title": "Động từ tường thuật (suggest, advise, deny, admit, warn...)",
+    "summary": "Thay vì lặp lại said, người nói ở trình độ cao dùng động từ tường thuật chính xác hơn để truyền tải ý định: khuyên, cảnh báo, thừa nhận, phủ nhận... Mỗi động từ đi với một cấu trúc riêng."
+   },
+   "dialogue": {
+    "lines": [
+     {
+      "speaker": "A",
+      "name": "Trâm",
+      "en": "Remember the face cream I bought? The ad promised I would look ten years younger.",
+      "vi": "Còn nhớ hũ kem dưỡng mình mua không? Quảng cáo hứa mình sẽ trẻ ra mười tuổi."
+     },
+     {
+      "speaker": "B",
+      "name": "Kevin",
+      "en": "Let me guess. It didn't work?",
+      "vi": "Để mình đoán. Nó không hiệu quả à?"
+     },
+     {
+      "speaker": "A",
+      "name": "Trâm",
+      "en": "Not at all! And then I found out that the actress who endorsed it admitted being paid to say it was amazing.",
+      "vi": "Hoàn toàn không! Rồi mình phát hiện nữ diễn viên quảng bá nó đã thừa nhận được trả tiền để khen nó tuyệt vời."
+     },
+     {
+      "speaker": "B",
+      "name": "Kevin",
+      "en": "That's so misleading. Did you complain?",
+      "vi": "Thật gây hiểu lầm. Bạn có khiếu nại không?"
+     },
+     {
+      "speaker": "A",
+      "name": "Trâm",
+      "en": "Yes. They refused to give me a refund, but a lawyer advised me to report them.",
+      "vi": "Có. Họ từ chối hoàn tiền, nhưng một luật sư khuyên mình nên tố cáo họ."
+     },
+     {
+      "speaker": "B",
+      "name": "Kevin",
+      "en": "Good. Next time, read reviews from credible sources. If it seems too good to be true, it usually is.",
+      "vi": "Tốt. Lần sau hãy đọc đánh giá từ nguồn đáng tin. Thứ gì có vẻ quá tốt để là thật thì thường là không thật đâu."
+     }
+    ],
+    "questions": [
+     {
+      "q": "What did the actress admit?",
+      "options": [
+       "using the cream every day",
+       "being paid to promote it",
+       "never using it"
+      ],
+      "answer": "being paid to promote it"
+     },
+     {
+      "q": "What did the lawyer advise Tram to do?",
+      "options": [
+       "buy another cream",
+       "report the company",
+       "forget about it"
+      ],
+      "answer": "report the company"
+     }
+    ],
+    "title": "Bị quảng cáo đánh lừa",
+    "setting": "Hai người bạn nói về món đồ mua trên mạng."
+   },
+   "reading": {
+    "questions": [
+     {
+      "q": "Why is influencer marketing effective?",
+      "options": [
+       "It is cheaper than TV",
+       "Followers see it as advice from a friend",
+       "Influencers are experts"
+      ],
+      "answer": "Followers see it as advice from a friend"
+     },
+     {
+      "q": "What do several countries now require?",
+      "options": [
+       "Influencers must label sponsored posts",
+       "Influencers must pay more taxes",
+       "Ads must be on TV"
+      ],
+      "answer": "Influencers must label sponsored posts"
+     }
+    ],
+    "title": "The power of influencer marketing",
+    "text": "Traditional TV commercials are losing their power, especially among young people. Instead, companies are spending billions on influencer marketing. When a popular content creator recommends a product, followers tend to see it as advice from a friend rather than an advertisement. However, this has raised serious concerns. Some influencers have been accused of promoting products they have never used, and many fail to mention that they were paid. As a result, several countries now require influencers to clearly label sponsored posts. Experts advise consumers to stay critical and ask themselves who benefits from a recommendation.",
+    "vi": "Quảng cáo truyền hình truyền thống đang mất dần sức mạnh, đặc biệt với giới trẻ. Thay vào đó, các công ty chi hàng tỷ đô cho tiếp thị qua người có ảnh hưởng. Khi một nhà sáng tạo nội dung nổi tiếng giới thiệu một sản phẩm, người theo dõi có xu hướng xem đó như lời khuyên từ bạn bè hơn là quảng cáo. Tuy nhiên, điều này gây ra những lo ngại nghiêm trọng. Một số người có ảnh hưởng bị cáo buộc quảng bá sản phẩm họ chưa từng dùng, và nhiều người không đề cập rằng họ được trả tiền. Do đó, nhiều quốc gia hiện yêu cầu người có ảnh hưởng ghi rõ bài đăng được tài trợ. Các chuyên gia khuyên người tiêu dùng nên giữ tư duy phản biện và tự hỏi ai được lợi từ một lời giới thiệu."
+   },
+   "title": "Quảng cáo & Tiêu dùng",
+   "titleEn": "Advertising & Consumers",
+   "emoji": "📣",
+   "goal": "Phân tích quảng cáo và thuật lại lời nói bằng động từ tường thuật chính xác."
+  },
+  {
+   "id": "b2-u9",
+   "words": [
+    {
+     "word": "crime",
+     "ipa": "/kraɪm/",
+     "pos": "noun",
+     "vi": "tội phạm, tội ác",
+     "ex": "The crime rate has fallen this year.",
+     "exVi": "Tỷ lệ tội phạm đã giảm trong năm nay.",
+     "tip": "criminal = kẻ phạm tội."
+    },
+    {
+     "word": "arrest",
+     "ipa": "/əˈrest/",
+     "pos": "verb",
+     "vi": "bắt giữ",
+     "ex": "The police arrested two men last night.",
+     "exVi": "Cảnh sát đã bắt giữ hai người đàn ông tối qua."
+    },
+    {
+     "word": "suspect",
+     "ipa": "/ˈsʌs.pekt/",
+     "pos": "noun",
+     "vi": "nghi phạm",
+     "ex": "The suspect has been questioned for hours.",
+     "exVi": "Nghi phạm đã bị thẩm vấn hàng giờ.",
+     "tip": "Động từ suspect /səˈspekt/ = nghi ngờ."
+    },
+    {
+     "word": "court",
+     "ipa": "/kɔːrt/",
+     "pos": "noun",
+     "vi": "tòa án",
+     "ex": "The case will be heard in court next month.",
+     "exVi": "Vụ án sẽ được xét xử tại tòa vào tháng tới."
+    },
+    {
+     "word": "guilty",
+     "ipa": "/ˈɡɪl.ti/",
+     "pos": "adj",
+     "vi": "có tội",
+     "ex": "The jury found him guilty.",
+     "exVi": "Bồi thẩm đoàn tuyên anh ta có tội.",
+     "tip": "feel guilty = cảm thấy tội lỗi."
+    },
+    {
+     "word": "innocent",
+     "ipa": "/ˈɪn.ə.sənt/",
+     "pos": "adj",
+     "vi": "vô tội",
+     "ex": "Everyone is innocent until proven guilty.",
+     "exVi": "Mọi người đều vô tội cho đến khi bị chứng minh có tội."
+    },
+    {
+     "word": "sentence",
+     "ipa": "/ˈsen.təns/",
+     "pos": "verb",
+     "vi": "kết án",
+     "ex": "He was sentenced to five years in prison.",
+     "exVi": "Anh ta bị kết án năm năm tù.",
+     "tip": "Danh từ sentence còn nghĩa là câu văn."
+    },
+    {
+     "word": "victim",
+     "ipa": "/ˈvɪk.tɪm/",
+     "pos": "noun",
+     "vi": "nạn nhân",
+     "ex": "The victims of the fraud lost all their savings.",
+     "exVi": "Các nạn nhân vụ lừa đảo mất hết tiền tiết kiệm."
+    },
+    {
+     "word": "punishment",
+     "ipa": "/ˈpʌn.ɪʃ.mənt/",
+     "pos": "noun",
+     "vi": "hình phạt",
+     "ex": "The punishment should fit the crime.",
+     "exVi": "Hình phạt nên tương xứng với tội danh."
+    },
+    {
+     "word": "theft",
+     "ipa": "/θeft/",
+     "pos": "noun",
+     "vi": "vụ trộm, tội trộm cắp",
+     "ex": "Bicycle theft is common in big cities.",
+     "exVi": "Trộm xe đạp phổ biến ở các thành phố lớn.",
+     "tip": "thief = kẻ trộm; steal = ăn trộm."
+    },
+    {
+     "word": "lawyer",
+     "ipa": "/ˈlɑː.jɚ/",
+     "pos": "noun",
+     "vi": "luật sư",
+     "ex": "You should speak to a lawyer.",
+     "exVi": "Bạn nên nói chuyện với luật sư."
+    },
+    {
+     "word": "jury",
+     "ipa": "/ˈdʒʊr.i/",
+     "pos": "noun",
+     "vi": "bồi thẩm đoàn",
+     "ex": "The jury took three days to reach a decision.",
+     "exVi": "Bồi thẩm đoàn mất ba ngày để đưa ra quyết định."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "Crime doesn't pay.",
+     "vi": "Phạm tội chẳng đem lại lợi lộc gì."
+    },
+    {
+     "en": "He was caught red-handed.",
+     "vi": "Anh ta bị bắt quả tang."
+    },
+    {
+     "en": "The case is closed.",
+     "vi": "Vụ án đã khép lại."
+    },
+    {
+     "en": "Justice has been served.",
+     "vi": "Công lý đã được thực thi."
+    },
+    {
+     "en": "I want to report a theft.",
+     "vi": "Tôi muốn trình báo một vụ trộm."
+    }
+   ],
+   "grammar": {
+    "formulas": [
+     "Modal + be + V3: Criminals should be punished.",
+     "Modal + have been + V3 (quá khứ): The thief must have been seen by someone.",
+     "have / has been + V3: The suspect has been arrested.",
+     "had been + V3: The money had been stolen before the police arrived.",
+     "being + V3 (sau giới từ / động từ): He was afraid of being caught."
+    ],
+    "points": [
+     {
+      "title": "Bị động với modal",
+      "body": "can / could / should / must / might / will + be + V3: This law must be changed. Online fraud can be prevented."
+     },
+     {
+      "title": "Modal hoàn thành bị động",
+      "body": "Suy đoán về quá khứ ở dạng bị động: The door can't have been locked – there's no damage."
+     },
+     {
+      "title": "Bị động hoàn thành",
+      "body": "Nhấn mạnh kết quả: Three men have been charged with theft. / By the time we got home, our house had been broken into."
+     },
+     {
+      "title": "being + V3",
+      "body": "Dùng sau giới từ hoặc động từ cần V-ing: She hates being watched. / He denied being involved."
+     }
+    ],
+    "examples": [
+     {
+      "en": "Shoplifters will be prosecuted.",
+      "vi": "Kẻ trộm đồ trong cửa hàng sẽ bị truy tố."
+     },
+     {
+      "en": "The suspect has been released due to a lack of evidence.",
+      "vi": "Nghi phạm đã được thả vì thiếu bằng chứng."
+     },
+     {
+      "en": "The painting might have been stolen years ago.",
+      "vi": "Bức tranh có thể đã bị đánh cắp từ nhiều năm trước."
+     },
+     {
+      "en": "Nobody likes being treated unfairly.",
+      "vi": "Không ai thích bị đối xử bất công."
+     }
+    ],
+    "mistakes": [
+     {
+      "wrong": "The criminal should punished.",
+      "right": "The criminal should be punished.",
+      "note": "Modal + be + V3."
+     },
+     {
+      "wrong": "Two men have arrested.",
+      "right": "Two men have been arrested.",
+      "note": "Bị động hoàn thành: have been + V3."
+     },
+     {
+      "wrong": "He was afraid of catching by the police.",
+      "right": "He was afraid of being caught by the police.",
+      "note": "Nghĩa bị động sau giới từ: being + V3."
+     }
+    ],
+    "exercises": [
+     {
+      "q": "Criminals should ___ according to the law.",
+      "options": [
+       "punish",
+       "be punished",
+       "been punished"
+      ],
+      "answer": "be punished",
+      "explain": "Modal + be + V3."
+     },
+     {
+      "q": "The suspect ___ by the police this morning.",
+      "options": [
+       "has arrested",
+       "has been arrested",
+       "was arresting"
+      ],
+      "answer": "has been arrested",
+      "explain": "Bị động hoàn thành."
+     },
+     {
+      "q": "The window must ___ broken from the inside.",
+      "options": [
+       "be",
+       "have been",
+       "being"
+      ],
+      "answer": "have been",
+      "explain": "Suy đoán quá khứ bị động: must have been + V3."
+     },
+     {
+      "q": "By the time the police arrived, the money ___.",
+      "options": [
+       "had been taken",
+       "has taken",
+       "was taking"
+      ],
+      "answer": "had been taken",
+      "explain": "Trước một mốc quá khứ → had been + V3."
+     },
+     {
+      "q": "This crime could ___ with better security.",
+      "options": [
+       "prevent",
+       "have been prevented",
+       "be preventing"
+      ],
+      "answer": "have been prevented",
+      "explain": "could have been + V3 = lẽ ra đã có thể được..."
+     },
+     {
+      "q": "She hates ___ by strangers.",
+      "options": [
+       "photographing",
+       "being photographed",
+       "be photographed"
+      ],
+      "answer": "being photographed",
+      "explain": "hate + being + V3."
+     },
+     {
+      "q": "All passengers will ___ before boarding.",
+      "options": [
+       "be checked",
+       "check",
+       "checked"
+      ],
+      "answer": "be checked",
+      "explain": "will + be + V3."
+     }
+    ],
+    "title": "Bị động với động từ khuyết thiếu & thì hoàn thành",
+    "summary": "Trong tin tức về tội phạm và pháp luật, câu bị động xuất hiện liên tục vì ta quan tâm đến nạn nhân, nghi phạm và hành động hơn là người thực hiện. Ở trình độ B2 cần thành thạo bị động với modal và thì hoàn thành."
+   },
+   "dialogue": {
+    "lines": [
+     {
+      "speaker": "A",
+      "name": "Clara",
+      "en": "Excuse me, I'd like to report a theft. My bag has been stolen.",
+      "vi": "Xin lỗi, tôi muốn trình báo một vụ trộm. Túi của tôi đã bị lấy cắp."
+     },
+     {
+      "speaker": "B",
+      "name": "Officer",
+      "en": "I'm sorry to hear that. When did it happen?",
+      "vi": "Tôi rất tiếc. Chuyện xảy ra khi nào?"
+     },
+     {
+      "speaker": "A",
+      "name": "Clara",
+      "en": "About an hour ago, at a café near the lake. I left it on my chair for a minute.",
+      "vi": "Khoảng một tiếng trước, ở một quán cà phê gần hồ. Tôi để nó trên ghế một phút."
+     },
+     {
+      "speaker": "B",
+      "name": "Officer",
+      "en": "It might have been taken by a pickpocket. Unfortunately, several thefts have been reported in that area this week.",
+      "vi": "Có thể nó đã bị một tên móc túi lấy. Không may là tuần này đã có nhiều vụ trộm được báo cáo ở khu vực đó."
+     },
+     {
+      "speaker": "A",
+      "name": "Clara",
+      "en": "My passport was in it. What should I do?",
+      "vi": "Hộ chiếu của tôi ở trong đó. Tôi nên làm gì?"
+     },
+     {
+      "speaker": "B",
+      "name": "Officer",
+      "en": "A report will be written now, and you should contact your embassy. The café's cameras will be checked too.",
+      "vi": "Biên bản sẽ được lập ngay bây giờ, và cô nên liên hệ đại sứ quán. Camera của quán cũng sẽ được kiểm tra."
+     },
+     {
+      "speaker": "A",
+      "name": "Clara",
+      "en": "Thank you. I hope the thief is caught.",
+      "vi": "Cảm ơn anh. Tôi hy vọng kẻ trộm sẽ bị bắt."
+     }
+    ],
+    "questions": [
+     {
+      "q": "Where was Clara's bag stolen?",
+      "options": [
+       "on the bus",
+       "at a café near the lake",
+       "at the hotel"
+      ],
+      "answer": "at a café near the lake"
+     },
+     {
+      "q": "What should Clara do about her passport?",
+      "options": [
+       "buy a new one at the airport",
+       "contact her embassy",
+       "wait at the café"
+      ],
+      "answer": "contact her embassy"
+     }
+    ],
+    "title": "Trình báo mất trộm",
+    "setting": "Một du khách đến đồn cảnh sát."
+   },
+   "reading": {
+    "questions": [
+     {
+      "q": "What happens to more than half of prisoners in many countries?",
+      "options": [
+       "They become lawyers",
+       "They commit another crime after release",
+       "They stay in prison forever"
+      ],
+      "answer": "They commit another crime after release"
+     },
+     {
+      "q": "What does Norway's low reoffending rate suggest?",
+      "options": [
+       "Punishment works best",
+       "Rehabilitation may be more effective",
+       "Prisons should be closed"
+      ],
+      "answer": "Rehabilitation may be more effective"
+     }
+    ],
+    "title": "Should prisons punish or rehabilitate?",
+    "text": "For centuries, prisons were seen mainly as places of punishment. Criminals were locked up, and society felt protected. However, statistics show that in many countries, more than half of prisoners commit another crime within a few years of being released. This has led some governments to rethink the purpose of prison. In Norway, for example, prisoners are encouraged to study, work and learn new skills. Critics argue that criminals should be punished, not rewarded. Yet Norway's reoffending rate is one of the lowest in the world, which suggests that rehabilitation may be more effective in the long run.",
+    "vi": "Trong nhiều thế kỷ, nhà tù chủ yếu được xem là nơi trừng phạt. Tội phạm bị giam giữ và xã hội cảm thấy được bảo vệ. Tuy nhiên, thống kê cho thấy ở nhiều quốc gia, hơn một nửa số tù nhân lại phạm tội trong vòng vài năm sau khi được thả. Điều này khiến một số chính phủ suy nghĩ lại về mục đích của nhà tù. Ví dụ ở Na Uy, tù nhân được khuyến khích học tập, làm việc và học kỹ năng mới. Những người chỉ trích cho rằng tội phạm nên bị trừng phạt chứ không phải được tưởng thưởng. Tuy vậy, tỷ lệ tái phạm của Na Uy thuộc hàng thấp nhất thế giới, cho thấy cải tạo có thể hiệu quả hơn về lâu dài."
+   },
+   "title": "Tội phạm & Pháp luật",
+   "titleEn": "Crime & Law",
+   "emoji": "⚖️",
+   "goal": "Đọc hiểu tin tức pháp luật và dùng bị động với động từ khuyết thiếu."
+  },
+  {
+   "id": "b2-u10",
+   "words": [
+    {
+     "word": "research",
+     "ipa": "/ˈriː.sɝːtʃ/",
+     "pos": "noun",
+     "vi": "nghiên cứu",
+     "ex": "Research shows that sleep improves memory.",
+     "exVi": "Nghiên cứu cho thấy giấc ngủ cải thiện trí nhớ.",
+     "tip": "Không đếm được: do research."
+    },
+    {
+     "word": "discover",
+     "ipa": "/dɪˈskʌv.ɚ/",
+     "pos": "verb",
+     "vi": "khám phá, phát hiện",
+     "ex": "Penicillin was discovered by accident.",
+     "exVi": "Penicillin được phát hiện một cách tình cờ.",
+     "tip": "discovery = phát hiện."
+    },
+    {
+     "word": "experiment",
+     "ipa": "/ɪkˈsper.ə.mənt/",
+     "pos": "noun",
+     "vi": "thí nghiệm",
+     "ex": "They carried out an experiment on mice.",
+     "exVi": "Họ tiến hành thí nghiệm trên chuột."
+    },
+    {
+     "word": "theory",
+     "ipa": "/ˈθɪr.i/",
+     "pos": "noun",
+     "vi": "lý thuyết, học thuyết",
+     "ex": "Einstein's theory of relativity changed physics.",
+     "exVi": "Thuyết tương đối của Einstein đã thay đổi vật lý học."
+    },
+    {
+     "word": "hypothesis",
+     "ipa": "/haɪˈpɑː.θə.sɪs/",
+     "pos": "noun",
+     "vi": "giả thuyết",
+     "ex": "The experiment proved the hypothesis wrong.",
+     "exVi": "Thí nghiệm đã chứng minh giả thuyết sai.",
+     "tip": "Số nhiều: hypotheses."
+    },
+    {
+     "word": "laboratory",
+     "ipa": "/ˈlæb.rə.tɔːr.i/",
+     "pos": "noun",
+     "vi": "phòng thí nghiệm",
+     "ex": "She works in a laboratory.",
+     "exVi": "Cô ấy làm việc trong phòng thí nghiệm.",
+     "tip": "Viết tắt: lab."
+    },
+    {
+     "word": "analyze",
+     "ipa": "/ˈæn.əl.aɪz/",
+     "pos": "verb",
+     "vi": "phân tích",
+     "ex": "Scientists analyzed the data carefully.",
+     "exVi": "Các nhà khoa học phân tích dữ liệu cẩn thận.",
+     "tip": "Anh-Anh: analyse; analysis = sự phân tích."
+    },
+    {
+     "word": "phenomenon",
+     "ipa": "/fəˈnɑː.mə.nɑːn/",
+     "pos": "noun",
+     "vi": "hiện tượng",
+     "ex": "The Northern Lights are a natural phenomenon.",
+     "exVi": "Cực quang là một hiện tượng tự nhiên.",
+     "tip": "Số nhiều: phenomena."
+    },
+    {
+     "word": "observe",
+     "ipa": "/əbˈzɝːv/",
+     "pos": "verb",
+     "vi": "quan sát",
+     "ex": "Astronomers observe the stars at night.",
+     "exVi": "Các nhà thiên văn quan sát các vì sao vào ban đêm.",
+     "tip": "observation = sự quan sát."
+    },
+    {
+     "word": "conclusion",
+     "ipa": "/kənˈkluː.ʒən/",
+     "pos": "noun",
+     "vi": "kết luận",
+     "ex": "What conclusion can we draw from the results?",
+     "exVi": "Chúng ta có thể rút ra kết luận gì từ kết quả?"
+    },
+    {
+     "word": "gravity",
+     "ipa": "/ˈɡræv.ə.t̬i/",
+     "pos": "noun",
+     "vi": "trọng lực",
+     "ex": "Newton described the law of gravity.",
+     "exVi": "Newton đã mô tả định luật vạn vật hấp dẫn."
+    },
+    {
+     "word": "telescope",
+     "ipa": "/ˈtel.ə.skoʊp/",
+     "pos": "noun",
+     "vi": "kính thiên văn",
+     "ex": "We looked at the moon through a telescope.",
+     "exVi": "Chúng tôi ngắm mặt trăng qua kính thiên văn.",
+     "tip": "tele (xa) + scope (nhìn)."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "Back to the drawing board.",
+     "vi": "Làm lại từ đầu thôi."
+    },
+    {
+     "en": "It's not rocket science.",
+     "vi": "Có gì cao siêu đâu (dễ thôi)."
+    },
+    {
+     "en": "It's a process of trial and error.",
+     "vi": "Đó là quá trình thử và sai."
+    },
+    {
+     "en": "The jury is still out.",
+     "vi": "Vẫn chưa có kết luận."
+    },
+    {
+     "en": "Let's get to the bottom of this.",
+     "vi": "Hãy tìm ra tận gốc vấn đề."
+    }
+   ],
+   "grammar": {
+    "formulas": [
+     "carry out = thực hiện (an experiment, research)",
+     "find out = tìm ra, phát hiện · figure out = hiểu ra, giải quyết",
+     "come up with = nghĩ ra (an idea) · look into = điều tra, xem xét",
+     "point out = chỉ ra · rule out = loại trừ · set up = thiết lập",
+     "turn out = hóa ra · break down = hỏng; phân hủy · give up = từ bỏ"
+    ],
+    "points": [
+     {
+      "title": "Tách được và không tách được",
+      "body": "Nhiều cụm có thể tách: carry out the test = carry the test out. Khi tân ngữ là đại từ BẮT BUỘC tách: carry it out (không nói carry out it). Một số cụm không tách được: look into, come up with."
+     },
+     {
+      "title": "Phrasal verb trong văn nói",
+      "body": "Văn nói thường dùng phrasal verbs thay từ trang trọng: find out (discover), carry out (conduct), come up with (devise), put off (postpone)."
+     },
+     {
+      "title": "Học theo ngữ cảnh",
+      "body": "Đừng học thuộc danh sách khô khan. Hãy học cả cụm trong câu: The results turned out to be wrong."
+     },
+     {
+      "title": "Một cụm nhiều nghĩa",
+      "body": "break down: The car broke down (hỏng). Plastic takes years to break down (phân hủy). She broke down in tears (òa khóc)."
+     }
+    ],
+    "examples": [
+     {
+      "en": "The scientists carried out hundreds of experiments.",
+      "vi": "Các nhà khoa học đã tiến hành hàng trăm thí nghiệm."
+     },
+     {
+      "en": "Researchers are looking into the causes of the disease.",
+      "vi": "Các nhà nghiên cứu đang điều tra nguyên nhân căn bệnh."
+     },
+     {
+      "en": "She came up with a brilliant theory.",
+      "vi": "Cô ấy nghĩ ra một học thuyết xuất sắc."
+     },
+     {
+      "en": "The hypothesis turned out to be wrong.",
+      "vi": "Giả thuyết hóa ra là sai."
+     }
+    ],
+    "mistakes": [
+     {
+      "wrong": "We carried out it last week.",
+      "right": "We carried it out last week.",
+      "note": "Đại từ phải đứng giữa động từ và tiểu từ."
+     },
+     {
+      "wrong": "He came up an idea.",
+      "right": "He came up with an idea.",
+      "note": "come up with + N."
+     },
+     {
+      "wrong": "Let's look the problem into.",
+      "right": "Let's look into the problem.",
+      "note": "look into không tách được."
+     }
+    ],
+    "exercises": [
+     {
+      "q": "The team ___ an experiment to test the new drug.",
+      "options": [
+       "carried out",
+       "found out",
+       "gave up"
+      ],
+      "answer": "carried out",
+      "explain": "carry out an experiment = tiến hành thí nghiệm."
+     },
+     {
+      "q": "Scientists are trying to ___ how the virus spreads.",
+      "options": [
+       "find out",
+       "give up",
+       "break down"
+      ],
+      "answer": "find out",
+      "explain": "find out = tìm ra."
+     },
+     {
+      "q": "She ___ a new way to recycle plastic.",
+      "options": [
+       "came up with",
+       "looked into",
+       "turned out"
+      ],
+      "answer": "came up with",
+      "explain": "come up with = nghĩ ra."
+     },
+     {
+      "q": "The results ___ to be very surprising.",
+      "options": [
+       "turned out",
+       "carried out",
+       "set up"
+      ],
+      "answer": "turned out",
+      "explain": "turn out to be = hóa ra là."
+     },
+     {
+      "q": "Plastic takes hundreds of years to ___.",
+      "options": [
+       "break down",
+       "set up",
+       "point out"
+      ],
+      "answer": "break down",
+      "explain": "break down = phân hủy."
+     },
+     {
+      "q": "The police are ___ the case.",
+      "options": [
+       "looking into",
+       "looking up",
+       "coming up"
+      ],
+      "answer": "looking into",
+      "explain": "look into = điều tra."
+     },
+     {
+      "q": "Don't ___ – you're close to the answer!",
+      "options": [
+       "give up",
+       "carry out",
+       "turn out"
+      ],
+      "answer": "give up",
+      "explain": "give up = bỏ cuộc."
+     }
+    ],
+    "title": "Cụm động từ thông dụng (Phrasal Verbs)",
+    "summary": "Cụm động từ là động từ + giới từ / trạng từ, tạo ra nghĩa mới thường khó đoán từ từng từ riêng lẻ. Người bản xứ dùng chúng liên tục trong giao tiếp, nên nắm vững cụm động từ giúp bạn nói tự nhiên hơn hẳn."
+   },
+   "dialogue": {
+    "lines": [
+     {
+      "speaker": "A",
+      "name": "Dr. Hải",
+      "en": "I've analyzed the results of yesterday's experiment. You won't believe what I found out.",
+      "vi": "Tôi đã phân tích kết quả thí nghiệm hôm qua. Chị sẽ không tin điều tôi phát hiện ra đâu."
+     },
+     {
+      "speaker": "B",
+      "name": "Dr. Kim",
+      "en": "Tell me! Did our hypothesis turn out to be correct?",
+      "vi": "Kể đi! Giả thuyết của chúng ta có đúng không?"
+     },
+     {
+      "speaker": "A",
+      "name": "Dr. Hải",
+      "en": "Actually, no. But we observed something even more interesting. The bacteria broke down the plastic in just two weeks!",
+      "vi": "Thật ra là không. Nhưng chúng ta quan sát được điều còn thú vị hơn. Vi khuẩn đã phân hủy nhựa chỉ trong hai tuần!"
+     },
+     {
+      "speaker": "B",
+      "name": "Dr. Kim",
+      "en": "That's a huge discovery! We need to rule out any mistakes first.",
+      "vi": "Đó là một phát hiện lớn! Chúng ta cần loại trừ mọi sai sót trước đã."
+     },
+     {
+      "speaker": "A",
+      "name": "Dr. Hải",
+      "en": "Agreed. Let's carry out the experiment again with a new sample.",
+      "vi": "Đồng ý. Hãy tiến hành lại thí nghiệm với mẫu mới."
+     },
+     {
+      "speaker": "B",
+      "name": "Dr. Kim",
+      "en": "And if it works, we should set up a meeting with the director. This could change everything.",
+      "vi": "Và nếu thành công, chúng ta nên sắp xếp một cuộc họp với giám đốc. Điều này có thể thay đổi mọi thứ."
+     }
+    ],
+    "questions": [
+     {
+      "q": "What did the bacteria do?",
+      "options": [
+       "They died",
+       "They broke down the plastic",
+       "They grew very slowly"
+      ],
+      "answer": "They broke down the plastic"
+     },
+     {
+      "q": "What will they do first?",
+      "options": [
+       "publish the results",
+       "carry out the experiment again",
+       "meet the director"
+      ],
+      "answer": "carry out the experiment again"
+     }
+    ],
+    "title": "Phát hiện bất ngờ",
+    "setting": "Hai nhà nghiên cứu trẻ trong phòng thí nghiệm."
+   },
+   "reading": {
+    "questions": [
+     {
+      "q": "What did Fleming find on his experiment?",
+      "options": [
+       "a chocolate bar",
+       "mould",
+       "a microwave"
+      ],
+      "answer": "mould"
+     },
+     {
+      "q": "What do great discoveries require, according to the text?",
+      "options": [
+       "only luck",
+       "luck, curiosity and careful observation",
+       "a lot of money"
+      ],
+      "answer": "luck, curiosity and careful observation"
+     }
+    ],
+    "title": "Accidental discoveries",
+    "text": "Some of the most important scientific breakthroughs happened by accident. In 1928, Alexander Fleming returned from holiday to find that mould had grown on one of his experiments. Instead of throwing it away, he looked into it more closely and found out that the mould killed bacteria. This discovery led to penicillin, which has saved millions of lives. Similarly, the microwave oven was invented after an engineer noticed that a chocolate bar in his pocket had melted while he was working with radar. These stories show that great discoveries require not only luck, but also curiosity and careful observation.",
+    "vi": "Một số bước đột phá khoa học quan trọng nhất đã xảy ra một cách tình cờ. Năm 1928, Alexander Fleming trở về sau kỳ nghỉ và thấy nấm mốc đã mọc trên một trong những thí nghiệm của ông. Thay vì vứt đi, ông xem xét kỹ hơn và phát hiện ra rằng nấm mốc giết chết vi khuẩn. Phát hiện này dẫn đến penicillin, loại thuốc đã cứu hàng triệu sinh mạng. Tương tự, lò vi sóng được phát minh sau khi một kỹ sư nhận thấy thanh sô-cô-la trong túi mình bị chảy trong lúc làm việc với radar. Những câu chuyện này cho thấy những khám phá vĩ đại không chỉ cần may mắn mà còn cần sự tò mò và quan sát cẩn thận."
+   },
+   "title": "Khoa học & Khám phá",
+   "titleEn": "Science & Discovery",
+   "emoji": "🔬",
+   "goal": "Nói về nghiên cứu khoa học và dùng cụm động từ tự nhiên như người bản xứ."
+  }
+ ],
+ "id": "B2",
+ "name": "Trung cao cấp",
+ "nameEn": "Upper-Intermediate",
+ "color": "EF4444",
+ "emoji": "🌲",
+ "hours": "350–500 giờ",
+ "description": "Giao tiếp trôi chảy và tự nhiên với người bản xứ; thảo luận chủ đề trừu tượng, lập luận, phản biện và hiểu bài báo, phim ảnh phức tạp.",
+ "canDo": [
+  "Tranh luận, bảo vệ quan điểm với lập luận rõ ràng",
+  "Hiểu bài báo, podcast về chủ đề quen thuộc lẫn trừu tượng",
+  "Suy đoán, giả định về quá khứ và tương lai",
+  "Viết đoạn văn mạch lạc với từ nối đa dạng",
+  "Tương đương IELTS 5.5–6.5"
+ ]
+}

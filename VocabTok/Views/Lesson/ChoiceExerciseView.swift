@@ -1,40 +1,41 @@
 import SwiftUI
 
 struct ChoiceExerciseView: View {
-    let exercise: Exercise
+    let data: ChoiceData
     let state: AnswerState
     let selected: String?
     let onSelect: (String) -> Void
 
     @State private var shake: CGFloat = 0
+    @State private var showContext = false
 
     var body: some View {
-        VStack(spacing: 18) {
-            Text(exercise.kind.title)
-                .font(.system(size: 20, weight: .heavy, design: .rounded))
+        VStack(spacing: 16) {
+            Text(data.instruction)
+                .font(.rounded(20, .heavy))
                 .foregroundColor(Theme.textPrimary)
                 .frame(maxWidth: .infinity, alignment: .leading)
                 .padding(.top, 12)
 
-            prompt
-                .frame(maxWidth: .infinity)
-                .frame(minHeight: 170)
-                .card(padding: 20)
-                .modifier(ShakeEffect(animatableData: shake))
+            ScrollView(showsIndicators: false) {
+                prompt
+                    .frame(maxWidth: .infinity)
+                    .frame(minHeight: 150)
+                    .card(padding: 20)
+                    .modifier(ShakeEffect(animatableData: shake))
+                    .padding(.vertical, 4)
+            }
+            .frame(maxHeight: 330)
 
             Spacer(minLength: 0)
 
-            VStack(spacing: 12) {
-                ForEach(Array(exercise.options.enumerated()), id: \.offset) { index, option in
-                    OptionButton(
-                        number: index + 1,
-                        text: option,
-                        style: style(for: option)
-                    ) {
+            VStack(spacing: 10) {
+                ForEach(Array(data.options.enumerated()), id: \.offset) { index, option in
+                    OptionButton(number: index + 1, text: option, style: style(for: option)) {
                         guard state == .answering else { return }
                         Haptics.tap()
                         onSelect(option)
-                        if option.lowercased() != exercise.answer.lowercased() {
+                        if option != data.answer {
                             withAnimation(.linear(duration: 0.4)) { shake += 1 }
                         }
                     }
@@ -47,65 +48,90 @@ struct ChoiceExerciseView: View {
 
     @ViewBuilder
     private var prompt: some View {
-        let word = exercise.word
-        switch exercise.kind {
-        case .meaning:
+        switch data.prompt {
+        case .word(let word):
             VStack(spacing: 10) {
                 Text(word.word)
-                    .font(.system(size: 38, weight: .heavy, design: .rounded))
+                    .font(.rounded(38, .heavy))
                     .foregroundColor(Theme.textPrimary)
-                    .minimumScaleFactor(0.6)
+                    .minimumScaleFactor(0.5)
                     .lineLimit(1)
                 Text(word.ipa)
                     .font(.system(size: 17))
                     .foregroundColor(Theme.accent)
                 SpeakButton(text: word.word, size: 46)
             }
-        case .reverse:
+        case .meaning(let meaning, let pos):
             VStack(spacing: 10) {
                 Text("Từ nào có nghĩa là")
-                    .font(.system(size: 14, weight: .semibold, design: .rounded))
+                    .font(.rounded(14, .semibold))
                     .foregroundColor(Theme.textSecondary)
-                Text("“\(word.vi)”")
-                    .font(.system(size: 26, weight: .heavy, design: .rounded))
+                Text("“\(meaning)”")
+                    .font(.rounded(26, .heavy))
                     .foregroundColor(Theme.textPrimary)
                     .multilineTextAlignment(.center)
-                Text(word.posLabel)
-                    .font(.system(size: 12, weight: .bold, design: .rounded))
-                    .padding(.horizontal, 8)
-                    .padding(.vertical, 3)
-                    .background(Capsule().fill(Theme.cardRaised))
-                    .foregroundColor(Theme.textSecondary)
+                if let pos { Chip(text: pos, color: Theme.textSecondary) }
             }
-        case .listen:
+        case .audio(let text):
             VStack(spacing: 14) {
                 HStack(spacing: 20) {
-                    SpeakButton(text: word.word, size: 84)
-                    SpeakButton(text: word.word, slow: true, size: 58)
+                    SpeakButton(text: text, size: 84)
+                    SpeakButton(text: text, slow: true, size: 58)
                 }
                 Text("Chạm loa để nghe lại")
-                    .font(.system(size: 14, weight: .semibold, design: .rounded))
+                    .font(.rounded(14, .semibold))
                     .foregroundColor(Theme.textSecondary)
             }
-        case .fillBlank:
+        case .sentence(let sentence, let hint):
             VStack(spacing: 12) {
-                Text(word.blankedExample ?? word.ex)
-                    .font(.system(size: 22, weight: .bold, design: .rounded))
+                Text(sentence)
+                    .font(.rounded(22, .bold))
                     .foregroundColor(Theme.textPrimary)
                     .multilineTextAlignment(.center)
-                Text(word.exVi)
-                    .font(.system(size: 14, weight: .medium, design: .rounded))
-                    .foregroundColor(Theme.textSecondary)
-                    .multilineTextAlignment(.center)
+                    .fixedSize(horizontal: false, vertical: true)
+                if let hint {
+                    Text(hint)
+                        .font(.rounded(14, .medium))
+                        .foregroundColor(Theme.textSecondary)
+                        .multilineTextAlignment(.center)
+                }
+                if !sentence.contains("___") {
+                    SpeakButton(text: sentence, size: 42)
+                }
             }
-        default:
-            EmptyView()
+        case .question(let question, let context):
+            VStack(alignment: .leading, spacing: 12) {
+                if let context {
+                    VStack(alignment: .leading, spacing: 6) {
+                        Button {
+                            withAnimation(.easeInOut(duration: 0.25)) { showContext.toggle() }
+                        } label: {
+                            Label(showContext ? "Ẩn đoạn văn" : "Xem lại đoạn văn", systemImage: showContext ? "chevron.up" : "doc.text")
+                                .font(.rounded(13, .bold))
+                                .foregroundColor(Theme.accent)
+                        }
+                        if showContext {
+                            Text(context)
+                                .font(.rounded(14, .medium))
+                                .foregroundColor(Theme.textSecondary)
+                                .padding(12)
+                                .frame(maxWidth: .infinity, alignment: .leading)
+                                .background(RoundedRectangle(cornerRadius: 12, style: .continuous).fill(Theme.cardRaised))
+                        }
+                    }
+                }
+                Text(question)
+                    .font(.rounded(21, .bold))
+                    .foregroundColor(Theme.textPrimary)
+                    .fixedSize(horizontal: false, vertical: true)
+            }
+            .frame(maxWidth: .infinity, alignment: .leading)
         }
     }
 
     private func style(for option: String) -> OptionButton.Style {
         guard state != .answering else { return .idle }
-        if option.lowercased() == exercise.answer.lowercased() { return .correct }
+        if option == data.answer { return .correct }
         if option == selected { return .wrong }
         return .dimmed
     }
@@ -123,14 +149,15 @@ struct OptionButton: View {
         Button(action: action) {
             HStack(spacing: 12) {
                 Text("\(number)")
-                    .font(.system(size: 14, weight: .heavy, design: .rounded))
-                    .foregroundColor(badgeText)
+                    .font(.rounded(14, .heavy))
+                    .foregroundColor(style == .correct || style == .wrong ? .white : Theme.textSecondary)
                     .frame(width: 28, height: 28)
                     .background(RoundedRectangle(cornerRadius: 8, style: .continuous).fill(badgeFill))
                 Text(text)
-                    .font(.system(size: 17, weight: .semibold, design: .rounded))
+                    .font(.rounded(16, .semibold))
                     .foregroundColor(textColor)
                     .multilineTextAlignment(.leading)
+                    .fixedSize(horizontal: false, vertical: true)
                 Spacer(minLength: 0)
                 if style == .correct {
                     Image(systemName: "checkmark.circle.fill").foregroundColor(Theme.success)
@@ -139,16 +166,10 @@ struct OptionButton: View {
                 }
             }
             .padding(.horizontal, 14)
-            .padding(.vertical, 14)
-            .frame(maxWidth: .infinity, minHeight: 58)
-            .background(
-                RoundedRectangle(cornerRadius: 18, style: .continuous)
-                    .fill(fill)
-            )
-            .overlay(
-                RoundedRectangle(cornerRadius: 18, style: .continuous)
-                    .strokeBorder(border, lineWidth: 2)
-            )
+            .padding(.vertical, 13)
+            .frame(maxWidth: .infinity, minHeight: 56)
+            .background(RoundedRectangle(cornerRadius: 18, style: .continuous).fill(fill))
+            .overlay(RoundedRectangle(cornerRadius: 18, style: .continuous).strokeBorder(border, lineWidth: 2))
             .opacity(style == .dimmed ? 0.5 : 1)
             .scaleEffect(style == .correct ? 1.02 : 1)
             .animation(.spring(response: 0.3, dampingFraction: 0.6), value: style)
@@ -186,17 +207,5 @@ struct OptionButton: View {
         case .wrong: return Theme.danger
         default: return Theme.cardRaised
         }
-    }
-
-    private var badgeText: Color {
-        style == .correct || style == .wrong ? .white : Theme.textSecondary
-    }
-}
-
-struct ShakeEffect: GeometryEffect {
-    var animatableData: CGFloat
-
-    func effectValue(size: CGSize) -> ProjectionTransform {
-        ProjectionTransform(CGAffineTransform(translationX: 10 * sin(animatableData * .pi * 4), y: 0))
     }
 }

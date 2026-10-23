@@ -1,0 +1,88 @@
+{
+  "intro": "Bảng phiên âm quốc tế IPA gồm 44 âm: 20 nguyên âm và 24 phụ âm. Nắm vững IPA giúp bạn tự đọc đúng bất kỳ từ nào trong từ điển. Chạm vào từ ví dụ để nghe phát âm.",
+  "groups": [
+    {
+      "title": "Nguyên âm ngắn",
+      "subtitle": "7 âm – đọc nhanh, dứt khoát",
+      "sounds": [
+        {"symbol": "ɪ", "examples": ["sit", "big", "fish"], "tip": "Giống \"i\" nhưng ngắn và thả lỏng hơn. Đừng kéo dài thành /iː/: ship khác sheep."},
+        {"symbol": "e", "examples": ["bed", "red", "friend"], "tip": "Gần giống \"e\" trong tiếng Việt, miệng mở vừa."},
+        {"symbol": "æ", "examples": ["cat", "bad", "apple"], "tip": "Giữa \"a\" và \"e\": miệng mở rộng, hạ hàm dưới. Người Việt hay đọc nhầm thành \"e\"."},
+        {"symbol": "ʌ", "examples": ["cup", "love", "money"], "tip": "Gần giống \"â\" trong tiếng Việt, ngắn và dứt khoát."},
+        {"symbol": "ʊ", "examples": ["book", "good", "put"], "tip": "Giống \"u\" nhưng ngắn, môi hơi tròn và thả lỏng."},
+        {"symbol": "ɒ", "examples": ["hot", "dog", "stop"], "tip": "Anh-Anh: \"o\" ngắn, môi tròn. Anh-Mỹ thường đọc thành /ɑː/."},
+        {"symbol": "ə", "examples": ["about", "teacher", "banana"], "tip": "Âm schwa – âm phổ biến nhất tiếng Anh, đọc nhẹ như \"ơ\" ở âm tiết không nhấn."}
+      ]
+    },
+    {
+      "title": "Nguyên âm dài",
+      "subtitle": "5 âm – kéo dài hơn (ký hiệu ː)",
+      "sounds": [
+        {"symbol": "iː", "examples": ["see", "eat", "green"], "tip": "\"i\" kéo dài, miệng cười nhẹ sang hai bên."},
+        {"symbol": "ɑː", "examples": ["car", "father", "start"], "tip": "\"a\" kéo dài, miệng mở rộng."},
+        {"symbol": "ɔː", "examples": ["door", "walk", "four"], "tip": "\"o\" kéo dài, môi tròn."},
+        {"symbol": "uː", "examples": ["food", "blue", "school"], "tip": "\"u\" kéo dài, môi chu tròn."},
+        {"symbol": "ɜː", "examples": ["bird", "work", "learn"], "tip": "\"ơ\" kéo dài; Anh-Mỹ có thêm âm r cong lưỡi (/ɝː/)."}
+      ]
+    },
+    {
+      "title": "Nguyên âm đôi",
+      "subtitle": "8 âm – trượt từ âm này sang âm kia",
+      "sounds": [
+        {"symbol": "eɪ", "examples": ["day", "name", "great"], "tip": "Trượt từ \"e\" sang \"i\": giống \"ây\"."},
+        {"symbol": "aɪ", "examples": ["my", "time", "light"], "tip": "Trượt từ \"a\" sang \"i\": giống \"ai\"."},
+        {"symbol": "ɔɪ", "examples": ["boy", "coin", "enjoy"], "tip": "Trượt từ \"o\" sang \"i\": giống \"oi\"."},
+        {"symbol": "aʊ", "examples": ["now", "house", "mouth"], "tip": "Trượt từ \"a\" sang \"u\": giống \"ao\"."},
+        {"symbol": "əʊ", "examples": ["go", "home", "phone"], "tip": "Trượt từ \"ơ\" sang \"u\" (Anh-Mỹ: /oʊ/ giống \"âu\")."},
+        {"symbol": "ɪə", "examples": ["here", "near", "idea"], "tip": "Trượt từ \"i\" sang \"ơ\": giống \"ia\"."},
+        {"symbol": "eə", "examples": ["hair", "where", "care"], "tip": "Trượt từ \"e\" sang \"ơ\"."},
+        {"symbol": "ʊə", "examples": ["tour", "pure", "cure"], "tip": "Trượt từ \"u\" sang \"ơ\": giống \"ua\". Ngày nay nhiều người đọc thành /ɔː/."}
+      ]
+    },
+    {
+      "title": "Phụ âm theo cặp",
+      "subtitle": "8 cặp vô thanh / hữu thanh – cùng khẩu hình, khác rung dây thanh",
+      "sounds": [
+        {"symbol": "p", "examples": ["pen", "happy", "stop"], "tip": "Bật hơi mạnh ở đầu từ. Đặt tờ giấy trước miệng – giấy phải rung."},
+        {"symbol": "b", "examples": ["bag", "baby", "job"], "tip": "Giống \"b\" tiếng Việt, có rung dây thanh."},
+        {"symbol": "t", "examples": ["tea", "water", "cat"], "tip": "Bật hơi, đầu lưỡi chạm chân răng trên. Khác \"t\" tiếng Việt (không bật hơi)."},
+        {"symbol": "d", "examples": ["dog", "ladder", "bed"], "tip": "Như \"đ\" tiếng Việt nhưng đầu lưỡi chạm chân răng trên."},
+        {"symbol": "k", "examples": ["cat", "school", "book"], "tip": "Bật hơi mạnh như \"kh\" nhẹ ở đầu từ."},
+        {"symbol": "ɡ", "examples": ["go", "bigger", "dog"], "tip": "Giống \"g\" tiếng Việt."},
+        {"symbol": "f", "examples": ["fish", "coffee", "laugh"], "tip": "Răng trên chạm nhẹ môi dưới, thổi hơi."},
+        {"symbol": "v", "examples": ["very", "seven", "love"], "tip": "Như /f/ nhưng có rung. Người Việt hay quên âm /v/ cuối: love, five."},
+        {"symbol": "θ", "examples": ["think", "three", "bath"], "tip": "Đặt đầu lưỡi giữa hai hàm răng, thổi hơi. Không đọc thành \"th\" hay \"t\" tiếng Việt."},
+        {"symbol": "ð", "examples": ["this", "mother", "with"], "tip": "Như /θ/ nhưng có rung dây thanh. Không đọc thành \"d\" hay \"z\"."},
+        {"symbol": "s", "examples": ["sun", "city", "bus"], "tip": "Như \"x\" tiếng Việt. Nhớ đọc rõ âm /s/ cuối từ!"},
+        {"symbol": "z", "examples": ["zoo", "busy", "dogs"], "tip": "Như /s/ nhưng có rung, giống tiếng ong kêu \"zzz\"."},
+        {"symbol": "ʃ", "examples": ["she", "station", "fish"], "tip": "Môi chu ra, giống \"s\" nặng (suỵt). Khác /s/: she khác see."},
+        {"symbol": "ʒ", "examples": ["vision", "measure", "usually"], "tip": "Như /ʃ/ nhưng có rung."},
+        {"symbol": "tʃ", "examples": ["chair", "teacher", "watch"], "tip": "Giống \"ch\" nhưng môi chu ra và bật hơi."},
+        {"symbol": "dʒ", "examples": ["job", "orange", "bridge"], "tip": "Như /tʃ/ nhưng có rung, giống \"gi\" mạnh."}
+      ]
+    },
+    {
+      "title": "Phụ âm khác",
+      "subtitle": "8 âm mũi, âm lướt và âm bên",
+      "sounds": [
+        {"symbol": "m", "examples": ["man", "summer", "come"], "tip": "Giống \"m\" tiếng Việt, ngậm môi."},
+        {"symbol": "n", "examples": ["no", "dinner", "sun"], "tip": "Giống \"n\" tiếng Việt."},
+        {"symbol": "ŋ", "examples": ["sing", "finger", "long"], "tip": "Giống \"ng\" tiếng Việt. Không thêm âm /g/ ở cuối: sing không phải \"sing-gơ\"."},
+        {"symbol": "h", "examples": ["hat", "hello", "behind"], "tip": "Thở nhẹ ra. Lưu ý h câm trong hour, honest."},
+        {"symbol": "l", "examples": ["leg", "yellow", "feel"], "tip": "Đầu lưỡi chạm chân răng trên. Âm /l/ cuối từ (feel, school) phải đọc rõ, đừng bỏ."},
+        {"symbol": "r", "examples": ["red", "sorry", "car"], "tip": "Cong lưỡi về sau, không chạm vòm miệng, không rung lưỡi như tiếng Việt."},
+        {"symbol": "w", "examples": ["we", "window", "quick"], "tip": "Chu môi tròn rồi mở nhanh, giống \"qu\"."},
+        {"symbol": "j", "examples": ["yes", "you", "yellow"], "tip": "Giống \"d\" miền Nam hoặc \"y\" trong \"yêu\"."}
+      ]
+    }
+  ],
+  "rules": [
+    {"title": "Đừng nuốt âm cuối", "body": "Lỗi lớn nhất của người Việt là bỏ âm cuối: cat – cap – cab đều đọc giống nhau. Hãy luyện đọc rõ các âm /t/, /d/, /k/, /s/, /z/, /v/, /l/ ở cuối từ."},
+    {"title": "Cách đọc đuôi -s / -es", "body": "/s/ sau âm vô thanh p, t, k, f, θ (cats, books). /ɪz/ sau s, z, ʃ, tʃ, dʒ (buses, watches, pages). /z/ trong các trường hợp còn lại (dogs, plays, calls)."},
+    {"title": "Cách đọc đuôi -ed", "body": "/ɪd/ sau t, d (wanted, needed). /t/ sau âm vô thanh p, k, f, s, ʃ, tʃ (stopped, watched, laughed). /d/ trong các trường hợp còn lại (played, cleaned, opened)."},
+    {"title": "Trọng âm từ", "body": "Hầu hết danh từ và tính từ 2 âm tiết nhấn âm thứ nhất (TA-ble, HAP-py). Hầu hết động từ 2 âm tiết nhấn âm thứ hai (be-GIN, de-CIDE). Từ tận cùng -tion, -sion, -ic nhấn âm ngay trước (in-for-MA-tion, e-co-NO-mic)."},
+    {"title": "Âm schwa /ə/", "body": "Âm tiết không được nhấn thường đọc thành /ə/ rất nhẹ: banana /bəˈnæn.ə/, teacher /ˈtiː.tʃə/. Đọc nhẹ âm yếu giúp bạn nói tự nhiên như người bản xứ."},
+    {"title": "Nối âm", "body": "Phụ âm cuối nối với nguyên âm đầu của từ sau: an apple → /ə.næ.pəl/, turn off → /tɜː.nɒf/. Đây là lý do người bản xứ nói nghe như liền một hơi."},
+    {"title": "Ngữ điệu", "body": "Câu hỏi Yes/No thường lên giọng ở cuối (Are you OK? ↗). Câu hỏi Wh- và câu kể thường xuống giọng (Where do you live? ↘)."}
+  ]
+}

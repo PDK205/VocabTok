@@ -1,0 +1,3663 @@
+{
+ "units": [
+  {
+   "id": "a2-u1",
+   "words": [
+    {
+     "word": "yesterday",
+     "ipa": "/ˈjes.tɚ.deɪ/",
+     "pos": "adv",
+     "vi": "hôm qua",
+     "ex": "I was very busy yesterday.",
+     "exVi": "Hôm qua tôi rất bận.",
+     "tip": "the day before yesterday = hôm kia."
+    },
+    {
+     "word": "holiday",
+     "ipa": "/ˈhɑː.lə.deɪ/",
+     "pos": "noun",
+     "vi": "kỳ nghỉ, ngày lễ",
+     "ex": "We had a great holiday in Nha Trang.",
+     "exVi": "Chúng tôi đã có kỳ nghỉ tuyệt vời ở Nha Trang.",
+     "tip": "Anh-Mỹ hay dùng vacation."
+    },
+    {
+     "word": "beach",
+     "ipa": "/biːtʃ/",
+     "pos": "noun",
+     "vi": "bãi biển",
+     "ex": "The beach was clean and quiet.",
+     "exVi": "Bãi biển sạch sẽ và yên tĩnh."
+    },
+    {
+     "word": "trip",
+     "ipa": "/trɪp/",
+     "pos": "noun",
+     "vi": "chuyến đi",
+     "ex": "How was your trip to Hue?",
+     "exVi": "Chuyến đi Huế của bạn thế nào?",
+     "tip": "business trip = chuyến công tác."
+    },
+    {
+     "word": "hotel",
+     "ipa": "/hoʊˈtel/",
+     "pos": "noun",
+     "vi": "khách sạn",
+     "ex": "Our hotel was near the sea.",
+     "exVi": "Khách sạn của chúng tôi ở gần biển.",
+     "tip": "Trọng âm ở âm tiết thứ hai: ho-TEL."
+    },
+    {
+     "word": "ticket",
+     "ipa": "/ˈtɪk.ɪt/",
+     "pos": "noun",
+     "vi": "vé",
+     "ex": "The plane tickets were very cheap.",
+     "exVi": "Vé máy bay rất rẻ."
+    },
+    {
+     "word": "visit",
+     "ipa": "/ˈvɪz.ɪt/",
+     "pos": "verb",
+     "vi": "thăm, tham quan",
+     "ex": "We visited the old town.",
+     "exVi": "Chúng tôi đã tham quan phố cổ."
+    },
+    {
+     "word": "island",
+     "ipa": "/ˈaɪ.lənd/",
+     "pos": "noun",
+     "vi": "hòn đảo",
+     "ex": "Phu Quoc is a beautiful island.",
+     "exVi": "Phú Quốc là một hòn đảo xinh đẹp.",
+     "tip": "Chữ s câm: đọc \"ai-lừnd\"."
+    },
+    {
+     "word": "sunset",
+     "ipa": "/ˈsʌn.set/",
+     "pos": "noun",
+     "vi": "hoàng hôn",
+     "ex": "The sunset on the beach was amazing.",
+     "exVi": "Hoàng hôn trên biển thật tuyệt.",
+     "tip": "sunrise = bình minh."
+    },
+    {
+     "word": "relax",
+     "ipa": "/rɪˈlæks/",
+     "pos": "verb",
+     "vi": "thư giãn",
+     "ex": "On holiday, I just want to relax.",
+     "exVi": "Khi đi nghỉ, tôi chỉ muốn thư giãn."
+    },
+    {
+     "word": "souvenir",
+     "ipa": "/ˌsuː.vəˈnɪr/",
+     "pos": "noun",
+     "vi": "quà lưu niệm",
+     "ex": "I bought a souvenir for my mom.",
+     "exVi": "Tôi đã mua một món quà lưu niệm cho mẹ.",
+     "tip": "Gốc tiếng Pháp nghĩa là \"nhớ lại\"."
+    },
+    {
+     "word": "wonderful",
+     "ipa": "/ˈwʌn.dɚ.fəl/",
+     "pos": "adj",
+     "vi": "tuyệt vời",
+     "ex": "We had a wonderful time.",
+     "exVi": "Chúng tôi đã có khoảng thời gian tuyệt vời.",
+     "tip": "wonder (kỳ diệu) + ful."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "How was your holiday?",
+     "vi": "Kỳ nghỉ của bạn thế nào?"
+    },
+    {
+     "en": "It was amazing!",
+     "vi": "Tuyệt vời lắm!"
+    },
+    {
+     "en": "Where did you go?",
+     "vi": "Bạn đã đi đâu?"
+    },
+    {
+     "en": "We had a great time.",
+     "vi": "Chúng tôi đã rất vui."
+    },
+    {
+     "en": "The weather was perfect.",
+     "vi": "Thời tiết thật hoàn hảo."
+    }
+   ],
+   "grammar": {
+    "formulas": [
+     "I / He / She / It + was",
+     "You / We / They + were",
+     "Phủ định: wasn't (was not) / weren't (were not)",
+     "Câu hỏi: Was / Were + S + ...? → Yes, I was. / No, they weren't."
+    ],
+    "points": [
+     {
+      "title": "Dấu hiệu thời gian",
+      "body": "yesterday, last night / week / year, two days ago, in 2020, when I was a child."
+     },
+     {
+      "title": "There was / There were",
+      "body": "Quá khứ của there is / there are: There was a big storm. / There were many tourists."
+     },
+     {
+      "title": "Hỏi về kỳ nghỉ",
+      "body": "How was your holiday? – It was great! / Where were you last weekend? – I was in Da Lat."
+     }
+    ],
+    "examples": [
+     {
+      "en": "I was at the beach yesterday.",
+      "vi": "Hôm qua tôi ở bãi biển."
+     },
+     {
+      "en": "The hotel was clean and cheap.",
+      "vi": "Khách sạn sạch sẽ và rẻ."
+     },
+     {
+      "en": "We weren't at home last weekend.",
+      "vi": "Cuối tuần trước chúng tôi không ở nhà."
+     },
+     {
+      "en": "Was the weather nice? Yes, it was.",
+      "vi": "Thời tiết có đẹp không? Có."
+     }
+    ],
+    "mistakes": [
+     {
+      "wrong": "Yesterday I am very tired.",
+      "right": "Yesterday I was very tired.",
+      "note": "yesterday → dùng quá khứ."
+     },
+     {
+      "wrong": "They was happy.",
+      "right": "They were happy.",
+      "note": "They đi với were."
+     }
+    ],
+    "exercises": [
+     {
+      "q": "I ___ in Nha Trang last summer.",
+      "options": [
+       "was",
+       "were",
+       "am"
+      ],
+      "answer": "was",
+      "explain": "I → was; last summer → quá khứ."
+     },
+     {
+      "q": "My parents ___ at home yesterday.",
+      "options": [
+       "was",
+       "were",
+       "are"
+      ],
+      "answer": "were",
+      "explain": "My parents = they → were."
+     },
+     {
+      "q": "___ the hotel expensive?",
+      "options": [
+       "Was",
+       "Were",
+       "Did"
+      ],
+      "answer": "Was",
+      "explain": "the hotel số ít → Was."
+     },
+     {
+      "q": "There ___ many people on the beach.",
+      "options": [
+       "was",
+       "were",
+       "is"
+      ],
+      "answer": "were",
+      "explain": "many people số nhiều → were."
+     },
+     {
+      "q": "We ___ very tired last night.",
+      "options": [
+       "was",
+       "were",
+       "are"
+      ],
+      "answer": "were",
+      "explain": "We → were."
+     },
+     {
+      "q": "It ___ sunny yesterday. It was rainy.",
+      "options": [
+       "wasn't",
+       "weren't",
+       "isn't"
+      ],
+      "answer": "wasn't",
+      "explain": "It → wasn't."
+     },
+     {
+      "q": "How ___ your holiday? It was great!",
+      "options": [
+       "was",
+       "were",
+       "did"
+      ],
+      "answer": "was",
+      "explain": "your holiday số ít → was."
+     }
+    ],
+    "title": "Quá khứ của to be: was / were",
+    "summary": "Was / were là dạng quá khứ của am / is / are, dùng để nói về trạng thái, vị trí, cảm xúc trong quá khứ: I was tired yesterday."
+   },
+   "dialogue": {
+    "lines": [
+     {
+      "speaker": "A",
+      "name": "Mark",
+      "en": "Hi Ngoc! You look great. How was your holiday?",
+      "vi": "Chào Ngọc! Trông bạn tươi thế. Kỳ nghỉ của bạn thế nào?"
+     },
+     {
+      "speaker": "B",
+      "name": "Ngọc",
+      "en": "It was wonderful! I was in Phu Quoc for five days.",
+      "vi": "Tuyệt vời lắm! Mình ở Phú Quốc năm ngày."
+     },
+     {
+      "speaker": "A",
+      "name": "Mark",
+      "en": "Lucky you! Was the weather good?",
+      "vi": "Sướng thế! Thời tiết có đẹp không?"
+     },
+     {
+      "speaker": "B",
+      "name": "Ngọc",
+      "en": "Yes, it was sunny every day. The beaches were beautiful.",
+      "vi": "Có, ngày nào cũng nắng. Những bãi biển rất đẹp."
+     },
+     {
+      "speaker": "A",
+      "name": "Mark",
+      "en": "What about the hotel?",
+      "vi": "Còn khách sạn thì sao?"
+     },
+     {
+      "speaker": "B",
+      "name": "Ngọc",
+      "en": "It was small but very clean, and the staff were really friendly.",
+      "vi": "Nhỏ nhưng rất sạch sẽ, và nhân viên thật sự thân thiện."
+     },
+     {
+      "speaker": "A",
+      "name": "Mark",
+      "en": "Were there many tourists?",
+      "vi": "Có nhiều khách du lịch không?"
+     },
+     {
+      "speaker": "B",
+      "name": "Ngọc",
+      "en": "Not really. It was quiet and relaxing.",
+      "vi": "Không nhiều lắm. Yên tĩnh và thư thái."
+     }
+    ],
+    "questions": [
+     {
+      "q": "How long was Ngoc in Phu Quoc?",
+      "options": [
+       "three days",
+       "five days",
+       "a week"
+      ],
+      "answer": "five days"
+     },
+     {
+      "q": "What was the hotel like?",
+      "options": [
+       "big and expensive",
+       "small but very clean",
+       "old and dirty"
+      ],
+      "answer": "small but very clean"
+     }
+    ],
+    "title": "Kỳ nghỉ ở Phú Quốc",
+    "setting": "Hai đồng nghiệp nói chuyện vào sáng thứ Hai."
+   },
+   "reading": {
+    "questions": [
+     {
+      "q": "When did Mai's family arrive in Hoi An?",
+      "options": [
+       "yesterday",
+       "three days ago",
+       "last week"
+      ],
+      "answer": "three days ago"
+     },
+     {
+      "q": "Where were they yesterday morning?",
+      "options": [
+       "at the night market",
+       "at An Bang beach",
+       "in the old town"
+      ],
+      "answer": "at An Bang beach"
+     },
+     {
+      "q": "What did Mai buy for her grandma?",
+      "options": [
+       "a lantern",
+       "a souvenir",
+       "some noodles"
+      ],
+      "answer": "a souvenir"
+     }
+    ],
+    "title": "A postcard from Hoi An",
+    "text": "Dear Grandma, I'm writing to you from Hoi An! We arrived here three days ago. The old town is amazing. The streets are full of yellow houses and colourful lanterns. Yesterday was the best day. In the morning, we were at An Bang beach. The water was warm and clear. In the evening, we were at the night market and I bought a souvenir for you. The food here is delicious, especially cao lau noodles. See you soon! Love, Mai.",
+    "vi": "Bà yêu quý, cháu viết thư cho bà từ Hội An! Nhà mình đến đây ba ngày trước. Phố cổ thật tuyệt vời. Những con phố đầy nhà vàng và đèn lồng nhiều màu sắc. Hôm qua là ngày tuyệt nhất. Buổi sáng, cả nhà ở bãi biển An Bàng. Nước biển ấm và trong. Buổi tối, cả nhà ở chợ đêm và cháu đã mua một món quà lưu niệm cho bà. Đồ ăn ở đây rất ngon, đặc biệt là mì cao lầu. Hẹn sớm gặp bà! Thương bà, Mai."
+   },
+   "title": "Kỳ nghỉ vừa qua",
+   "titleEn": "Last Holiday",
+   "emoji": "🏖️",
+   "goal": "Kể về kỳ nghỉ và những nơi bạn đã ở trong quá khứ."
+  },
+  {
+   "id": "a2-u2",
+   "words": [
+    {
+     "word": "happen",
+     "ipa": "/ˈhæp.ən/",
+     "pos": "verb",
+     "vi": "xảy ra",
+     "ex": "What happened to your arm?",
+     "exVi": "Tay bạn bị sao vậy?",
+     "tip": "happen to sb = xảy ra với ai."
+    },
+    {
+     "word": "decide",
+     "ipa": "/dɪˈsaɪd/",
+     "pos": "verb",
+     "vi": "quyết định",
+     "ex": "We decided to stay at home.",
+     "exVi": "Chúng tôi quyết định ở nhà.",
+     "tip": "decide + to V."
+    },
+    {
+     "word": "arrive",
+     "ipa": "/əˈraɪv/",
+     "pos": "verb",
+     "vi": "đến nơi",
+     "ex": "We arrived in Hanoi at midnight.",
+     "exVi": "Chúng tôi đến Hà Nội lúc nửa đêm.",
+     "tip": "arrive in + thành phố; arrive at + địa điểm nhỏ."
+    },
+    {
+     "word": "leave",
+     "ipa": "/liːv/",
+     "pos": "verb",
+     "vi": "rời đi; để lại",
+     "ex": "She left the house at seven.",
+     "exVi": "Cô ấy rời nhà lúc bảy giờ.",
+     "tip": "Bất quy tắc: leave – left – left."
+    },
+    {
+     "word": "forget",
+     "ipa": "/fɚˈɡet/",
+     "pos": "verb",
+     "vi": "quên",
+     "ex": "I forgot my umbrella at school.",
+     "exVi": "Tôi để quên ô ở trường.",
+     "tip": "forget – forgot – forgotten."
+    },
+    {
+     "word": "remember",
+     "ipa": "/rɪˈmem.bɚ/",
+     "pos": "verb",
+     "vi": "nhớ",
+     "ex": "Do you remember his name?",
+     "exVi": "Bạn có nhớ tên anh ấy không?"
+    },
+    {
+     "word": "lose",
+     "ipa": "/luːz/",
+     "pos": "verb",
+     "vi": "làm mất; thua",
+     "ex": "I lost my wallet on the bus.",
+     "exVi": "Tôi làm mất ví trên xe buýt.",
+     "tip": "lose – lost – lost. Đừng nhầm loose (lỏng)."
+    },
+    {
+     "word": "find",
+     "ipa": "/faɪnd/",
+     "pos": "verb",
+     "vi": "tìm thấy",
+     "ex": "Did you find your keys?",
+     "exVi": "Bạn tìm thấy chìa khóa chưa?",
+     "tip": "find – found – found."
+    },
+    {
+     "word": "finally",
+     "ipa": "/ˈfaɪ.nəl.i/",
+     "pos": "adv",
+     "vi": "cuối cùng",
+     "ex": "Finally, we got home.",
+     "exVi": "Cuối cùng, chúng tôi cũng về đến nhà."
+    },
+    {
+     "word": "suddenly",
+     "ipa": "/ˈsʌd.ən.li/",
+     "pos": "adv",
+     "vi": "đột nhiên",
+     "ex": "Suddenly, the lights went out.",
+     "exVi": "Đột nhiên, đèn tắt phụt."
+    },
+    {
+     "word": "story",
+     "ipa": "/ˈstɔːr.i/",
+     "pos": "noun",
+     "vi": "câu chuyện",
+     "ex": "Tell me a funny story.",
+     "exVi": "Kể cho mình nghe một câu chuyện vui đi."
+    },
+    {
+     "word": "ago",
+     "ipa": "/əˈɡoʊ/",
+     "pos": "adv",
+     "vi": "cách đây",
+     "ex": "I met her two years ago.",
+     "exVi": "Tôi gặp cô ấy cách đây hai năm.",
+     "tip": "Luôn đứng sau khoảng thời gian: three days ago."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "What happened next?",
+     "vi": "Sau đó chuyện gì xảy ra?"
+    },
+    {
+     "en": "You won't believe what happened!",
+     "vi": "Bạn sẽ không tin chuyện gì đã xảy ra đâu!"
+    },
+    {
+     "en": "That's a funny story!",
+     "vi": "Chuyện đó buồn cười thật!"
+    },
+    {
+     "en": "In the end, everything was fine.",
+     "vi": "Cuối cùng thì mọi chuyện đều ổn."
+    },
+    {
+     "en": "What did you do then?",
+     "vi": "Lúc đó bạn đã làm gì?"
+    }
+   ],
+   "grammar": {
+    "formulas": [
+     "Khẳng định: S + V-ed / V2: I visited, she went",
+     "Phủ định: S + didn't + V nguyên mẫu: He didn't go.",
+     "Câu hỏi: Did + S + V nguyên mẫu? → Yes, I did. / No, I didn't.",
+     "Có từ để hỏi: Wh- + did + S + V?: Where did you go?"
+    ],
+    "points": [
+     {
+      "title": "Quy tắc thêm -ed",
+      "body": "Thường thêm -ed (walk → walked); tận cùng e chỉ thêm d (live → lived); phụ âm + y → ied (study → studied); nhân đôi phụ âm cuối (stop → stopped)."
+     },
+     {
+      "title": "Cách đọc đuôi -ed",
+      "body": "/t/ sau âm vô thanh p, k, f, s, ʃ, tʃ (stopped, watched); /ɪd/ sau t, d (wanted, needed); /d/ trong các trường hợp còn lại (played, cleaned)."
+     },
+     {
+      "title": "Động từ bất quy tắc thường gặp",
+      "body": "go → went, have → had, see → saw, buy → bought, eat → ate, leave → left, lose → lost, find → found, forget → forgot, take → took."
+     },
+     {
+      "title": "Có did thì động từ về nguyên mẫu",
+      "body": "Did you went? (sai) → Did you go? (đúng). She didn't came (sai) → She didn't come."
+     }
+    ],
+    "examples": [
+     {
+      "en": "I lost my keys yesterday.",
+      "vi": "Hôm qua tôi làm mất chìa khóa."
+     },
+     {
+      "en": "We arrived at the airport two hours ago.",
+      "vi": "Chúng tôi đến sân bay hai tiếng trước."
+     },
+     {
+      "en": "She didn't remember my name.",
+      "vi": "Cô ấy không nhớ tên tôi."
+     },
+     {
+      "en": "What did you do last weekend?",
+      "vi": "Cuối tuần trước bạn đã làm gì?"
+     }
+    ],
+    "mistakes": [
+     {
+      "wrong": "I goed to school.",
+      "right": "I went to school.",
+      "note": "go là động từ bất quy tắc."
+     },
+     {
+      "wrong": "He didn't came.",
+      "right": "He didn't come.",
+      "note": "Sau didn't dùng V nguyên mẫu."
+     },
+     {
+      "wrong": "Where you went?",
+      "right": "Where did you go?",
+      "note": "Câu hỏi cần trợ động từ did."
+     }
+    ],
+    "exercises": [
+     {
+      "q": "We ___ a great film last night.",
+      "options": [
+       "see",
+       "saw",
+       "seen"
+      ],
+      "answer": "saw",
+      "explain": "see – saw – seen; quá khứ đơn dùng V2."
+     },
+     {
+      "q": "She ___ her homework yesterday.",
+      "options": [
+       "finish",
+       "finished",
+       "finishs"
+      ],
+      "answer": "finished",
+      "explain": "Động từ có quy tắc thêm -ed."
+     },
+     {
+      "q": "I ___ my phone at the café.",
+      "options": [
+       "lose",
+       "losed",
+       "lost"
+      ],
+      "answer": "lost",
+      "explain": "lose – lost – lost."
+     },
+     {
+      "q": "___ you call your mother yesterday?",
+      "options": [
+       "Do",
+       "Did",
+       "Were"
+      ],
+      "answer": "Did",
+      "explain": "Câu hỏi quá khứ đơn dùng Did."
+     },
+     {
+      "q": "They didn't ___ the bus.",
+      "options": [
+       "catch",
+       "caught",
+       "catched"
+      ],
+      "answer": "catch",
+      "explain": "Sau didn't dùng V nguyên mẫu."
+     },
+     {
+      "q": "When ___ he arrive?",
+      "options": [
+       "did",
+       "was",
+       "does"
+      ],
+      "answer": "did",
+      "explain": "Wh- + did + S + V."
+     },
+     {
+      "q": "My grandfather ___ in a small village when he was young.",
+      "options": [
+       "lives",
+       "lived",
+       "living"
+      ],
+      "answer": "lived",
+      "explain": "when he was young → quá khứ."
+     }
+    ],
+    "title": "Thì quá khứ đơn (Past Simple)",
+    "summary": "Thì quá khứ đơn diễn tả hành động đã xảy ra và kết thúc tại một thời điểm xác định trong quá khứ. Động từ có quy tắc thêm -ed; động từ bất quy tắc phải học thuộc (xem bảng Động từ bất quy tắc trong mục Tài liệu)."
+   },
+   "dialogue": {
+    "lines": [
+     {
+      "speaker": "A",
+      "name": "Hùng",
+      "en": "You look tired. What happened?",
+      "vi": "Trông bạn mệt mỏi thế. Có chuyện gì vậy?"
+     },
+     {
+      "speaker": "B",
+      "name": "Emma",
+      "en": "Oh, yesterday was a terrible day! First, I forgot to set my alarm and woke up late.",
+      "vi": "Ôi, hôm qua là một ngày kinh khủng! Đầu tiên, mình quên đặt báo thức và dậy muộn."
+     },
+     {
+      "speaker": "A",
+      "name": "Hùng",
+      "en": "Oh no! Did you miss your bus?",
+      "vi": "Ôi không! Bạn có lỡ xe buýt không?"
+     },
+     {
+      "speaker": "B",
+      "name": "Emma",
+      "en": "Yes, I did. So I took a taxi, but I left my wallet in it!",
+      "vi": "Có. Nên mình bắt taxi, nhưng lại để quên ví trên đó!"
+     },
+     {
+      "speaker": "A",
+      "name": "Hùng",
+      "en": "That's awful! Did you find it?",
+      "vi": "Tệ quá! Bạn có tìm lại được không?"
+     },
+     {
+      "speaker": "B",
+      "name": "Emma",
+      "en": "Finally, yes. The driver called me in the evening and brought it back.",
+      "vi": "Cuối cùng thì có. Tài xế gọi cho mình vào buổi tối và mang trả lại."
+     },
+     {
+      "speaker": "A",
+      "name": "Hùng",
+      "en": "What a kind man!",
+      "vi": "Ông ấy tốt bụng thật!"
+     }
+    ],
+    "questions": [
+     {
+      "q": "Why did Emma wake up late?",
+      "options": [
+       "She was sick",
+       "She forgot to set her alarm",
+       "She went to bed late"
+      ],
+      "answer": "She forgot to set her alarm"
+     },
+     {
+      "q": "Where did Emma leave her wallet?",
+      "options": [
+       "on the bus",
+       "in the taxi",
+       "at home"
+      ],
+      "answer": "in the taxi"
+     }
+    ],
+    "title": "Một ngày xui xẻo",
+    "setting": "Hai người bạn gặp nhau ở quán cà phê."
+   },
+   "reading": {
+    "questions": [
+     {
+      "q": "Where did the boy find Milo?",
+      "options": [
+       "in the street",
+       "in the park",
+       "at school"
+      ],
+      "answer": "in the park"
+     },
+     {
+      "q": "When did the boy bring Milo back?",
+      "options": [
+       "the same day",
+       "two days later",
+       "a week later"
+      ],
+      "answer": "two days later"
+     },
+     {
+      "q": "How did Mrs. Lan thank the boy?",
+      "options": [
+       "She gave him money",
+       "She gave him a box of cakes",
+       "She gave him a dog"
+      ],
+      "answer": "She gave him a box of cakes"
+     }
+    ],
+    "title": "The lost dog",
+    "text": "Last Saturday, something strange happened in my neighbourhood. In the morning, my neighbour, Mrs. Lan, opened her gate and her little dog, Milo, ran away. She looked everywhere, but she couldn't find him. She put photos of Milo on every street. Two days later, a boy from the next street knocked on her door. Milo was in his arms! The boy found him in the park. Mrs. Lan was so happy that she cried. She gave the boy a big box of cakes to say thank you.",
+    "vi": "Thứ Bảy tuần trước, một chuyện lạ đã xảy ra ở khu phố tôi. Buổi sáng, bà Lan hàng xóm mở cổng và chú chó nhỏ Milo của bà chạy mất. Bà tìm khắp nơi nhưng không thấy. Bà dán ảnh Milo trên mọi con phố. Hai ngày sau, một cậu bé ở phố bên cạnh gõ cửa nhà bà. Milo đang nằm trong vòng tay cậu! Cậu bé đã tìm thấy nó trong công viên. Bà Lan vui đến mức bật khóc. Bà tặng cậu bé một hộp bánh lớn để cảm ơn."
+   },
+   "title": "Chuyện đã xảy ra",
+   "titleEn": "What Happened?",
+   "emoji": "📖",
+   "goal": "Kể lại một câu chuyện, sự việc trong quá khứ theo trình tự."
+  },
+  {
+   "id": "a2-u3",
+   "words": [
+    {
+     "word": "headache",
+     "ipa": "/ˈhed.eɪk/",
+     "pos": "noun",
+     "vi": "đau đầu",
+     "ex": "I have a terrible headache.",
+     "exVi": "Tôi bị đau đầu kinh khủng.",
+     "tip": "head + ache (cơn đau). Tương tự: toothache, stomachache."
+    },
+    {
+     "word": "fever",
+     "ipa": "/ˈfiː.vɚ/",
+     "pos": "noun",
+     "vi": "sốt",
+     "ex": "The child has a high fever.",
+     "exVi": "Đứa trẻ bị sốt cao."
+    },
+    {
+     "word": "cough",
+     "ipa": "/kɑːf/",
+     "pos": "noun",
+     "vi": "ho",
+     "ex": "My cough is getting worse.",
+     "exVi": "Cơn ho của tôi ngày càng nặng.",
+     "tip": "gh đọc là /f/."
+    },
+    {
+     "word": "medicine",
+     "ipa": "/ˈmed.ɪ.sən/",
+     "pos": "noun",
+     "vi": "thuốc",
+     "ex": "Take this medicine three times a day.",
+     "exVi": "Uống thuốc này ba lần một ngày.",
+     "tip": "take medicine = uống thuốc."
+    },
+    {
+     "word": "doctor",
+     "ipa": "/ˈdɑːk.tɚ/",
+     "pos": "noun",
+     "vi": "bác sĩ",
+     "ex": "You should see a doctor.",
+     "exVi": "Bạn nên đi khám bác sĩ."
+    },
+    {
+     "word": "pain",
+     "ipa": "/peɪn/",
+     "pos": "noun",
+     "vi": "cơn đau",
+     "ex": "I have a pain in my back.",
+     "exVi": "Tôi bị đau lưng.",
+     "tip": "painful = đau đớn."
+    },
+    {
+     "word": "sick",
+     "ipa": "/sɪk/",
+     "pos": "adj",
+     "vi": "ốm, bệnh",
+     "ex": "She is sick today, so she's at home.",
+     "exVi": "Hôm nay cô ấy ốm nên ở nhà."
+    },
+    {
+     "word": "healthy",
+     "ipa": "/ˈhel.θi/",
+     "pos": "adj",
+     "vi": "khỏe mạnh; lành mạnh",
+     "ex": "Fruit is good for a healthy body.",
+     "exVi": "Trái cây tốt cho một cơ thể khỏe mạnh.",
+     "tip": "health (sức khỏe) + y."
+    },
+    {
+     "word": "rest",
+     "ipa": "/rest/",
+     "pos": "verb",
+     "vi": "nghỉ ngơi",
+     "ex": "You need to rest for a few days.",
+     "exVi": "Bạn cần nghỉ ngơi vài ngày."
+    },
+    {
+     "word": "stomach",
+     "ipa": "/ˈstʌm.ək/",
+     "pos": "noun",
+     "vi": "dạ dày, bụng",
+     "ex": "My stomach hurts after lunch.",
+     "exVi": "Bụng tôi đau sau bữa trưa.",
+     "tip": "ch đọc là /k/."
+    },
+    {
+     "word": "throat",
+     "ipa": "/θroʊt/",
+     "pos": "noun",
+     "vi": "cổ họng",
+     "ex": "I have a sore throat.",
+     "exVi": "Tôi bị đau họng.",
+     "tip": "sore throat = đau họng."
+    },
+    {
+     "word": "exercise",
+     "ipa": "/ˈek.sɚ.saɪz/",
+     "pos": "verb",
+     "vi": "tập thể dục",
+     "ex": "I exercise three times a week.",
+     "exVi": "Tôi tập thể dục ba lần một tuần."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "What's the matter?",
+     "vi": "Bạn bị sao vậy?"
+    },
+    {
+     "en": "I don't feel well.",
+     "vi": "Tôi thấy không khỏe."
+    },
+    {
+     "en": "I have a sore throat.",
+     "vi": "Tôi bị đau họng."
+    },
+    {
+     "en": "Get well soon!",
+     "vi": "Chóng khỏe nhé!"
+    },
+    {
+     "en": "You should stay in bed.",
+     "vi": "Bạn nên nằm nghỉ trên giường."
+    },
+    {
+     "en": "Take care of yourself.",
+     "vi": "Giữ gìn sức khỏe nhé."
+    }
+   ],
+   "grammar": {
+    "formulas": [
+     "S + should + V nguyên mẫu: You should rest.",
+     "S + shouldn't + V nguyên mẫu: You shouldn't smoke.",
+     "Câu hỏi: Should + S + V?: Should I see a doctor?",
+     "Xin lời khuyên: What should I do?"
+    ],
+    "points": [
+     {
+      "title": "Khuyên nhẹ nhàng",
+      "body": "I think you should... / Maybe you should... / I don't think you should... giúp câu khuyên mềm mỏng, lịch sự hơn."
+     },
+     {
+      "title": "Không thêm to sau should",
+      "body": "You should to go (sai) → You should go (đúng). Khác với ought to (cũng nghĩa là nên) phải có to."
+     },
+     {
+      "title": "Các cách khuyên khác",
+      "body": "Why don't you + V? (Sao bạn không...?) / If I were you, I'd + V (Nếu tôi là bạn, tôi sẽ...)."
+     }
+    ],
+    "examples": [
+     {
+      "en": "You should drink more water.",
+      "vi": "Bạn nên uống nhiều nước hơn."
+     },
+     {
+      "en": "You shouldn't eat too much sugar.",
+      "vi": "Bạn không nên ăn quá nhiều đường."
+     },
+     {
+      "en": "Should I take this medicine before meals?",
+      "vi": "Tôi có nên uống thuốc này trước bữa ăn không?"
+     },
+     {
+      "en": "I think you should go to bed early.",
+      "vi": "Tôi nghĩ bạn nên đi ngủ sớm."
+     }
+    ],
+    "mistakes": [
+     {
+      "wrong": "You should to rest.",
+      "right": "You should rest.",
+      "note": "Sau should không có to."
+     },
+     {
+      "wrong": "She shoulds see a doctor.",
+      "right": "She should see a doctor.",
+      "note": "should không chia theo chủ ngữ."
+     }
+    ],
+    "exercises": [
+     {
+      "q": "You have a fever. You ___ stay at home.",
+      "options": [
+       "should",
+       "shouldn't",
+       "can't"
+      ],
+      "answer": "should",
+      "explain": "Bị sốt → nên ở nhà."
+     },
+     {
+      "q": "You ___ drink coffee before bed.",
+      "options": [
+       "should",
+       "shouldn't",
+       "must"
+      ],
+      "answer": "shouldn't",
+      "explain": "Cà phê trước khi ngủ → không nên."
+     },
+     {
+      "q": "He should ___ more vegetables.",
+      "options": [
+       "eat",
+       "eats",
+       "to eat"
+      ],
+      "answer": "eat",
+      "explain": "Sau should dùng V nguyên mẫu."
+     },
+     {
+      "q": "___ I call a doctor?",
+      "options": [
+       "Do",
+       "Should",
+       "Am"
+      ],
+      "answer": "Should",
+      "explain": "Xin lời khuyên: Should I...?"
+     },
+     {
+      "q": "My throat hurts. What ___ I do?",
+      "options": [
+       "should",
+       "do",
+       "am"
+      ],
+      "answer": "should",
+      "explain": "What should I do?"
+     },
+     {
+      "q": "Why don't you ___ some rest?",
+      "options": [
+       "take",
+       "taking",
+       "to take"
+      ],
+      "answer": "take",
+      "explain": "Why don't you + V nguyên mẫu."
+     },
+     {
+      "q": "You shouldn't ___ so many sweets.",
+      "options": [
+       "eat",
+       "eating",
+       "ate"
+      ],
+      "answer": "eat",
+      "explain": "Sau shouldn't dùng V nguyên mẫu."
+     }
+    ],
+    "title": "Should / Shouldn't (lời khuyên)",
+    "summary": "Should dùng để đưa ra lời khuyên hoặc nói điều nên làm; shouldn't là điều không nên làm. Giống can, should không chia theo chủ ngữ và luôn đi với động từ nguyên mẫu."
+   },
+   "dialogue": {
+    "lines": [
+     {
+      "speaker": "A",
+      "name": "Doctor",
+      "en": "Good morning. What's the matter?",
+      "vi": "Chào buổi sáng. Anh bị sao vậy?"
+     },
+     {
+      "speaker": "B",
+      "name": "Phong",
+      "en": "I have a headache and a sore throat. I also have a fever.",
+      "vi": "Tôi bị đau đầu và đau họng. Tôi cũng bị sốt."
+     },
+     {
+      "speaker": "A",
+      "name": "Doctor",
+      "en": "When did it start?",
+      "vi": "Bắt đầu từ khi nào?"
+     },
+     {
+      "speaker": "B",
+      "name": "Phong",
+      "en": "Two days ago.",
+      "vi": "Hai ngày trước."
+     },
+     {
+      "speaker": "A",
+      "name": "Doctor",
+      "en": "Let me check... I think you have the flu. You should stay in bed and drink lots of water.",
+      "vi": "Để tôi khám... Tôi nghĩ anh bị cúm. Anh nên nằm nghỉ và uống thật nhiều nước."
+     },
+     {
+      "speaker": "B",
+      "name": "Phong",
+      "en": "Should I take any medicine?",
+      "vi": "Tôi có nên uống thuốc gì không?"
+     },
+     {
+      "speaker": "A",
+      "name": "Doctor",
+      "en": "Yes, take this medicine twice a day after meals. And you shouldn't go to work this week.",
+      "vi": "Có, uống thuốc này hai lần một ngày sau bữa ăn. Và tuần này anh không nên đi làm."
+     },
+     {
+      "speaker": "B",
+      "name": "Phong",
+      "en": "Thank you, doctor.",
+      "vi": "Cảm ơn bác sĩ."
+     }
+    ],
+    "questions": [
+     {
+      "q": "What's wrong with Phong?",
+      "options": [
+       "He has the flu",
+       "He broke his leg",
+       "He has a toothache"
+      ],
+      "answer": "He has the flu"
+     },
+     {
+      "q": "How often should he take the medicine?",
+      "options": [
+       "once a day",
+       "twice a day",
+       "three times a day"
+      ],
+      "answer": "twice a day"
+     }
+    ],
+    "title": "Ở phòng khám",
+    "setting": "Phong đến gặp bác sĩ vì bị ốm."
+   },
+   "reading": {
+    "questions": [
+     {
+      "q": "How much water should you drink a day?",
+      "options": [
+       "one litre",
+       "at least two litres",
+       "five litres"
+      ],
+      "answer": "at least two litres"
+     },
+     {
+      "q": "How long should you exercise every day?",
+      "options": [
+       "ten minutes",
+       "thirty minutes",
+       "two hours"
+      ],
+      "answer": "thirty minutes"
+     },
+     {
+      "q": "Which activity is \"a great start\"?",
+      "options": [
+       "swimming",
+       "walking",
+       "running"
+      ],
+      "answer": "walking"
+     }
+    ],
+    "title": "Five habits for a healthy life",
+    "text": "Do you want to be healthy and full of energy? Here are five simple tips. First, you should sleep seven to eight hours every night. Second, you should drink at least two litres of water a day. Third, eat a lot of fruit and vegetables, and you shouldn't eat too much fast food. Fourth, exercise for thirty minutes every day. Walking is a great start! Finally, don't forget to relax. Spend time with friends and turn off your phone sometimes.",
+    "vi": "Bạn muốn khỏe mạnh và tràn đầy năng lượng? Đây là năm lời khuyên đơn giản. Thứ nhất, bạn nên ngủ bảy đến tám tiếng mỗi đêm. Thứ hai, bạn nên uống ít nhất hai lít nước mỗi ngày. Thứ ba, hãy ăn nhiều trái cây và rau, và không nên ăn quá nhiều đồ ăn nhanh. Thứ tư, tập thể dục ba mươi phút mỗi ngày. Đi bộ là một khởi đầu tuyệt vời! Cuối cùng, đừng quên thư giãn. Dành thời gian cho bạn bè và thỉnh thoảng tắt điện thoại đi."
+   },
+   "title": "Sức khỏe",
+   "titleEn": "Health",
+   "emoji": "🩺",
+   "goal": "Mô tả triệu chứng, đi khám bệnh và đưa ra lời khuyên."
+  },
+  {
+   "id": "a2-u4",
+   "words": [
+    {
+     "word": "airport",
+     "ipa": "/ˈer.pɔːrt/",
+     "pos": "noun",
+     "vi": "sân bay",
+     "ex": "We need to be at the airport by six.",
+     "exVi": "Chúng ta cần có mặt ở sân bay trước sáu giờ.",
+     "tip": "air (không khí) + port (cảng)."
+    },
+    {
+     "word": "passport",
+     "ipa": "/ˈpæs.pɔːrt/",
+     "pos": "noun",
+     "vi": "hộ chiếu",
+     "ex": "Don't forget your passport!",
+     "exVi": "Đừng quên hộ chiếu nhé!",
+     "tip": "pass (đi qua) + port (cảng)."
+    },
+    {
+     "word": "luggage",
+     "ipa": "/ˈlʌɡ.ɪdʒ/",
+     "pos": "noun",
+     "vi": "hành lý",
+     "ex": "My luggage is too heavy.",
+     "exVi": "Hành lý của tôi nặng quá.",
+     "tip": "Không đếm được: a piece of luggage."
+    },
+    {
+     "word": "flight",
+     "ipa": "/flaɪt/",
+     "pos": "noun",
+     "vi": "chuyến bay",
+     "ex": "Our flight leaves at 9 a.m.",
+     "exVi": "Chuyến bay của chúng tôi cất cánh lúc 9 giờ sáng.",
+     "tip": "fly (bay) → flight."
+    },
+    {
+     "word": "train",
+     "ipa": "/treɪn/",
+     "pos": "noun",
+     "vi": "tàu hỏa",
+     "ex": "We're going to take the night train to Sapa.",
+     "exVi": "Chúng tôi sẽ đi tàu đêm lên Sa Pa."
+    },
+    {
+     "word": "tourist",
+     "ipa": "/ˈtʊr.ɪst/",
+     "pos": "noun",
+     "vi": "khách du lịch",
+     "ex": "Hoi An is full of tourists in summer.",
+     "exVi": "Hội An đông khách du lịch vào mùa hè.",
+     "tip": "tour + ist."
+    },
+    {
+     "word": "journey",
+     "ipa": "/ˈdʒɝː.ni/",
+     "pos": "noun",
+     "vi": "chuyến đi, hành trình",
+     "ex": "The journey takes six hours.",
+     "exVi": "Chuyến đi mất sáu tiếng.",
+     "tip": "journey thường dài hơn trip."
+    },
+    {
+     "word": "map",
+     "ipa": "/mæp/",
+     "pos": "noun",
+     "vi": "bản đồ",
+     "ex": "Let's check the map on my phone.",
+     "exVi": "Xem bản đồ trên điện thoại của mình đi."
+    },
+    {
+     "word": "book",
+     "ipa": "/bʊk/",
+     "pos": "verb",
+     "vi": "đặt (vé, phòng)",
+     "ex": "I'm going to book a hotel online.",
+     "exVi": "Tôi sẽ đặt khách sạn trên mạng.",
+     "tip": "booking = sự đặt chỗ."
+    },
+    {
+     "word": "pack",
+     "ipa": "/pæk/",
+     "pos": "verb",
+     "vi": "đóng gói, xếp đồ",
+     "ex": "Did you pack your bag?",
+     "exVi": "Bạn xếp đồ vào túi chưa?",
+     "tip": "unpack = dỡ đồ."
+    },
+    {
+     "word": "guide",
+     "ipa": "/ɡaɪd/",
+     "pos": "noun",
+     "vi": "hướng dẫn viên",
+     "ex": "Our guide speaks very good English.",
+     "exVi": "Hướng dẫn viên của chúng tôi nói tiếng Anh rất giỏi.",
+     "tip": "u câm: đọc \"gai-đ\"."
+    },
+    {
+     "word": "abroad",
+     "ipa": "/əˈbrɑːd/",
+     "pos": "adv",
+     "vi": "ở / ra nước ngoài",
+     "ex": "She wants to study abroad.",
+     "exVi": "Cô ấy muốn đi du học.",
+     "tip": "Không nói go to abroad, chỉ nói go abroad."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "I'd like a return ticket to Da Nang, please.",
+     "vi": "Cho tôi một vé khứ hồi đi Đà Nẵng."
+    },
+    {
+     "en": "What time does the flight leave?",
+     "vi": "Mấy giờ chuyến bay cất cánh?"
+    },
+    {
+     "en": "Where is the check-in counter?",
+     "vi": "Quầy làm thủ tục ở đâu?"
+    },
+    {
+     "en": "Have a safe trip!",
+     "vi": "Thượng lộ bình an nhé!"
+    },
+    {
+     "en": "I'm going to stay for a week.",
+     "vi": "Tôi sẽ ở lại một tuần."
+    }
+   ],
+   "grammar": {
+    "formulas": [
+     "S + am / is / are + going to + V: I'm going to visit Hue.",
+     "Phủ định: S + am / is / are + not + going to + V",
+     "Câu hỏi: Am / Is / Are + S + going to + V?"
+    ],
+    "points": [
+     {
+      "title": "Dự định đã có kế hoạch",
+      "body": "We're going to fly to Bangkok next month. (Đã quyết định, có thể đã mua vé.)"
+     },
+     {
+      "title": "Dự đoán có căn cứ",
+      "body": "Look at those dark clouds! It's going to rain. (Thấy mây đen → đoán trời sắp mưa.)"
+     },
+     {
+      "title": "Văn nói: gonna",
+      "body": "Trong văn nói thân mật, người bản xứ hay đọc going to thành \"gonna\": I'm gonna travel. Không viết gonna trong bài thi."
+     }
+    ],
+    "examples": [
+     {
+      "en": "I'm going to book a hotel tonight.",
+      "vi": "Tối nay tôi sẽ đặt khách sạn."
+     },
+     {
+      "en": "She isn't going to travel this summer.",
+      "vi": "Mùa hè này cô ấy sẽ không đi du lịch."
+     },
+     {
+      "en": "Are you going to take the train?",
+      "vi": "Bạn sẽ đi tàu à?"
+     },
+     {
+      "en": "Be careful! You're going to fall!",
+      "vi": "Cẩn thận! Bạn sắp ngã đấy!"
+     }
+    ],
+    "mistakes": [
+     {
+      "wrong": "I going to visit Hue.",
+      "right": "I'm going to visit Hue.",
+      "note": "Thiếu to be."
+     },
+     {
+      "wrong": "She is going to visits Paris.",
+      "right": "She is going to visit Paris.",
+      "note": "Sau going to dùng V nguyên mẫu."
+     }
+    ],
+    "exercises": [
+     {
+      "q": "We ___ going to visit Japan next year.",
+      "options": [
+       "is",
+       "are",
+       "am"
+      ],
+      "answer": "are",
+      "explain": "We → are."
+     },
+     {
+      "q": "She is going ___ a new suitcase.",
+      "options": [
+       "buy",
+       "to buy",
+       "buying"
+      ],
+      "answer": "to buy",
+      "explain": "be going to + V."
+     },
+     {
+      "q": "Look at the sky! It ___ rain.",
+      "options": [
+       "is going to",
+       "going to",
+       "goes to"
+      ],
+      "answer": "is going to",
+      "explain": "Dự đoán có căn cứ."
+     },
+     {
+      "q": "___ you going to book the tickets?",
+      "options": [
+       "Do",
+       "Are",
+       "Will"
+      ],
+      "answer": "Are",
+      "explain": "Câu hỏi: Are you going to...?"
+     },
+     {
+      "q": "I'm not going to ___ abroad this year.",
+      "options": [
+       "travel",
+       "travelling",
+       "travels"
+      ],
+      "answer": "travel",
+      "explain": "going to + V nguyên mẫu."
+     },
+     {
+      "q": "They ___ going to stay at a hotel. They're going to camp.",
+      "options": [
+       "aren't",
+       "isn't",
+       "don't"
+      ],
+      "answer": "aren't",
+      "explain": "They → aren't."
+     },
+     {
+      "q": "What ___ you going to do this weekend?",
+      "options": [
+       "are",
+       "do",
+       "is"
+      ],
+      "answer": "are",
+      "explain": "What are you going to do?"
+     }
+    ],
+    "title": "Be going to (dự định & dự đoán)",
+    "summary": "Be going to + V dùng để nói về kế hoạch, dự định đã quyết định trước khi nói, hoặc dự đoán dựa trên dấu hiệu nhìn thấy ở hiện tại."
+   },
+   "dialogue": {
+    "lines": [
+     {
+      "speaker": "A",
+      "name": "Linh",
+      "en": "Guess what? I'm going to travel to Da Lat next week!",
+      "vi": "Đoán xem? Tuần sau mình sẽ đi Đà Lạt!"
+     },
+     {
+      "speaker": "B",
+      "name": "Sam",
+      "en": "Really? How are you going to get there?",
+      "vi": "Thật à? Bạn sẽ đi bằng gì?"
+     },
+     {
+      "speaker": "A",
+      "name": "Linh",
+      "en": "I'm going to take the night bus. It's cheaper than flying.",
+      "vi": "Mình sẽ đi xe khách đêm. Rẻ hơn đi máy bay."
+     },
+     {
+      "speaker": "B",
+      "name": "Sam",
+      "en": "Good idea. Where are you going to stay?",
+      "vi": "Ý hay đấy. Bạn sẽ ở đâu?"
+     },
+     {
+      "speaker": "A",
+      "name": "Linh",
+      "en": "I booked a small homestay near the lake.",
+      "vi": "Mình đã đặt một homestay nhỏ gần hồ."
+     },
+     {
+      "speaker": "B",
+      "name": "Sam",
+      "en": "Are you going to visit the flower gardens?",
+      "vi": "Bạn có định đi thăm các vườn hoa không?"
+     },
+     {
+      "speaker": "A",
+      "name": "Linh",
+      "en": "Of course! And I'm going to try lots of street food.",
+      "vi": "Tất nhiên! Và mình sẽ thử thật nhiều đồ ăn đường phố."
+     },
+     {
+      "speaker": "B",
+      "name": "Sam",
+      "en": "Don't forget to pack a warm jacket. It's cold at night there.",
+      "vi": "Đừng quên mang áo ấm. Ở đó ban đêm lạnh đấy."
+     }
+    ],
+    "questions": [
+     {
+      "q": "How is Linh going to travel to Da Lat?",
+      "options": [
+       "by plane",
+       "by night bus",
+       "by train"
+      ],
+      "answer": "by night bus"
+     },
+     {
+      "q": "Why should Linh pack a warm jacket?",
+      "options": [
+       "It's cold at night",
+       "It's going to snow",
+       "The bus is cold"
+      ],
+      "answer": "It's cold at night"
+     }
+    ],
+    "title": "Lên kế hoạch đi Đà Lạt",
+    "setting": "Hai bạn thân bàn về chuyến đi sắp tới."
+   },
+   "reading": {
+    "questions": [
+     {
+      "q": "Why should you book early?",
+      "options": [
+       "Hotels close early",
+       "Prices go up quickly",
+       "Flights are full of tourists"
+      ],
+      "answer": "Prices go up quickly"
+     },
+     {
+      "q": "Where should you keep a copy of your documents?",
+      "options": [
+       "in your suitcase",
+       "in your email",
+       "at the hotel"
+      ],
+      "answer": "in your email"
+     }
+    ],
+    "title": "Tips for your first trip abroad",
+    "text": "Are you going to travel abroad for the first time? Here is some advice. Before your journey, check that your passport is valid for at least six months. Book your flight and hotel early because prices go up quickly. Don't pack too much: a small suitcase is easier to carry. Download a map of the city and learn a few useful phrases like \"Thank you\" and \"How much is it?\". Finally, keep a copy of your important documents in your email. Have a great trip!",
+    "vi": "Bạn sắp đi nước ngoài lần đầu? Đây là vài lời khuyên. Trước chuyến đi, hãy kiểm tra hộ chiếu còn hạn ít nhất sáu tháng. Đặt vé máy bay và khách sạn sớm vì giá tăng nhanh. Đừng mang quá nhiều đồ: một chiếc vali nhỏ dễ mang hơn. Tải bản đồ thành phố và học vài câu hữu ích như \"Cảm ơn\" và \"Bao nhiêu tiền?\". Cuối cùng, hãy lưu bản sao các giấy tờ quan trọng trong email. Chúc bạn chuyến đi vui vẻ!"
+   },
+   "title": "Kế hoạch du lịch",
+   "titleEn": "Travel Plans",
+   "emoji": "✈️",
+   "goal": "Nói về kế hoạch du lịch, đặt vé và chuẩn bị hành lý."
+  },
+  {
+   "id": "a2-u5",
+   "words": [
+    {
+     "word": "crowded",
+     "ipa": "/ˈkraʊ.dɪd/",
+     "pos": "adj",
+     "vi": "đông đúc",
+     "ex": "The bus is always crowded in the morning.",
+     "exVi": "Xe buýt lúc nào cũng đông vào buổi sáng.",
+     "tip": "crowd = đám đông."
+    },
+    {
+     "word": "quiet",
+     "ipa": "/ˈkwaɪ.ət/",
+     "pos": "adj",
+     "vi": "yên tĩnh",
+     "ex": "The library is a quiet place.",
+     "exVi": "Thư viện là một nơi yên tĩnh.",
+     "tip": "Đừng nhầm với quite (khá)."
+    },
+    {
+     "word": "noisy",
+     "ipa": "/ˈnɔɪ.zi/",
+     "pos": "adj",
+     "vi": "ồn ào",
+     "ex": "My street is too noisy at night.",
+     "exVi": "Đường phố nhà tôi quá ồn vào ban đêm.",
+     "tip": "noise (tiếng ồn) + y."
+    },
+    {
+     "word": "modern",
+     "ipa": "/ˈmɑː.dɚn/",
+     "pos": "adj",
+     "vi": "hiện đại",
+     "ex": "Singapore is a very modern city.",
+     "exVi": "Singapore là một thành phố rất hiện đại."
+    },
+    {
+     "word": "village",
+     "ipa": "/ˈvɪl.ɪdʒ/",
+     "pos": "noun",
+     "vi": "làng",
+     "ex": "My grandparents live in a small village.",
+     "exVi": "Ông bà tôi sống ở một ngôi làng nhỏ."
+    },
+    {
+     "word": "countryside",
+     "ipa": "/ˈkʌn.tri.saɪd/",
+     "pos": "noun",
+     "vi": "vùng nông thôn",
+     "ex": "The air in the countryside is cleaner.",
+     "exVi": "Không khí ở nông thôn sạch hơn.",
+     "tip": "country + side."
+    },
+    {
+     "word": "traffic",
+     "ipa": "/ˈtræf.ɪk/",
+     "pos": "noun",
+     "vi": "giao thông",
+     "ex": "The traffic is terrible at rush hour.",
+     "exVi": "Giao thông giờ cao điểm thật kinh khủng.",
+     "tip": "traffic jam = tắc đường."
+    },
+    {
+     "word": "peaceful",
+     "ipa": "/ˈpiːs.fəl/",
+     "pos": "adj",
+     "vi": "yên bình",
+     "ex": "Life in the village is peaceful.",
+     "exVi": "Cuộc sống ở làng thật yên bình.",
+     "tip": "peace (hòa bình) + ful."
+    },
+    {
+     "word": "convenient",
+     "ipa": "/kənˈviː.ni.ənt/",
+     "pos": "adj",
+     "vi": "tiện lợi",
+     "ex": "Living near the metro is very convenient.",
+     "exVi": "Sống gần tàu điện ngầm rất tiện lợi."
+    },
+    {
+     "word": "population",
+     "ipa": "/ˌpɑː.pjəˈleɪ.ʃən/",
+     "pos": "noun",
+     "vi": "dân số",
+     "ex": "Ho Chi Minh City has the largest population in Vietnam.",
+     "exVi": "Thành phố Hồ Chí Minh có dân số đông nhất Việt Nam."
+    },
+    {
+     "word": "building",
+     "ipa": "/ˈbɪl.dɪŋ/",
+     "pos": "noun",
+     "vi": "tòa nhà",
+     "ex": "That building has fifty floors.",
+     "exVi": "Tòa nhà đó có năm mươi tầng.",
+     "tip": "build (xây) + ing."
+    },
+    {
+     "word": "fresh",
+     "ipa": "/freʃ/",
+     "pos": "adj",
+     "vi": "tươi; trong lành",
+     "ex": "We buy fresh vegetables every day.",
+     "exVi": "Chúng tôi mua rau tươi mỗi ngày."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "I prefer living in the city.",
+     "vi": "Tôi thích sống ở thành phố hơn."
+    },
+    {
+     "en": "It's much quieter than here.",
+     "vi": "Ở đó yên tĩnh hơn ở đây nhiều."
+    },
+    {
+     "en": "What's it like there?",
+     "vi": "Ở đó thế nào?"
+    },
+    {
+     "en": "Life is more expensive in the city.",
+     "vi": "Cuộc sống ở thành phố đắt đỏ hơn."
+    },
+    {
+     "en": "There's nothing to do here.",
+     "vi": "Ở đây chẳng có gì để làm."
+    }
+   ],
+   "grammar": {
+    "formulas": [
+     "Tính từ ngắn: adj-er + than (cheaper than) · the + adj-est (the cheapest)",
+     "Tính từ dài: more + adj + than (more modern than) · the most + adj (the most modern)",
+     "Bất quy tắc: good → better → the best · bad → worse → the worst · far → farther → the farthest"
+    ],
+    "points": [
+     {
+      "title": "Tính từ ngắn và dài",
+      "body": "Tính từ ngắn: 1 âm tiết (cheap, big) và 2 âm tiết tận cùng -y (busy → busier, noisy → the noisiest). Tính từ dài: các tính từ 2 âm tiết trở lên còn lại (modern, crowded, peaceful)."
+     },
+     {
+      "title": "Quy tắc chính tả",
+      "body": "Tận cùng e: thêm r / st (nice → nicer). Phụ âm–nguyên âm–phụ âm: nhân đôi (big → bigger, hot → hottest). -y → -ier / -iest (happy → happier)."
+     },
+     {
+      "title": "So sánh bằng",
+      "body": "as + adj + as: The village is as beautiful as a painting. Phủ định: not as + adj + as (= kém hơn)."
+     },
+     {
+      "title": "Nhấn mạnh",
+      "body": "much / a lot / far + so sánh hơn: much bigger, a lot more expensive."
+     }
+    ],
+    "examples": [
+     {
+      "en": "The city is noisier than the countryside.",
+      "vi": "Thành phố ồn hơn nông thôn."
+     },
+     {
+      "en": "Hanoi is more crowded than my hometown.",
+      "vi": "Hà Nội đông đúc hơn quê tôi."
+     },
+     {
+      "en": "This is the most modern building in the city.",
+      "vi": "Đây là tòa nhà hiện đại nhất thành phố."
+     },
+     {
+      "en": "Life here is not as expensive as in Saigon.",
+      "vi": "Cuộc sống ở đây không đắt đỏ bằng ở Sài Gòn."
+     }
+    ],
+    "mistakes": [
+     {
+      "wrong": "My city is more big than yours.",
+      "right": "My city is bigger than yours.",
+      "note": "big là tính từ ngắn."
+     },
+     {
+      "wrong": "She is the most tall in my class.",
+      "right": "She is the tallest in my class.",
+      "note": "tall → the tallest."
+     },
+     {
+      "wrong": "This is more better.",
+      "right": "This is better.",
+      "note": "better đã là so sánh hơn."
+     }
+    ],
+    "exercises": [
+     {
+      "q": "A village is ___ than a city.",
+      "options": [
+       "smaller",
+       "more small",
+       "smallest"
+      ],
+      "answer": "smaller",
+      "explain": "small là tính từ ngắn."
+     },
+     {
+      "q": "Tokyo is one of ___ cities in the world.",
+      "options": [
+       "the biggest",
+       "bigger",
+       "the most big"
+      ],
+      "answer": "the biggest",
+      "explain": "So sánh nhất của big."
+     },
+     {
+      "q": "The traffic today is ___ than yesterday.",
+      "options": [
+       "bad",
+       "worse",
+       "worst"
+      ],
+      "answer": "worse",
+      "explain": "bad → worse → the worst."
+     },
+     {
+      "q": "This hotel is ___ than that one.",
+      "options": [
+       "more convenient",
+       "convenienter",
+       "most convenient"
+      ],
+      "answer": "more convenient",
+      "explain": "convenient là tính từ dài."
+     },
+     {
+      "q": "She is the ___ student in our class.",
+      "options": [
+       "happier",
+       "happiest",
+       "most happy"
+      ],
+      "answer": "happiest",
+      "explain": "happy → the happiest."
+     },
+     {
+      "q": "My new apartment is ___ bigger than my old one.",
+      "options": [
+       "much",
+       "more",
+       "most"
+      ],
+      "answer": "much",
+      "explain": "much + so sánh hơn để nhấn mạnh."
+     },
+     {
+      "q": "The countryside is not as ___ as the city.",
+      "options": [
+       "noisy",
+       "noisier",
+       "noisiest"
+      ],
+      "answer": "noisy",
+      "explain": "as + adj nguyên dạng + as."
+     }
+    ],
+    "title": "So sánh hơn & so sánh nhất",
+    "summary": "So sánh hơn dùng khi so sánh HAI người / vật; so sánh nhất dùng khi so sánh từ BA trở lên. Cách tạo phụ thuộc vào độ dài của tính từ."
+   },
+   "dialogue": {
+    "lines": [
+     {
+      "speaker": "A",
+      "name": "Chris",
+      "en": "Do you want to live in the city or in the countryside?",
+      "vi": "Bạn muốn sống ở thành phố hay nông thôn?"
+     },
+     {
+      "speaker": "B",
+      "name": "Hiền",
+      "en": "The countryside, definitely. It's quieter and the air is fresher.",
+      "vi": "Nông thôn, chắc chắn rồi. Ở đó yên tĩnh hơn và không khí trong lành hơn."
+     },
+     {
+      "speaker": "A",
+      "name": "Chris",
+      "en": "But the city is more convenient. There are more shops, hospitals and jobs.",
+      "vi": "Nhưng thành phố tiện lợi hơn. Có nhiều cửa hàng, bệnh viện và việc làm hơn."
+     },
+     {
+      "speaker": "B",
+      "name": "Hiền",
+      "en": "That's true, but the traffic here is the worst! I spend two hours a day on the road.",
+      "vi": "Đúng vậy, nhưng giao thông ở đây tệ nhất! Mình mất hai tiếng mỗi ngày ngoài đường."
+     },
+     {
+      "speaker": "A",
+      "name": "Chris",
+      "en": "Maybe the best idea is to work in the city and spend weekends in the countryside.",
+      "vi": "Có lẽ ý tưởng hay nhất là làm việc ở thành phố và về quê vào cuối tuần."
+     },
+     {
+      "speaker": "B",
+      "name": "Hiền",
+      "en": "Now that's a perfect plan!",
+      "vi": "Đó đúng là một kế hoạch hoàn hảo!"
+     }
+    ],
+    "questions": [
+     {
+      "q": "Why does Hien prefer the countryside?",
+      "options": [
+       "It's more convenient",
+       "It's quieter with fresher air",
+       "There are more jobs"
+      ],
+      "answer": "It's quieter with fresher air"
+     },
+     {
+      "q": "What is the \"perfect plan\"?",
+      "options": [
+       "Live in the countryside and never go to the city",
+       "Work in the city and spend weekends in the countryside",
+       "Move abroad"
+      ],
+      "answer": "Work in the city and spend weekends in the countryside"
+     }
+    ],
+    "title": "Thành phố hay nông thôn?",
+    "setting": "Hai đồng nghiệp tranh luận nên sống ở đâu."
+   },
+   "reading": {
+    "questions": [
+     {
+      "q": "How many people live in Ho Chi Minh City?",
+      "options": [
+       "about one million",
+       "more than nine million",
+       "ninety million"
+      ],
+      "answer": "more than nine million"
+     },
+     {
+      "q": "What is the village like compared to the city?",
+      "options": [
+       "bigger and noisier",
+       "smaller and more peaceful",
+       "more modern"
+      ],
+      "answer": "smaller and more peaceful"
+     }
+    ],
+    "title": "Two homes",
+    "text": "I have two homes. During the week, I live in a small apartment in Ho Chi Minh City. It is the busiest city in Vietnam, with more than nine million people. The streets are crowded and noisy, but life is exciting and convenient. At the weekend, I go back to my parents' house in a village in the Mekong Delta. It is much smaller and more peaceful. There are no tall buildings, only rice fields and rivers. The food is fresher and cheaper, and people are friendlier. For me, the village is the best place to relax.",
+    "vi": "Tôi có hai ngôi nhà. Trong tuần, tôi sống trong một căn hộ nhỏ ở Thành phố Hồ Chí Minh. Đây là thành phố nhộn nhịp nhất Việt Nam với hơn chín triệu dân. Đường phố đông đúc và ồn ào, nhưng cuộc sống thú vị và tiện lợi. Cuối tuần, tôi về nhà bố mẹ ở một ngôi làng thuộc đồng bằng sông Cửu Long. Nơi đó nhỏ hơn và yên bình hơn nhiều. Không có tòa nhà cao tầng, chỉ có ruộng lúa và sông nước. Đồ ăn tươi hơn, rẻ hơn và con người thân thiện hơn. Với tôi, làng quê là nơi tốt nhất để thư giãn."
+   },
+   "title": "Thành phố & Nông thôn",
+   "titleEn": "City & Countryside",
+   "emoji": "🏙️",
+   "goal": "So sánh nơi chốn, cuộc sống ở thành phố và nông thôn."
+  },
+  {
+   "id": "a2-u6",
+   "words": [
+    {
+     "word": "job",
+     "ipa": "/dʒɑːb/",
+     "pos": "noun",
+     "vi": "công việc",
+     "ex": "She has a new job at a bank.",
+     "exVi": "Cô ấy có công việc mới ở ngân hàng."
+    },
+    {
+     "word": "salary",
+     "ipa": "/ˈsæl.ɚ.i/",
+     "pos": "noun",
+     "vi": "lương",
+     "ex": "The salary is good, but the hours are long.",
+     "exVi": "Lương cao nhưng giờ làm dài.",
+     "tip": "Gốc Latin \"sal\" = muối: lính La Mã từng được trả bằng muối."
+    },
+    {
+     "word": "office",
+     "ipa": "/ˈɑː.fɪs/",
+     "pos": "noun",
+     "vi": "văn phòng",
+     "ex": "Our office is on the third floor.",
+     "exVi": "Văn phòng của chúng tôi ở tầng ba."
+    },
+    {
+     "word": "manager",
+     "ipa": "/ˈmæn.ɪ.dʒɚ/",
+     "pos": "noun",
+     "vi": "quản lý",
+     "ex": "I need to talk to the manager.",
+     "exVi": "Tôi cần nói chuyện với quản lý.",
+     "tip": "manage (quản lý) + er."
+    },
+    {
+     "word": "colleague",
+     "ipa": "/ˈkɑː.liːɡ/",
+     "pos": "noun",
+     "vi": "đồng nghiệp",
+     "ex": "My colleagues are very helpful.",
+     "exVi": "Đồng nghiệp của tôi rất hay giúp đỡ.",
+     "tip": "Đồng nghĩa: coworker."
+    },
+    {
+     "word": "interview",
+     "ipa": "/ˈɪn.t̬ɚ.vjuː/",
+     "pos": "noun",
+     "vi": "cuộc phỏng vấn",
+     "ex": "I have a job interview tomorrow.",
+     "exVi": "Ngày mai tôi có buổi phỏng vấn xin việc.",
+     "tip": "inter (giữa) + view (nhìn)."
+    },
+    {
+     "word": "experience",
+     "ipa": "/ɪkˈspɪr.i.əns/",
+     "pos": "noun",
+     "vi": "kinh nghiệm; trải nghiệm",
+     "ex": "Do you have any work experience?",
+     "exVi": "Bạn có kinh nghiệm làm việc không?"
+    },
+    {
+     "word": "skill",
+     "ipa": "/skɪl/",
+     "pos": "noun",
+     "vi": "kỹ năng",
+     "ex": "Communication is an important skill.",
+     "exVi": "Giao tiếp là một kỹ năng quan trọng."
+    },
+    {
+     "word": "company",
+     "ipa": "/ˈkʌm.pə.ni/",
+     "pos": "noun",
+     "vi": "công ty",
+     "ex": "He works for a big company.",
+     "exVi": "Anh ấy làm cho một công ty lớn."
+    },
+    {
+     "word": "customer",
+     "ipa": "/ˈkʌs.tə.mɚ/",
+     "pos": "noun",
+     "vi": "khách hàng",
+     "ex": "The customer is always right.",
+     "exVi": "Khách hàng luôn đúng."
+    },
+    {
+     "word": "apply",
+     "ipa": "/əˈplaɪ/",
+     "pos": "verb",
+     "vi": "nộp đơn, ứng tuyển",
+     "ex": "I applied for three jobs last week.",
+     "exVi": "Tuần trước tôi đã ứng tuyển ba công việc.",
+     "tip": "apply for a job; application = đơn xin."
+    },
+    {
+     "word": "career",
+     "ipa": "/kəˈrɪr/",
+     "pos": "noun",
+     "vi": "sự nghiệp",
+     "ex": "She wants a career in medicine.",
+     "exVi": "Cô ấy muốn theo sự nghiệp y khoa.",
+     "tip": "Trọng âm cuối: ca-REER."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "What do you do?",
+     "vi": "Bạn làm nghề gì?"
+    },
+    {
+     "en": "I work as a designer.",
+     "vi": "Tôi làm thiết kế."
+    },
+    {
+     "en": "I'm looking for a job.",
+     "vi": "Tôi đang tìm việc."
+    },
+    {
+     "en": "I've worked here for two years.",
+     "vi": "Tôi đã làm ở đây được hai năm."
+    },
+    {
+     "en": "Could you tell me about yourself?",
+     "vi": "Bạn có thể giới thiệu về bản thân không?"
+    }
+   ],
+   "grammar": {
+    "formulas": [
+     "S + have / has + V3 (quá khứ phân từ): I have worked abroad.",
+     "Phủ định: S + have / has + never / not + V3",
+     "Câu hỏi: Have / Has + S + ever + V3?: Have you ever been to Japan?"
+    ],
+    "points": [
+     {
+      "title": "V3 là gì?",
+      "body": "Động từ có quy tắc: V3 = V-ed (worked, visited). Động từ bất quy tắc phải học cột 3: be → been, do → done, see → seen, eat → eaten, go → gone / been."
+     },
+     {
+      "title": "ever / never",
+      "body": "ever (đã bao giờ) dùng trong câu hỏi; never (chưa bao giờ) dùng trong câu khẳng định mang nghĩa phủ định: I have never been late."
+     },
+     {
+      "title": "Hiện tại hoàn thành hay quá khứ đơn?",
+      "body": "Có thời điểm cụ thể (yesterday, in 2020, last year) → quá khứ đơn. Không nói thời điểm, chỉ quan tâm trải nghiệm → hiện tại hoàn thành. Have you ever worked in a team? – Yes, I worked in a team last year."
+     },
+     {
+      "title": "been và gone",
+      "body": "He has been to Paris (đã đến và đã quay về). He has gone to Paris (đã đi Paris và giờ đang ở đó)."
+     }
+    ],
+    "examples": [
+     {
+      "en": "I have worked in three different companies.",
+      "vi": "Tôi đã làm việc ở ba công ty khác nhau."
+     },
+     {
+      "en": "She has never had a job interview.",
+      "vi": "Cô ấy chưa bao giờ đi phỏng vấn xin việc."
+     },
+     {
+      "en": "Have you ever managed a team?",
+      "vi": "Bạn đã bao giờ quản lý một nhóm chưa?"
+     },
+     {
+      "en": "He has met many famous customers.",
+      "vi": "Anh ấy đã gặp nhiều khách hàng nổi tiếng."
+     }
+    ],
+    "mistakes": [
+     {
+      "wrong": "I have saw that film.",
+      "right": "I have seen that film.",
+      "note": "Dùng V3 (seen), không dùng V2."
+     },
+     {
+      "wrong": "She have worked here.",
+      "right": "She has worked here.",
+      "note": "She → has."
+     },
+     {
+      "wrong": "Have you ever went abroad?",
+      "right": "Have you ever been abroad?",
+      "note": "V3 của go (trải nghiệm) là been."
+     }
+    ],
+    "exercises": [
+     {
+      "q": "I have ___ in a restaurant before.",
+      "options": [
+       "work",
+       "worked",
+       "working"
+      ],
+      "answer": "worked",
+      "explain": "have + V3."
+     },
+     {
+      "q": "She ___ never been to London.",
+      "options": [
+       "have",
+       "has",
+       "is"
+      ],
+      "answer": "has",
+      "explain": "She → has."
+     },
+     {
+      "q": "Have you ever ___ sushi?",
+      "options": [
+       "eat",
+       "ate",
+       "eaten"
+      ],
+      "answer": "eaten",
+      "explain": "eat – ate – eaten."
+     },
+     {
+      "q": "They have ___ seen a famous person.",
+      "options": [
+       "ever",
+       "never",
+       "yet"
+      ],
+      "answer": "never",
+      "explain": "Câu khẳng định mang nghĩa \"chưa từng\" dùng never."
+     },
+     {
+      "q": "___ he ever worked abroad?",
+      "options": [
+       "Have",
+       "Has",
+       "Did"
+      ],
+      "answer": "Has",
+      "explain": "he → Has."
+     },
+     {
+      "q": "I ___ to Japan in 2019.",
+      "options": [
+       "have been",
+       "went",
+       "have gone"
+      ],
+      "answer": "went",
+      "explain": "Có thời điểm cụ thể (in 2019) → quá khứ đơn."
+     },
+     {
+      "q": "We have ___ this report three times.",
+      "options": [
+       "read",
+       "readed",
+       "reading"
+      ],
+      "answer": "read",
+      "explain": "read – read – read."
+     }
+    ],
+    "title": "Hiện tại hoàn thành: kinh nghiệm (ever / never)",
+    "summary": "Thì hiện tại hoàn thành dùng để nói về trải nghiệm trong đời (đã từng / chưa từng) mà KHÔNG nói rõ thời điểm. Tiếng Việt không có thì này, nên hãy học qua thật nhiều ví dụ."
+   },
+   "dialogue": {
+    "lines": [
+     {
+      "speaker": "A",
+      "name": "Ms. Taylor",
+      "en": "Thank you for coming. Could you tell me about yourself?",
+      "vi": "Cảm ơn bạn đã đến. Bạn có thể giới thiệu về bản thân không?"
+     },
+     {
+      "speaker": "B",
+      "name": "Quang",
+      "en": "Sure. I graduated last year and I've worked as a sales assistant for six months.",
+      "vi": "Vâng. Tôi tốt nghiệp năm ngoái và đã làm nhân viên bán hàng được sáu tháng."
+     },
+     {
+      "speaker": "A",
+      "name": "Ms. Taylor",
+      "en": "Have you ever worked with foreign customers?",
+      "vi": "Bạn đã bao giờ làm việc với khách hàng nước ngoài chưa?"
+     },
+     {
+      "speaker": "B",
+      "name": "Quang",
+      "en": "Yes, I have. Many tourists came to my shop, so I used English every day.",
+      "vi": "Rồi ạ. Nhiều khách du lịch đến cửa hàng nên ngày nào tôi cũng dùng tiếng Anh."
+     },
+     {
+      "speaker": "A",
+      "name": "Ms. Taylor",
+      "en": "Great. Why did you apply for this job?",
+      "vi": "Tuyệt. Tại sao bạn ứng tuyển công việc này?"
+     },
+     {
+      "speaker": "B",
+      "name": "Quang",
+      "en": "I want to build a career in customer service, and your company is famous for it.",
+      "vi": "Tôi muốn xây dựng sự nghiệp trong ngành chăm sóc khách hàng, và công ty chị nổi tiếng về lĩnh vực này."
+     },
+     {
+      "speaker": "A",
+      "name": "Ms. Taylor",
+      "en": "Have you ever had a difficult customer?",
+      "vi": "Bạn đã bao giờ gặp khách hàng khó tính chưa?"
+     },
+     {
+      "speaker": "B",
+      "name": "Quang",
+      "en": "Many times! I've learned to stay calm and listen carefully.",
+      "vi": "Nhiều lần rồi ạ! Tôi đã học được cách bình tĩnh và lắng nghe cẩn thận."
+     }
+    ],
+    "questions": [
+     {
+      "q": "How long has Quang worked as a sales assistant?",
+      "options": [
+       "six weeks",
+       "six months",
+       "six years"
+      ],
+      "answer": "six months"
+     },
+     {
+      "q": "What has Quang learned from difficult customers?",
+      "options": [
+       "to stay calm and listen carefully",
+       "to say no",
+       "to call the manager"
+      ],
+      "answer": "to stay calm and listen carefully"
+     }
+    ],
+    "title": "Phỏng vấn xin việc",
+    "setting": "Quang phỏng vấn vị trí nhân viên chăm sóc khách hàng."
+   },
+   "reading": {
+    "questions": [
+     {
+      "q": "What was the writer's first job?",
+      "options": [
+       "a manager",
+       "a waiter",
+       "an office worker"
+      ],
+      "answer": "a waiter"
+     },
+     {
+      "q": "What was the manager like?",
+      "options": [
+       "lazy and kind",
+       "strict but fair",
+       "young and funny"
+      ],
+      "answer": "strict but fair"
+     }
+    ],
+    "title": "My first job",
+    "text": "I have had many jobs, but I will never forget my first one. When I was eighteen, I worked as a waiter in a busy restaurant. The salary was low and the hours were long, but I learned a lot. I learned how to talk to customers, how to work in a team and how to stay calm under pressure. My manager was strict but fair. Since then, I have worked in offices and big companies, but the skills from that restaurant have helped me in every job.",
+    "vi": "Tôi đã làm nhiều công việc, nhưng tôi sẽ không bao giờ quên công việc đầu tiên. Năm mười tám tuổi, tôi làm bồi bàn ở một nhà hàng đông khách. Lương thấp và giờ làm dài, nhưng tôi học được rất nhiều. Tôi học cách nói chuyện với khách hàng, cách làm việc nhóm và cách giữ bình tĩnh dưới áp lực. Quản lý của tôi nghiêm khắc nhưng công bằng. Từ đó đến nay, tôi đã làm ở các văn phòng và công ty lớn, nhưng những kỹ năng từ nhà hàng ấy đã giúp tôi trong mọi công việc."
+   },
+   "title": "Công việc",
+   "titleEn": "Jobs & Work",
+   "emoji": "💼",
+   "goal": "Nói về nghề nghiệp, kinh nghiệm làm việc và phỏng vấn đơn giản."
+  },
+  {
+   "id": "a2-u7",
+   "words": [
+    {
+     "word": "invite",
+     "ipa": "/ɪnˈvaɪt/",
+     "pos": "verb",
+     "vi": "mời",
+     "ex": "I'd like to invite you to my party.",
+     "exVi": "Mình muốn mời bạn đến bữa tiệc của mình.",
+     "tip": "invitation = lời mời, thiệp mời."
+    },
+    {
+     "word": "party",
+     "ipa": "/ˈpɑːr.t̬i/",
+     "pos": "noun",
+     "vi": "bữa tiệc",
+     "ex": "We're having a party on Saturday.",
+     "exVi": "Chúng tôi tổ chức tiệc vào thứ Bảy."
+    },
+    {
+     "word": "celebrate",
+     "ipa": "/ˈsel.ə.breɪt/",
+     "pos": "verb",
+     "vi": "ăn mừng, kỷ niệm",
+     "ex": "Let's celebrate your success!",
+     "exVi": "Hãy ăn mừng thành công của bạn nào!"
+    },
+    {
+     "word": "gift",
+     "ipa": "/ɡɪft/",
+     "pos": "noun",
+     "vi": "món quà",
+     "ex": "Thank you for the lovely gift.",
+     "exVi": "Cảm ơn món quà đáng yêu.",
+     "tip": "Đồng nghĩa: present."
+    },
+    {
+     "word": "guest",
+     "ipa": "/ɡest/",
+     "pos": "noun",
+     "vi": "khách mời",
+     "ex": "There were fifty guests at the wedding.",
+     "exVi": "Có năm mươi khách mời ở đám cưới.",
+     "tip": "u câm: đọc \"ghét-xt\"."
+    },
+    {
+     "word": "accept",
+     "ipa": "/əkˈsept/",
+     "pos": "verb",
+     "vi": "chấp nhận, nhận lời",
+     "ex": "She accepted our invitation.",
+     "exVi": "Cô ấy đã nhận lời mời của chúng tôi.",
+     "tip": "Đừng nhầm except (ngoại trừ)."
+    },
+    {
+     "word": "refuse",
+     "ipa": "/rɪˈfjuːz/",
+     "pos": "verb",
+     "vi": "từ chối",
+     "ex": "He refused to come.",
+     "exVi": "Anh ấy từ chối đến.",
+     "tip": "refuse + to V."
+    },
+    {
+     "word": "decorate",
+     "ipa": "/ˈdek.ə.reɪt/",
+     "pos": "verb",
+     "vi": "trang trí",
+     "ex": "We decorated the room with balloons.",
+     "exVi": "Chúng tôi trang trí căn phòng bằng bóng bay."
+    },
+    {
+     "word": "wedding",
+     "ipa": "/ˈwed.ɪŋ/",
+     "pos": "noun",
+     "vi": "đám cưới",
+     "ex": "Their wedding is in June.",
+     "exVi": "Đám cưới của họ vào tháng Sáu."
+    },
+    {
+     "word": "promise",
+     "ipa": "/ˈprɑː.mɪs/",
+     "pos": "verb",
+     "vi": "hứa",
+     "ex": "I promise I will call you.",
+     "exVi": "Mình hứa sẽ gọi cho bạn."
+    },
+    {
+     "word": "surprise",
+     "ipa": "/sɚˈpraɪz/",
+     "pos": "noun",
+     "vi": "sự bất ngờ",
+     "ex": "We're planning a surprise party for Mom.",
+     "exVi": "Chúng tôi đang lên kế hoạch tiệc bất ngờ cho mẹ."
+    },
+    {
+     "word": "candle",
+     "ipa": "/ˈkæn.dəl/",
+     "pos": "noun",
+     "vi": "cây nến",
+     "ex": "Make a wish and blow out the candles!",
+     "exVi": "Ước đi rồi thổi nến nào!"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "Would you like to come to my party?",
+     "vi": "Bạn có muốn đến dự tiệc của mình không?"
+    },
+    {
+     "en": "I'd love to!",
+     "vi": "Mình rất muốn!"
+    },
+    {
+     "en": "Sorry, I can't. I'm busy that day.",
+     "vi": "Xin lỗi, mình không đi được. Hôm đó mình bận."
+    },
+    {
+     "en": "Thanks for inviting me.",
+     "vi": "Cảm ơn đã mời mình."
+    },
+    {
+     "en": "Happy birthday! Have a great day!",
+     "vi": "Chúc mừng sinh nhật! Chúc bạn một ngày tuyệt vời!"
+    },
+    {
+     "en": "Shall I bring anything?",
+     "vi": "Mình có cần mang gì không?"
+    }
+   ],
+   "grammar": {
+    "formulas": [
+     "S + will ('ll) + V nguyên mẫu: I'll help you.",
+     "Phủ định: S + will not (won't) + V",
+     "Câu hỏi: Will + S + V? · Đề nghị: Shall I / we + V?",
+     "Mời: Would you like + N / to V? → I'd love to. / Yes, please."
+    ],
+    "points": [
+     {
+      "title": "Quyết định tức thì",
+      "body": "Lúc nói mới quyết định: The phone is ringing. – I'll answer it! (So với be going to: đã quyết định từ trước.)"
+     },
+     {
+      "title": "Hứa, đề nghị, nhờ vả",
+      "body": "I'll always love you. (hứa) / I'll carry your bag. (đề nghị) / Will you help me? (nhờ)"
+     },
+     {
+      "title": "Dự đoán",
+      "body": "Thường đi với I think, I'm sure, probably: I think it will be a great party."
+     },
+     {
+      "title": "Nhận lời và từ chối lịch sự",
+      "body": "Nhận: I'd love to! / That sounds great! Từ chối: I'm afraid I can't. / I'd love to, but I'm busy."
+     }
+    ],
+    "examples": [
+     {
+      "en": "Don't worry, I'll bring the cake.",
+      "vi": "Đừng lo, mình sẽ mang bánh."
+     },
+     {
+      "en": "I promise I won't be late.",
+      "vi": "Mình hứa sẽ không đến muộn."
+     },
+     {
+      "en": "I think she'll love your gift.",
+      "vi": "Mình nghĩ cô ấy sẽ thích món quà của bạn."
+     },
+     {
+      "en": "Shall I decorate the room?",
+      "vi": "Mình trang trí phòng nhé?"
+     }
+    ],
+    "mistakes": [
+     {
+      "wrong": "I will to call you.",
+      "right": "I will call you.",
+      "note": "Sau will không có to."
+     },
+     {
+      "wrong": "She wills come.",
+      "right": "She will come.",
+      "note": "will không chia theo chủ ngữ."
+     },
+     {
+      "wrong": "Will you like some tea?",
+      "right": "Would you like some tea?",
+      "note": "Mời lịch sự dùng Would you like."
+     }
+    ],
+    "exercises": [
+     {
+      "q": "It's cold in here. I ___ close the window.",
+      "options": [
+       "will",
+       "am",
+       "going"
+      ],
+      "answer": "will",
+      "explain": "Quyết định ngay lúc nói → will."
+     },
+     {
+      "q": "I promise I ___ forget your birthday.",
+      "options": [
+       "won't",
+       "don't",
+       "am not"
+      ],
+      "answer": "won't",
+      "explain": "Lời hứa → will / won't."
+     },
+     {
+      "q": "___ you like to come to my wedding?",
+      "options": [
+       "Will",
+       "Would",
+       "Do"
+      ],
+      "answer": "Would",
+      "explain": "Lời mời: Would you like...?"
+     },
+     {
+      "q": "I think the party ___ be fun.",
+      "options": [
+       "will",
+       "is",
+       "does"
+      ],
+      "answer": "will",
+      "explain": "Dự đoán với I think → will."
+     },
+     {
+      "q": "She will ___ a cake for the party.",
+      "options": [
+       "make",
+       "makes",
+       "to make"
+      ],
+      "answer": "make",
+      "explain": "Sau will dùng V nguyên mẫu."
+     },
+     {
+      "q": "___ I help you with the decorations?",
+      "options": [
+       "Shall",
+       "Will",
+       "Do"
+      ],
+      "answer": "Shall",
+      "explain": "Lời đề nghị: Shall I...?"
+     },
+     {
+      "q": "Thanks for the invitation. I'd ___ to come!",
+      "options": [
+       "like",
+       "love",
+       "loving"
+      ],
+      "answer": "love",
+      "explain": "I'd love to = Tôi rất muốn."
+     }
+    ],
+    "title": "Tương lai đơn với will & lời mời Would you like",
+    "summary": "Will + V dùng cho quyết định ngay lúc nói, lời hứa, lời đề nghị giúp đỡ và dự đoán. Will không chia theo chủ ngữ. Would you like...? là cách mời lịch sự nhất."
+   },
+   "dialogue": {
+    "lines": [
+     {
+      "speaker": "A",
+      "name": "Tuấn",
+      "en": "Hoa's birthday is on Friday. Let's have a surprise party for her!",
+      "vi": "Thứ Sáu là sinh nhật Hoa. Mình tổ chức tiệc bất ngờ cho bạn ấy đi!"
+     },
+     {
+      "speaker": "B",
+      "name": "Kate",
+      "en": "Great idea! I'll invite our classmates.",
+      "vi": "Ý hay đấy! Mình sẽ mời các bạn cùng lớp."
+     },
+     {
+      "speaker": "A",
+      "name": "Tuấn",
+      "en": "And I'll order a big chocolate cake. She loves chocolate.",
+      "vi": "Còn mình sẽ đặt một cái bánh sô-cô-la lớn. Bạn ấy thích sô-cô-la lắm."
+     },
+     {
+      "speaker": "B",
+      "name": "Kate",
+      "en": "Shall I decorate the room? I have lots of balloons and candles.",
+      "vi": "Mình trang trí phòng nhé? Mình có nhiều bóng bay và nến lắm."
+     },
+     {
+      "speaker": "A",
+      "name": "Tuấn",
+      "en": "Perfect. But please don't tell her. It's a secret!",
+      "vi": "Tuyệt. Nhưng làm ơn đừng nói với bạn ấy nhé. Bí mật đấy!"
+     },
+     {
+      "speaker": "B",
+      "name": "Kate",
+      "en": "I promise I won't say a word. I think she'll be so surprised!",
+      "vi": "Mình hứa sẽ không hé nửa lời. Mình nghĩ bạn ấy sẽ bất ngờ lắm!"
+     }
+    ],
+    "questions": [
+     {
+      "q": "What will Tuan order?",
+      "options": [
+       "balloons",
+       "a chocolate cake",
+       "flowers"
+      ],
+      "answer": "a chocolate cake"
+     },
+     {
+      "q": "What will Kate do?",
+      "options": [
+       "invite classmates and decorate the room",
+       "buy a gift",
+       "cook dinner"
+      ],
+      "answer": "invite classmates and decorate the room"
+     }
+    ],
+    "title": "Tiệc sinh nhật bất ngờ",
+    "setting": "Hai người bạn bàn chuẩn bị tiệc bất ngờ cho Hoa."
+   },
+   "reading": {
+    "questions": [
+     {
+      "q": "What do children receive during Tet?",
+      "options": [
+       "toys",
+       "lucky money",
+       "new books"
+      ],
+      "answer": "lucky money"
+     },
+     {
+      "q": "Why do people choose the first guest carefully?",
+      "options": [
+       "The guest brings luck for the year",
+       "The guest cooks dinner",
+       "The guest pays for the party"
+      ],
+      "answer": "The guest brings luck for the year"
+     }
+    ],
+    "title": "Tet: the biggest celebration",
+    "text": "Tet, the Lunar New Year, is the most important holiday in Vietnam. Before Tet, families clean and decorate their houses with peach or apricot flowers. On New Year's Eve, everyone gathers for a big dinner. During Tet, people visit relatives and friends to wish them a happy new year. Children receive lucky money in red envelopes. Many people believe that the first guest to enter the house will bring luck for the whole year, so they choose this person carefully.",
+    "vi": "Tết Nguyên đán là ngày lễ quan trọng nhất ở Việt Nam. Trước Tết, các gia đình dọn dẹp và trang trí nhà cửa bằng hoa đào hoặc hoa mai. Vào đêm Giao thừa, mọi người quây quần bên bữa tối thịnh soạn. Trong dịp Tết, người ta đi thăm họ hàng, bạn bè để chúc năm mới. Trẻ em được nhận tiền lì xì trong phong bao đỏ. Nhiều người tin rằng vị khách đầu tiên bước vào nhà sẽ mang lại may mắn cho cả năm, nên họ chọn người này rất cẩn thận."
+   },
+   "title": "Tiệc tùng & Lời mời",
+   "titleEn": "Parties & Invitations",
+   "emoji": "🎉",
+   "goal": "Mời, nhận lời, từ chối và hứa hẹn."
+  },
+  {
+   "id": "a2-u8",
+   "words": [
+    {
+     "word": "phone",
+     "ipa": "/foʊn/",
+     "pos": "noun",
+     "vi": "điện thoại",
+     "ex": "Please turn off your phone in class.",
+     "exVi": "Hãy tắt điện thoại trong lớp.",
+     "tip": "ph đọc là /f/."
+    },
+    {
+     "word": "download",
+     "ipa": "/ˈdaʊn.loʊd/",
+     "pos": "verb",
+     "vi": "tải xuống",
+     "ex": "You can download the app for free.",
+     "exVi": "Bạn có thể tải ứng dụng miễn phí.",
+     "tip": "Ngược lại: upload."
+    },
+    {
+     "word": "password",
+     "ipa": "/ˈpæs.wɝːd/",
+     "pos": "noun",
+     "vi": "mật khẩu",
+     "ex": "You must not share your password.",
+     "exVi": "Bạn không được chia sẻ mật khẩu.",
+     "tip": "pass + word; chữ w câm."
+    },
+    {
+     "word": "battery",
+     "ipa": "/ˈbæt̬.ɚ.i/",
+     "pos": "noun",
+     "vi": "pin",
+     "ex": "My battery is almost dead.",
+     "exVi": "Pin của tôi sắp hết rồi."
+    },
+    {
+     "word": "screen",
+     "ipa": "/skriːn/",
+     "pos": "noun",
+     "vi": "màn hình",
+     "ex": "The screen of my phone is broken.",
+     "exVi": "Màn hình điện thoại của tôi bị vỡ.",
+     "tip": "screen time = thời gian dùng thiết bị."
+    },
+    {
+     "word": "message",
+     "ipa": "/ˈmes.ɪdʒ/",
+     "pos": "noun",
+     "vi": "tin nhắn",
+     "ex": "I sent you a message last night.",
+     "exVi": "Tối qua mình đã gửi tin nhắn cho bạn."
+    },
+    {
+     "word": "website",
+     "ipa": "/ˈweb.saɪt/",
+     "pos": "noun",
+     "vi": "trang web",
+     "ex": "You can book tickets on our website.",
+     "exVi": "Bạn có thể đặt vé trên trang web của chúng tôi."
+    },
+    {
+     "word": "online",
+     "ipa": "/ˈɑːn.laɪn/",
+     "pos": "adv",
+     "vi": "trực tuyến",
+     "ex": "I usually shop online.",
+     "exVi": "Tôi thường mua sắm trực tuyến.",
+     "tip": "Ngược lại: offline."
+    },
+    {
+     "word": "account",
+     "ipa": "/əˈkaʊnt/",
+     "pos": "noun",
+     "vi": "tài khoản",
+     "ex": "You have to create an account first.",
+     "exVi": "Bạn phải tạo tài khoản trước."
+    },
+    {
+     "word": "charge",
+     "ipa": "/tʃɑːrdʒ/",
+     "pos": "verb",
+     "vi": "sạc (pin)",
+     "ex": "I have to charge my phone.",
+     "exVi": "Tôi phải sạc điện thoại.",
+     "tip": "charger = cục sạc."
+    },
+    {
+     "word": "internet",
+     "ipa": "/ˈɪn.t̬ɚ.net/",
+     "pos": "noun",
+     "vi": "mạng internet",
+     "ex": "The internet is very slow today.",
+     "exVi": "Hôm nay mạng rất chậm."
+    },
+    {
+     "word": "laptop",
+     "ipa": "/ˈlæp.tɑːp/",
+     "pos": "noun",
+     "vi": "máy tính xách tay",
+     "ex": "I do my homework on my laptop.",
+     "exVi": "Tôi làm bài tập trên máy tính xách tay.",
+     "tip": "lap (đùi) + top: máy đặt trên đùi."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "What's the Wi-Fi password?",
+     "vi": "Mật khẩu Wi-Fi là gì?"
+    },
+    {
+     "en": "My phone is out of battery.",
+     "vi": "Điện thoại tôi hết pin rồi."
+    },
+    {
+     "en": "Can you send me the link?",
+     "vi": "Bạn gửi cho mình đường link được không?"
+    },
+    {
+     "en": "I'll text you later.",
+     "vi": "Mình sẽ nhắn tin cho bạn sau."
+    },
+    {
+     "en": "Have you updated the app?",
+     "vi": "Bạn đã cập nhật ứng dụng chưa?"
+    }
+   ],
+   "grammar": {
+    "formulas": [
+     "S + must + V: You must wear a helmet.",
+     "S + have to / has to + V: She has to work on Sunday.",
+     "S + mustn't + V (cấm): You mustn't use your phone here.",
+     "S + don't / doesn't have to + V (không cần): You don't have to pay. It's free."
+    ],
+    "points": [
+     {
+      "title": "Must hay have to?",
+      "body": "must thường thể hiện cảm nhận của người nói hoặc quy định viết (You must try this app!). have to là nghĩa vụ do hoàn cảnh bên ngoài (I have to charge my phone – it's dead)."
+     },
+     {
+      "title": "Quá khứ chỉ có had to",
+      "body": "must không có dạng quá khứ. Dùng had to: Yesterday I had to reset my password."
+     },
+     {
+      "title": "Cẩn thận: mustn't ≠ don't have to",
+      "body": "You mustn't open this file (cấm mở). You don't have to open this file (không cần mở, tùy bạn)."
+     }
+    ],
+    "examples": [
+     {
+      "en": "You must create a strong password.",
+      "vi": "Bạn phải tạo mật khẩu mạnh."
+     },
+     {
+      "en": "I have to charge my laptop before the meeting.",
+      "vi": "Tôi phải sạc laptop trước cuộc họp."
+     },
+     {
+      "en": "You mustn't download apps from strange websites.",
+      "vi": "Bạn không được tải ứng dụng từ trang web lạ."
+     },
+     {
+      "en": "You don't have to pay. The app is free.",
+      "vi": "Bạn không cần trả tiền. Ứng dụng miễn phí."
+     }
+    ],
+    "mistakes": [
+     {
+      "wrong": "She have to work today.",
+      "right": "She has to work today.",
+      "note": "She → has to."
+     },
+     {
+      "wrong": "You must to update the app.",
+      "right": "You must update the app.",
+      "note": "Sau must không có to."
+     },
+     {
+      "wrong": "I musted go yesterday.",
+      "right": "I had to go yesterday.",
+      "note": "Quá khứ dùng had to."
+     }
+    ],
+    "exercises": [
+     {
+      "q": "You ___ drive without a license. It's illegal.",
+      "options": [
+       "mustn't",
+       "don't have to",
+       "must"
+      ],
+      "answer": "mustn't",
+      "explain": "Phạm luật → cấm."
+     },
+     {
+      "q": "It's Sunday. I ___ get up early.",
+      "options": [
+       "mustn't",
+       "don't have to",
+       "must"
+      ],
+      "answer": "don't have to",
+      "explain": "Chủ nhật → không cần dậy sớm."
+     },
+     {
+      "q": "She ___ to finish the report today.",
+      "options": [
+       "have",
+       "has",
+       "must"
+      ],
+      "answer": "has",
+      "explain": "She → has to."
+     },
+     {
+      "q": "You must ___ your password every three months.",
+      "options": [
+       "change",
+       "to change",
+       "changing"
+      ],
+      "answer": "change",
+      "explain": "Sau must dùng V nguyên mẫu."
+     },
+     {
+      "q": "Yesterday I ___ call the bank three times.",
+      "options": [
+       "must",
+       "had to",
+       "have to"
+      ],
+      "answer": "had to",
+      "explain": "Quá khứ của must / have to là had to."
+     },
+     {
+      "q": "Students ___ wear uniforms at this school. It's the rule.",
+      "options": [
+       "must",
+       "mustn't",
+       "don't have to"
+      ],
+      "answer": "must",
+      "explain": "Quy định → must."
+     },
+     {
+      "q": "Does he ___ to work this weekend?",
+      "options": [
+       "have",
+       "has",
+       "must"
+      ],
+      "answer": "have",
+      "explain": "Sau does dùng have."
+     }
+    ],
+    "title": "Must / Have to / Mustn't / Don't have to",
+    "summary": "Must và have to đều nghĩa là \"phải\". Nhưng mustn't nghĩa là \"không được phép\", còn don't have to nghĩa là \"không cần phải\" – hai nghĩa khác hẳn nhau!"
+   },
+   "dialogue": {
+    "lines": [
+     {
+      "speaker": "A",
+      "name": "Jun",
+      "en": "Excuse me, my phone is out of battery. Can I charge it here?",
+      "vi": "Xin lỗi, điện thoại tôi hết pin rồi. Tôi sạc ở đây được không?"
+     },
+     {
+      "speaker": "B",
+      "name": "Staff",
+      "en": "Sure, there's a socket next to the window.",
+      "vi": "Được chứ, có ổ cắm cạnh cửa sổ."
+     },
+     {
+      "speaker": "A",
+      "name": "Jun",
+      "en": "Thanks! And what's the Wi-Fi password?",
+      "vi": "Cảm ơn! Mật khẩu Wi-Fi là gì vậy?"
+     },
+     {
+      "speaker": "B",
+      "name": "Staff",
+      "en": "It's on your receipt. But you have to log in with your email first.",
+      "vi": "Nó in trên hóa đơn của anh. Nhưng anh phải đăng nhập bằng email trước."
+     },
+     {
+      "speaker": "A",
+      "name": "Jun",
+      "en": "Do I have to pay for it?",
+      "vi": "Tôi có phải trả tiền không?"
+     },
+     {
+      "speaker": "B",
+      "name": "Staff",
+      "en": "No, you don't have to. It's free for customers.",
+      "vi": "Không cần ạ. Miễn phí cho khách hàng."
+     },
+     {
+      "speaker": "A",
+      "name": "Jun",
+      "en": "Great. I must send an important message to my boss.",
+      "vi": "Tuyệt. Tôi phải gửi một tin nhắn quan trọng cho sếp."
+     }
+    ],
+    "questions": [
+     {
+      "q": "Where is the Wi-Fi password?",
+      "options": [
+       "on the wall",
+       "on the receipt",
+       "on the menu"
+      ],
+      "answer": "on the receipt"
+     },
+     {
+      "q": "Does Jun have to pay for the Wi-Fi?",
+      "options": [
+       "Yes, he does",
+       "No, he doesn't",
+       "Only after one hour"
+      ],
+      "answer": "No, he doesn't"
+     }
+    ],
+    "title": "Điện thoại hết pin",
+    "setting": "Một vị khách hỏi nhân viên quán cà phê."
+   },
+   "reading": {
+    "questions": [
+     {
+      "q": "What should a strong password have?",
+      "options": [
+       "only letters",
+       "letters, numbers and symbols",
+       "your name"
+      ],
+      "answer": "letters, numbers and symbols"
+     },
+     {
+      "q": "Why should you think before you post a photo?",
+      "options": [
+       "It's difficult to delete completely",
+       "It's expensive",
+       "Your phone will break"
+      ],
+      "answer": "It's difficult to delete completely"
+     }
+    ],
+    "title": "Stay safe online",
+    "text": "The internet makes our lives easier, but we must be careful. First, you have to create strong passwords with letters, numbers and symbols. You mustn't use the same password for every account. Second, never click on strange links in messages or emails, even if they look real. Third, you should only download apps from official stores. Finally, think before you post. Once a photo is online, everybody can see it, and it is very difficult to delete it completely.",
+    "vi": "Internet giúp cuộc sống dễ dàng hơn, nhưng chúng ta phải cẩn thận. Thứ nhất, bạn phải tạo mật khẩu mạnh gồm chữ, số và ký hiệu. Bạn không được dùng cùng một mật khẩu cho mọi tài khoản. Thứ hai, đừng bao giờ bấm vào đường link lạ trong tin nhắn hay email, kể cả khi chúng trông như thật. Thứ ba, bạn chỉ nên tải ứng dụng từ cửa hàng chính thức. Cuối cùng, hãy suy nghĩ trước khi đăng. Một khi bức ảnh đã lên mạng, ai cũng có thể thấy nó, và rất khó xóa hoàn toàn."
+   },
+   "title": "Công nghệ hằng ngày",
+   "titleEn": "Everyday Technology",
+   "emoji": "📱",
+   "goal": "Nói về điện thoại, internet và các quy định bắt buộc."
+  },
+  {
+   "id": "a2-u9",
+   "words": [
+    {
+     "word": "excited",
+     "ipa": "/ɪkˈsaɪ.t̬ɪd/",
+     "pos": "adj",
+     "vi": "hào hứng",
+     "ex": "I'm so excited about the trip!",
+     "exVi": "Mình rất háo hức về chuyến đi!",
+     "tip": "excited about something."
+    },
+    {
+     "word": "bored",
+     "ipa": "/bɔːrd/",
+     "pos": "adj",
+     "vi": "chán",
+     "ex": "I'm bored. Let's go out.",
+     "exVi": "Chán quá. Đi chơi thôi.",
+     "tip": "Người thấy chán = bored; thứ gây chán = boring."
+    },
+    {
+     "word": "tired",
+     "ipa": "/taɪrd/",
+     "pos": "adj",
+     "vi": "mệt",
+     "ex": "She was tired after work.",
+     "exVi": "Cô ấy mệt sau giờ làm."
+    },
+    {
+     "word": "worried",
+     "ipa": "/ˈwɝː.id/",
+     "pos": "adj",
+     "vi": "lo lắng",
+     "ex": "Don't be worried. Everything will be fine.",
+     "exVi": "Đừng lo. Mọi chuyện sẽ ổn thôi.",
+     "tip": "worried about = lo về."
+    },
+    {
+     "word": "surprised",
+     "ipa": "/sɚˈpraɪzd/",
+     "pos": "adj",
+     "vi": "ngạc nhiên",
+     "ex": "I was surprised to see him there.",
+     "exVi": "Tôi ngạc nhiên khi thấy anh ấy ở đó."
+    },
+    {
+     "word": "nervous",
+     "ipa": "/ˈnɝː.vəs/",
+     "pos": "adj",
+     "vi": "hồi hộp, căng thẳng",
+     "ex": "I always feel nervous before exams.",
+     "exVi": "Tôi luôn thấy hồi hộp trước kỳ thi."
+    },
+    {
+     "word": "angry",
+     "ipa": "/ˈæŋ.ɡri/",
+     "pos": "adj",
+     "vi": "tức giận",
+     "ex": "My mom was angry because I came home late.",
+     "exVi": "Mẹ tôi giận vì tôi về nhà muộn.",
+     "tip": "angry with someone / about something."
+    },
+    {
+     "word": "proud",
+     "ipa": "/praʊd/",
+     "pos": "adj",
+     "vi": "tự hào",
+     "ex": "We are very proud of you.",
+     "exVi": "Chúng tôi rất tự hào về con.",
+     "tip": "be proud of."
+    },
+    {
+     "word": "embarrassed",
+     "ipa": "/ɪmˈber.əst/",
+     "pos": "adj",
+     "vi": "xấu hổ, ngượng",
+     "ex": "I was embarrassed when I fell over.",
+     "exVi": "Tôi xấu hổ khi bị ngã.",
+     "tip": "Hai chữ r, hai chữ s."
+    },
+    {
+     "word": "relaxed",
+     "ipa": "/rɪˈlækst/",
+     "pos": "adj",
+     "vi": "thư thái",
+     "ex": "I feel relaxed after a hot bath.",
+     "exVi": "Tôi thấy thư thái sau khi tắm nước ấm."
+    },
+    {
+     "word": "confused",
+     "ipa": "/kənˈfjuːzd/",
+     "pos": "adj",
+     "vi": "bối rối, chưa hiểu",
+     "ex": "I'm confused. Can you explain again?",
+     "exVi": "Mình chưa hiểu. Bạn giải thích lại được không?"
+    },
+    {
+     "word": "frightened",
+     "ipa": "/ˈfraɪ.tənd/",
+     "pos": "adj",
+     "vi": "sợ hãi",
+     "ex": "The child was frightened of the dark.",
+     "exVi": "Đứa trẻ sợ bóng tối.",
+     "tip": "Đồng nghĩa: scared, afraid."
+    }
+   ],
+   "phrases": [
+    {
+     "en": "How are you feeling today?",
+     "vi": "Hôm nay bạn thấy thế nào?"
+    },
+    {
+     "en": "What's wrong? You look upset.",
+     "vi": "Có chuyện gì vậy? Trông bạn buồn thế."
+    },
+    {
+     "en": "Cheer up!",
+     "vi": "Vui lên nào!"
+    },
+    {
+     "en": "I'm so happy for you!",
+     "vi": "Mình mừng cho bạn quá!"
+    },
+    {
+     "en": "Don't worry about it.",
+     "vi": "Đừng lo lắng về chuyện đó."
+    },
+    {
+     "en": "That sounds exciting!",
+     "vi": "Nghe thú vị đấy!"
+    }
+   ],
+   "grammar": {
+    "formulas": [
+     "Người cảm thấy: S + be / feel + adj-ed (I'm interested)",
+     "Sự vật gây ra: S + be + adj-ing (The book is interesting)",
+     "Cặp thường gặp: bored / boring · tired / tiring · excited / exciting · surprised / surprising · confused / confusing · embarrassed / embarrassing · frightened / frightening"
+    ],
+    "points": [
+     {
+      "title": "Mẹo nhớ",
+      "body": "-ED = người NHẬN cảm xúc. -ING = thứ GÂY RA cảm xúc. I'm interested in this interesting book."
+     },
+     {
+      "title": "Người cũng có thể là -ing",
+      "body": "He is boring = Anh ta là người nhàm chán (làm người khác chán). He is bored = Anh ta đang thấy chán. Cẩn thận khi nói \"I'm boring\"!"
+     },
+     {
+      "title": "Giới từ đi kèm",
+      "body": "interested in, bored with, excited about, worried about, surprised at / by, frightened of, proud of, angry with (người) / about (việc)."
+     }
+    ],
+    "examples": [
+     {
+      "en": "I was bored because the lesson was boring.",
+      "vi": "Tôi thấy chán vì bài học nhàm chán."
+     },
+     {
+      "en": "The news was surprising.",
+      "vi": "Tin tức thật bất ngờ."
+     },
+     {
+      "en": "She is interested in music.",
+      "vi": "Cô ấy hứng thú với âm nhạc."
+     },
+     {
+      "en": "Working twelve hours a day is tiring.",
+      "vi": "Làm việc mười hai tiếng một ngày thật mệt."
+     }
+    ],
+    "mistakes": [
+     {
+      "wrong": "I'm boring in this class.",
+      "right": "I'm bored in this class.",
+      "note": "Muốn nói \"tôi thấy chán\" dùng bored."
+     },
+     {
+      "wrong": "The film was very excited.",
+      "right": "The film was very exciting.",
+      "note": "Bộ phim gây ra cảm xúc → -ing."
+     },
+     {
+      "wrong": "I'm interesting in English.",
+      "right": "I'm interested in English.",
+      "note": "Cảm xúc của người → interested in."
+     }
+    ],
+    "exercises": [
+     {
+      "q": "The movie was so ___ that I fell asleep.",
+      "options": [
+       "bored",
+       "boring",
+       "bore"
+      ],
+      "answer": "boring",
+      "explain": "Bộ phim gây chán → boring."
+     },
+     {
+      "q": "I'm ___ about my holiday next week.",
+      "options": [
+       "exciting",
+       "excited",
+       "excite"
+      ],
+      "answer": "excited",
+      "explain": "Cảm xúc của tôi → excited."
+     },
+     {
+      "q": "The test was very ___. I didn't understand anything.",
+      "options": [
+       "confusing",
+       "confused",
+       "confuse"
+      ],
+      "answer": "confusing",
+      "explain": "Bài kiểm tra gây khó hiểu → confusing."
+     },
+     {
+      "q": "She was ___ when she saw the price.",
+      "options": [
+       "surprising",
+       "surprised",
+       "surprise"
+      ],
+      "answer": "surprised",
+      "explain": "Cảm xúc của cô ấy → surprised."
+     },
+     {
+      "q": "Long journeys are ___.",
+      "options": [
+       "tiring",
+       "tired",
+       "tire"
+      ],
+      "answer": "tiring",
+      "explain": "Chuyến đi gây mệt → tiring."
+     },
+     {
+      "q": "My parents are proud ___ me.",
+      "options": [
+       "about",
+       "of",
+       "with"
+      ],
+      "answer": "of",
+      "explain": "proud of."
+     },
+     {
+      "q": "Are you interested ___ learning English?",
+      "options": [
+       "in",
+       "on",
+       "at"
+      ],
+      "answer": "in",
+      "explain": "interested in."
+     }
+    ],
+    "title": "Tính từ đuôi -ed và -ing",
+    "summary": "Nhiều tính từ chỉ cảm xúc có hai dạng. Đuôi -ED mô tả CẢM XÚC của người (tôi thấy chán = I'm bored). Đuôi -ING mô tả TÍNH CHẤT của sự vật / người gây ra cảm xúc đó (bộ phim chán = The film is boring)."
+   },
+   "dialogue": {
+    "lines": [
+     {
+      "speaker": "A",
+      "name": "Mia",
+      "en": "So, how was your first day at work?",
+      "vi": "Ngày đầu đi làm của bạn thế nào?"
+     },
+     {
+      "speaker": "B",
+      "name": "Bảo",
+      "en": "Honestly, I was really nervous in the morning.",
+      "vi": "Thật lòng, buổi sáng mình hồi hộp lắm."
+     },
+     {
+      "speaker": "A",
+      "name": "Mia",
+      "en": "That's normal. Was the work interesting?",
+      "vi": "Chuyện bình thường mà. Công việc có thú vị không?"
+     },
+     {
+      "speaker": "B",
+      "name": "Bảo",
+      "en": "Yes, but a bit confusing. There were so many new things to learn.",
+      "vi": "Có, nhưng hơi khó hiểu. Có quá nhiều thứ mới phải học."
+     },
+     {
+      "speaker": "A",
+      "name": "Mia",
+      "en": "Were your colleagues friendly?",
+      "vi": "Đồng nghiệp có thân thiện không?"
+     },
+     {
+      "speaker": "B",
+      "name": "Bảo",
+      "en": "Very! But I was so embarrassed. I called my manager by the wrong name!",
+      "vi": "Rất thân thiện! Nhưng mình xấu hổ lắm. Mình gọi nhầm tên quản lý!"
+     },
+     {
+      "speaker": "A",
+      "name": "Mia",
+      "en": "Ha ha! Don't worry. I'm sure he wasn't angry.",
+      "vi": "Ha ha! Đừng lo. Mình chắc anh ấy không giận đâu."
+     },
+     {
+      "speaker": "B",
+      "name": "Bảo",
+      "en": "No, he laughed. Now I feel more relaxed.",
+      "vi": "Không, anh ấy cười. Giờ mình thấy thoải mái hơn rồi."
+     }
+    ],
+    "questions": [
+     {
+      "q": "How did Bao feel in the morning?",
+      "options": [
+       "relaxed",
+       "nervous",
+       "bored"
+      ],
+      "answer": "nervous"
+     },
+     {
+      "q": "Why was Bao embarrassed?",
+      "options": [
+       "He was late",
+       "He called his manager by the wrong name",
+       "He forgot his laptop"
+      ],
+      "answer": "He called his manager by the wrong name"
+     }
+    ],
+    "title": "Ngày đầu đi làm",
+    "setting": "Hai người bạn nói chuyện sau ngày đầu tiên đi làm của Bảo."
+   },
+   "reading": {
+    "questions": [
+     {
+      "q": "What does our brain do when we are bored?",
+      "options": [
+       "It sleeps",
+       "It looks for something new",
+       "It stops working"
+      ],
+      "answer": "It looks for something new"
+     },
+     {
+      "q": "What can happen if you feel bored all the time?",
+      "options": [
+       "You become rich",
+       "You feel tired and unhappy",
+       "You get more creative"
+      ],
+      "answer": "You feel tired and unhappy"
+     }
+    ],
+    "title": "Why do we feel bored?",
+    "text": "Everyone feels bored sometimes. Scientists say boredom is not always bad. When we are bored, our brain starts to look for something new and interesting. This is why many people get creative ideas when they are doing boring things, like washing the dishes or waiting for a bus. However, if you feel bored all the time, it can make you tired and unhappy. So, try a new hobby, meet new people or learn a new skill. You might be surprised by how exciting life can be!",
+    "vi": "Ai cũng có lúc cảm thấy chán. Các nhà khoa học nói rằng sự nhàm chán không phải lúc nào cũng xấu. Khi ta chán, não bắt đầu tìm kiếm điều gì đó mới mẻ và thú vị. Đó là lý do nhiều người nảy ra ý tưởng sáng tạo khi đang làm việc nhàm chán như rửa bát hay chờ xe buýt. Tuy nhiên, nếu lúc nào bạn cũng thấy chán, điều đó có thể khiến bạn mệt mỏi và không vui. Vì vậy, hãy thử một sở thích mới, gặp gỡ người mới hoặc học một kỹ năng mới. Bạn có thể sẽ ngạc nhiên vì cuộc sống thú vị đến thế nào!"
+   },
+   "title": "Cảm xúc",
+   "titleEn": "Feelings",
+   "emoji": "😊",
+   "goal": "Diễn tả cảm xúc và phân biệt tính từ -ed / -ing."
+  },
+  {
+   "id": "a2-u10",
+   "words": [
+    {
+     "word": "menu",
+     "ipa": "/ˈmen.juː/",
+     "pos": "noun",
+     "vi": "thực đơn",
+     "ex": "Could I see the menu, please?",
+     "exVi": "Cho tôi xem thực đơn được không?"
+    },
+    {
+     "word": "order",
+     "ipa": "/ˈɔːr.dɚ/",
+     "pos": "verb",
+     "vi": "gọi món, đặt hàng",
+     "ex": "Are you ready to order?",
+     "exVi": "Quý khách đã sẵn sàng gọi món chưa?"
+    },
+    {
+     "word": "waiter",
+     "ipa": "/ˈweɪ.t̬ɚ/",
+     "pos": "noun",
+     "vi": "bồi bàn (nam)",
+     "ex": "The waiter brought our drinks.",
+     "exVi": "Bồi bàn mang đồ uống ra cho chúng tôi.",
+     "tip": "Nữ: waitress. Trung tính: server."
+    },
+    {
+     "word": "bill",
+     "ipa": "/bɪl/",
+     "pos": "noun",
+     "vi": "hóa đơn",
+     "ex": "Can we have the bill, please?",
+     "exVi": "Cho chúng tôi xin hóa đơn.",
+     "tip": "Anh-Mỹ: check."
+    },
+    {
+     "word": "dish",
+     "ipa": "/dɪʃ/",
+     "pos": "noun",
+     "vi": "món ăn; cái đĩa",
+     "ex": "This is the most popular dish here.",
+     "exVi": "Đây là món phổ biến nhất ở đây."
+    },
+    {
+     "word": "dessert",
+     "ipa": "/dɪˈzɝːt/",
+     "pos": "noun",
+     "vi": "món tráng miệng",
+     "ex": "What would you like for dessert?",
+     "exVi": "Quý khách muốn dùng món tráng miệng gì?",
+     "tip": "2 chữ s (ai cũng muốn ăn 2 lần); desert (1 s) = sa mạc."
+    },
+    {
+     "word": "delicious",
+     "ipa": "/dɪˈlɪʃ.əs/",
+     "pos": "adj",
+     "vi": "ngon",
+     "ex": "The soup is delicious.",
+     "exVi": "Món súp ngon tuyệt."
+    },
+    {
+     "word": "spicy",
+     "ipa": "/ˈspaɪ.si/",
+     "pos": "adj",
+     "vi": "cay",
+     "ex": "Is this dish spicy?",
+     "exVi": "Món này có cay không?",
+     "tip": "spice (gia vị) + y."
+    },
+    {
+     "word": "reservation",
+     "ipa": "/ˌrez.ɚˈveɪ.ʃən/",
+     "pos": "noun",
+     "vi": "sự đặt chỗ",
+     "ex": "I have a reservation for two at seven.",
+     "exVi": "Tôi đã đặt bàn cho hai người lúc bảy giờ.",
+     "tip": "reserve = giữ trước."
+    },
+    {
+     "word": "vegetarian",
+     "ipa": "/ˌvedʒ.əˈter.i.ən/",
+     "pos": "adj",
+     "vi": "ăn chay",
+     "ex": "Do you have any vegetarian dishes?",
+     "exVi": "Ở đây có món chay nào không?"
+    },
+    {
+     "word": "recommend",
+     "ipa": "/ˌrek.əˈmend/",
+     "pos": "verb",
+     "vi": "gợi ý, giới thiệu",
+     "ex": "What do you recommend?",
+     "exVi": "Bạn gợi ý món nào?",
+     "tip": "Một chữ c, hai chữ m."
+    },
+    {
+     "word": "napkin",
+     "ipa": "/ˈnæp.kɪn/",
+     "pos": "noun",
+     "vi": "khăn ăn",
+     "ex": "Could I have another napkin?",
+     "exVi": "Cho tôi xin thêm khăn ăn được không?"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "A table for two, please.",
+     "vi": "Cho tôi một bàn hai người."
+    },
+    {
+     "en": "I'd like the grilled fish, please.",
+     "vi": "Cho tôi món cá nướng."
+    },
+    {
+     "en": "Could I have some more water?",
+     "vi": "Cho tôi xin thêm chút nước được không?"
+    },
+    {
+     "en": "Excuse me, this isn't what I ordered.",
+     "vi": "Xin lỗi, đây không phải món tôi gọi."
+    },
+    {
+     "en": "Can we pay separately?",
+     "vi": "Chúng tôi trả riêng được không?"
+    },
+    {
+     "en": "Keep the change.",
+     "vi": "Không cần trả lại tiền thừa đâu."
+    }
+   ],
+   "grammar": {
+    "formulas": [
+     "Can / Could I have + N, please? (xin cái gì)",
+     "Could you + V, please? (nhờ ai làm gì)",
+     "May I + V? (xin phép – rất trang trọng)",
+     "I'd like (= I would like) + N / to V"
+    ],
+    "points": [
+     {
+      "title": "Mức độ lịch sự",
+      "body": "Can I...? (thân mật) < Could I...? (lịch sự) < May I...? (trang trọng). Trong nhà hàng nên dùng Could I...? hoặc I'd like..."
+     },
+     {
+      "title": "Tránh \"I want\"",
+      "body": "\"I want a coffee\" nghe hơi cộc lốc. Hãy nói: I'd like a coffee, please. / Could I have a coffee, please?"
+     },
+     {
+      "title": "Trả lời yêu cầu",
+      "body": "Đồng ý: Sure. / Of course. / Certainly. Từ chối khéo: I'm sorry, but... / I'm afraid we don't have..."
+     }
+    ],
+    "examples": [
+     {
+      "en": "Could I have the menu, please?",
+      "vi": "Cho tôi xin thực đơn được không?"
+     },
+     {
+      "en": "I'd like a table by the window.",
+      "vi": "Tôi muốn một bàn cạnh cửa sổ."
+     },
+     {
+      "en": "Could you recommend a dish?",
+      "vi": "Bạn có thể gợi ý một món không?"
+     },
+     {
+      "en": "May I pay by credit card?",
+      "vi": "Tôi có thể thanh toán bằng thẻ tín dụng không?"
+     }
+    ],
+    "mistakes": [
+     {
+      "wrong": "I want the bill.",
+      "right": "Could I have the bill, please?",
+      "note": "Nói lịch sự hơn."
+     },
+     {
+      "wrong": "Could you to bring some water?",
+      "right": "Could you bring some water?",
+      "note": "Sau could dùng V nguyên mẫu."
+     },
+     {
+      "wrong": "I would like order now.",
+      "right": "I would like to order now.",
+      "note": "would like + to V."
+     }
+    ],
+    "exercises": [
+     {
+      "q": "___ I have the bill, please?",
+      "options": [
+       "Could",
+       "Would",
+       "Will"
+      ],
+      "answer": "Could",
+      "explain": "Xin cái gì: Could I have...?"
+     },
+     {
+      "q": "I'd like ___ a table for four.",
+      "options": [
+       "book",
+       "to book",
+       "booking"
+      ],
+      "answer": "to book",
+      "explain": "would like + to V."
+     },
+     {
+      "q": "Could you ___ me some more water?",
+      "options": [
+       "bring",
+       "to bring",
+       "brings"
+      ],
+      "answer": "bring",
+      "explain": "Sau could dùng V nguyên mẫu."
+     },
+     {
+      "q": "___ you like anything to drink?",
+      "options": [
+       "Could",
+       "Would",
+       "May"
+      ],
+      "answer": "Would",
+      "explain": "Mời: Would you like...?"
+     },
+     {
+      "q": "___ I sit here? (rất trang trọng)",
+      "options": [
+       "May",
+       "Will",
+       "Would"
+      ],
+      "answer": "May",
+      "explain": "Xin phép trang trọng: May I...?"
+     },
+     {
+      "q": "I'd ___ the chicken salad, please.",
+      "options": [
+       "like",
+       "want",
+       "love to"
+      ],
+      "answer": "like",
+      "explain": "I'd like + N."
+     },
+     {
+      "q": "Could I ___ another napkin?",
+      "options": [
+       "have",
+       "having",
+       "to have"
+      ],
+      "answer": "have",
+      "explain": "Could I have...?"
+     }
+    ],
+    "title": "Yêu cầu lịch sự: Could / Can / May / Would like",
+    "summary": "Khi gọi món hay nhờ vả, người bản xứ rất chú trọng sự lịch sự. Could và May lịch sự hơn Can; I'd like lịch sự hơn I want."
+   },
+   "dialogue": {
+    "lines": [
+     {
+      "speaker": "A",
+      "name": "Waiter",
+      "en": "Good evening. Do you have a reservation?",
+      "vi": "Chào buổi tối. Anh chị đã đặt bàn chưa ạ?"
+     },
+     {
+      "speaker": "B",
+      "name": "Huy",
+      "en": "Yes, a table for two under the name Huy.",
+      "vi": "Rồi, bàn hai người tên Huy."
+     },
+     {
+      "speaker": "A",
+      "name": "Waiter",
+      "en": "This way, please. Here is the menu. Are you ready to order?",
+      "vi": "Mời đi lối này. Đây là thực đơn. Anh chị gọi món chưa ạ?"
+     },
+     {
+      "speaker": "B",
+      "name": "Huy",
+      "en": "Could you recommend something?",
+      "vi": "Anh có thể gợi ý món gì không?"
+     },
+     {
+      "speaker": "A",
+      "name": "Waiter",
+      "en": "Our grilled fish is very popular. It's a little spicy.",
+      "vi": "Món cá nướng của chúng tôi rất được ưa chuộng. Hơi cay một chút."
+     },
+     {
+      "speaker": "B",
+      "name": "Huy",
+      "en": "Great, I'd like the grilled fish. My wife is vegetarian. Do you have any vegetarian dishes?",
+      "vi": "Tuyệt, cho tôi món cá nướng. Vợ tôi ăn chay. Có món chay nào không?"
+     },
+     {
+      "speaker": "A",
+      "name": "Waiter",
+      "en": "Certainly. I recommend the tofu with mushrooms.",
+      "vi": "Có ạ. Tôi gợi ý món đậu phụ sốt nấm."
+     },
+     {
+      "speaker": "B",
+      "name": "Huy",
+      "en": "Perfect. And could we have two glasses of orange juice, please?",
+      "vi": "Tuyệt. Và cho chúng tôi hai cốc nước cam nhé?"
+     }
+    ],
+    "questions": [
+     {
+      "q": "What does the waiter recommend?",
+      "options": [
+       "the grilled fish",
+       "the beef noodles",
+       "the chicken salad"
+      ],
+      "answer": "the grilled fish"
+     },
+     {
+      "q": "What will Huy's wife eat?",
+      "options": [
+       "grilled fish",
+       "tofu with mushrooms",
+       "chicken soup"
+      ],
+      "answer": "tofu with mushrooms"
+     }
+    ],
+    "title": "Gọi món ở nhà hàng",
+    "setting": "Một cặp đôi ăn tối ở nhà hàng."
+   },
+   "reading": {
+    "questions": [
+     {
+      "q": "How much do people usually tip in the US?",
+      "options": [
+       "5 percent",
+       "15 to 20 percent",
+       "50 percent"
+      ],
+      "answer": "15 to 20 percent"
+     },
+     {
+      "q": "In which country can tipping be rude?",
+      "options": [
+       "the United States",
+       "Japan",
+       "Vietnam"
+      ],
+      "answer": "Japan"
+     }
+    ],
+    "title": "Tipping around the world",
+    "text": "Should you leave a tip at a restaurant? It depends on the country. In the United States, tipping is very important. Most people leave 15 to 20 percent of the bill, because waiters' salaries are low. In Japan, however, tipping is not common and can even be rude. In many European countries, a service charge is already on the bill, but people often leave a few coins if the service was good. In Vietnam, tipping is not required, but it is always appreciated.",
+    "vi": "Bạn có nên để lại tiền boa ở nhà hàng không? Điều đó tùy từng quốc gia. Ở Mỹ, tiền boa rất quan trọng. Hầu hết mọi người để lại 15 đến 20 phần trăm hóa đơn vì lương bồi bàn thấp. Tuy nhiên ở Nhật, boa không phổ biến và thậm chí có thể bị coi là bất lịch sự. Ở nhiều nước châu Âu, phí dịch vụ đã có sẵn trong hóa đơn, nhưng người ta thường để lại vài đồng xu nếu phục vụ tốt. Ở Việt Nam, boa không bắt buộc nhưng luôn được trân trọng."
+   },
+   "title": "Ở nhà hàng",
+   "titleEn": "At a Restaurant",
+   "emoji": "🍽️",
+   "goal": "Đặt bàn, gọi món, yêu cầu lịch sự và thanh toán."
+  }
+ ],
+ "id": "A2",
+ "name": "Sơ cấp",
+ "nameEn": "Elementary",
+ "color": "0EA5E9",
+ "emoji": "🌿",
+ "hours": "100–150 giờ",
+ "description": "Giao tiếp trong các tình huống quen thuộc: kể chuyện quá khứ, nói về kế hoạch, sức khỏe, công việc, du lịch và cảm xúc.",
+ "canDo": [
+  "Kể lại kỳ nghỉ, sự việc đã xảy ra trong quá khứ",
+  "Nói về kế hoạch và dự định tương lai",
+  "Đưa ra và xin lời khuyên đơn giản",
+  "So sánh nơi chốn, đồ vật, con người",
+  "Gọi món, đặt chỗ và yêu cầu lịch sự"
+ ]
+}

@@ -1,0 +1,35 @@
+{
+  "methods": [
+    {"icon": "arrow.triangle.2.circlepath", "title": "Lặp lại ngắt quãng", "subtitle": "Spaced Repetition", "body": "Não bộ quên khoảng 70% thông tin mới chỉ sau 24 giờ (đường cong quên lãng Ebbinghaus). VocabTok tự tính thời điểm bạn sắp quên một từ và nhắc ôn đúng lúc: sau 1 ngày, 3 ngày, 7 ngày, 14 ngày, 30 ngày... Ôn đúng thì khoảng cách giãn ra; ôn sai thì từ đó quay lại sớm hơn. Nhờ vậy bạn nhớ lâu mà tốn ít thời gian nhất."},
+    {"icon": "brain.head.profile", "title": "Chủ động gợi nhớ", "subtitle": "Active Recall", "body": "Tự lục lại trí nhớ hiệu quả hơn đọc lại nhiều lần. Vì vậy app luôn che nghĩa và để bạn đoán trước, rồi kiểm tra bằng nhiều dạng bài: chọn nghĩa, nghe chọn từ, điền vào câu, ghép chữ, gõ chính tả, ghép cặp, sắp xếp câu."},
+    {"icon": "ear", "title": "Input dễ hiểu", "subtitle": "Comprehensible Input", "body": "Theo nhà ngôn ngữ học Stephen Krashen, ta tiếp thu ngôn ngữ tốt nhất khi hiểu được nội dung hơi cao hơn trình độ hiện tại một chút (i+1). Hội thoại và bài đọc của mỗi unit được viết đúng trình độ, có bản dịch và cho phép chạm vào từ để tra nghĩa."},
+    {"icon": "waveform", "title": "Shadowing – nói đuổi", "subtitle": "Luyện phát âm", "body": "Nghe một câu mẫu rồi lặp lại ngay, bắt chước ngữ điệu và trọng âm. Phần Luyện nói dùng nhận dạng giọng nói để chấm điểm từng từ bạn phát âm, giúp bạn biết chính xác chỗ cần sửa."},
+    {"icon": "square.stack.3d.up", "title": "Học theo ngữ cảnh", "subtitle": "Từ – cụm – câu", "body": "Không học từ đơn lẻ: mỗi từ đi kèm phiên âm, câu ví dụ, mẹo nhớ và mẫu câu giao tiếp. Ngữ pháp được giới thiệu qua tình huống thực tế, có công thức, lỗi thường gặp và bài tập ngay sau đó."},
+    {"icon": "flame", "title": "Thói quen nhỏ mỗi ngày", "subtitle": "Atomic Habits", "body": "10–15 phút mỗi ngày hiệu quả hơn 2 tiếng mỗi tuần. Chuỗi ngày học, mục tiêu XP, nhiệm vụ hằng ngày và lời nhắc học giúp bạn duy trì động lực lâu dài."},
+    {"icon": "timer", "title": "Học tập trung", "subtitle": "Mỗi bài ~5 phút", "body": "Bài học ngắn, mỗi màn hình chỉ một nhiệm vụ, không quảng cáo, không xao nhãng. Mẹo: bật chế độ Không làm phiền trên iPhone khi học để tập trung tối đa."}
+  ],
+  "howItWorks": [
+    {"icon": "map", "title": "Lộ trình 5 cấp độ", "body": "Từ A1 (mới bắt đầu) đến C1 (cao cấp) theo Khung tham chiếu châu Âu CEFR, gồm 48 unit được sắp xếp từ dễ đến khó."},
+    {"icon": "square.grid.3x3", "title": "7 bài mỗi unit", "body": "Từ vựng 1 → Từ vựng 2 → Ngữ pháp → Hội thoại → Đọc hiểu → Luyện nói → Kiểm tra unit. Mỗi bài khoảng 5 phút."},
+    {"icon": "star.fill", "title": "Sao & mở khóa", "body": "Mỗi bài nhận 1–3 sao theo độ chính xác. Đạt từ 80% ở bài kiểm tra để hoàn thành unit. Đã biết rồi? Bạn có thể làm bài kiểm tra để vượt unit ngay."},
+    {"icon": "brain", "title": "Tự động ôn tập", "body": "Mọi từ đã học được đưa vào hệ thống lặp lại ngắt quãng. Mục Luyện tập cho biết hôm nay có bao nhiêu từ đến hạn ôn."}
+  ],
+  "dailyPlan": [
+    {"time": "2 phút", "title": "Khởi động", "body": "Ôn nhanh các từ đến hạn trong mục Luyện tập."},
+    {"time": "5–7 phút", "title": "Bài mới", "body": "Hoàn thành ít nhất 1 bài trên lộ trình học."},
+    {"time": "3–5 phút", "title": "Luyện thêm", "body": "Nghe chép chính tả, luyện phát âm hoặc chơi Ghép cặp tốc độ."},
+    {"time": "1 phút", "title": "Trước khi ngủ", "body": "Lướt lại các từ đã học trong ngày bằng chế độ Lướt từ."}
+  ],
+  "tips": [
+    "Học mỗi ngày, dù chỉ 5 phút – sự đều đặn quan trọng hơn thời lượng.",
+    "Luôn đọc to từ và câu ví dụ – miệng nhớ lâu hơn mắt.",
+    "Tự đặt câu với từ mới, càng gắn với cuộc sống của bạn càng nhớ lâu.",
+    "Đừng sợ sai – mỗi lần sai là một lần não bộ điều chỉnh và ghi nhớ sâu hơn.",
+    "Ôn tập trước khi học bài mới để củng cố nền móng.",
+    "Nghe tiếng Anh khi rảnh: podcast, nhạc, phim có phụ đề tiếng Anh.",
+    "Chuyển ngôn ngữ điện thoại sang tiếng Anh để tiếp xúc hằng ngày.",
+    "Ghi âm giọng mình và so sánh với giọng mẫu để sửa phát âm.",
+    "Học ngữ pháp để hiểu chứ không để thuộc lòng – và dùng nó ngay trong câu.",
+    "Đặt mục tiêu cụ thể: \"Hoàn thành A2 trong 3 tháng\" tốt hơn \"giỏi tiếng Anh\"."
+  ]
+}

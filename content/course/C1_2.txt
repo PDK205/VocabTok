@@ -1,0 +1,271 @@
+@level C1
+
+# UNIT c1-u5
+title: Triết lý sống
+titleEn: Philosophy of Life
+emoji: 🌌
+goal: Bàn về ý nghĩa cuộc sống và dùng cấu trúc quá khứ giả định.
+## words
+inevitable | /ɪˈnev.ə.t̬ə.bəl/ | adj | không thể tránh khỏi | Change is an inevitable part of life. | Thay đổi là điều tất yếu của cuộc sống. | in (không) + evitable (có thể tránh).
+ephemeral | /əˈfem.ɚ.əl/ | adj | phù du, chóng tàn | Fame can be ephemeral. | Danh vọng có thể rất phù du. | Như cầu vồng: xuất hiện rồi biến mất.
+serendipity | /ˌser.ənˈdɪp.ə.t̬i/ | noun | sự tình cờ may mắn | Meeting my wife was pure serendipity. | Gặp vợ tôi hoàn toàn là sự tình cờ may mắn.
+persevere | /ˌpɝː.səˈvɪr/ | verb | kiên trì | If you persevere, you will succeed. | Nếu bạn kiên trì, bạn sẽ thành công. | perseverance = sự kiên trì.
+compassion | /kəmˈpæʃ.ən/ | noun | lòng trắc ẩn | Show compassion to those who are suffering. | Hãy thể hiện lòng trắc ẩn với những người đang đau khổ.
+integrity | /ɪnˈteɡ.rə.t̬i/ | noun | sự chính trực | A leader must act with integrity. | Một nhà lãnh đạo phải hành động chính trực.
+profound | /prəˈfaʊnd/ | adj | sâu sắc | The book had a profound effect on me. | Cuốn sách có ảnh hưởng sâu sắc đến tôi.
+contemplate | /ˈkɑːn.t̬əm.pleɪt/ | verb | suy ngẫm; cân nhắc | She sat by the lake, contemplating her future. | Cô ấy ngồi bên hồ, suy ngẫm về tương lai.
+mundane | /mʌnˈdeɪn/ | adj | tầm thường, thường nhật | Even mundane tasks can be meaningful. | Ngay cả những việc thường nhật cũng có thể ý nghĩa.
+transcend | /trænˈsend/ | verb | vượt lên, vượt qua | Great music transcends language and culture. | Âm nhạc vĩ đại vượt lên mọi ngôn ngữ và văn hóa. | trans (vượt) + scend (leo).
+paradox | /ˈper.ə.dɑːks/ | noun | nghịch lý | It's a paradox that the more choices we have, the less happy we feel. | Thật nghịch lý khi càng có nhiều lựa chọn, ta lại càng thấy kém hạnh phúc.
+solitude | /ˈsɑː.lə.tuːd/ | noun | sự cô tịch, ở một mình | Some people enjoy solitude more than company. | Một số người thích ở một mình hơn có người bên cạnh. | solitude (tích cực) ≠ loneliness (cô đơn).
+## phrases
+Life is what you make it. | Cuộc sống là do bạn tạo nên.
+Every cloud has a silver lining. | Trong cái rủi có cái may.
+This too shall pass. | Rồi mọi chuyện cũng sẽ qua.
+Live in the moment. | Hãy sống cho hiện tại.
+What goes around comes around. | Gieo nhân nào gặt quả nấy.
+## grammar
+title: Quá khứ giả định: It's time, would rather, as if
+summary: Ngoài câu điều kiện và wish, tiếng Anh còn dùng thì quá khứ để diễn tả điều không có thật hoặc mong muốn ở hiện tại sau một số cấu trúc đặc biệt: It's (high) time, would rather, as if / as though.
+formula: It's (high / about) time + S + V2: It's time we changed our habits.
+formula: S + would rather + S2 + V2 (muốn người khác làm gì): I'd rather you didn't smoke here.
+formula: S + would rather + V nguyên mẫu (cùng chủ ngữ): I'd rather stay at home.
+formula: as if / as though + S + V2 (không có thật): He talks as if he knew everything.
+formula: would rather + S2 + had V3 (tiếc về quá khứ): I'd rather you had told me earlier.
+point: It's time + quá khứ | Diễn tả việc lẽ ra nên làm từ lâu: It's high time we took climate change seriously. Không có chủ ngữ riêng thì dùng It's time to V: It's time to go.
+point: would rather: hai trường hợp | Cùng chủ ngữ → V nguyên mẫu: I'd rather walk. Khác chủ ngữ → quá khứ đơn: I'd rather you walked.
+point: as if / as though | Có thể thật → hiện tại: It looks as if it's going to rain. Không có thật → quá khứ: She acts as if she were the boss (nhưng cô ấy không phải sếp).
+point: were cho mọi chủ ngữ | Trong văn trang trọng: He behaves as if he were a king. / If only I were younger.
+example: It's time we stopped chasing ephemeral pleasures. | Đã đến lúc chúng ta ngừng chạy theo những thú vui phù du.
+example: I'd rather you didn't tell anyone about this. | Tôi muốn bạn đừng kể với ai chuyện này.
+example: He spends money as if there were no tomorrow. | Anh ta tiêu tiền như thể không có ngày mai.
+example: I'd rather live a simple life than a stressful one. | Tôi thà sống cuộc đời giản dị còn hơn cuộc đời căng thẳng.
+mistake: It's time we change our lifestyle. | It's time we changed our lifestyle. | Sau It's time + S dùng quá khứ.
+mistake: I'd rather you don't call me so late. | I'd rather you didn't call me so late. | Khác chủ ngữ → quá khứ.
+mistake: I'd rather to stay home. | I'd rather stay home. | would rather + V nguyên mẫu, không có to.
+ex: It's high time we ___ action on climate change. | take ; took ; will take | took | It's high time + S + V2.
+ex: I'd rather you ___ smoke in the house. | don't ; didn't ; won't | didn't | would rather + S2 + V2.
+ex: He talks as if he ___ the answer to everything. | knows ; knew ; has known | knew | Không có thật → quá khứ.
+ex: I'd rather ___ alone than with the wrong people. | to be ; be ; being | be | Cùng chủ ngữ → V nguyên mẫu.
+ex: It's time ___ go home. It's late. | to ; that ; for | to | It's time to V.
+ex: She looked at me as though I ___ crazy. | am ; were ; will be | were | as though + were.
+ex: I'd rather you ___ me the truth yesterday. | told ; had told ; tell | had told | Tiếc về quá khứ → had + V3.
+## dialogue
+title: Sống chậm
+setting: Hai người bạn lâu ngày gặp lại.
+line: A | Khánh | You look so peaceful these days. What's changed? | Dạo này trông bạn bình yên thế. Có gì thay đổi vậy?
+line: B | Olivia | I quit my job in the city. I realised it was time I stopped living as if work were the only thing that mattered. | Mình nghỉ việc ở thành phố rồi. Mình nhận ra đã đến lúc ngừng sống như thể công việc là điều duy nhất quan trọng.
+line: A | Khánh | Wow, that's a big decision. Don't you miss the money? | Chà, quyết định lớn đấy. Bạn không tiếc tiền à?
+line: B | Olivia | Sometimes. But I'd rather have less money and more time. Success felt so ephemeral. | Thỉnh thoảng. Nhưng mình thà có ít tiền và nhiều thời gian hơn. Thành công khi ấy cảm giác thật phù du.
+line: A | Khánh | I envy you. I keep telling myself it's time I made a change, but I never do. | Mình ghen tị với bạn. Mình cứ tự nhủ đã đến lúc phải thay đổi, nhưng chẳng bao giờ làm.
+line: B | Olivia | Change is scary, but it's inevitable. Start small. Even mundane things like walking can help you think clearly. | Thay đổi thì đáng sợ, nhưng nó là điều tất yếu. Bắt đầu từ việc nhỏ thôi. Ngay cả những việc thường nhật như đi bộ cũng giúp bạn suy nghĩ thông suốt.
+q: Why did Olivia quit her job? | She was fired ; She didn't want work to be the only thing that mattered ; She moved abroad | She didn't want work to be the only thing that mattered
+q: What would Olivia rather have? | more money and less time ; less money and more time ; a bigger house | less money and more time
+## reading
+title: The paradox of choice
+text: We often assume that more choice leads to greater happiness. Yet psychologist Barry Schwartz argues the opposite. In his book "The Paradox of Choice", he explains that when faced with too many options, people often feel anxious, struggle to decide and are less satisfied with their final choice. We behave as if the perfect option existed, and constantly wonder whether we could have chosen better. Schwartz suggests that it is time we learned to be "satisficers" – people who choose something good enough – rather than "maximisers" who always seek the best. Paradoxically, accepting imperfection may be the key to contentment.
+vi: Chúng ta thường cho rằng càng nhiều lựa chọn thì càng hạnh phúc. Thế nhưng nhà tâm lý học Barry Schwartz lại lập luận điều ngược lại. Trong cuốn sách "Nghịch lý của sự lựa chọn", ông giải thích rằng khi đối mặt với quá nhiều phương án, con người thường cảm thấy lo lắng, khó quyết định và kém hài lòng với lựa chọn cuối cùng. Chúng ta hành xử như thể phương án hoàn hảo tồn tại, và liên tục băn khoăn liệu mình có thể chọn tốt hơn không. Schwartz cho rằng đã đến lúc chúng ta học cách trở thành người "chấp nhận đủ tốt" thay vì người "tối đa hóa" luôn tìm kiếm thứ tốt nhất. Thật nghịch lý, chấp nhận sự không hoàn hảo có thể là chìa khóa của sự mãn nguyện.
+q: What happens when people have too many options? | They feel happier ; They feel anxious and less satisfied ; They choose faster | They feel anxious and less satisfied
+q: What is a "satisficer"? | someone who always seeks the best ; someone who chooses something good enough ; someone who never chooses | someone who chooses something good enough
+
+# UNIT c1-u6
+title: Khoa học & Đạo đức
+titleEn: Science & Ethics
+emoji: 🧬
+goal: Thảo luận tranh cãi đạo đức và viết thận trọng bằng ngôn ngữ rào đón.
+## words
+ethical | /ˈeθ.ɪ.kəl/ | adj | (thuộc) đạo đức | Is it ethical to test products on animals? | Thử nghiệm sản phẩm trên động vật có hợp đạo đức không? | ethics = đạo đức học.
+controversy | /ˈkɑːn.trə.vɝː.si/ | noun | sự tranh cãi | The new law caused a lot of controversy. | Luật mới gây ra nhiều tranh cãi. | controversial = gây tranh cãi.
+genetic | /dʒəˈnet̬.ɪk/ | adj | (thuộc) di truyền, gen | Some diseases are caused by genetic factors. | Một số bệnh do yếu tố di truyền gây ra.
+clone | /kloʊn/ | verb | nhân bản vô tính | Dolly the sheep was the first mammal to be cloned. | Cừu Dolly là động vật có vú đầu tiên được nhân bản vô tính.
+manipulate | /məˈnɪp.jə.leɪt/ | verb | thao túng; can thiệp | Scientists can now manipulate genes. | Các nhà khoa học giờ đây có thể can thiệp vào gen.
+consent | /kənˈsent/ | noun | sự đồng ý, chấp thuận | Patients must give their consent before surgery. | Bệnh nhân phải đồng ý trước khi phẫu thuật. | informed consent = sự đồng ý sau khi được thông tin đầy đủ.
+dilemma | /dɪˈlem.ə/ | noun | tình thế khó xử | Doctors often face ethical dilemmas. | Bác sĩ thường đối mặt với những tình thế khó xử về đạo đức. | di (hai): kẹt giữa hai lựa chọn.
+unprecedented | /ʌnˈpres.ə.den.t̬ɪd/ | adj | chưa từng có | AI is developing at an unprecedented speed. | AI đang phát triển với tốc độ chưa từng có.
+implication | /ˌɪm.pləˈkeɪ.ʃən/ | noun | hệ quả, hàm ý | We must consider the implications of this technology. | Chúng ta phải cân nhắc những hệ quả của công nghệ này.
+regulate | /ˈreɡ.jə.leɪt/ | verb | điều tiết, quản lý bằng luật | Governments struggle to regulate new technologies. | Các chính phủ chật vật trong việc quản lý công nghệ mới.
+pioneer | /ˌpaɪəˈnɪr/ | noun | người tiên phong | Marie Curie was a pioneer in radioactivity research. | Marie Curie là người tiên phong trong nghiên cứu phóng xạ.
+scrutiny | /ˈskruː.tən.i/ | noun | sự giám sát kỹ lưỡng | The company's practices came under public scrutiny. | Hoạt động của công ty bị công chúng giám sát chặt chẽ.
+## phrases
+It's a grey area. | Đó là vùng xám (khó phân định đúng sai).
+Where do we draw the line? | Chúng ta đặt giới hạn ở đâu?
+It opens a can of worms. | Nó mở ra một mớ rắc rối.
+Just because we can, doesn't mean we should. | Có thể làm không có nghĩa là nên làm.
+The end doesn't justify the means. | Mục đích không biện minh cho phương tiện.
+## grammar
+title: Ngôn ngữ rào đón (Hedging)
+summary: Trong văn học thuật, người viết hiếm khi khẳng định tuyệt đối. Ngôn ngữ rào đón giúp thể hiện mức độ chắc chắn phù hợp, tránh khái quát hóa quá mức và thể hiện tư duy khoa học thận trọng – yếu tố quan trọng để đạt band cao.
+formula: Động từ khuyết thiếu: may, might, could (This may lead to...)
+formula: Động từ: seem, appear, tend, suggest, indicate (The results suggest that...)
+formula: Trạng từ: possibly, probably, arguably, relatively, largely (This is arguably the most important...)
+formula: Cụm: It is likely / possible that... · There is evidence to suggest that... · to some extent
+point: Tránh khẳng định tuyệt đối | "Social media causes depression" (quá chắc chắn) → "Excessive use of social media may contribute to depression."
+point: seem / appear / tend | Young people tend to be more open to new technologies. / The treatment appears to be effective.
+point: Báo cáo kết quả nghiên cứu | The data suggests / indicates / implies that... Dùng thay cho "proves" khi chưa thật chắc chắn.
+point: Không rào đón quá mức | "It might possibly perhaps be..." – quá nhiều từ rào đón khiến câu yếu và mơ hồ. Chọn một mức độ phù hợp.
+example: Genetic engineering could potentially eliminate many diseases. | Kỹ thuật di truyền có khả năng loại bỏ nhiều bệnh tật.
+example: The evidence appears to support this hypothesis. | Bằng chứng có vẻ ủng hộ giả thuyết này.
+example: It is likely that stricter regulations will be introduced. | Có khả năng các quy định chặt chẽ hơn sẽ được ban hành.
+example: This is arguably the greatest ethical dilemma of our time. | Đây có thể nói là tình thế khó xử về đạo đức lớn nhất thời đại chúng ta.
+mistake: Cloning will definitely destroy society. | Cloning could have serious consequences for society. | Tránh khẳng định tuyệt đối không có căn cứ.
+mistake: The study proves that coffee is healthy. | The study suggests that coffee may be beneficial. | Một nghiên cứu hiếm khi "chứng minh" tuyệt đối.
+mistake: People tend being skeptical. | People tend to be skeptical. | tend + to V.
+ex: The results ___ that the new drug is effective. | prove definitely ; suggest ; are proving | suggest | Rào đón: suggest.
+ex: Young people ___ to adapt quickly to new technology. | tend ; seem being ; are tend | tend | tend + to V.
+ex: This technology ___ lead to unexpected problems. | will certainly ; could ; must | could | Rào đón khả năng: could.
+ex: It is ___ that the law will be changed next year. | likely ; probably ; maybe | likely | It is likely that...
+ex: The treatment ___ to have few side effects. | appears ; looks like ; is seeming | appears | appear + to V.
+ex: This is ___ the most controversial issue in modern science. | arguably ; argue ; arguable | arguably | Trạng từ rào đón: arguably.
+ex: To some ___, the critics are right. | extent ; degree of ; part | extent | to some extent = ở một mức độ nào đó.
+## dialogue
+title: Tranh luận về chỉnh sửa gen
+setting: Hai nghiên cứu sinh trao đổi sau buổi seminar.
+line: A | Phương | Gene editing could potentially cure hundreds of genetic diseases. I think it's one of the greatest breakthroughs in history. | Chỉnh sửa gen có tiềm năng chữa hàng trăm bệnh di truyền. Tôi nghĩ đó là một trong những bước đột phá vĩ đại nhất lịch sử.
+line: B | Marcus | I agree it's promising. However, the ethical implications are enormous. Where do we draw the line? | Tôi đồng ý nó đầy hứa hẹn. Tuy nhiên, hệ quả đạo đức là vô cùng lớn. Chúng ta đặt giới hạn ở đâu?
+line: A | Phương | You mean "designer babies"? | Ý anh là "em bé thiết kế"?
+line: B | Marcus | Exactly. If parents can choose their children's intelligence or appearance, it may lead to new forms of inequality. | Chính xác. Nếu cha mẹ có thể chọn trí thông minh hay ngoại hình cho con, điều đó có thể dẫn đến những dạng bất bình đẳng mới.
+line: A | Phương | That's a fair concern. But it seems unlikely that governments would allow that without strict regulation. | Đó là mối lo hợp lý. Nhưng có vẻ khó có khả năng chính phủ cho phép điều đó mà không có quy định chặt chẽ.
+line: B | Marcus | Perhaps. Just because we can do something doesn't mean we should. | Có lẽ vậy. Có thể làm không có nghĩa là nên làm.
+q: What does Phuong think gene editing could do? | create designer babies ; cure many genetic diseases ; replace doctors | cure many genetic diseases
+q: What is Marcus worried about? | the cost of research ; new forms of inequality ; the speed of computers | new forms of inequality
+## reading
+title: Who should control AI?
+text: Artificial intelligence is developing at an unprecedented pace, raising profound ethical questions. Some experts argue that AI could bring enormous benefits, from earlier disease detection to more efficient energy use. Others warn that, without proper regulation, it may be used to manipulate public opinion or to make important decisions without human oversight. One central dilemma is accountability: if an AI system makes a harmful mistake, it is not entirely clear who should be held responsible. Most researchers appear to agree that international cooperation is needed, although there is considerable disagreement about how strict such rules should be.
+vi: Trí tuệ nhân tạo đang phát triển với tốc độ chưa từng có, đặt ra những câu hỏi đạo đức sâu sắc. Một số chuyên gia lập luận rằng AI có thể mang lại lợi ích to lớn, từ phát hiện bệnh sớm hơn đến sử dụng năng lượng hiệu quả hơn. Những người khác cảnh báo rằng, nếu không có quy định phù hợp, nó có thể bị dùng để thao túng dư luận hoặc đưa ra quyết định quan trọng mà không có sự giám sát của con người. Một tình thế khó xử trọng tâm là trách nhiệm giải trình: nếu một hệ thống AI gây ra sai lầm có hại, không hoàn toàn rõ ai phải chịu trách nhiệm. Hầu hết các nhà nghiên cứu dường như đồng ý rằng cần có hợp tác quốc tế, dù còn nhiều bất đồng về mức độ nghiêm ngặt của các quy định như vậy.
+q: What could AI be used for without proper regulation? | to manipulate public opinion ; to cure all diseases ; to create jobs | to manipulate public opinion
+q: What do most researchers appear to agree on? | AI should be banned ; International cooperation is needed ; Rules should be very strict | International cooperation is needed
+
+# UNIT c1-u7
+title: Nghệ thuật & Văn học
+titleEn: Art & Literature
+emoji: 🎭
+goal: Bình luận tác phẩm nghệ thuật với kết hợp từ (collocation) tự nhiên.
+## words
+metaphor | /ˈmet̬.ə.fɔːr/ | noun | phép ẩn dụ | "Life is a journey" is a common metaphor. | "Cuộc đời là một hành trình" là một phép ẩn dụ phổ biến.
+aesthetic | /esˈθet̬.ɪk/ | adj | (thuộc) thẩm mỹ | The building has great aesthetic value. | Tòa nhà có giá trị thẩm mỹ lớn.
+masterpiece | /ˈmæs.tɚ.piːs/ | noun | kiệt tác | The Tale of Kieu is a masterpiece of Vietnamese literature. | Truyện Kiều là kiệt tác của văn học Việt Nam.
+depict | /dɪˈpɪkt/ | verb | miêu tả, khắc họa | The painting depicts life in a fishing village. | Bức tranh khắc họa cuộc sống ở một làng chài.
+evoke | /ɪˈvoʊk/ | verb | gợi lên | The song evokes memories of my childhood. | Bài hát gợi lên ký ức tuổi thơ của tôi.
+genre | /ˈʒɑːn.rə/ | noun | thể loại | Science fiction is my favourite genre. | Khoa học viễn tưởng là thể loại tôi yêu thích. | Gốc tiếng Pháp.
+narrative | /ˈner.ə.t̬ɪv/ | noun | lối kể chuyện, câu chuyện | The film has a powerful narrative. | Bộ phim có cách kể chuyện mạnh mẽ.
+critique | /krɪˈtiːk/ | noun | bài phê bình | She wrote a detailed critique of the novel. | Cô ấy viết một bài phê bình chi tiết về cuốn tiểu thuyết.
+abstract | /ˈæb.strækt/ | adj | trừu tượng | I don't really understand abstract art. | Tôi không thực sự hiểu nghệ thuật trừu tượng.
+vivid | /ˈvɪv.ɪd/ | adj | sống động | The author gives a vivid description of the war. | Tác giả miêu tả cuộc chiến một cách sống động.
+symbolism | /ˈsɪm.bəl.ɪ.zəm/ | noun | tính biểu tượng | The novel is full of religious symbolism. | Cuốn tiểu thuyết đầy tính biểu tượng tôn giáo.
+protagonist | /proʊˈtæɡ.ən.ɪst/ | noun | nhân vật chính | The protagonist is a young girl searching for her mother. | Nhân vật chính là một cô gái trẻ đi tìm mẹ.
+## phrases
+Beauty is in the eye of the beholder. | Vẻ đẹp nằm trong mắt người nhìn.
+It left me speechless. | Nó khiến tôi không nói nên lời.
+It really struck a chord with me. | Nó thực sự chạm đến trái tim tôi.
+Art imitates life. | Nghệ thuật mô phỏng cuộc sống.
+It's not my cup of tea. | Đó không phải gu của tôi.
+## grammar
+title: Kết hợp từ nâng cao (Collocations)
+summary: Collocation là những từ "hay đi cùng nhau" một cách tự nhiên theo thói quen của người bản xứ. Dùng đúng collocation là yếu tố then chốt giúp tiếng Anh nghe tự nhiên và đạt điểm cao ở tiêu chí Lexical Resource.
+formula: Động từ + danh từ: make a decision, do research, pay attention, draw a conclusion, raise awareness
+formula: Tính từ + danh từ: heavy rain, strong coffee, a vivid description, a powerful narrative, a fierce debate
+formula: Trạng từ + tính từ: highly recommended, deeply moving, bitterly disappointed, widely acclaimed
+formula: Động từ + trạng từ: strongly believe, deeply regret, vaguely remember
+point: make hay do? | make: tạo ra cái mới (make a decision, make progress, make an effort, make a mistake). do: thực hiện hoạt động / công việc (do research, do homework, do damage, do your best).
+point: Tính từ chỉ mức độ | Người bản xứ nói heavy rain (không nói strong rain), strong wind, heavy traffic, high price, deep sleep.
+point: Collocation trong nghệ thuật | widely acclaimed (được hoan nghênh rộng rãi), critically acclaimed, deeply moving, a stunning performance, capture the essence of.
+point: Học theo cụm | Khi học từ mới, hãy ghi cả cụm đi kèm: evoke + memories / emotions; depict + a scene; convey + a message.
+example: The film received widely positive reviews. | Bộ phim nhận được đánh giá tích cực rộng rãi.
+example: Her performance was deeply moving. | Màn trình diễn của cô ấy vô cùng cảm động.
+example: The novel raises awareness of social inequality. | Cuốn tiểu thuyết nâng cao nhận thức về bất bình đẳng xã hội.
+example: The painter captures the essence of rural life. | Họa sĩ nắm bắt được cái hồn của cuộc sống nông thôn.
+mistake: I did a mistake in my essay. | I made a mistake in my essay. | make a mistake.
+mistake: There was strong rain last night. | There was heavy rain last night. | heavy rain.
+mistake: The book is high recommended. | The book is highly recommended. | Trạng từ highly bổ nghĩa cho V3.
+ex: The critics ___ the conclusion that the film was a masterpiece. | made ; drew ; did | drew | draw a conclusion.
+ex: She ___ a lot of research before writing the novel. | made ; did ; took | did | do research.
+ex: The documentary aims to ___ awareness of climate change. | rise ; raise ; grow | raise | raise awareness.
+ex: His latest book has been ___ acclaimed by critics. | widely ; largely ; hugely big | widely | widely acclaimed.
+ex: The final scene was ___ moving. | deeply ; heavily ; strongly | deeply | deeply moving.
+ex: We had to drive slowly because of the ___ rain. | strong ; heavy ; big | heavy | heavy rain.
+ex: I ___ regret not visiting the exhibition. | deeply ; highly ; heavily | deeply | deeply regret.
+## dialogue
+title: Bàn về một bộ phim
+setting: Hai người bạn vừa xem phim xong.
+line: A | Ngân | So, what did you think of the film? | Bạn thấy bộ phim thế nào?
+line: B | Tom | Honestly, it left me speechless. The cinematography was stunning, and the narrative was incredibly powerful. | Thật lòng, nó khiến mình không nói nên lời. Phần quay phim tuyệt đẹp và lối kể chuyện vô cùng mạnh mẽ.
+line: A | Ngân | I agree. The protagonist's journey really struck a chord with me. It evoked memories of my grandmother. | Mình đồng ý. Hành trình của nhân vật chính thực sự chạm đến mình. Nó gợi lại ký ức về bà mình.
+line: B | Tom | Did you notice the symbolism of the river? It seemed to represent time passing. | Bạn có để ý tính biểu tượng của dòng sông không? Nó dường như tượng trưng cho thời gian trôi.
+line: A | Ngân | Yes! Some critics found the ending too abstract, though. | Có! Tuy nhiên một số nhà phê bình thấy cái kết quá trừu tượng.
+line: B | Tom | Art is subjective. Beauty is in the eye of the beholder. I'd highly recommend it to anyone. | Nghệ thuật mang tính chủ quan. Vẻ đẹp nằm trong mắt người nhìn. Mình rất khuyên mọi người nên xem.
+q: What did the protagonist's journey remind Ngan of? | her grandmother ; her childhood home ; a river trip | her grandmother
+q: What did some critics think about the ending? | It was too abstract ; It was too happy ; It was too long | It was too abstract
+## reading
+title: Why do we need stories?
+text: Since the dawn of humanity, people have told stories – around fires, in paintings on cave walls, and now through films and social media. Scientists suggest that storytelling may have helped our ancestors survive by passing on vital knowledge and strengthening social bonds. When we read a vivid narrative, our brains react as if we were experiencing the events ourselves, which explains why fiction can evoke such powerful emotions. Moreover, research indicates that people who read literary fiction tend to show greater empathy. In a world increasingly dominated by data, stories remain one of the most effective ways to convey meaning.
+vi: Từ buổi bình minh của nhân loại, con người đã kể chuyện – quanh đống lửa, trong những bức vẽ trên vách hang động, và giờ đây qua phim ảnh và mạng xã hội. Các nhà khoa học cho rằng kể chuyện có thể đã giúp tổ tiên chúng ta sinh tồn bằng cách truyền lại kiến thức quan trọng và thắt chặt gắn kết xã hội. Khi đọc một câu chuyện sống động, não bộ phản ứng như thể chính chúng ta đang trải qua các sự kiện đó, điều này giải thích vì sao văn chương có thể gợi lên những cảm xúc mạnh mẽ đến vậy. Hơn nữa, nghiên cứu chỉ ra rằng những người đọc tiểu thuyết văn học thường thể hiện sự thấu cảm cao hơn. Trong một thế giới ngày càng bị dữ liệu chi phối, câu chuyện vẫn là một trong những cách hiệu quả nhất để truyền tải ý nghĩa.
+q: How may storytelling have helped our ancestors? | by entertaining children ; by passing on knowledge and strengthening bonds ; by making them rich | by passing on knowledge and strengthening bonds
+q: What does research say about readers of literary fiction? | They tend to show greater empathy ; They are more intelligent ; They prefer films | They tend to show greater empathy
+
+# UNIT c1-u8
+title: Lãnh đạo & Đàm phán
+titleEn: Leadership & Negotiation
+emoji: 🤝
+goal: Đàm phán, viết email trang trọng với câu điều kiện đảo ngữ.
+## words
+leverage | /ˈlev.ɚ.ɪdʒ/ | verb | tận dụng (lợi thế) | We should leverage our strong brand to enter new markets. | Chúng ta nên tận dụng thương hiệu mạnh để thâm nhập thị trường mới. | Danh từ leverage = đòn bẩy, lợi thế.
+consensus | /kənˈsen.səs/ | noun | sự đồng thuận | The team finally reached a consensus. | Cuối cùng nhóm đã đạt được sự đồng thuận.
+delegate | /ˈdel.ə.ɡeɪt/ | verb | ủy quyền, giao việc | Good managers know how to delegate tasks. | Quản lý giỏi biết cách giao việc. | Danh từ đọc /-ɡət/ = đại biểu.
+mediate | /ˈmiː.di.eɪt/ | verb | hòa giải, làm trung gian | A neutral party was asked to mediate the dispute. | Một bên trung lập được mời hòa giải tranh chấp.
+concession | /kənˈseʃ.ən/ | noun | sự nhượng bộ | Both sides had to make concessions. | Cả hai bên đều phải nhượng bộ. | make a concession.
+diplomatic | /ˌdɪp.ləˈmæt̬.ɪk/ | adj | khéo léo, ngoại giao | She gave a diplomatic answer to avoid conflict. | Cô ấy trả lời khéo léo để tránh xung đột.
+assertive | /əˈsɝː.t̬ɪv/ | adj | quả quyết, dám khẳng định | You need to be more assertive in meetings. | Bạn cần quả quyết hơn trong các cuộc họp. | assertive (tích cực) ≠ aggressive (hung hăng).
+stakeholder | /ˈsteɪkˌhoʊl.dɚ/ | noun | bên liên quan | All stakeholders must be consulted. | Tất cả các bên liên quan phải được tham vấn.
+vision | /ˈvɪʒ.ən/ | noun | tầm nhìn | A leader needs a clear vision for the future. | Nhà lãnh đạo cần có tầm nhìn rõ ràng cho tương lai.
+accountable | /əˈkaʊn.t̬ə.bəl/ | adj | chịu trách nhiệm giải trình | Leaders must be held accountable for their decisions. | Nhà lãnh đạo phải chịu trách nhiệm về các quyết định của mình.
+persuasive | /pɚˈsweɪ.sɪv/ | adj | có sức thuyết phục | He made a persuasive argument for the new plan. | Anh ấy đưa ra lập luận đầy thuyết phục cho kế hoạch mới.
+initiative | /ɪˈnɪʃ.ə.t̬ɪv/ | noun | sáng kiến; tính chủ động | She took the initiative and solved the problem herself. | Cô ấy chủ động tự giải quyết vấn đề. | take the initiative = chủ động.
+## phrases
+Let's meet halfway. | Chúng ta mỗi bên nhường một bước nhé.
+That's a deal-breaker. | Đó là điều kiện không thể chấp nhận.
+Let's put our cards on the table. | Hãy thẳng thắn với nhau.
+I'm open to suggestions. | Tôi sẵn sàng lắng nghe đề xuất.
+We have a lot of common ground. | Chúng ta có nhiều điểm chung.
+## grammar
+title: Đảo ngữ câu điều kiện (Should you..., Were I..., Had we...)
+summary: Trong văn phong trang trọng (email công việc, đàm phán, hợp đồng), câu điều kiện thường được đảo ngữ bằng cách bỏ if và đưa should / were / had lên đầu câu.
+formula: Loại 1: Should + S + V, ... (Should you need help, please contact me.)
+formula: Loại 2: Were + S + to V / Were + S + ..., ... (Were we to accept, we would lose money.)
+formula: Loại 3: Had + S + (not) + V3, ... (Had I known, I would have acted differently.)
+formula: Phủ định: Should you not..., Were it not for..., Had we not...
+point: Should – lịch sự trong email | Should you have any questions, please do not hesitate to contact me. (Nếu anh / chị có câu hỏi nào...)
+point: Were – giả định trang trọng | Were I in your position, I would accept the offer. / Were they to lower the price, we would sign today.
+point: Had – giả định quá khứ | Had we started negotiations earlier, we could have reached a better deal.
+point: Were it not for / Had it not been for | = Nếu không có...: Were it not for her leadership, the project would fail. / Had it not been for his help, we would have lost the contract.
+example: Should the client agree, we will start the project next week. | Nếu khách hàng đồng ý, chúng tôi sẽ bắt đầu dự án tuần tới.
+example: Were I the CEO, I would delegate more responsibility. | Nếu tôi là CEO, tôi sẽ giao nhiều trách nhiệm hơn.
+example: Had they made a concession, the deal would have been signed. | Nếu họ nhượng bộ, thỏa thuận đã được ký.
+example: Were it not for your support, we couldn't succeed. | Nếu không nhờ sự ủng hộ của bạn, chúng tôi không thể thành công.
+mistake: Should you will need help, call me. | Should you need help, call me. | Sau should dùng V nguyên mẫu.
+mistake: Had I know, I would have come. | Had I known, I would have come. | Had + V3.
+mistake: If had I known, I would have helped. | Had I known, I would have helped. | Đảo ngữ thì bỏ if.
+ex: ___ you have any questions, please contact our team. | Should ; Would ; Had | Should | Loại 1 đảo ngữ: Should + S + V.
+ex: ___ I in your position, I would accept the offer. | Was ; Were ; Had | Were | Loại 2 đảo ngữ: Were + S.
+ex: ___ we known about the problem, we would have acted sooner. | Should ; Were ; Had | Had | Loại 3 đảo ngữ: Had + S + V3.
+ex: Should the price ___, we will reconsider. | drops ; drop ; dropped | drop | Should + S + V nguyên mẫu.
+ex: Were they ___ the deal, we would lose our biggest client. | cancel ; to cancel ; cancelled | to cancel | Were + S + to V.
+ex: Had it not ___ for her initiative, the project would have failed. | been ; be ; being | been | Had it not been for...
+ex: ___ it not for his diplomatic skills, the negotiations would collapse. | Were ; Had ; Should | Were | Were it not for... (hiện tại).
+## dialogue
+title: Đàm phán hợp đồng
+setting: Nhà cung cấp và bên mua đàm phán hợp đồng.
+line: A | Mr. Thắng | We understand your concerns about the price. However, our quality is the best on the market. | Chúng tôi hiểu những băn khoăn của quý vị về giá. Tuy nhiên, chất lượng của chúng tôi là tốt nhất thị trường.
+line: B | Ms. Rivera | I don't doubt that. But were we to accept this price, our profit margin would be too small. | Tôi không nghi ngờ điều đó. Nhưng nếu chúng tôi chấp nhận mức giá này, biên lợi nhuận của chúng tôi sẽ quá thấp.
+line: A | Mr. Thắng | I see. Let's put our cards on the table. What price would work for you? | Tôi hiểu. Hãy thẳng thắn với nhau. Mức giá nào phù hợp với quý vị?
+line: B | Ms. Rivera | Ten percent lower. Should you agree, we'd be happy to sign a three-year contract. | Thấp hơn mười phần trăm. Nếu ông đồng ý, chúng tôi sẵn lòng ký hợp đồng ba năm.
+line: A | Mr. Thắng | A three-year contract is attractive. Let's meet halfway: a five percent discount and free delivery. | Hợp đồng ba năm rất hấp dẫn. Chúng ta mỗi bên nhường một bước nhé: giảm năm phần trăm và miễn phí vận chuyển.
+line: B | Ms. Rivera | That sounds like a fair compromise. I'll need to consult our stakeholders, but I'm optimistic. | Nghe như một sự thỏa hiệp hợp lý. Tôi cần tham vấn các bên liên quan, nhưng tôi lạc quan.
+line: A | Mr. Thắng | Excellent. Should you need any further information, please don't hesitate to contact me. | Tuyệt vời. Nếu quý vị cần thêm thông tin, xin đừng ngần ngại liên hệ với tôi.
+q: What does Ms. Rivera offer if the supplier lowers the price? | a one-year contract ; a three-year contract ; free delivery | a three-year contract
+q: What compromise does Mr. Thang suggest? | a ten percent discount ; a five percent discount and free delivery ; no discount | a five percent discount and free delivery
+## reading
+title: Leading without authority
+text: Traditionally, leadership was associated with a title: managers gave orders and employees followed them. Today, however, many organisations rely on people who lead without formal authority. These individuals take the initiative, build consensus among colleagues and influence decisions through persuasive communication rather than power. Research suggests that such leaders tend to share several qualities: a clear vision, the ability to listen to different stakeholders, and the willingness to be held accountable for results. Were companies to recognise and reward this kind of leadership more often, experts argue, they would become more innovative and resilient.
+vi: Theo truyền thống, lãnh đạo gắn liền với chức danh: quản lý ra lệnh và nhân viên làm theo. Tuy nhiên ngày nay, nhiều tổ chức dựa vào những người lãnh đạo mà không có quyền lực chính thức. Những cá nhân này chủ động, xây dựng sự đồng thuận giữa các đồng nghiệp và tác động đến quyết định bằng giao tiếp thuyết phục thay vì quyền lực. Nghiên cứu cho thấy những người lãnh đạo như vậy thường có chung một số phẩm chất: tầm nhìn rõ ràng, khả năng lắng nghe các bên liên quan khác nhau và sẵn sàng chịu trách nhiệm về kết quả. Các chuyên gia cho rằng nếu các công ty ghi nhận và khen thưởng kiểu lãnh đạo này thường xuyên hơn, họ sẽ trở nên sáng tạo và kiên cường hơn.
+q: How do people who "lead without authority" influence decisions? | through power ; through persuasive communication ; through money | through persuasive communication
+q: What would happen if companies rewarded this leadership more? | They would become more innovative and resilient ; They would need fewer managers ; They would earn less | They would become more innovative and resilient

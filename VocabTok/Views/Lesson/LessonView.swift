@@ -2,11 +2,12 @@ import SwiftUI
 
 struct LessonView: View {
     @StateObject private var vm: LessonViewModel
+    @EnvironmentObject private var router: Router
     @Environment(\.dismiss) private var dismiss
     @State private var confirmExit = false
 
-    init(mode: LessonMode, store: ProgressStore) {
-        _vm = StateObject(wrappedValue: LessonViewModel(mode: mode, store: store))
+    init(kind: SessionKind, store: ProgressStore) {
+        _vm = StateObject(wrappedValue: LessonViewModel(kind: kind, store: store))
     }
 
     var body: some View {
@@ -14,8 +15,10 @@ struct LessonView: View {
             Theme.background.ignoresSafeArea()
 
             if vm.finished {
-                LessonCompleteView(vm: vm) { dismiss() }
-                    .transition(.opacity.combined(with: .scale(scale: 0.95)))
+                LessonCompleteView(vm: vm, onDone: close, onRetry: retry)
+                    .transition(.opacity.combined(with: .scale(scale: 0.96)))
+            } else if vm.isEmpty {
+                emptyState
             } else if let ex = vm.current {
                 VStack(spacing: 0) {
                     topBar
@@ -31,39 +34,53 @@ struct LessonView: View {
                     .clipped()
 
                     if vm.state != .answering {
-                        FeedbackPanel(exercise: ex, correct: vm.state == .correct, xpGain: vm.lastXPGain) {
+                        FeedbackPanel(exercise: ex, correct: vm.state == .correct, xpGain: vm.lastXPGain, note: vm.feedbackNote) {
                             vm.advance()
                         }
                         .transition(.move(edge: .bottom).combined(with: .opacity))
                     }
                 }
-            } else {
-                emptyState
             }
         }
+        .onAppear { vm.autoSpeakCurrent() }
         .alert("Thoát bài học?", isPresented: $confirmExit) {
             Button("Học tiếp", role: .cancel) {}
-            Button("Thoát", role: .destructive) {
-                SpeechManager.shared.stop()
-                dismiss()
-            }
+            Button("Thoát", role: .destructive) { close() }
         } message: {
             Text("Tiến độ của bài này sẽ không được lưu.")
         }
     }
 
+    private func close() {
+        SpeechManager.shared.stop()
+        dismiss()
+    }
+
+    private func retry() {
+        let kind = vm.kind
+        close()
+        DispatchQueue.main.asyncAfter(deadline: .now() + 0.6) { router.start(kind) }
+    }
+
     private var topBar: some View {
         HStack(spacing: 14) {
             Button {
-                confirmExit = true
+                if vm.answeredCount == 0 && vm.index == 0 { close() } else { confirmExit = true }
             } label: {
                 Image(systemName: "xmark")
                     .font(.system(size: 17, weight: .bold))
                     .foregroundColor(Theme.textSecondary)
                     .frame(width: 36, height: 36)
             }
-            CapsuleProgressBar(progress: vm.progress, color: Theme.success, height: 14)
-            ComboBadge(combo: vm.combo)
+            CapsuleProgressBar(progress: vm.progress, color: vm.isTest ? Theme.warning : Theme.success, height: 14)
+            if vm.isTest {
+                Image(systemName: "crown.fill")
+                    .foregroundStyle(Theme.goldGradient)
+                    .font(.system(size: 18, weight: .bold))
+                    .frame(minWidth: 36)
+            } else {
+                ComboBadge(combo: vm.combo)
+            }
         }
         .padding(.horizontal, 16)
         .padding(.top, 8)
@@ -72,30 +89,47 @@ struct LessonView: View {
 
     @ViewBuilder
     private func exerciseView(_ ex: Exercise) -> some View {
-        switch ex.kind {
-        case .intro:
-            IntroCardView(word: ex.word) { vm.acknowledgeIntro() }
-        case .spell:
-            SpellExerciseView(exercise: ex, state: vm.state) { vm.submit($0) }
-        default:
-            ChoiceExerciseView(exercise: ex, state: vm.state, selected: vm.selected) { vm.submit($0) }
+        switch ex.content {
+        case .intro(let word):
+            IntroCardView(word: word) { vm.acknowledge() }
+        case .choice(let data):
+            ChoiceExerciseView(data: data, state: vm.state, selected: vm.selected) { vm.submit($0) }
+        case .spell(let word, let tiles):
+            SpellExerciseView(word: word, tiles: tiles, state: vm.state) { vm.submit($0) }
+        case .type(let data):
+            TypeExerciseView(data: data, state: vm.state) { vm.submit($0) }
+        case .build(let data):
+            BuildSentenceView(data: data, state: vm.state) { vm.submit($0) }
+        case .match(let pairs):
+            MatchPairsView(pairs: pairs) { vm.completeMatch(mistakenIds: $0) }
+        case .speak(let data):
+            SpeakExerciseView(data: data, state: vm.state, onResult: { passed, score in
+                vm.submitSpeech(passed: passed, score: score)
+            }, onSkip: { pauseAll in
+                vm.skipSpeaking(pauseAll: pauseAll)
+            })
+        case .grammarIntro(let grammar):
+            GrammarIntroView(grammar: grammar) { vm.acknowledge() }
+        case .dialogueIntro(let dialogue):
+            DialogueIntroView(dialogue: dialogue) { vm.acknowledge() }
+        case .readingIntro(let reading):
+            ReadingIntroView(reading: reading) { vm.acknowledge() }
         }
     }
 
     private var emptyState: some View {
         VStack(spacing: 16) {
-            Text("🎉").font(.system(size: 64))
-            Text("Bạn đã học hết từ vựng!")
-                .font(.system(size: 22, weight: .heavy, design: .rounded))
-                .foregroundColor(Theme.textPrimary)
-            Button("Quay lại") { dismiss() }
+            Spacer()
+            EmptyStateView(emoji: "🌱", title: "Chưa có gì để luyện", message: "Hãy học vài bài trên lộ trình trước, từ vựng sẽ tự động được đưa vào đây để ôn tập.")
+            Button("Quay lại", action: close)
                 .buttonStyle(BigButtonStyle())
                 .padding(.horizontal, 40)
+            Spacer()
         }
     }
 }
 
-private struct ComboBadge: View {
+struct ComboBadge: View {
     let combo: Int
 
     var body: some View {
@@ -104,7 +138,7 @@ private struct ComboBadge: View {
             Text("\(combo)")
                 .contentTransition(.numericText())
         }
-        .font(.system(size: 15, weight: .heavy, design: .rounded))
+        .font(.rounded(15, .heavy))
         .foregroundColor(combo >= 2 ? Theme.flame : Theme.textSecondary.opacity(0.5))
         .scaleEffect(combo >= 2 ? 1.08 : 1)
         .animation(.spring(response: 0.3, dampingFraction: 0.5), value: combo)
@@ -112,13 +146,14 @@ private struct ComboBadge: View {
     }
 }
 
-private struct FeedbackPanel: View {
+struct FeedbackPanel: View {
     let exercise: Exercise
     let correct: Bool
     let xpGain: Int
+    let note: String?
     let onContinue: () -> Void
 
-    private let praises = ["Chính xác!", "Tuyệt vời!", "Giỏi quá!", "Xuất sắc!", "Quá đỉnh!"]
+    private static let praises = ["Chính xác!", "Tuyệt vời!", "Giỏi quá!", "Xuất sắc!", "Quá đỉnh!", "Hoàn hảo!", "Chuẩn luôn!"]
     @State private var praise = ""
 
     var body: some View {
@@ -128,11 +163,11 @@ private struct FeedbackPanel: View {
                 Image(systemName: correct ? "checkmark.circle.fill" : "xmark.circle.fill")
                     .font(.system(size: 28, weight: .bold))
                 Text(correct ? praise : "Chưa đúng rồi")
-                    .font(.system(size: 21, weight: .heavy, design: .rounded))
+                    .font(.rounded(21, .heavy))
                 Spacer()
-                if correct {
+                if correct && xpGain > 0 {
                     Text("+\(xpGain) XP")
-                        .font(.system(size: 15, weight: .heavy, design: .rounded))
+                        .font(.rounded(15, .heavy))
                         .padding(.horizontal, 10)
                         .padding(.vertical, 5)
                         .background(Capsule().fill(color.opacity(0.15)))
@@ -143,33 +178,44 @@ private struct FeedbackPanel: View {
             VStack(alignment: .leading, spacing: 4) {
                 if !correct {
                     Text("Đáp án đúng:")
-                        .font(.system(size: 13, weight: .semibold, design: .rounded))
+                        .font(.rounded(13, .semibold))
                         .foregroundColor(Theme.textSecondary)
                 }
-                HStack(spacing: 8) {
-                    Text(exercise.word.word)
-                        .font(.system(size: 18, weight: .heavy, design: .rounded))
+                HStack(alignment: .top, spacing: 8) {
+                    Text(exercise.solution)
+                        .font(.rounded(17, .heavy))
                         .foregroundColor(Theme.textPrimary)
-                    Text(exercise.word.ipa)
-                        .font(.system(size: 14))
-                        .foregroundColor(Theme.accent)
-                    Spacer()
-                    Button { SpeechManager.shared.speak(exercise.word.word) } label: {
-                        Image(systemName: "speaker.wave.2.fill").foregroundColor(color)
+                        .fixedSize(horizontal: false, vertical: true)
+                    Spacer(minLength: 0)
+                    if let audio = exercise.audio {
+                        Button { SpeechManager.shared.speak(audio) } label: {
+                            Image(systemName: "speaker.wave.2.fill")
+                                .foregroundColor(color)
+                                .padding(6)
+                        }
                     }
                 }
-                Text(exercise.word.vi)
-                    .font(.system(size: 15, weight: .medium, design: .rounded))
-                    .foregroundColor(Theme.textSecondary)
-                if !correct {
-                    Text("Đừng lo, từ này sẽ quay lại để bạn thử lần nữa 💪")
-                        .font(.system(size: 12, weight: .medium, design: .rounded))
+                if let detail = exercise.solutionDetail, !detail.isEmpty {
+                    Text(detail)
+                        .font(.rounded(14, .medium))
+                        .foregroundColor(Theme.textSecondary)
+                        .fixedSize(horizontal: false, vertical: true)
+                }
+                if let note {
+                    Text(note)
+                        .font(.rounded(13, .semibold))
+                        .foregroundColor(correct ? Theme.success : Theme.textSecondary)
+                        .padding(.top, 2)
+                } else if !correct && !exercise.isSpeaking {
+                    Text("Đừng lo, câu này sẽ quay lại để bạn thử lần nữa 💪")
+                        .font(.rounded(12, .medium))
                         .foregroundColor(Theme.textSecondary)
                         .padding(.top, 2)
                 }
             }
+            .frame(maxHeight: 190)
 
-            Button("Tiếp tục", action: onContinue)
+            Button(correct ? "Tiếp tục" : "Đã hiểu", action: onContinue)
                 .buttonStyle(BigButtonStyle(color: color))
         }
         .padding(20)
@@ -181,6 +227,6 @@ private struct FeedbackPanel: View {
                 .shadow(color: .black.opacity(0.12), radius: 20, y: -4)
                 .ignoresSafeArea(edges: .bottom)
         )
-        .onAppear { praise = praises.randomElement() ?? "Chính xác!" }
+        .onAppear { praise = FeedbackPanel.praises.randomElement() ?? "Chính xác!" }
     }
 }
