@@ -76,7 +76,7 @@ enum QuestBook {
             if !picks.contains(where: { $0.kind == candidate.kind }) {
                 picks.append(candidate)
             }
-            index += 3
+            index += 4
         }
         return picks
     }

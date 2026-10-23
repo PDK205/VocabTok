@@ -29,8 +29,12 @@ struct SessionOutcome {
 }
 
 final class ProgressStore: ObservableObject {
-    @Published private(set) var data: UserData
+    @Published private(set) var data: UserData {
+        didSet { currentLessonCache = nil }
+    }
 
+    /// `currentLesson` scans the whole path, so it is cached until the data changes.
+    private var currentLessonCache: Lesson??
     private let key = "vocabtok.userdata.v3"
     private let content = ContentStore.shared
 
@@ -160,10 +164,13 @@ final class ProgressStore: ObservableObject {
 
     /// The next lesson the learner should do.
     var currentLesson: Lesson? {
-        content.lessons.first { lesson in
+        if let cached = currentLessonCache { return cached }
+        let found = content.lessons.first { lesson in
             guard let unit = content.unit(id: lesson.unitId), unit.index >= data.startUnitIndex else { return false }
             return !isCompleted(lesson) && isUnlocked(lesson)
         }
+        currentLessonCache = .some(found)
+        return found
     }
 
     func completedCount(in unitId: String) -> Int {

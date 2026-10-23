@@ -91,6 +91,12 @@ final class SpeechManager: NSObject, AVSpeechSynthesizerDelegate {
         if let completion = completions.removeValue(forKey: key) {
             DispatchQueue.main.async { completion() }
         }
+        // Let background music return to full volume once we stop talking.
+        DispatchQueue.main.asyncAfter(deadline: .now() + 0.8) { [weak self] in
+            guard let self, !self.synthesizer.isSpeaking,
+                  AVAudioSession.sharedInstance().category == .playback else { return }
+            try? AVAudioSession.sharedInstance().setActive(false, options: .notifyOthersOnDeactivation)
+        }
     }
 
     func speechSynthesizer(_ synthesizer: AVSpeechSynthesizer, didCancel utterance: AVSpeechUtterance) {
