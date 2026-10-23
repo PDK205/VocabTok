@@ -150,7 +150,7 @@ enum TextMatch {
     }
 
     /// Typing check that forgives a small typo.
-    static func isClose(_ input: String, _ answer: String) -> (ok: Bool, exact: Bool) {
+    static func isClose(_ input: String, _ answer: String) -> (correct: Bool, exact: Bool) {
         let a = normalize(input), b = normalize(answer)
         if a == b { return (true, true) }
         let allowed = max(1, b.count / 12)
