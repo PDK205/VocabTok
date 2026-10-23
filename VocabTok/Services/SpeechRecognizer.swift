@@ -164,7 +164,7 @@ enum TextMatch {
         guard !target.isEmpty else { return (0, []) }
         var matched: [Bool] = []
         for word in target {
-            if let idx = heard.firstIndex(where: { $0 == word || (word.count > 3 && distance($0, word) <= 1) }) {
+            if let idx = heard.firstIndex(where: { $0 == word || (word.count >= 3 && distance($0, word) <= 1) }) {
                 matched.append(true)
                 heard.remove(at: idx)
             } else {
